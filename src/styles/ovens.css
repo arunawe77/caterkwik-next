@@ -276,3 +276,26 @@ body.showinc .ocard .price .inc { font-size: 20px; color: var(--ink); font-weigh
 .btn-ghostdark { background: transparent; color: #fff; border: 1px solid rgba(255,255,255,.35); }
 .btn-ghostdark:hover { border-color: #fff; }
 .vask { margin: 10px 0 0; font-size: 14px; }
+
+/* Product card motion. Transform, opacity and filter only, so it stays smooth. Hover effects apply only where there
+   is a pointer; base.css already switches every transition off for people who ask for reduced motion. */
+.ocard { overflow: hidden; transition: transform .28s cubic-bezier(.2,.7,.2,1), box-shadow .28s ease, border-color .2s ease; }
+.ocard::before { content: ""; position: absolute; inset: 0 0 auto 0; height: 3px; background: linear-gradient(90deg, var(--blue), var(--green));
+  transform: scaleX(0); transform-origin: left; transition: transform .35s cubic-bezier(.2,.7,.2,1); }
+.ocard .shot { overflow: hidden; border-radius: var(--r-md); }
+/* The photos are JPEGs on a white background, so a plain drop-shadow would outline the rectangle. The filter first
+   turns the near-white background transparent, then the shadow is cast from the product's own outline. A browser
+   that cannot apply it simply shows the photo without a shadow. */
+.ocard .photo { filter: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='c' x='0' y='0' width='1' height='1' color-interpolation-filters='sRGB'%3E%3CfeColorMatrix type='matrix' values='1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  -4.667 -4.667 -4.667 0 13.58' result='k'/%3E%3CfeComposite in='k' in2='SourceAlpha' operator='in'/%3E%3C/filter%3E%3C/svg%3E#c") drop-shadow(0 7px 7px rgba(8,37,70,.30));
+  transition: transform .45s cubic-bezier(.2,.7,.2,1), filter .35s ease; }
+.ocard .btn { transition: background-color .2s ease, color .2s ease, border-color .2s ease; }
+.ocard .btn svg { transition: transform .25s ease; }
+.ocard:focus-within { border-color: var(--blue); }
+.ocard:focus-within::before { transform: scaleX(1); }
+@media (hover: hover) {
+  .ocard:hover { transform: translateY(-5px); border-color: rgba(24,99,220,.45); box-shadow: var(--shadow-lg); }
+  .ocard:hover::before { transform: scaleX(1); }
+  .ocard:hover .photo { transform: scale(1.06); filter: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='c' x='0' y='0' width='1' height='1' color-interpolation-filters='sRGB'%3E%3CfeColorMatrix type='matrix' values='1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  -4.667 -4.667 -4.667 0 13.58' result='k'/%3E%3CfeComposite in='k' in2='SourceAlpha' operator='in'/%3E%3C/filter%3E%3C/svg%3E#c") drop-shadow(0 16px 12px rgba(8,37,70,.38)); }
+  .ocard:hover .btn { background: var(--navy); border-color: var(--navy); color: #fff; }
+  .ocard:hover .btn svg { transform: translateX(3px); }
+}
