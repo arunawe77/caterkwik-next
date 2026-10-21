@@ -11,3 +11,5 @@ for script in migrate-media mirror-images; do
     -e DATABASE_URL="postgresql://caterkwik:${DB_PASSWORD}@db:5432/caterkwik" \
     --entrypoint node app "scripts/${script}.mjs" --rewrite-db
 done
+# The site holds the catalogue in memory from startup, so restart it to show the relinked images.
+docker compose restart app
