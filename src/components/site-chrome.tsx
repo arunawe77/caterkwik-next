@@ -12,11 +12,11 @@ const PER_COLUMN = 7;
 const tel = `tel:${COMPANY.phone.replace(/\s/g, "")}`;
 const icon = { fill: "none", stroke: "currentColor", strokeWidth: 2 } as const;
 
-function Column({ column }: { column: NavNode }) {
-  const shown = column.children.slice(0, PER_COLUMN);
+function Column({ column, cap = PER_COLUMN }: { column: NavNode; cap?: number }) {
+  const shown = column.children.slice(0, cap);
   const more = column.children.length - shown.length;
   return (
-    <div className="mcol">
+    <div className={cap === Infinity ? "mcol flow" : "mcol"}>
       <strong>{column.href ? <Link href={column.href}>{column.label}</Link> : column.label}</strong>
       {shown.length > 0 && (
         <ul>
@@ -39,7 +39,13 @@ function DepartmentNav() {
           <div key={d.label} className="dept">
             <Link href={d.href} aria-haspopup="true">{d.label}</Link>
             <div className="mega">
-              <div className="mgrid">{d.columns.map((c) => <Column key={c.label + (c.href ?? "")} column={c} />)}</div>
+              <div className="mgrid">
+                {d.columns.filter((c) => c.children.length > 0).map((c) => <Column key={c.label + (c.href ?? "")} column={c} />)}
+                {/* Categories with nothing beneath them share one list, rather than each leaving a heading with a gap under it. */}
+                {d.columns.some((c) => c.children.length === 0) && (
+                  <Column cap={Infinity} column={{ label: `Also in ${d.label}`, count: 0, children: d.columns.filter((c) => c.children.length === 0) }} />
+                )}
+              </div>
               <Link className="mall" href={d.href}>Shop all {d.label.toLowerCase()}</Link>
             </div>
           </div>
