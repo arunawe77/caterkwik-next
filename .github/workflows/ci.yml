@@ -127,11 +127,11 @@ jobs:
             ./ "prod:${APP_DIR}/"
 
       - name: Back up the database, build, restart (rolls back if unhealthy)
-        run: ssh prod "cd ${APP_DIR} && ./deploy/pre-release-backup.sh && ./deploy/release.sh"
+        run: ssh prod "cd ${APP_DIR} && sh ./deploy/pre-release-backup.sh && sh ./deploy/release.sh"
 
       - name: Media sync
         if: ${{ github.event_name == 'workflow_dispatch' && inputs.sync_media }}
-        run: ssh prod "cd ${APP_DIR} && ./deploy/media-sync.sh"
+        run: ssh prod "cd ${APP_DIR} && sh ./deploy/media-sync.sh"
 
       - name: Smoke test the public site
         run: |
