@@ -1,0 +1,251 @@
+[
+ {
+  "id": "e512c",
+  "name": "Blue Seal E512C-B 300mm Electric Griddle Cooktop",
+  "brand": "Blue Seal",
+  "mpn": "E512C-B",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_E512C",
+  "known": {
+   "plate": "smooth",
+   "fuel": "electric",
+   "radiant": "radiant",
+   "thermostat": "true",
+   "tempRange": "50 - 320°C",
+   "splashback": "true",
+   "width": "300 mm",
+   "depth": "812 mm",
+   "height": "315 mm",
+   "electricKw": "3.4 kW",
+   "amps": "14.2 A",
+   "voltage": "240V",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "Stainless steel exterior"
+  }
+ },
+ {
+  "id": "ep514",
+  "name": "Blue Seal EP514 600mm Heavy Duty Electric Griddle",
+  "brand": "Blue Seal",
+  "mpn": "EP514",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_EP514",
+  "known": {
+   "cookingWidth": "600 mm",
+   "plate": "ribbed",
+   "fuel": "electric",
+   "thermostat": "true",
+   "tempRange": "50 - 300°C",
+   "splashback": "true",
+   "width": "600 mm",
+   "depth": "812 mm",
+   "height": "315 mm",
+   "electricKw": "7.2 kW",
+   "amps": "30 A",
+   "voltage": "240V",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "mkec36",
+  "name": "Magikitch'n MKE/C-36 36\" Inch Electric Chrome Griddle",
+  "brand": "Magikitchn",
+  "mpn": "MKE/C-36",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MKEC36",
+  "known": {
+   "plate": "chrome",
+   "fuel": "electric",
+   "thermostat": "true",
+   "tempRange": "95°C- 260°C",
+   "splashback": "true",
+   "width": "910 mm",
+   "depth": "803 mm",
+   "height": "643 mm",
+   "weight": "211 kg",
+   "electricKw": "17.1 kW",
+   "amps": "32 A",
+   "plug": "32A",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "ne1027",
+  "name": "Panasonic NE-1027 1000W Commercial Microwave",
+  "brand": "Panasonic",
+  "mpn": "NE-1027",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_NE1027",
+  "known": {
+   "timer": "timer",
+   "microwaveOutput": "1000 W",
+   "width": "510 mm",
+   "depth": "360 mm",
+   "height": "306 mm",
+   "weight": "17 kg",
+   "electricKw": "1 kW",
+   "amps": "13 A",
+   "plug": "13A - plug",
+   "warranty": "3 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "ne1037",
+  "name": "Panasonic NE-1037 1000W Commercial Microwave",
+  "brand": "Panasonic",
+  "mpn": "NE-1037",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_NE1037",
+  "known": {
+   "programs": "10",
+   "microwaveOutput": "1000 W",
+   "width": "510 mm",
+   "depth": "360 mm",
+   "height": "306 mm",
+   "weight": "17.8 kg",
+   "electricKw": "1 kW",
+   "amps": "13 A",
+   "plug": "13A - plug",
+   "warranty": "3 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "ne3280",
+  "name": "Panasonic NE-3280 3200W Sonic Steamer Microwave",
+  "brand": "Panasonic",
+  "mpn": "NE-3280",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_NE3280",
+  "known": {
+   "gnCapacity": "2x 1/1 gastronorm",
+   "humidity": "true",
+   "programs": "16",
+   "door": "Drop down door",
+   "microwaveOutput": "3200 W",
+   "width": "650 mm",
+   "depth": "526 mm",
+   "height": "471 mm",
+   "weight": "65 kg",
+   "electricKw": "5.22 kW",
+   "amps": "22.3 A",
+   "warranty": "3 years"
+  }
+ },
+ {
+  "id": "fs315",
+  "name": "Samsung FS315 1850W Commercial Manual Microwave 26Ltr",
+  "brand": "Samsung",
+  "mpn": "FS315",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FS315",
+  "known": {
+   "gnCapacity": "2/3GN",
+   "microwaveOutput": "1850 W",
+   "width": "464 mm",
+   "depth": "557 mm",
+   "height": "368 mm",
+   "weight": "32 kg",
+   "electricKw": "1.58 kW",
+   "voltage": "240V",
+   "plug": "13A plug",
+   "warranty": "3 years",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "bcm1800",
+  "name": "Blizzard BCM1800 1800W Commercial Microwave",
+  "brand": "Blizzard",
+  "mpn": "BCM1800",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BCM1800",
+  "known": {
+   "door": "glass door and a membrane digi",
+   "width": "570 mm",
+   "weight": "34.5 kg",
+   "electricKw": "1.8 kW",
+   "amps": "13 A",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "ne1880",
+  "name": "Panasonic NE-1880 Commercial 1800W Microwave",
+  "brand": "Panasonic",
+  "mpn": "NE-1880",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_NE1880",
+  "known": {
+   "gnCapacity": "2x 1/1 gastronorm",
+   "programs": "16",
+   "door": "Drop down door",
+   "microwaveOutput": "1800 W",
+   "width": "650 mm",
+   "depth": "526 mm",
+   "height": "471 mm",
+   "weight": "54 kg",
+   "electricKw": "1.88 kW",
+   "amps": "20 A",
+   "warranty": "3 years",
+   "finish": "Stainless steel body"
+  }
+ },
+ {
+  "id": "cpe926",
+  "name": "Giorik CPE926 Electric Pasta Boiler - 1/1GN",
+  "brand": "Giorik",
+  "mpn": "CPE926",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CPE926",
+  "known": {
+   "volume": "40 litres",
+   "fuel": "electric",
+   "tap": "true",
+   "width": "400 mm",
+   "depth": "900 mm",
+   "height": "860 mm",
+   "electricKw": "8.3 kW",
+   "voltage": "415V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cpe946",
+  "name": "Giorik CPE946 Twin Tank Electric Pasta Boiler - 1/1GN",
+  "brand": "Giorik",
+  "mpn": "CPE946",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CPE946",
+  "known": {
+   "volume": "40 litres",
+   "fuel": "electric",
+   "tap": "true",
+   "width": "800 mm",
+   "depth": "900 mm",
+   "height": "860 mm",
+   "electricKw": "18 kW",
+   "voltage": "415V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "fl14d",
+  "name": "Clifton Food Range FL14D 14 Litre Unstirred Digital Bath Sous Vide Machine",
+  "brand": "Clifton",
+  "mpn": "FL14D",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FL14D",
+  "known": {
+   "timer": "timer can be set between 1 minute and 99 hour",
+   "lowTemp": "true",
+   "width": "361 mm",
+   "depth": "332 mm",
+   "height": "290 mm",
+   "electricKw": "1 kW",
+   "amps": "13 A",
+   "voltage": "230v",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ }
+]

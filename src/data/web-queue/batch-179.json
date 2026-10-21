@@ -1,0 +1,253 @@
+[
+ {
+  "id": "ct70a",
+  "name": "Valera CT70A Countertop 2 Ring Induction Hob",
+  "brand": "Valera",
+  "mpn": "CT70A",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CT70A",
+  "known": {
+   "volume": "1.5 litres",
+   "fuel": "induction",
+   "zones": "2",
+   "width": "400 mm",
+   "depth": "735 mm",
+   "height": "195 mm",
+   "weight": "26 kg",
+   "electricKw": "7 kW",
+   "amps": "32 A",
+   "phase": "single",
+   "hardWired": "true",
+   "warranty": "3 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "6958303",
+  "name": "Vollrath Induction Wok With Carbon Steel Pan - 6958303",
+  "brand": "Vollrath",
+  "mpn": "6958303",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_6958303",
+  "known": {
+   "fuel": "induction",
+   "width": "432 mm",
+   "depth": "511 mm",
+   "height": "210 mm",
+   "electricKw": "3.5 kW",
+   "amps": "14.6 A",
+   "voltage": "230V, 50 HZ",
+   "plug": "Plug Supplied",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "391118",
+  "name": "Electrolux Professional 900XP 100 Litre Electric Boiling Pan - 391118",
+  "brand": "Electrolux",
+  "mpn": "391118",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_391118",
+  "known": {
+   "volume": "100 litres",
+   "fuel": "electric",
+   "heating": "indirect",
+   "tap": "true",
+   "width": "800 mm",
+   "depth": "930 mm",
+   "height": "850 mm",
+   "weight": "135 kg",
+   "electricKw": "21.5 kW",
+   "voltage": "400V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "391117",
+  "name": "Electrolux 900XP E9BSEHINF0 60 Ltr Electric Boiling Pan - 391233",
+  "brand": "Electrolux",
+  "mpn": "391233",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_391117",
+  "known": {
+   "volume": "60 litres",
+   "fuel": "electric",
+   "heating": "indirect",
+   "tap": "true",
+   "width": "800 mm",
+   "depth": "930 mm",
+   "height": "850 mm",
+   "weight": "115 kg",
+   "electricKw": "9.4 kW",
+   "voltage": "400V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ck70082",
+  "name": "Ozti CK70082 900 Series Electric 130 Litre Manual Tilt Bratt Pan",
+  "brand": "Cater-Cook",
+  "mpn": "CK70082",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK70082",
+  "known": {
+   "volume": "130 litres",
+   "fuel": "electric",
+   "tilting": "true",
+   "tap": "true",
+   "width": "1200 mm",
+   "depth": "900 mm",
+   "height": "850 mm",
+   "electricKw": "15 kW",
+   "voltage": "400V",
+   "phase": "three",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ck70081",
+  "name": "Ozti CK70081 900 Series 100 Litre Electric Bratt Pan - Manual Tilt",
+  "brand": "Cater-Cook",
+  "mpn": "7867.N1.10908.05",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK70081",
+  "known": {
+   "volume": "100 litres",
+   "fuel": "electric",
+   "tilting": "true",
+   "tap": "true",
+   "width": "1000 mm",
+   "depth": "900 mm",
+   "height": "850 mm",
+   "electricKw": "12 kW",
+   "voltage": "400V",
+   "phase": "three",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "bm9e",
+  "name": "Firex Easybratt Electric 90 Litre Manual Tilt Bratt Pan - BR9E090I",
+  "brand": "Firex",
+  "mpn": "BR9E090I",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BM9E",
+  "known": {
+   "volume": "90 litres",
+   "fuel": "electric",
+   "tilting": "true",
+   "tap": "true",
+   "width": "900 mm",
+   "depth": "900 mm",
+   "height": "900 mm",
+   "electricKw": "9.9 kW",
+   "voltage": "415V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ck70087",
+  "name": "Ozti 130 Litre CK70087 900 Series Manual Tilt Gas Bratt Pan",
+  "brand": "Cater-Cook",
+  "mpn": "CK70087",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK70087",
+  "known": {
+   "volume": "130 litres",
+   "fuel": "gas",
+   "tilting": "true",
+   "tap": "true",
+   "width": "1200 mm",
+   "depth": "900 mm",
+   "height": "850 mm",
+   "gasKw": "30 kW",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "gv470elm",
+  "name": "Arris GV470ELM Counter Top Electric Chargrill With Water Tray",
+  "brand": "Arris",
+  "mpn": "GV470ELM",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GV470ELM",
+  "known": {
+   "fuel": "electric",
+   "thermostat": "true",
+   "width": "420 mm",
+   "depth": "700 mm",
+   "height": "315 mm",
+   "electricKw": "5.2 kW",
+   "amps": "7.5 A",
+   "voltage": "230v",
+   "phase": "single",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "oe8406",
+  "name": "Lincat Opus 800 OE8406 Electric Chargrill",
+  "brand": "Lincat",
+  "mpn": "OE8406",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_OE8406",
+  "known": {
+   "cookingWidth": "900 mm",
+   "plate": "cast iron",
+   "fuel": "electric",
+   "radiant": "radiant",
+   "thermostat": "true",
+   "tempRange": "90°C to 300°C",
+   "width": "900 mm",
+   "depth": "800 mm",
+   "height": "415 mm",
+   "electricKw": "12.5 kW",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cgo900duale",
+  "name": "Synergy Grill CG0900DUALE Electric Chargrill Oven - CX889",
+  "brand": "Synergy Grill",
+  "mpn": "CGO900DUALE / CX889",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CGO900DUALE",
+  "known": {
+   "fuel": "electric",
+   "width": "905 mm",
+   "weight": "185 kg",
+   "electricKw": "10 kW",
+   "amps": "16 A",
+   "voltage": "400 V",
+   "phase": "three",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cg6n",
+  "name": "Lincat Silverlink 600 CG6 Gas Chargrill",
+  "brand": "Lincat",
+  "mpn": "CG6/N",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CG6N",
+  "known": {
+   "fuel": "gas",
+   "radiant": "lava rock",
+   "width": "600 mm",
+   "depth": "600 mm",
+   "height": "415 mm",
+   "weight": "41 kg",
+   "electricKw": "14.3 kW",
+   "gasConnection": "1/2 Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ }
+]

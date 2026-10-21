@@ -1,0 +1,246 @@
+[
+ {
+  "id": "e58012",
+  "name": "Blue Seal E580-12 Manual Tilt Electric Bratt Pan - 120L",
+  "brand": "Blue Seal",
+  "mpn": "E580-12",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_E58012",
+  "known": {
+   "volume": "120 litres",
+   "fuel": "electric",
+   "tilting": "true",
+   "width": "1200 mm",
+   "depth": "812 mm",
+   "height": "915 mm",
+   "weight": "220 kg",
+   "electricKw": "17 kW",
+   "amps": "23 A",
+   "voltage": "415V",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "Stainless steel exterior"
+  }
+ },
+ {
+  "id": "e58012e",
+  "name": "Blue Seal E580-12E Powered Tilt Electric Bratt Pan - 120 Litres",
+  "brand": "Blue Seal",
+  "mpn": "E580-12E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_E58012E",
+  "known": {
+   "volume": "120 litres",
+   "fuel": "electric",
+   "tilting": "true",
+   "width": "1200 mm",
+   "depth": "812 mm",
+   "height": "915 mm",
+   "weight": "220 kg",
+   "electricKw": "17 kW",
+   "amps": "23 A",
+   "voltage": "415V",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "Stainless steel exterior"
+  }
+ },
+ {
+  "id": "g5808",
+  "name": "Blue Seal G580-8 Manual Tilt Gas Bratt Pan",
+  "brand": "blue seal",
+  "mpn": "G580-8",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G5808",
+  "known": {
+   "volume": "80 litres",
+   "fuel": "gas",
+   "tilting": "true",
+   "width": "900 mm",
+   "depth": "812 mm",
+   "height": "915 mm",
+   "weight": "170 kg",
+   "gasKw": "20 kW",
+   "amps": "1 A",
+   "voltage": "240V",
+   "plug": "13A plug",
+   "warranty": "2 years",
+   "finish": "Stainless steel exterior"
+  }
+ },
+ {
+  "id": "g5808e",
+  "name": "Blue Seal G580-8E Powered Tilt Gas Bratt Pan",
+  "brand": "Blue Seal",
+  "mpn": "G580-8E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G5808E",
+  "known": {
+   "volume": "80 litres",
+   "fuel": "gas",
+   "tilting": "true",
+   "width": "900 mm",
+   "depth": "812 mm",
+   "height": "915 mm",
+   "weight": "170 kg",
+   "gasKw": "20 kW",
+   "amps": "1 A",
+   "voltage": "240V",
+   "plug": "13A plug",
+   "warranty": "2 years",
+   "finish": "Stainless steel exterior"
+  }
+ },
+ {
+  "id": "g58012",
+  "name": "Blue Seal G580-12 Manual Tilt Gas Bratt Pan",
+  "brand": "Blue Seal",
+  "mpn": "G580-12",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G58012",
+  "known": {
+   "volume": "120 litres",
+   "fuel": "gas",
+   "tilting": "true",
+   "width": "1200 mm",
+   "depth": "812 mm",
+   "height": "915 mm",
+   "weight": "205 kg",
+   "gasKw": "25 kW",
+   "amps": "1 A",
+   "voltage": "240V",
+   "plug": "13A plug",
+   "warranty": "2 years",
+   "finish": "Stainless steel exterior"
+  }
+ },
+ {
+  "id": "g58012e",
+  "name": "Blue Seal G580-12E Powered Tilt Gas Bratt Pan",
+  "brand": "Blue Seal",
+  "mpn": "G580-12E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G58012E",
+  "known": {
+   "volume": "120 litres",
+   "fuel": "gas",
+   "tilting": "true",
+   "width": "1200 mm",
+   "depth": "812 mm",
+   "height": "915 mm",
+   "weight": "205 kg",
+   "gasKw": "25 kW",
+   "amps": "1 A",
+   "voltage": "240V",
+   "plug": "13A plug",
+   "warranty": "2 years",
+   "finish": "Stainless steel exterior"
+  }
+ },
+ {
+  "id": "ck8324",
+  "name": "Cater-Cook CK8324 24\" Heavy Duty Gas Chargrill - 8.8kw Per Burner",
+  "brand": "Cater-Cook",
+  "mpn": "CK8324",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK8324",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "gas",
+   "radiant": "lava rock",
+   "width": "610 mm",
+   "depth": "700 mm",
+   "height": "385 mm",
+   "electricKw": "8.8 kW",
+   "gasConnection": "4\" Heavy Duty Gas Chargrill - 8",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "cgo600e",
+  "name": "Synergy Grill STCGO600E CharGo Electric Chargrill Oven",
+  "brand": "Synergy Grill",
+  "mpn": "STCGO600E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CGO600E",
+  "known": {
+   "cookingWidth": "380 mm",
+   "fuel": "electric",
+   "weight": "126 kg",
+   "electricKw": "6.7 kW",
+   "amps": "16 A",
+   "voltage": "400 V",
+   "phase": "three",
+   "warranty": "1 year",
+   "finish": "Stainless Steel Construction"
+  }
+ },
+ {
+  "id": "cgo900e",
+  "name": "Synergy Grill STCGO900E Electric Chargrill Oven - with Two Lids",
+  "brand": "Synergy Grill",
+  "mpn": "STCGO900E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CGO900E",
+  "known": {
+   "cookingWidth": "380 mm",
+   "fuel": "electric",
+   "weight": "200 kg",
+   "electricKw": "10 kW",
+   "amps": "16 A",
+   "voltage": "400 V",
+   "phase": "three",
+   "warranty": "1 year",
+   "finish": "Stainless Steel Construction"
+  }
+ },
+ {
+  "id": "g3425",
+  "name": "Falcon Dominator Plus G3425 Radiant Gas Chargrill",
+  "brand": "Falcon",
+  "mpn": "G3425",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G3425",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "gas",
+   "radiant": "radiant",
+   "width": "400 mm",
+   "depth": "770 mm",
+   "height": "455 mm",
+   "electricKw": "10.8 kW",
+   "gasConnection": "3/4\" Gashose required",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "g3925",
+  "name": "Falcon Dominator Plus G3925 Radiant Gas Chargrill",
+  "brand": "Falcon",
+  "mpn": "G3925",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G3925",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "gas",
+   "radiant": "radiant",
+   "width": "900 mm",
+   "depth": "770 mm",
+   "height": "455 mm",
+   "electricKw": "26.3 kW",
+   "gasConnection": "3/4\" BSP Gashose Connection",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "g9460",
+  "name": "Falcon F900 G9460 Gas Radiant Chargrill",
+  "brand": "Falcon",
+  "mpn": "G9460",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G9460",
+  "known": {
+   "cookingWidth": "800 mm",
+   "plate": "cast iron",
+   "fuel": "gas",
+   "burners": "1",
+   "radiant": "radiant",
+   "thermostat": "true",
+   "tempRange": "80 - 300°C",
+   "electricKw": "8.4 kW",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ }
+]

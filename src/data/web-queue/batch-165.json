@@ -1,0 +1,253 @@
+[
+ {
+  "id": "ag6h",
+  "name": "Parry AG6H 6 Hob Gas Boiling Top",
+  "brand": "Parry",
+  "mpn": "AG6H/P",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_AG6H",
+  "known": {
+   "fuel": "gas",
+   "heating": "direct",
+   "zones": "6",
+   "width": "900 mm",
+   "depth": "655 mm",
+   "height": "205 mm",
+   "weight": "24 kg",
+   "gasKw": "33.3 kW",
+   "gasConnection": "3/4 Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "g518b",
+  "name": "Blue Seal G518B 4 Burner/600mm Griddle Cooktop - Natural Gas",
+  "brand": "Blue Seal",
+  "mpn": "G518B",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G518B",
+  "known": {
+   "fuel": "gas",
+   "width": "1200 mm",
+   "depth": "812 mm",
+   "height": "315 mm",
+   "electricKw": "7 kW",
+   "gasKw": "40 kW",
+   "amps": "1.8 A",
+   "voltage": "240V",
+   "plug": "13A plug",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "1 year",
+   "finish": "Stainless steel exterior"
+  }
+ },
+ {
+  "id": "pgg7",
+  "name": "Parry PGG7 Gas Griddle",
+  "brand": "Parry",
+  "mpn": "PGG7",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PGG7",
+  "known": {
+   "fuel": "gas",
+   "thermostat": "true",
+   "width": "750 mm",
+   "depth": "700 mm",
+   "height": "355 mm",
+   "weight": "58 kg",
+   "gasKw": "7.09 kW",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "og8201n",
+  "name": "Lincat Opus 800 OG8201/N Natural Gas Griddle",
+  "brand": "Lincat",
+  "mpn": "OG8201/N",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_OG8201N",
+  "known": {
+   "cookingWidth": "600 mm",
+   "plate": "half ribbed",
+   "fuel": "gas",
+   "thermostat": "true",
+   "tempRange": "90°C - 280°C",
+   "width": "600 mm",
+   "depth": "800 mm",
+   "height": "535 mm",
+   "weight": "87 kg",
+   "electricKw": "15.5 kW",
+   "warranty": "2 years",
+   "finish": "Chrome"
+  }
+ },
+ {
+  "id": "og8201",
+  "name": "Lincat Opus 800 OG8201/P Gas Griddle - LPG",
+  "brand": "Lincat",
+  "mpn": "OG8201/P",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_OG8201",
+  "known": {
+   "cookingWidth": "600 mm",
+   "plate": "half ribbed",
+   "fuel": "gas",
+   "thermostat": "true",
+   "tempRange": "90°C - 280°C",
+   "width": "600 mm",
+   "depth": "800 mm",
+   "height": "535 mm",
+   "weight": "87 kg",
+   "electricKw": "15.5 kW",
+   "warranty": "2 years",
+   "finish": "Chrome"
+  }
+ },
+ {
+  "id": "g2532",
+  "name": "Falcon Dominator G3532/N Nat Gas Salamander Grill",
+  "brand": "Falcon",
+  "mpn": "G3532",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G2532",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "gas",
+   "width": "785 mm",
+   "depth": "330 mm",
+   "height": "350 mm",
+   "weight": "33 kg",
+   "electricKw": "7.4 kW",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel exterior"
+  }
+ },
+ {
+  "id": "g3532p",
+  "name": "Falcon Dominator G3532/P LPG Gas Salamander Grill",
+  "brand": "Falcon",
+  "mpn": "G3532/P",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G3532P",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "gas",
+   "width": "785 mm",
+   "depth": "330 mm",
+   "height": "350 mm",
+   "weight": "33 kg",
+   "electricKw": "7.4 kW",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel exterior"
+  }
+ },
+ {
+  "id": "cj753",
+  "name": "Buffalo CJ753 Salamander Grill",
+  "brand": "Buffalo",
+  "mpn": "CJ753",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CJ753",
+  "known": {
+   "thermostat": "true",
+   "width": "640 mm",
+   "depth": "360 mm",
+   "height": "292 mm",
+   "weight": "13.5 kg",
+   "electricKw": "3 kW",
+   "amps": "13 A",
+   "voltage": "240V",
+   "warranty": "2 years",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "1872",
+  "name": "Parry 1872 Electric Salamander Grill",
+  "brand": "Parry",
+  "mpn": "1872",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_1872",
+  "known": {
+   "cookingWidth": "420 mm",
+   "fuel": "electric",
+   "width": "605 mm",
+   "depth": "490 mm",
+   "height": "340 mm",
+   "weight": "23 kg",
+   "electricKw": "2.5 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "371193",
+  "name": "Electrolux Professional 700XP W400 Electric Polished Chrome Griddle - 371193",
+  "brand": "Electrolux",
+  "mpn": "371193",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_371193",
+  "known": {
+   "cookingWidth": "12 mm",
+   "plate": "chrome",
+   "fuel": "electric",
+   "thermostat": "true",
+   "tempRange": "120°C to 280°C",
+   "width": "400 mm",
+   "depth": "730 mm",
+   "height": "250 mm",
+   "weight": "40 kg",
+   "electricKw": "4.2 kW",
+   "voltage": "400V",
+   "phase": "three",
+   "warranty": "2 years",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "heftbe74al",
+  "name": "Hobart Ecomax 700 Series Electric Griddle on Open Cupboard - HEFTBE74AL",
+  "brand": "Hobart",
+  "mpn": "HEFTBE74AL",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HEFTBE74AL",
+  "known": {
+   "cookingWidth": "15 mm",
+   "plate": "smooth",
+   "fuel": "electric",
+   "thermostat": "true",
+   "width": "400 mm",
+   "depth": "730 mm",
+   "height": "850 mm",
+   "weight": "63 kg",
+   "electricKw": "5 kW",
+   "amps": "16 A",
+   "voltage": "400V, 50Hz",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "e516a",
+  "name": "Blue Seal E516A 900mm Electric Griddle Cooktop",
+  "brand": "Blue Seal",
+  "mpn": "E516A",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_E516A",
+  "known": {
+   "cookingWidth": "300 mm",
+   "plate": "smooth",
+   "fuel": "electric",
+   "radiant": "radiant",
+   "thermostat": "true",
+   "tempRange": "50 - 320°C",
+   "splashback": "true",
+   "width": "900 mm",
+   "depth": "812 mm",
+   "height": "315 mm",
+   "electricKw": "10.2 kW",
+   "amps": "15 A",
+   "voltage": "415V",
+   "plug": "13A plug",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "Stainless steel exterior"
+  }
+ }
+]

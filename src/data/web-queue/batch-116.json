@@ -1,0 +1,236 @@
+[
+ {
+  "id": "1862",
+  "name": "Parry 1862 Twin Tank Electric Countertop Fryer",
+  "brand": "Parry",
+  "mpn": "1862",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_1862",
+  "known": {
+   "tanks": "2",
+   "oilCapacity": "6.1 litres",
+   "chipOutput": "28 kg/hr",
+   "fuel": "electric",
+   "width": "600 mm",
+   "depth": "640 mm",
+   "height": "310 mm",
+   "weight": "18 kg",
+   "electricKw": "3 kW",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "fc377",
+  "name": "Buffalo FC377 Twin Tank Twin Basket 2x8Ltr Countertop Fryer with Timers 2x6kW",
+  "brand": "Buffalo",
+  "mpn": "FC377",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FC377",
+  "known": {
+   "tanks": "2",
+   "chipOutput": "17.2 kg/hr",
+   "fuel": "electric",
+   "computerControl": "digital",
+   "weight": "17 kg",
+   "electricKw": "6 kW",
+   "amps": "13 A",
+   "voltage": "240V",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "pl211h31g0",
+  "name": "FriFri Precision 211 Single Tank Fryer with Filtration",
+  "brand": "FRIFRI",
+  "mpn": "Precision 211",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PL211H31G0",
+  "known": {
+   "tanks": "1",
+   "filtration": "true",
+   "computerControl": "digital",
+   "width": "200 mm",
+   "depth": "650 mm",
+   "height": "994 mm",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "pl311l31g0",
+  "name": "FriFri Precision 311 Single Tank Fryer with Filtration",
+  "brand": "FriFri",
+  "mpn": "Precision 311",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PL311L31G0",
+  "known": {
+   "tanks": "1",
+   "filtration": "true",
+   "computerControl": "digital",
+   "width": "300 mm",
+   "depth": "650 mm",
+   "height": "994 mm",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "ifs50e",
+  "name": "Imperial IFS-50-E Pro Series Electric 23 Litre Single Tank Fryer",
+  "brand": null,
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_IFS50E",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "23 litres",
+   "fuel": "electric",
+   "thermostat": "93 - 204°C",
+   "computerControl": "electronic",
+   "width": "457 mm",
+   "depth": "889 mm",
+   "height": "864 mm",
+   "weight": "114 kg",
+   "amps": "43 A",
+   "voltage": "208V",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "sgh50fdff",
+  "name": "Pitco 23 Litre x 2, 2 VAT Gas Fryer with Filtration & Digital Controls",
+  "brand": "Pitco",
+  "mpn": "SGH50-FD/FF",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SGH50FDFF",
+  "known": {
+   "oilCapacity": "23 litres",
+   "filtration": "true",
+   "fuel": "gas",
+   "computerControl": "digital",
+   "width": "795 mm",
+   "depth": "762 mm",
+   "height": "1164 mm",
+   "weight": "350 kg",
+   "gasConnection": "1\" BSP Gas connection",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ft440",
+  "name": "Vito FT440 Oil Tester",
+  "brand": "Vito",
+  "mpn": "FT440",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FT440",
+  "known": {
+   "filtration": "true",
+   "width": "54 mm",
+   "depth": "22 mm",
+   "height": "304 mm",
+   "weight": "0.2 kg"
+  }
+ },
+ {
+  "id": "gt18",
+  "name": "Blue Seal Evolution Series GT18 - 400mm Single Pan Gas Fryer",
+  "brand": "Blue Seal",
+  "mpn": "GT18",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GT18",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "18 litres",
+   "chipOutput": "25 kg/hr",
+   "fuel": "gas",
+   "baskets": "2",
+   "thermostat": "100 – 190°C",
+   "drainValve": "mm drain valve",
+   "width": "400 mm",
+   "depth": "812 mm",
+   "height": "915 mm",
+   "weight": "57 kg",
+   "gasKw": "25 kW",
+   "finish": "Stainless steel exterior"
+  }
+ },
+ {
+  "id": "ifs40",
+  "name": "Imperial IFS-40 22 Litre Single Tank, Double Basket Freestanding Gas Fryer",
+  "brand": "Imperial",
+  "mpn": "IFS-40",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_IFS40",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "22 litres",
+   "fuel": "gas",
+   "thermostat": "93°c to 204°c",
+   "width": "394 mm",
+   "depth": "845 mm",
+   "height": "1162 mm",
+   "weight": "100 kg",
+   "warranty": "1 year",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "ifs50",
+  "name": "Imperial IFS-50 27 Litre Single Tank, Double Basket Freestanding Gas Fryer",
+  "brand": "Imperial",
+  "mpn": "IFS-50",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_IFS50",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "27 litres",
+   "fuel": "gas",
+   "thermostat": "93°c to 204°c",
+   "drainValve": "full port drain valve empties frypot",
+   "width": "394 mm",
+   "depth": "762 mm",
+   "height": "914 mm",
+   "gasKw": "51 kW",
+   "gasConnection": "8\" w x 34\" d x 35\" h - Gas shut oﬀ valve, 3/4\"",
+   "warranty": "1 year",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "ck8301",
+  "name": "Cater-Cook CK8301 20 Litre Single Tank, Twin Basket 3 Tube Commercial LPG Gas Fryer - 90,000 BTUs - OUT OF STOCK",
+  "brand": "Cater-Cook-Fryer",
+  "mpn": "CK8301",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK8301",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "20 litres",
+   "fuel": "gas",
+   "width": "394 mm",
+   "depth": "762 mm",
+   "height": "1140 mm",
+   "weight": "80 kg",
+   "electricKw": "9 kW",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "g3865",
+  "name": "Falcon Dominator Plus G3865 Twin Pan Gas Fryer - 30L - CK5316/N",
+  "brand": "Falcon",
+  "mpn": "G3865",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G3865",
+  "known": {
+   "tanks": "2",
+   "fuel": "gas",
+   "thermostat": "140 -190°C",
+   "drainValve": "Large diameter drain valve for simple and",
+   "width": "600 mm",
+   "depth": "770 mm",
+   "height": "890 mm",
+   "gasKw": "36.2 kW",
+   "amps": "240 A",
+   "gasConnection": "1/2\" BSP Gas Hose required",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ }
+]

@@ -1,0 +1,260 @@
+[
+ {
+  "id": "ht6",
+  "name": "Lincat Silverlink 600 HT6 4 Plate Electric Boiling Top",
+  "brand": "Lincat",
+  "mpn": "HT6",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HT6",
+  "known": {
+   "fuel": "electric",
+   "zones": "4",
+   "width": "600 mm",
+   "depth": "600 mm",
+   "height": "290 mm",
+   "weight": "23 kg",
+   "electricKw": "7 kW",
+   "voltage": "230V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "e31214hp",
+  "name": "Falcon Dominator Plus E3121-4HP 4 Hotplate Electric Boiling Top",
+  "brand": "Falcon",
+  "mpn": "E3121-4HP",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_E31214HP",
+  "known": {
+   "fuel": "electric",
+   "zones": "4",
+   "width": "900 mm",
+   "depth": "770 mm",
+   "height": "455 mm",
+   "weight": "71 kg",
+   "electricKw": "10.4 kW",
+   "amps": "20 A",
+   "voltage": "400V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "e31213hp",
+  "name": "Falcon Dominator Plus E3121-3HP 3 Plate Electric Boiling Top",
+  "brand": "Falcon",
+  "mpn": "E3121-3HP",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_E31213HP",
+  "known": {
+   "fuel": "electric",
+   "zones": "3",
+   "width": "900 mm",
+   "depth": "770 mm",
+   "height": "455 mm",
+   "weight": "70 kg",
+   "electricKw": "9.6 kW",
+   "amps": "20 A",
+   "voltage": "400V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "g90126",
+  "name": "Falcon F900 G90126 Six Burner Gas Boiling Top",
+  "brand": "Falcon",
+  "mpn": "G90126",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G90126",
+  "known": {
+   "volume": "12 litres",
+   "fuel": "gas",
+   "heating": "direct",
+   "tilting": "true",
+   "basket": "6",
+   "width": "1200 mm",
+   "depth": "900 mm",
+   "height": "350 mm",
+   "electricKw": "9.5 kW",
+   "gasKw": "9.5 kW",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "g9581",
+  "name": "Falcon F900 G9581 Gas Griddle",
+  "brand": "Falcon",
+  "mpn": "G9581",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G9581",
+  "known": {
+   "cookingWidth": "800 mm",
+   "plate": "smooth",
+   "fuel": "gas",
+   "burners": "1",
+   "radiant": "infra-red",
+   "thermostat": "true",
+   "tempRange": "100-300°C",
+   "width": "800 mm",
+   "depth": "900 mm",
+   "height": "350 mm",
+   "electricKw": "16.4 kW",
+   "gasKw": "16.4 kW",
+   "gasConnection": "3/4\" Gas hose required",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ck1103",
+  "name": "Cater-Cook Heavy Duty 3 Burner LPG Gas Griddle - W1100 - CK1103",
+  "brand": "Cater-Cook",
+  "mpn": "CK1103",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK1103",
+  "known": {
+   "fuel": "gas",
+   "burners": "3",
+   "width": "1100 mm",
+   "depth": "470 mm",
+   "height": "250 mm",
+   "weight": "35 kg",
+   "electricKw": "9.3 kW",
+   "gasConnection": "½\" Inlet connection",
+   "warranty": "1 year",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "sag66011",
+  "name": "Hobart Ecomax SAG660 Gas Salamander Grill With Adjustable Height",
+  "brand": "Hobart Ecomax",
+  "mpn": "SAG660",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SAG66011",
+  "known": {
+   "cookingWidth": "15 mm",
+   "plate": "chrome",
+   "fuel": "gas",
+   "burners": "6",
+   "radiant": "radiant",
+   "thermostat": "true",
+   "width": "750 mm",
+   "depth": "400 mm",
+   "height": "350 mm",
+   "weight": "23 kg",
+   "electricKw": "1.5 kW",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "283032",
+  "name": "Electrolux Professional 283032 Gas Salamander Grill",
+  "brand": "Electrolux",
+  "mpn": "283032",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_283032",
+  "known": {
+   "cookingWidth": "575 mm",
+   "fuel": "gas",
+   "burners": "2",
+   "radiant": "radiant",
+   "width": "752 mm",
+   "depth": "500 mm",
+   "height": "467 mm",
+   "weight": "41 kg",
+   "gasKw": "7.4 kW",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "i91105c",
+  "name": "Falcon F900 i91105C Fan-Assisted Induction Range",
+  "brand": "Falcon",
+  "mpn": "i91105C",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_I91105C",
+  "known": {
+   "volume": "12 litres",
+   "fuel": "induction",
+   "heating": "direct",
+   "tilting": "true",
+   "basket": "6",
+   "width": "1000 mm",
+   "depth": "900 mm",
+   "height": "900 mm",
+   "electricKw": "26.5 kW",
+   "amps": "43 A",
+   "voltage": "400V",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cgr2",
+  "name": "Parry CGR2 Electric Griddle",
+  "brand": "Parry",
+  "mpn": "CGR2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CGR2",
+  "known": {
+   "cookingWidth": "560 mm",
+   "plate": "mild steel",
+   "fuel": "electric",
+   "thermostat": "true",
+   "tempRange": "50°C - 300°C",
+   "width": "560 mm",
+   "depth": "365 mm",
+   "height": "250 mm",
+   "weight": "22 kg",
+   "electricKw": "3 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ck8818",
+  "name": "Cater-Cook CK8818 Electric Counter Top CHROME Griddle",
+  "brand": "Cater-Cook",
+  "mpn": "CK8818",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK8818",
+  "known": {
+   "plate": "chrome",
+   "fuel": "electric",
+   "tempRange": "50-300°C",
+   "width": "550 mm",
+   "depth": "450 mm",
+   "height": "262 mm",
+   "electricKw": "3 kW",
+   "amps": "16 A",
+   "voltage": "230V, 50Hz",
+   "plug": "16A supply",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "5120044",
+  "name": "Sammic MO-1000M 1000W 25 Litre Easy Control Microwave",
+  "brand": "Sammic",
+  "mpn": "MO-1000M",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_5120044",
+  "known": {
+   "timer": "timer",
+   "width": "510 mm",
+   "depth": "430 mm",
+   "height": "310 mm",
+   "weight": "14.7 kg",
+   "electricKw": "1.5 kW",
+   "voltage": "230V, 50Hz",
+   "plug": "Plug Supplied",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ }
+]

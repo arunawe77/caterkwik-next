@@ -1,0 +1,260 @@
+[
+ {
+  "id": "imperialir4",
+  "name": "IR4",
+  "brand": "Imperial",
+  "mpn": "IR4",
+  "caterkwikUrl": null,
+  "known": {
+   "burners": "4",
+   "fuel": "gas",
+   "ovenSize": "W508 x D660 x H356mm",
+   "ovenType": "convection",
+   "griddle": "GRIDDLE - Highly polished 3/4\" (19 mm",
+   "ignition": "pilot",
+   "castors": "castors",
+   "width": "610 mm",
+   "depth": "733 mm",
+   "height": "1435 mm",
+   "gasKw": "41 kW",
+   "voltage": "120V",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "1 year",
+   "finish": "stainless steel exterior"
+  }
+ },
+ {
+  "id": "gl174",
+  "name": "GL174",
+  "brand": "Thor",
+  "mpn": "GL174",
+  "caterkwikUrl": null,
+  "known": {
+   "burners": "4",
+   "fuel": "gas",
+   "gnCapacity": "2/1 Gastronorm",
+   "griddle": "Griddle - LPG Only - GL174",
+   "ignition": "flame failure",
+   "door": "Drop down door",
+   "width": "915 mm",
+   "depth": "835 mm",
+   "height": "1175 mm",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "ck1642",
+  "name": "CK1642",
+  "brand": "Cater-Cook",
+  "mpn": "CK1642",
+  "caterkwikUrl": null,
+  "known": {
+   "gnCapacity": "1/2 gastronorm",
+   "tempRange": "50to250°C",
+   "door": "Double-glazed door & internal light",
+   "width": "550 mm",
+   "depth": "320 mm",
+   "height": "270 mm",
+   "weight": "23 kg",
+   "electricKw": "2.5 kW",
+   "voltage": "230V",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "ja371",
+  "name": "JA371",
+  "brand": "Buffalo",
+  "mpn": "JA371",
+  "caterkwikUrl": null,
+  "known": {
+   "gnCapacity": "2/3GN",
+   "humidity": "true",
+   "door": "glass door allows monitoring o",
+   "width": "580 mm",
+   "depth": "610 mm",
+   "height": "560 mm",
+   "weight": "33.3 kg",
+   "electricKw": "2.8 kW",
+   "voltage": "240V",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "jb189",
+  "name": "JB189",
+  "brand": "Buffalo",
+  "mpn": "JB189",
+  "caterkwikUrl": null,
+  "known": {
+   "gnCapacity": "1/1GN",
+   "humidity": "true",
+   "door": "glass door allows monitoring o",
+   "width": "760 mm",
+   "depth": "686 mm",
+   "height": "558 mm",
+   "weight": "45 kg",
+   "voltage": "240V",
+   "phase": "three",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "ja399",
+  "name": "JA399",
+  "brand": "Buffalo",
+  "mpn": "JA399",
+  "caterkwikUrl": null,
+  "known": {
+   "gnCapacity": "1/1GN",
+   "humidity": "true",
+   "door": "glass door allows monitoring o",
+   "width": "760 mm",
+   "depth": "686 mm",
+   "height": "558 mm",
+   "weight": "45 kg",
+   "voltage": "240V",
+   "phase": "single",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "blueseale22m3",
+  "name": "E22M3",
+  "brand": "Blue Seal",
+  "mpn": "E22M3",
+  "caterkwikUrl": null,
+  "known": {
+   "trays": "3 x 460 x 330mm half size sheet pan",
+   "gnCapacity": "3 x 2/3 GN",
+   "tempRange": "50 - 260°C",
+   "door": "drop down door",
+   "timer": "timer with time up alarm",
+   "width": "610 mm",
+   "depth": "608 mm",
+   "height": "552 mm",
+   "weight": "35.4 kg",
+   "electricKw": "2.1 kW",
+   "amps": "9 A",
+   "voltage": "240V, 50Hz",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "e23d3",
+  "name": "E23D3",
+  "brand": "Blue Seal",
+  "mpn": "E23D3",
+  "caterkwikUrl": null,
+  "known": {
+   "trays": "3 x 354 × 325mm",
+   "tempRange": "50-260°C",
+   "humidity": "true",
+   "programs": "20",
+   "door": "drop down door",
+   "timer": "timer",
+   "depth": "645 mm",
+   "height": "610 mm",
+   "weight": "55 kg",
+   "electricKw": "2.8 kW",
+   "amps": "13 A",
+   "voltage": "240V",
+   "phase": "single",
+   "warranty": "2 years",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "e27d2",
+  "name": "E27D2",
+  "brand": "Blue Seal",
+  "mpn": "E27D2",
+  "caterkwikUrl": null,
+  "known": {
+   "trays": "6 tray runners suitable for up",
+   "tempRange": "50-260°C",
+   "humidity": "true",
+   "programs": "20",
+   "door": "drop down door",
+   "timer": "timer",
+   "width": "810 mm",
+   "depth": "762 mm",
+   "height": "607 mm",
+   "weight": "77.8 kg",
+   "electricKw": "2.8 kW",
+   "amps": "12 A",
+   "voltage": "240V, 50Hz",
+   "warranty": "2 years",
+   "finish": "Vitreous enamel"
+  }
+ },
+ {
+  "id": "e33t5",
+  "name": "E33T5",
+  "brand": "Blue Seal",
+  "mpn": "E33T5",
+  "caterkwikUrl": null,
+  "known": {
+   "trays": "5 levels)",
+   "gnCapacity": "1/1 GN",
+   "tempRange": "30 - 260°C",
+   "door": "side hinged door",
+   "timer": "timers",
+   "width": "610 mm",
+   "depth": "680 mm",
+   "height": "730 mm",
+   "weight": "93 kg",
+   "electricKw": "6 kW",
+   "amps": "25 A",
+   "voltage": "240V, 50Hz",
+   "phase": "single",
+   "warranty": "2 years",
+   "finish": "Vitreous enamel"
+  }
+ },
+ {
+  "id": "csd012e",
+  "name": "CSD012E",
+  "brand": "Moduline",
+  "mpn": "CSD012E",
+  "caterkwikUrl": null,
+  "known": {
+   "trays": "2 x 1/1GN (max depth 150mm) o",
+   "gnCapacity": "2 x 1/1GN",
+   "humidity": "true",
+   "lowTemp": "true",
+   "width": "660 mm",
+   "depth": "595 mm",
+   "height": "520 mm",
+   "electricKw": "1 kW",
+   "amps": "4.3 A",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "csd002e",
+  "name": "CSD002E",
+  "brand": "Moduline",
+  "mpn": "CSD002E",
+  "caterkwikUrl": null,
+  "known": {
+   "trays": "2 x 1/1GN (max depth 150mm) o",
+   "gnCapacity": "2 x 1/1GN",
+   "humidity": "true",
+   "lowTemp": "true",
+   "width": "450 mm",
+   "depth": "660 mm",
+   "height": "520 mm",
+   "electricKw": "1 kW",
+   "amps": "4.3 A",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ }
+]

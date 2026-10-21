@@ -1,0 +1,122 @@
+[
+ {
+  "id": "ge205",
+  "name": "GE205 Wooden Pizza Peel, 31x41cm",
+  "brand": "Vogue",
+  "mpn": "GE205",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GE205",
+  "known": {
+   "pizzaSize": "41cm"
+  }
+ },
+ {
+  "id": "gc933",
+  "name": "GC933 APS Frames Black 0.5Ltr Melamine Bowl",
+  "brand": "APS",
+  "mpn": "GC933",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GC933",
+  "known": {
+   "volume": "0.5 litres"
+  }
+ },
+ {
+  "id": "gc931",
+  "name": "GC931 APS Frames White 0.5Ltr Melamine Bowl",
+  "brand": "APS",
+  "mpn": "GC931",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GC931",
+  "known": {
+   "volume": "0.5 litres"
+  }
+ },
+ {
+  "id": "gc932",
+  "name": "GC932 APS Frames White 2.5Ltr Melamine Bowl",
+  "brand": "APS",
+  "mpn": "GC932",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GC932",
+  "known": {
+   "volume": "2.5 litres"
+  }
+ },
+ {
+  "id": "gc934",
+  "name": "GC934 APS Frames Black 2.5Ltr Melamine Bowl",
+  "brand": "APS",
+  "mpn": "GC934",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GC934",
+  "known": {
+   "volume": "2.5 litres"
+  }
+ },
+ {
+  "id": "gc940",
+  "name": "GC940 APS Frames 0.5Ltr Bowl Lid",
+  "brand": "APS",
+  "mpn": "GC940",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GC940",
+  "known": {
+   "volume": "0.5 litres"
+  }
+ },
+ {
+  "id": "gc939",
+  "name": "GC939 APS Frames 2.5Ltr Bowl Lid",
+  "brand": "APS",
+  "mpn": "GC939",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GC939",
+  "known": {
+   "volume": "2.5 litres"
+  }
+ },
+ {
+  "id": "gc912",
+  "name": "GC912 APS Frames 1/1 GN Cooling Block Insert",
+  "brand": "APS",
+  "mpn": "GC912",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GC912",
+  "known": {
+   "gnCapacity": "1/1 GN"
+  }
+ },
+ {
+  "id": "gf078",
+  "name": "GF078 APS Float Chrome 3 Bowl Stand",
+  "brand": "APS",
+  "mpn": "GF078",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF078",
+  "known": {
+   "finish": "Chrome"
+  }
+ },
+ {
+  "id": "gc907",
+  "name": "GC907 APS Frames Maple Wood 1/1 GN Cutting Board",
+  "brand": "APS",
+  "mpn": "GC907",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GC907",
+  "known": {
+   "gnCapacity": "1/1 GN"
+  }
+ },
+ {
+  "id": "gc909",
+  "name": "GC909 APS Frames Dark Wood Effect 1/1 GN Board",
+  "brand": "APS",
+  "mpn": "GC909",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GC909",
+  "known": {
+   "gnCapacity": "1/1 GN"
+  }
+ },
+ {
+  "id": "gc911",
+  "name": "GC911 APS Frames 1/1 GN Black Plastic Insert",
+  "brand": "APS",
+  "mpn": "GC911",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GC911",
+  "known": {
+   "gnCapacity": "1/1 GN"
+  }
+ }
+]

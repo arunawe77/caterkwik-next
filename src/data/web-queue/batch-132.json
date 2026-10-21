@@ -1,0 +1,235 @@
+[
+ {
+  "id": "m650e",
+  "name": "Mirror M650E Heavy Duty Electric Chrome Griddle - Smooth Plate",
+  "brand": "Mirror",
+  "mpn": "M650E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_M650E",
+  "known": {
+   "plate": "chrome",
+   "fuel": "electric",
+   "thermostat": "true",
+   "tempRange": "50-300°C",
+   "width": "650 mm",
+   "depth": "550 mm",
+   "height": "300 mm",
+   "electricKw": "8 kW",
+   "voltage": "415V",
+   "phase": "three",
+   "warranty": "2 years",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "m1000e",
+  "name": "Mirror M1000E Heavy Duty Electric Chrome Griddle - Smooth Plate",
+  "brand": "Mirror",
+  "mpn": "M1000E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_M1000E",
+  "known": {
+   "plate": "chrome",
+   "fuel": "electric",
+   "thermostat": "true",
+   "tempRange": "50-300°C",
+   "width": "1000 mm",
+   "depth": "595 mm",
+   "height": "300 mm",
+   "electricKw": "12 kW",
+   "voltage": "415V",
+   "phase": "three",
+   "warranty": "2 years",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "m1300e",
+  "name": "Mirror M1300E Heavy Duty Electric Chrome Griddle - Smooth Plate",
+  "brand": "Mirror",
+  "mpn": "M1300E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_M1300E",
+  "known": {
+   "plate": "chrome",
+   "fuel": "electric",
+   "thermostat": "true",
+   "tempRange": "50 - 300°C",
+   "width": "1300 mm",
+   "depth": "695 mm",
+   "height": "300 mm",
+   "electricKw": "20 kW",
+   "voltage": "415V",
+   "phase": "three",
+   "warranty": "2 years",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "buffalop108",
+  "name": "Buffalo P108 Countertop Electric Griddle",
+  "brand": "Buffalo",
+  "mpn": "P108",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BUFFALOP108",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "electric",
+   "thermostat": "true",
+   "tempRange": "60 - 300°C",
+   "width": "440 mm",
+   "depth": "365 mm",
+   "height": "228 mm",
+   "weight": "19.5 kg",
+   "electricKw": "1.8 kW",
+   "amps": "8 A",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel body"
+  }
+ },
+ {
+  "id": "5120053",
+  "name": "Sammic MO-1034M 34 Litre Easy Control 1000W Microwave - 5120053",
+  "brand": "Sammic",
+  "mpn": "5120053",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_5120053",
+  "known": {
+   "microwaveOutput": "1000 W",
+   "width": "553 mm",
+   "depth": "485 mm",
+   "height": "343 mm",
+   "weight": "19.2 kg",
+   "electricKw": "1 kW",
+   "voltage": "230V, 50Hz",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "fs317",
+  "name": "Samsung FS317 Heavy Duty 1500W Commercial Manual Microwave - 26Ltr Capacity",
+  "brand": "Samsung",
+  "mpn": "FS317",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FS317",
+  "known": {
+   "gnCapacity": "2/3 GN",
+   "width": "464 mm",
+   "depth": "557 mm",
+   "height": "368 mm",
+   "weight": "32 kg",
+   "electricKw": "1.5 kW",
+   "voltage": "240V",
+   "plug": "13A plug",
+   "warranty": "3 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "mw18ti60hz",
+  "name": "Maestrowave MW18Ti60Hz Inverter Microwave Oven 1800W",
+  "brand": "Maestrowave",
+  "mpn": "MW18Ti60Hz",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MW18TI60HZ",
+  "known": {
+   "programs": "297",
+   "microwaveOutput": "1800 W",
+   "width": "420 mm",
+   "depth": "515 mm",
+   "height": "338 mm",
+   "electricKw": "2.8 kW",
+   "amps": "12 A",
+   "voltage": "230V",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "cpe746",
+  "name": "Giorik CPE746 Twin Tank Electric Pasta Boiler - 2/3GN",
+  "brand": "Giorik",
+  "mpn": "CPE746",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CPE746",
+  "known": {
+   "volume": "23 litres",
+   "fuel": "electric",
+   "tap": "true",
+   "width": "800 mm",
+   "depth": "700 mm",
+   "height": "860 mm",
+   "electricKw": "11 kW",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cs939",
+  "name": "Caterlite Portable Sous Vide Machine - CS939",
+  "brand": "Caterlite",
+  "mpn": "CS939",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CS939",
+  "known": {
+   "timer": "Timer",
+   "width": "150 mm",
+   "depth": "110 mm",
+   "height": "400 mm",
+   "weight": "1.45 kg",
+   "voltage": "240V",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "lt6x",
+  "name": "Lincat LT6X 6 Slot Toaster",
+  "brand": "Lincat",
+  "mpn": "LT6X",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LT6X",
+  "known": {
+   "fuel": "electric",
+   "timer": "timer control for reliability",
+   "plates": "6",
+   "width": "450 mm",
+   "depth": "220 mm",
+   "height": "240 mm",
+   "weight": "9 kg",
+   "electricKw": "3.1 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "6031317",
+  "name": "iVario 60.31.317 2-XS Stand with Castors, 2 Pull-Out Shelves and Gastronorm Tray Slides",
+  "brand": "Rational",
+  "mpn": "60.31.317",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_6031317",
+  "known": {
+   "width": "1145 mm",
+   "depth": "717 mm",
+   "height": "595 mm",
+   "weight": "50.3 kg",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "cbm2",
+  "name": "King Edward CBM2 Bain Marie",
+  "brand": "King Edward",
+  "mpn": "CBM2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CBM2",
+  "known": {
+   "gnCapacity": "3 x 1/3 GN",
+   "heatType": "dry",
+   "wells": "3",
+   "volume": "5.7 litres",
+   "width": "335 mm",
+   "depth": "540 mm",
+   "height": "295 mm",
+   "weight": "18 kg",
+   "electricKw": "0.22 kW",
+   "plug": "plug supplied",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ }
+]

@@ -1,0 +1,236 @@
+[
+ {
+  "id": "100367",
+  "name": "Server Single Direct-Pour Touchless Express™ Dispenser",
+  "brand": "Server",
+  "mpn": "100367",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_100367",
+  "known": {
+   "volume": "4.9 litres",
+   "width": "165 mm",
+   "depth": "344 mm",
+   "height": "432 mm",
+   "electricKw": "0.48 kW",
+   "amps": "2 A",
+   "voltage": "240V, 50HZ",
+   "plug": "Plug supplied",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "g107",
+  "name": "Buffalo G107 Graphite Grey 10 Litre Soup Kettle",
+  "brand": "Buffalo",
+  "mpn": "G107",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G107",
+  "known": {
+   "heatType": "wet",
+   "volume": "10 litres",
+   "mobility": "true",
+   "tempRange": "35 - 95°C",
+   "weight": "4.3 kg",
+   "electricKw": "0.45 kW",
+   "amps": "1.9 A",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "l715",
+  "name": "Buffalo L715 Black 10 Litre Soup Kettle",
+  "brand": "Buffalo",
+  "mpn": "L715",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_L715",
+  "known": {
+   "heatType": "wet",
+   "volume": "10 litres",
+   "mobility": "true",
+   "tempRange": "35 - 95°C",
+   "weight": "4.3 kg",
+   "electricKw": "0.4 kW",
+   "amps": "2 A",
+   "voltage": "240V",
+   "plug": "plug supplied",
+   "warranty": "1 year",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "72522",
+  "name": "Vollrath Stainless Soup Kettle - 72522",
+  "brand": "Vollrath",
+  "mpn": "72522",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_72522",
+  "known": {
+   "volume": "10.4 litres",
+   "electricKw": "0.8 kW",
+   "voltage": "120V",
+   "plug": "plug supplied",
+   "warranty": "1 year",
+   "finish": "Stainless steel exterior"
+  }
+ },
+ {
+  "id": "cm352",
+  "name": "Caterlite CM352 2kW Induction Hob",
+  "brand": "Caterlite",
+  "mpn": "CM352",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CM352",
+  "known": {
+   "fuel": "induction",
+   "width": "295 mm",
+   "depth": "370 mm",
+   "height": "45 mm",
+   "weight": "2.6 kg",
+   "electricKw": "2 kW",
+   "amps": "8 A",
+   "voltage": "240V",
+   "plug": "plug supplied",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "hz897",
+  "name": "Buffalo HZ897 Induction Stock Pot Stove 5kW",
+  "brand": "Buffalo",
+  "mpn": "HZ897",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HZ897",
+  "known": {
+   "fuel": "induction",
+   "width": "400 mm",
+   "depth": "400 mm",
+   "height": "365 mm",
+   "weight": "13 kg",
+   "electricKw": "5 kW",
+   "voltage": "420V",
+   "phase": "three",
+   "hardWired": "true",
+   "finish": "Stainless steel body"
+  }
+ },
+ {
+  "id": "bih2",
+  "name": "Blizzard BIH2 Double Induction Hob - 6000W",
+  "brand": "Blizzard",
+  "mpn": "BIH2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BIH2",
+  "known": {
+   "fuel": "induction",
+   "width": "390 mm",
+   "depth": "713 mm",
+   "height": "123 mm",
+   "weight": "15.2 kg",
+   "electricKw": "6 kW",
+   "amps": "13 A",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "cw25a",
+  "name": "Valera CW25A Wok Induction Hob",
+  "brand": "Valera",
+  "mpn": "CW25A",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CW25A",
+  "known": {
+   "fuel": "induction",
+   "width": "385 mm",
+   "depth": "422 mm",
+   "height": "150 mm",
+   "weight": "8 kg",
+   "electricKw": "2.5 kW",
+   "amps": "20 A",
+   "voltage": "230V",
+   "phase": "three",
+   "warranty": "3 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "lincatih21inductionhob",
+  "name": "Lincat Specialist 2 Zone Induction Hob - IH21",
+  "brand": "Lincat",
+  "mpn": "IH21",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LINCATIH21INDUCTIONHOB",
+  "known": {
+   "fuel": "induction",
+   "zones": "2",
+   "width": "350 mm",
+   "depth": "654 mm",
+   "height": "115 mm",
+   "weight": "12 kg",
+   "electricKw": "3 kW",
+   "amps": "13 A",
+   "voltage": "230V",
+   "phase": "single",
+   "plug": "13A - plug",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "sli3",
+  "name": "Lincat Silverlink 600 SLI3 Induction Hob",
+  "brand": "Lincat",
+  "mpn": "SLI3",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SLI3",
+  "known": {
+   "fuel": "induction",
+   "width": "450 mm",
+   "depth": "600 mm",
+   "height": "265 mm",
+   "weight": "16 kg",
+   "electricKw": "3 kW",
+   "voltage": "230v",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "ck71081",
+  "name": "Ozti CK71081 900 Series 150 Litre Electric Indirect Heat Cylindrical Boiling Pan",
+  "brand": "Ozti",
+  "mpn": "CK71081",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK71081",
+  "known": {
+   "volume": "150 litres",
+   "fuel": "electric",
+   "heating": "indirect",
+   "tap": "true",
+   "width": "800 mm",
+   "depth": "900 mm",
+   "height": "850 mm",
+   "weight": "94.4 kg",
+   "electricKw": "18 kW",
+   "voltage": "400V",
+   "phase": "three",
+   "warranty": "2 years",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "sa834",
+  "name": "Buffalo SA834 Freestanding Gas Chargrill 600mm",
+  "brand": "Buffalo",
+  "mpn": "SA834",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SA834",
+  "known": {
+   "cookingWidth": "600 mm",
+   "plate": "cast iron",
+   "fuel": "gas",
+   "radiant": "radiant",
+   "width": "604 mm",
+   "depth": "640 mm",
+   "height": "897 mm",
+   "weight": "56 kg",
+   "electricKw": "22.5 kW",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ }
+]

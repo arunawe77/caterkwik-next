@@ -1,0 +1,156 @@
+[
+ {
+  "id": "s504",
+  "name": "Single Cereal Dispenser - S504",
+  "brand": "APS",
+  "mpn": "S504",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_S504",
+  "known": {
+   "volume": "4.5 litres",
+   "width": "220 mm",
+   "depth": "175 mm",
+   "height": "520 mm",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "cf268",
+  "name": "Double Cereal Dispenser - CF268",
+  "brand": "APS",
+  "mpn": "CF268",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CF268",
+  "known": {
+   "volume": "4.5 litres",
+   "width": "350 mm",
+   "depth": "225 mm",
+   "height": "440 mm",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "p9712",
+  "name": "San Jamar Multi Pump Centres",
+  "brand": "San Jamar",
+  "mpn": "P9712",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_P9712",
+  "known": {
+   "volume": "4.74 litres",
+   "width": "257 mm",
+   "depth": "200 mm",
+   "height": "318 mm",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "84620",
+  "name": "Server Fudge Server with Ladle",
+  "brand": "Server",
+  "mpn": "84620",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_84620",
+  "known": {
+   "volume": "2.8 litres",
+   "width": "197 mm",
+   "depth": "224 mm",
+   "height": "314 mm",
+   "electricKw": "0.5 kW",
+   "plug": "plug supplied",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "84580",
+  "name": "Server 84580 Fudge Server with Pump",
+  "brand": "Server",
+  "mpn": "84580",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_84580",
+  "known": {
+   "volume": "2.8 litres",
+   "width": "197 mm",
+   "depth": "332 mm",
+   "height": "391 mm",
+   "electricKw": "0.5 kW",
+   "plug": "plug supplied",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "ch2",
+  "name": "Grelhaco \"Rodizios\" CH2 Brazilian style gas grill - Churrasco",
+  "brand": null,
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CH2",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "gas",
+   "amps": "13 A",
+   "voltage": "230v",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "gg122c",
+  "name": "Grill Guru Pizza & Baking Stone Compact 26 cm",
+  "brand": "Grill Guru",
+  "mpn": "GG120",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GG122C",
+  "known": {
+   "radiant": "ceramic"
+  }
+ },
+ {
+  "id": "gg141m",
+  "name": "Grill Guru Pizza & Baking Stone Medium 36 cm",
+  "brand": "Grill Guru",
+  "mpn": "GG141",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GG141M",
+  "known": {
+   "radiant": "ceramic"
+  }
+ },
+ {
+  "id": "gg120l",
+  "name": "Grill Guru Pizza & Baking Stone Large 38 cm",
+  "brand": "Grill Guru",
+  "mpn": "GG120",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GG120L",
+  "known": {
+   "radiant": "ceramic"
+  }
+ },
+ {
+  "id": "cr051",
+  "name": "Deglon BBQ Utensil Set - 8031603-V",
+  "brand": "Deglon",
+  "mpn": "8031603-V",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CR051",
+  "known": {
+   "width": "100 mm",
+   "depth": "80 mm",
+   "height": "530 mm",
+   "weight": "1.32 kg",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "gg102uk",
+  "name": "Grill Guru 1 Minute Lighter",
+  "brand": "Grill Guru",
+  "mpn": "GG102UK",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GG102UK",
+  "known": {
+   "fuel": "electric"
+  }
+ },
+ {
+  "id": "gj556",
+  "name": "Olympia GJ556 Round Cast Iron Sizzle Platter",
+  "brand": null,
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GJ556",
+  "known": {
+   "fuel": "induction"
+  }
+ }
+]

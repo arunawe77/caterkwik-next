@@ -1,0 +1,128 @@
+[
+ {
+  "id": "peel2512",
+  "name": "Alphin Pans 12' Aluminium Blade Pizza Peels",
+  "brand": "Alphin Pans",
+  "mpn": "PEEL.2512",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PEEL2512",
+  "known": {
+   "pizzaSize": "12'"
+  }
+ },
+ {
+  "id": "peel4016",
+  "name": "Alphin Pans Aluminium 16\" Blade Pizza Peel - PEEL.4016",
+  "brand": "Alphin Pans",
+  "mpn": "PEEL.4016",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PEEL4016",
+  "known": {
+   "pizzaSize": "16\""
+  }
+ },
+ {
+  "id": "tbvin",
+  "name": "Alphin Pans Vinyl Pizza Delivery Bag",
+  "brand": "Alphin Pans",
+  "mpn": "TBVIN",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_TBVIN",
+  "known": {
+   "pizzaSize": "17\""
+  }
+ },
+ {
+  "id": "btwose",
+  "name": "Bradley Smoker BTWOSE Whiskey Oak Bisquette Pack",
+  "brand": "Bradley Smoker",
+  "mpn": "BTWOSE",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BTWOSE",
+  "known": {}
+ },
+ {
+  "id": "gl615",
+  "name": "GL615 APS Organic Display Bowl White 1Ltr",
+  "brand": "APS",
+  "mpn": "GL615",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GL615",
+  "known": {
+   "volume": "1 litres",
+   "finish": "White"
+  }
+ },
+ {
+  "id": "gk847",
+  "name": "GK847 APS Balance Melamine Bowl Black 210mm",
+  "brand": "APS",
+  "mpn": "GK847",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GK847",
+  "known": {
+   "volume": "1.5 litres",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "gk848",
+  "name": "GK848 APS Balance Melamine Bowl Black 245mm",
+  "brand": "APS",
+  "mpn": "GK848",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GK848",
+  "known": {
+   "volume": "2.5 litres",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "gk849",
+  "name": "GK849 APS Balance Melamine Bowl Black 300mm",
+  "brand": "APS",
+  "mpn": "GK849",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GK849",
+  "known": {
+   "volume": "5 litres",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "gl616",
+  "name": "GL616 APS Organic Display Bowl White 3.5Ltr",
+  "brand": "APS",
+  "mpn": "GL616",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GL616",
+  "known": {
+   "volume": "3.5 litres",
+   "finish": "White"
+  }
+ },
+ {
+  "id": "dn911",
+  "name": "DN911 Vogue Spiked Meat Dish",
+  "brand": "Vogue",
+  "mpn": "DN911",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DN911",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "p929",
+  "name": "P929 Buffet 1/1 GN Service Tray",
+  "brand": "APS",
+  "mpn": "P929",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_P929",
+  "known": {
+   "gnCapacity": "1/1 GN",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "cc464",
+  "name": "CC464 APS 1/1 GN Tray",
+  "brand": "APS",
+  "mpn": "CC464",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CC464",
+  "known": {
+   "gnCapacity": "1/1 GN",
+   "finish": "stainless steel"
+  }
+ }
+]

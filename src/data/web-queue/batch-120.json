@@ -1,0 +1,214 @@
+[
+ {
+  "id": "g160ksilc",
+  "name": "AS Term G160K Gas Fired Static Base Pizza Oven 13 x 12\" Pizza - Silicone Design",
+  "brand": "AS Term",
+  "mpn": "G160KSILC",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G160KSILC",
+  "known": {
+   "pizzaSize": "12\" Pizza",
+   "fuel": "gas",
+   "width": "2100 mm",
+   "depth": "2350 mm",
+   "height": "2050 mm",
+   "weight": "2150 kg",
+   "voltage": "230V",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "g140k",
+  "name": "AS Term G140K Gas Fired Static Base Pizza Oven 10 x 12\" Pizza - Mosaic Design",
+  "brand": "AS Term",
+  "mpn": "G140K",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G140K",
+  "known": {
+   "pizzaSize": "12\" Pizza",
+   "fuel": "gas",
+   "width": "1910 mm",
+   "depth": "2150 mm",
+   "height": "2050 mm",
+   "weight": "1800 kg",
+   "voltage": "230V",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "g160k",
+  "name": "AS Term G160K Gas Fired Static Base Pizza Oven 13 x 12\" Pizza - Mosaic Design",
+  "brand": "AS Term",
+  "mpn": "G160K",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G160K",
+  "known": {
+   "pizzaSize": "12\" Pizza",
+   "fuel": "gas",
+   "width": "2100 mm",
+   "depth": "2350 mm",
+   "height": "2050 mm",
+   "weight": "2150 kg",
+   "voltage": "230V",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "btds76ce",
+  "name": "Bradley 4/6 Rack Digital Smoker",
+  "brand": "Bradley Smoker",
+  "mpn": "BTDS76CE",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BTDS76CE",
+  "known": {
+   "volume": "108 litres",
+   "width": "465 mm",
+   "depth": "360 mm",
+   "height": "790 mm",
+   "electricKw": "0.5 kW",
+   "voltage": "240v",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "mecda2",
+  "name": "Mercury 2 Slice Conveyor Toaster - MEC-D-A-2",
+  "brand": "Mercury",
+  "mpn": "MEC-D-A-2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MECDA2",
+  "known": {
+   "throughput": "300 slices per hour",
+   "width": "370 mm",
+   "depth": "750 mm",
+   "height": "410 mm",
+   "weight": "16.8 kg",
+   "electricKw": "2.4 kW",
+   "amps": "13 A",
+   "voltage": "230V, 50Hz",
+   "plug": "Plug supplied",
+   "warranty": "1 year",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "297t14pfgb",
+  "name": "Prince Castle 297-T14FGB Vertical Contact Bun Toaster - 14 Second",
+  "brand": "Prince Castle",
+  "mpn": "297-T14FGB",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_297T14PFGB",
+  "known": {
+   "thermostat": "thermostat allow for precise toasting",
+   "width": "635 mm",
+   "electricKw": "1.7 kW",
+   "plug": "13A Plug",
+   "warranty": "1 year",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "ct917",
+  "name": "Essentials Toaster Grill - CT917",
+  "brand": "Essentials",
+  "mpn": "CT917",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CT917",
+  "known": {
+   "width": "440 mm",
+   "depth": "280 mm",
+   "height": "275 mm",
+   "weight": "7 kg",
+   "voltage": "230V",
+   "warranty": "1 year",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "sbhot",
+  "name": "Artikcold SBHOT Hot Buffet Display Unit",
+  "brand": "Artikcold",
+  "mpn": "SBHOT",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SBHOT",
+  "known": {
+   "gnCapacity": "4 x 1/1 GN",
+   "wells": "4",
+   "mobility": "true",
+   "width": "1550 mm",
+   "depth": "900 mm",
+   "height": "1350 mm",
+   "electricKw": "1.25 kW",
+   "voltage": "220V",
+   "warranty": "1 year",
+   "finish": "Stainless steel finish"
+  }
+ },
+ {
+  "id": "parrymfbu",
+  "name": "Parry CTBU Electric Buffet Unit",
+  "brand": "Parry",
+  "mpn": "CTBU",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PARRYMFBU",
+  "known": {
+   "gnCapacity": "6 x 1/3GN",
+   "heatType": "wet",
+   "wells": "6",
+   "width": "1000 mm",
+   "depth": "400 mm",
+   "height": "240 mm",
+   "weight": "20 kg",
+   "electricKw": "3 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "Stainless Steel finish"
+  }
+ },
+ {
+  "id": "1995s",
+  "name": "Parry 1995S Small Electric Nacho/Popcorn Warmer Cabinet",
+  "brand": "Parry",
+  "mpn": "1995S",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_1995S",
+  "known": {
+   "width": "285 mm",
+   "depth": "297 mm",
+   "height": "505 mm",
+   "weight": "12 kg",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "sch785",
+  "name": "Lincat SCH785 Heated Food Display",
+  "brand": "Lincat",
+  "mpn": "SCH785",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SCH785",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "width": "785 mm",
+   "depth": "750 mm",
+   "height": "665 mm",
+   "weight": "72 kg",
+   "electricKw": "1.54 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "sch1085",
+  "name": "Lincat SCH1085 Heated Food Display",
+  "brand": "Lincat",
+  "mpn": "SCH1085",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SCH1085",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "width": "1085 mm",
+   "depth": "750 mm",
+   "height": "665 mm",
+   "weight": "92 kg",
+   "electricKw": "2.04 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "chrome"
+  }
+ }
+]

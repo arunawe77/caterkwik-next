@@ -1,0 +1,247 @@
+[
+ {
+  "id": "rg7",
+  "name": "Roller Grill RG70 Hot Dog Rolling Grill",
+  "brand": "Roller Grill",
+  "mpn": "RG70",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_RG7",
+  "known": {
+   "fuel": "electric",
+   "throughput": "72 hot dogs per hour",
+   "thermostat": "45-200°C",
+   "width": "545 mm",
+   "depth": "320 mm",
+   "height": "240 mm",
+   "weight": "14 kg",
+   "electricKw": "0.875 kW",
+   "plug": "Plug Supplied",
+   "warranty": "2 years",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "rg11",
+  "name": "Roller Grill RG110 Hot Dog Rolling Grill",
+  "brand": "Roller Grill",
+  "mpn": "RG110",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_RG11",
+  "known": {
+   "fuel": "electric",
+   "throughput": "120 hot dogs per hour",
+   "thermostat": "45- 200°C",
+   "width": "545 mm",
+   "depth": "460 mm",
+   "height": "240 mm",
+   "weight": "20 kg",
+   "electricKw": "1.375 kW",
+   "plug": "Plug Supplied",
+   "warranty": "2 years",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "5002d",
+  "name": "Alto-Shaam Double Drawer Warmer - 500-2D/DN",
+  "brand": "Alto-Shaam",
+  "mpn": "500-2D",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_5002D",
+  "known": {
+   "gnCapacity": "2x 1/1 GN",
+   "wells": "2",
+   "tempRange": "16° to 93°C",
+   "width": "618 mm",
+   "depth": "625 mm",
+   "height": "482 mm",
+   "electricKw": "1 kW",
+   "amps": "15 A",
+   "voltage": "120V",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "5001d",
+  "name": "Alto-Shaam Single Drawer Warmer - 500-1D / 500-1DN",
+  "brand": "Alto-Shaam",
+  "mpn": "5001D",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_5001D",
+  "known": {
+   "gnCapacity": "1x 1/1 GN",
+   "wells": "1",
+   "tempRange": "16° to 93°C",
+   "width": "618 mm",
+   "depth": "625 mm",
+   "height": "298 mm",
+   "electricKw": "1 kW",
+   "amps": "15 A",
+   "voltage": "120V",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "5003d",
+  "name": "Alto-Shaam Triple Drawer Warmer - 500-3D/DN",
+  "brand": "Alto-Shaam",
+  "mpn": "500-3D/DN",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_5003D",
+  "known": {
+   "gnCapacity": "3x 1/1 GN",
+   "wells": "3",
+   "tempRange": "16° to 93°C",
+   "width": "618 mm",
+   "depth": "625 mm",
+   "height": "663 mm",
+   "electricKw": "1 kW",
+   "amps": "15 A",
+   "voltage": "120V",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "connex16",
+  "name": "Merrychef ConneX 16 Accelerated High Speed Oven 32A - Single Phase",
+  "brand": "Merrychef",
+  "mpn": "Connex 16",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CONNEX16",
+  "known": {
+   "width": "459 mm",
+   "depth": "684 mm",
+   "height": "619 mm",
+   "weight": "67 kg",
+   "electricKw": "6 kW",
+   "amps": "32 A",
+   "voltage": "230V, 50Hz",
+   "phase": "single",
+   "plug": "32A Single phase hard w",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "connex12e",
+  "name": "Merrychef ConneX 12E High Speed Oven",
+  "brand": "Merrychef",
+  "mpn": "12EGHMV5XAL1BKUK",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CONNEX12E",
+  "known": {
+   "tempRange": "100° to 260°C",
+   "width": "407 mm",
+   "depth": "538 mm",
+   "height": "588 mm",
+   "weight": "47 kg",
+   "electricKw": "2.99 kW",
+   "amps": "13 A",
+   "voltage": "230V",
+   "phase": "single",
+   "warranty": "2 years",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "connex163p",
+  "name": "Merrychef ConneX 16 Accelerated High Speed Oven 32A - Three Phase",
+  "brand": "Merrychef",
+  "mpn": "Connex 16",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CONNEX163P",
+  "known": {
+   "width": "459 mm",
+   "depth": "684 mm",
+   "height": "619 mm",
+   "weight": "67 kg",
+   "electricKw": "5.8 kW",
+   "amps": "32 A",
+   "voltage": "400V, 50Hz",
+   "phase": "three",
+   "plug": "32A Three phase hard wi",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "thei5",
+  "name": "Turbochef The I5 Convection Oven",
+  "brand": "TurboChef",
+  "mpn": "THEI5",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_THEI5",
+  "known": {
+   "programs": "200",
+   "width": "714 mm",
+   "depth": "794 mm",
+   "height": "618 mm",
+   "weight": "125 kg",
+   "electricKw": "10 kW",
+   "amps": "48 A",
+   "voltage": "230V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cm743",
+  "name": "Menumaster RFS518TS High Speed Large Capacity 1800W Microwave - CM743",
+  "brand": "Menumaster",
+  "mpn": "CM743",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CM743",
+  "known": {
+   "timer": "timer for simple operation",
+   "microwaveOutput": "1800 W",
+   "width": "551 mm",
+   "depth": "533 mm",
+   "height": "365 mm",
+   "weight": "29 kg",
+   "electricKw": "2.7 kW",
+   "amps": "13 A",
+   "voltage": "240V",
+   "phase": "single",
+   "plug": "16 A single phase",
+   "warranty": "3 years",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "xmhc16ss",
+  "name": "Williams XMHC16-SS Mobile Heated Banqueting Cabinet",
+  "brand": "Williams",
+  "mpn": "XMHC16-SS",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_XMHC16SS",
+  "known": {
+   "volume": "549 litres",
+   "mobility": "true",
+   "width": "807 mm",
+   "depth": "885 mm",
+   "height": "1770 mm",
+   "electricKw": "0.484 kW",
+   "voltage": "230V",
+   "phase": "single",
+   "plug": "13A Plug",
+   "warranty": "2 years",
+   "finish": "Stainless steel exterior"
+  }
+ },
+ {
+  "id": "hcp19",
+  "name": "Inomak HCP19 Commercial Hot Cupboard",
+  "brand": "INOMAK",
+  "mpn": "HCP19",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HCP19",
+  "known": {
+   "plateCapacity": "1200",
+   "mobility": "true",
+   "width": "1900 mm",
+   "depth": "700 mm",
+   "height": "870 mm",
+   "weight": "155 kg",
+   "electricKw": "2 kW",
+   "amps": "13 A",
+   "plug": "13A - plug",
+   "warranty": "1 year",
+   "finish": "stainless steel exterior"
+  }
+ }
+]

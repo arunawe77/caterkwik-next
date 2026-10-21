@@ -1,0 +1,220 @@
+[
+ {
+  "id": "po6868detg",
+  "name": "Super Pizza PO6868DETG Commercial Twin Deck Electric Pizza Oven & Temperature Gauge - 8 x 13\" Pizzas",
+  "brand": "Super Pizza",
+  "mpn": "PO6868DETG",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PO6868DETG",
+  "known": {
+   "decks": "2",
+   "pizzaSize": "13\" Pizzas",
+   "stone": "Refractory",
+   "fuel": "electric",
+   "width": "980 mm",
+   "depth": "780 mm",
+   "height": "760 mm",
+   "weight": "155 kg",
+   "electricKw": "10 kW",
+   "voltage": "230V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "citizen66",
+  "name": "Zanolli Citizen 6+6 Electric Double Deck Pizza Oven",
+  "brand": "Zanolli",
+  "mpn": "Citizen 6+6",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CITIZEN66",
+  "known": {
+   "decks": "2",
+   "pizzaSize": "12 inch pizzas",
+   "stone": "Refractory",
+   "fuel": "electric",
+   "width": "1420 mm",
+   "depth": "1030 mm",
+   "height": "780 mm",
+   "weight": "260 kg",
+   "electricKw": "8.8 kW",
+   "voltage": "230V, 50Hz",
+   "phase": "three",
+   "warranty": "3 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "bs1019eu",
+  "name": "Bradley Professional P10 Professional Smoker",
+  "brand": "Bradley Smoker",
+  "mpn": "BS1019EU",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BS1019EU",
+  "known": {
+   "fuel": "induction",
+   "volume": "76 litres",
+   "electricKw": "1 kW",
+   "voltage": "240V",
+   "finish": "stainless steel body"
+  }
+ },
+ {
+  "id": "fm4",
+  "name": "Roller Grill FM4 Fish/Meat Smoker",
+  "brand": "Roller Grill",
+  "mpn": "FM4",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FM4",
+  "known": {
+   "fuel": "electric",
+   "timer": "timer",
+   "width": "715 mm",
+   "depth": "415 mm",
+   "height": "360 mm",
+   "weight": "14 kg",
+   "electricKw": "0.5 kW",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "tcr10",
+  "name": "Roband TCR10 Conveyor Toaster",
+  "brand": "Roband",
+  "mpn": "TCR10",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_TCR10",
+  "known": {
+   "throughput": "300 Slices per hour",
+   "width": "475 mm",
+   "depth": "430 mm",
+   "height": "370 mm",
+   "electricKw": "2.26 kW",
+   "amps": "13 A",
+   "voltage": "230V, 50Hz",
+   "plug": "Plug supplied",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "et313",
+  "name": "Roband Eclipse Bun Toaster - ET313",
+  "brand": "Roband",
+  "mpn": "ET313",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ET313",
+  "known": {
+   "throughput": "310 SLICES/HR",
+   "width": "480 mm",
+   "depth": "485 mm",
+   "height": "400 mm",
+   "electricKw": "2.7 kW",
+   "amps": "13 A",
+   "voltage": "230V, 50Hz",
+   "plug": "Plug supplied",
+   "warranty": "1 year",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "db175",
+  "name": "Buffalo DB175 Conveyor Toaster",
+  "brand": "Buffalo",
+  "mpn": "DB175",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DB175",
+  "known": {
+   "throughput": "400 slices per hour",
+   "width": "750 mm",
+   "depth": "370 mm",
+   "height": "380 mm",
+   "weight": "16.8 kg",
+   "electricKw": "2.4 kW",
+   "amps": "10.4 A",
+   "voltage": "230V, 50Hz",
+   "warranty": "2 years",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "snack1bs",
+  "name": "Hatco - Snack System Interchangeable Plate Press - SNACK1BS",
+  "brand": "Hatco",
+  "mpn": "Snack1bs",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SNACK1BS",
+  "known": {
+   "fuel": "electric",
+   "width": "264 mm",
+   "weight": "7 kg",
+   "electricKw": "0.823 kW",
+   "amps": "3.7 A",
+   "voltage": "240v",
+   "warranty": "2 years",
+   "finish": "Stainless Steel Construction"
+  }
+ },
+ {
+  "id": "snack2bs",
+  "name": "Hatco - Dual Snack System Interchangeable Plate Press - SNACK2BS",
+  "brand": "Hatco",
+  "mpn": "SNACK2.BS",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SNACK2BS",
+  "known": {
+   "fuel": "electric",
+   "width": "537 mm",
+   "weight": "15 kg",
+   "electricKw": "1.647 kW",
+   "amps": "7.5 A",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "Stainless Steel Construction"
+  }
+ },
+ {
+  "id": "dm874",
+  "name": "Waring DM874 Double Electric Waffle Maker - WW200K",
+  "brand": "Waring",
+  "mpn": "DM874",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DM874",
+  "known": {
+   "fuel": "electric",
+   "width": "265 mm",
+   "depth": "432 mm",
+   "height": "241 mm",
+   "weight": "8.5 kg",
+   "voltage": "230v",
+   "warranty": "1 year",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "sbc40f",
+  "name": "Roller Grill SBC 40 F Chilled Salad Buffet Bar",
+  "brand": "Roller Grill",
+  "mpn": "SBC40F",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SBC40F",
+  "known": {
+   "gnCapacity": "4x 1/1 GN",
+   "wells": "4",
+   "mobility": "true",
+   "width": "1435 mm",
+   "depth": "1435 mm",
+   "height": "1540 mm",
+   "weight": "99 kg",
+   "electricKw": "0.5 kW",
+   "warranty": "2 years",
+   "finish": "White"
+  }
+ },
+ {
+  "id": "gc39d",
+  "name": "Lincat GC39D Glass Display",
+  "brand": "Lincat",
+  "mpn": "GC39D",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GC39D",
+  "known": {
+   "width": "900 mm",
+   "depth": "350 mm",
+   "height": "490 mm",
+   "weight": "44 kg",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ }
+]

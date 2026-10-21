@@ -1,0 +1,168 @@
+[
+ {
+  "id": "rt1300",
+  "name": "Rowlett Rutland RT1300 Conveyor Toaster",
+  "brand": "Rowlett Rutland",
+  "mpn": "RT1300",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_RT1300",
+  "known": {
+   "throughput": "400 slices per hour",
+   "width": "320 mm",
+   "depth": "620 mm",
+   "height": "480 mm",
+   "electricKw": "3 kW",
+   "plug": "plug supplied",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "cn931",
+  "name": "Olympia Spare Food Pan for Olympia Chafing Dish - CN931",
+  "brand": "Olympia",
+  "mpn": "CN931",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CN931",
+  "known": {
+   "volume": "3.7 litres",
+   "width": "330 mm",
+   "depth": "270 mm",
+   "height": "60 mm",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "t759",
+  "name": "T759 Roll Top Cover 1/1 GN",
+  "brand": "APS",
+  "mpn": "T759",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_T759",
+  "known": {
+   "gnCapacity": "1/1 GN",
+   "width": "530 mm",
+   "depth": "325 mm",
+   "height": "170 mm"
+  }
+ },
+ {
+  "id": "cm747",
+  "name": "Olympia CM747 Porcelain Cake Stand",
+  "brand": "Olympia",
+  "mpn": "CM747",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CM747",
+  "known": {
+   "weight": "1.74 kg",
+   "finish": "White"
+  }
+ },
+ {
+  "id": "ck9500",
+  "name": "Cater-Clean CK9500 Multi-Purpose Food Safe Cleaning Spray - 1 Litre Bottle",
+  "brand": "Cater-Clean",
+  "mpn": "CK9500",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK9500",
+  "known": {
+   "radiant": "ceramic",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ck9506",
+  "name": "Cater-Clean CK9500 Multi-Purpose Cleaner - 6 Bottles",
+  "brand": "Cater-Clean",
+  "mpn": "CK9500",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK9506",
+  "known": {
+   "radiant": "ceramic",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "g514dlpg",
+  "name": "Blue Seal G514D 4 Burner Cooktop - LPG",
+  "brand": "Blue Seal",
+  "mpn": "G514D- LPG",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G514DLPG",
+  "known": {
+   "fuel": "gas",
+   "width": "600 mm",
+   "depth": "812 mm",
+   "height": "315 mm",
+   "gasKw": "28 kW",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "1 year",
+   "finish": "stainless steel finish"
+  }
+ },
+ {
+  "id": "g516dlpg",
+  "name": "Blue Seal G516D 6 Burner Cooktop - LPG",
+  "brand": "Blue Seal",
+  "mpn": "G516D - LPG",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G516DLPG",
+  "known": {
+   "fuel": "gas",
+   "width": "900 mm",
+   "depth": "812 mm",
+   "height": "315 mm",
+   "gasKw": "42 kW",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel finish"
+  }
+ },
+ {
+  "id": "g516clpg",
+  "name": "Blue Seal G516C 4 Burner/300mm Griddle Cooktop - LPG",
+  "brand": "Blue Seal",
+  "mpn": "G516C - LPG",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G516CLPG",
+  "known": {
+   "fuel": "gas",
+   "width": "900 mm",
+   "depth": "812 mm",
+   "height": "315 mm",
+   "gasKw": "34 kW",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel finish"
+  }
+ },
+ {
+  "id": "g516blpg",
+  "name": "Blue Seal G516B 2 Burner/600mm Griddle Cooktop - LPG",
+  "brand": "Blue Seal",
+  "mpn": "G516B - LPG",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G516BLPG",
+  "known": {
+   "fuel": "gas",
+   "width": "900 mm",
+   "depth": "812 mm",
+   "height": "315 mm",
+   "gasKw": "26 kW",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel finish"
+  }
+ },
+ {
+  "id": "0s2692",
+  "name": "Electrolux Professional External Liquid Connection Kit For Skyline Combi Ovens",
+  "brand": "Electrolux",
+  "mpn": "0S2692",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_0S2692",
+  "known": {
+   "steam": "boiler",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "cksp0624",
+  "name": "CKSP0624 Red - Black Iron Frypan",
+  "brand": null,
+  "mpn": "CKSP0624",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CKSP0624",
+  "known": {
+   "fuel": "induction",
+   "finish": "Stainless steel"
+  }
+ }
+]

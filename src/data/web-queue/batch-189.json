@@ -1,0 +1,234 @@
+[
+ {
+  "id": "1854",
+  "name": "Parry 1854 Electric Griddle",
+  "brand": "Parry",
+  "mpn": "1854",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_1854",
+  "known": {
+   "plate": "mild steel",
+   "fuel": "electric",
+   "thermostat": "true",
+   "tempRange": "50-300°C",
+   "width": "600 mm",
+   "depth": "520 mm",
+   "height": "240 mm",
+   "weight": "37 kg",
+   "electricKw": "3 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "3014",
+  "name": "Parry 3014 Electric Griddle",
+  "brand": "Parry",
+  "mpn": "3014",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_3014",
+  "known": {
+   "plate": "mild steel",
+   "fuel": "electric",
+   "thermostat": "true",
+   "tempRange": "50 - 300 °C",
+   "width": "900 mm",
+   "depth": "520 mm",
+   "height": "240 mm",
+   "weight": "74 kg",
+   "electricKw": "3 kW",
+   "plug": "13A plug",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ep513",
+  "name": "Blue Seal EP513 450mm Heavy Duty Electric Griddle",
+  "brand": "Blue Seal",
+  "mpn": "EP513",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_EP513",
+  "known": {
+   "cookingWidth": "450 mm",
+   "plate": "ribbed",
+   "fuel": "electric",
+   "thermostat": "true",
+   "tempRange": "50 - 300°C",
+   "splashback": "true",
+   "width": "450 mm",
+   "depth": "812 mm",
+   "height": "315 mm",
+   "electricKw": "6 kW",
+   "amps": "25 A",
+   "voltage": "240V",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "603521",
+  "name": "Electrolux Libero DRLHG Electric Chrome Griddle - 603521",
+  "brand": "Electrolux",
+  "mpn": "603521",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_603521",
+  "known": {
+   "plate": "chrome",
+   "fuel": "electric",
+   "tempRange": "20 - 265°C",
+   "width": "325 mm",
+   "depth": "600 mm",
+   "height": "195 mm",
+   "weight": "18 kg",
+   "electricKw": "2.8 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "Chrome"
+  }
+ },
+ {
+  "id": "pro25ix",
+  "name": "Beko Professional PRO25IX-BP Light Duty Commercial 1000W Microwave",
+  "brand": "Beko Professional",
+  "mpn": "PRO25IX",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PRO25IX",
+  "known": {
+   "microwaveOutput": "1000 W",
+   "width": "511 mm",
+   "depth": "431 mm",
+   "height": "311 mm",
+   "weight": "15 kg",
+   "amps": "6.7 A",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "59602",
+  "name": "Vollrath Mirage Drop-In Induction Hob - 59602",
+  "brand": "Vollrath",
+  "mpn": "59602",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_59602",
+  "known": {
+   "fuel": "induction",
+   "width": "368 mm",
+   "depth": "318 mm",
+   "height": "73 mm",
+   "electricKw": "1.8 kW",
+   "amps": "7.8 A",
+   "voltage": "230V, 50 HZ",
+   "plug": "plug supplied",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "g47",
+  "name": "Blue Seal G47 Single Tank Gas Pasta Boiler",
+  "brand": "Blue Seal",
+  "mpn": "G47",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G47",
+  "known": {
+   "volume": "40 litres",
+   "fuel": "gas",
+   "tilting": "true",
+   "width": "450 mm",
+   "depth": "812 mm",
+   "height": "915 mm",
+   "weight": "83 kg",
+   "electricKw": "7 kW",
+   "gasKw": "13.5 kW",
+   "gasConnection": "3/4 Inch Gas Hose Needed",
+   "warranty": "1 year",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "smartvide7",
+  "name": "Sammic SmartVide 7 Immersion Circulator",
+  "brand": "Sammic",
+  "mpn": "SMARTVIDE7",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SMARTVIDE7",
+  "known": {
+   "width": "124 mm",
+   "depth": "140 mm",
+   "height": "360 mm",
+   "weight": "3.6 kg",
+   "electricKw": "2 kW",
+   "voltage": "230v",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "dk955",
+  "name": "Clifton FL4CA Sous Vide Portable Stirrer",
+  "brand": "Clifton",
+  "mpn": "DK955",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DK955",
+  "known": {
+   "timer": "timer",
+   "lowTemp": "true",
+   "weight": "3.7 kg",
+   "electricKw": "1.25 kW",
+   "amps": "5.4 A",
+   "voltage": "230v",
+   "warranty": "2 years",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "svp100",
+  "name": "Sammic SVP-100 Sous-Vide Cooker",
+  "brand": "Sammic",
+  "mpn": "SVP100",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SVP100",
+  "known": {
+   "timer": "timer can be set between 1 minute and 99 hour",
+   "lowTemp": "true",
+   "width": "122 mm",
+   "depth": "132 mm",
+   "height": "148 mm",
+   "voltage": "230V",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "svc422d",
+  "name": "Sammic SVC-4-22D Sous-Vide - Unstirred Digital Bath",
+  "brand": "Sammic",
+  "mpn": "SVC422D",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SVC422D",
+  "known": {
+   "timer": "timer can be set between 1 minute and 99 hour",
+   "lowTemp": "true",
+   "width": "300 mm",
+   "weight": "17 kg",
+   "electricKw": "1.25 kW",
+   "amps": "13 A",
+   "warranty": "1 year",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "db4s",
+  "name": "Dualit DB4S / DB4SP Vario 4 Slot Toasters",
+  "brand": "Dualit",
+  "mpn": "DB4S/DB4SP",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DB4S",
+  "known": {
+   "fuel": "electric",
+   "throughput": "130 slices per hour",
+   "timer": "timer will click off from 0",
+   "plates": "4",
+   "width": "360 mm",
+   "depth": "210 mm",
+   "height": "220 mm",
+   "electricKw": "2.2 kW",
+   "amps": "13 A",
+   "plug": "plug supplied",
+   "warranty": "1 year",
+   "finish": "white"
+  }
+ }
+]

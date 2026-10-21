@@ -1,0 +1,197 @@
+[
+ {
+  "id": "k772",
+  "name": "Matfer Bourgeat 25 Litre Excellence Stock Pot - 10193-03",
+  "brand": "Matfer Bourgeat",
+  "mpn": "10193-03",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_K772",
+  "known": {
+   "volume": "25 litres",
+   "fuel": "induction",
+   "width": "455 mm",
+   "depth": "340 mm",
+   "height": "325 mm",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "italgitoscaauto",
+  "name": "Italgi Tosca Automatic Pasta or Noodle Station",
+  "brand": "tosca auto",
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ITALGITOSCAAUTO",
+  "known": {
+   "fuel": "induction",
+   "heating": "bain marie",
+   "width": "1310 mm",
+   "depth": "800 mm",
+   "height": "900 mm",
+   "electricKw": "10.4 kW",
+   "voltage": "415v",
+   "phase": "three",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "italgitoscatank",
+  "name": "Italgi Tosca Tank Mobile Automatic Pasta or Noodle Station",
+  "brand": null,
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ITALGITOSCATANK",
+  "known": {
+   "fuel": "induction",
+   "heating": "bain marie",
+   "width": "1310 mm",
+   "depth": "800 mm",
+   "height": "900 mm",
+   "electricKw": "10.4 kW",
+   "voltage": "415v",
+   "phase": "three",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "italginabuccoauto",
+  "name": "Italgi Nabucco Automatic Pasta or Noodle Station",
+  "brand": null,
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ITALGINABUCCOAUTO",
+  "known": {
+   "fuel": "induction",
+   "heating": "bain marie",
+   "width": "1310 mm",
+   "depth": "800 mm",
+   "height": "900 mm",
+   "electricKw": "10.8 kW",
+   "voltage": "415v",
+   "phase": "three",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "fr224",
+  "name": "Vogue FR224 Insulated Pizza Bag Grey",
+  "brand": "Vogue",
+  "mpn": "FR224",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FR224",
+  "known": {
+   "width": "495 mm",
+   "depth": "495 mm",
+   "height": "320 mm",
+   "weight": "1.05 kg",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "hsv1000uk",
+  "name": "Hamilton Beach HSV1000-UK Commercial Sous Vide Immersion Circulator",
+  "brand": "HAMILTON BEACH",
+  "mpn": "HSV1000-UK",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HSV1000UK",
+  "known": {
+   "timer": "timer lets you select up to 99 hours",
+   "width": "89 mm",
+   "depth": "1900 mm",
+   "height": "324 mm",
+   "voltage": "120V",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cd305",
+  "name": "Dualit 2 Slice Vario Toaster Metallic Silver 20242",
+  "brand": "Dualit",
+  "mpn": "CD304",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CD305",
+  "known": {
+   "fuel": "charcoal",
+   "throughput": "65 slices/hr",
+   "timer": "timer allows precise toasting control",
+   "weight": "3.5 kg",
+   "electricKw": "1.2 kW",
+   "voltage": "230V",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "f208",
+  "name": "Dualit 2 Slice Vario Toaster 20245",
+  "brand": "Dualit",
+  "mpn": "F208",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_F208",
+  "known": {
+   "throughput": "65 slices/hr",
+   "timer": "timer ensures bread is browned to perfection",
+   "weight": "3.5 kg",
+   "electricKw": "1.2 kW",
+   "amps": "5.2 A",
+   "voltage": "230V",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "cb982",
+  "name": "Dualit 2 Slice Vario Toaster Black 20237",
+  "brand": "Dualit",
+  "mpn": "CB982",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CB982",
+  "known": {
+   "throughput": "65 slices/hr",
+   "timer": "timer",
+   "weight": "3.5 kg",
+   "electricKw": "1.2 kW",
+   "amps": "5.2 A",
+   "voltage": "230V",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "cd304",
+  "name": "Dualit 2 Slice Vario Toaster Metallic Charcoal 20241",
+  "brand": "Dualit",
+  "mpn": "CD304",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CD304",
+  "known": {
+   "fuel": "charcoal",
+   "throughput": "65 slices/hr",
+   "timer": "timer allows precise toasting control",
+   "weight": "3.5 kg",
+   "electricKw": "1.2 kW",
+   "voltage": "230V",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ch170",
+  "name": "Rowlett Premier 4 Slot Toaster - HW900",
+  "brand": "ROWLETT",
+  "mpn": "HW900",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CH170",
+  "known": {
+   "fuel": "electric",
+   "timer": "timer",
+   "plates": "4",
+   "weight": "6.639 kg",
+   "voltage": "240V",
+   "warranty": "3 years",
+   "finish": "stainless steel finish"
+  }
+ },
+ {
+  "id": "ch172",
+  "name": "Rowlett CH172 Regent Toaster Stainless Steel - 4 Slot with 2x Additional Elements",
+  "brand": "Rowlett",
+  "mpn": "CH172",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CH172",
+  "known": {
+   "timer": "timer helps achieve consistent results",
+   "plates": "4",
+   "width": "402 mm",
+   "weight": "7.2 kg",
+   "voltage": "240 V",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ }
+]

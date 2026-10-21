@@ -1,0 +1,247 @@
+[
+ {
+  "id": "hphhc993",
+  "name": "Henny Penny Half Size SmartHold Holding Cabinet - HHC-993",
+  "brand": "Henny Penny",
+  "mpn": "HHC-993",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HPHHC993",
+  "known": {
+   "volume": "11.4 litres",
+   "shelves": "5",
+   "width": "628 mm",
+   "depth": "806 mm",
+   "height": "965 mm",
+   "weight": "100 kg",
+   "electricKw": "2 kW",
+   "voltage": "220V",
+   "phase": "single",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "parry1894",
+  "name": "Parry 1894 Mobile Servery",
+  "brand": "Parry",
+  "mpn": "1894",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PARRY1894",
+  "known": {
+   "gnCapacity": "4 x 1/3 Gastronorm",
+   "heatType": "dry",
+   "wells": "4",
+   "volume": "4.25 litres",
+   "mobility": "true",
+   "width": "845 mm",
+   "depth": "530 mm",
+   "height": "975 mm",
+   "weight": "69 kg",
+   "electricKw": "1.6 kW",
+   "voltage": "230V",
+   "plug": "13A plug",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "hot18bm",
+  "name": "Parry HOT18BM Dry Heat Bain Marie Topped Mobile Hot Cupboard",
+  "brand": "Parry",
+  "mpn": "HOT18BM",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HOT18BM",
+  "known": {
+   "gnCapacity": "5 x 1/1 GN",
+   "heatType": "dry",
+   "wells": "5",
+   "plateCapacity": "540",
+   "mobility": "true",
+   "width": "1800 mm",
+   "depth": "650 mm",
+   "height": "900 mm",
+   "weight": "128.5 kg",
+   "electricKw": "3 kW",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ck8150",
+  "name": "Cater-Cook CK8150 Curved Glass Servery Unit / Hot Cupboard With Bain Marie Top",
+  "brand": "Cater-Cook",
+  "mpn": "CK8150",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK8150",
+  "known": {
+   "gnCapacity": "4 x 1/1 Gastronorm",
+   "heatType": "wet",
+   "mobility": "true",
+   "tempRange": "30°C to 80°C",
+   "width": "1500 mm",
+   "depth": "765 mm",
+   "height": "1210 mm",
+   "weight": "300 kg",
+   "electricKw": "5 kW",
+   "amps": "21 A",
+   "voltage": "230V",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel finish"
+  }
+ },
+ {
+  "id": "lincatp8p3",
+  "name": "Lincat Panther P8P3 / P8P3PT Mobile Hot Cupboards",
+  "brand": "Lincat",
+  "mpn": "P8P3",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LINCATP8P3",
+  "known": {
+   "mobility": "true",
+   "width": "1125 mm",
+   "depth": "800 mm",
+   "height": "900 mm",
+   "electricKw": "1.5 kW",
+   "amps": "6.5 A",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "lincatp8p4",
+  "name": "Lincat Panther P8P4 / P8P4PT Mobile Hot Cupboards",
+  "brand": "Lincat",
+  "mpn": "P8P4",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LINCATP8P4",
+  "known": {
+   "mobility": "true",
+   "width": "1530 mm",
+   "depth": "800 mm",
+   "height": "900 mm",
+   "electricKw": "2.5 kW",
+   "amps": "10.9 A",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "lincatp8p6",
+  "name": "Lincat Panther P8P6 / P8P6PT Mobile Hot Cupboards",
+  "brand": "Lincat",
+  "mpn": "P8P6",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LINCATP8P6",
+  "known": {
+   "mobility": "true",
+   "width": "2100 mm",
+   "depth": "800 mm",
+   "height": "900 mm",
+   "electricKw": "2.5 kW",
+   "amps": "10.9 A",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "easycutkebabknife",
+  "name": "Easy Cut Metal Kebab Knife",
+  "brand": "Easy Cut",
+  "mpn": "Kebab Knife",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_EASYCUTKEBABKNIFE",
+  "known": {
+   "throughput": "30kg/hour",
+   "capacityKg": "30 kg",
+   "width": "110 mm",
+   "depth": "95 mm",
+   "height": "230 mm",
+   "weight": "1 kg",
+   "electricKw": "0.12 kW",
+   "warranty": "1 year",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "gr60vc",
+  "name": "Roller Grill GR60VC Infrared 3 Burner Electric Kebab Machine",
+  "brand": "Roller Grill",
+  "mpn": "GR60VC",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GR60VC",
+  "known": {
+   "fuel": "electric",
+   "capacityKg": "25 kg",
+   "width": "580 mm",
+   "depth": "660 mm",
+   "height": "870 mm",
+   "weight": "31 kg",
+   "electricKw": "5.8 kW",
+   "voltage": "380v",
+   "phase": "three",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "gr80vc",
+  "name": "Roller Grill GR80VC Infrared 4 Burner Electric Kebab Machine",
+  "brand": "Roller Grill",
+  "mpn": "GR80VC",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GR80VC",
+  "known": {
+   "fuel": "electric",
+   "capacityKg": "25 kg",
+   "width": "580 mm",
+   "depth": "660 mm",
+   "height": "870 mm",
+   "weight": "35 kg",
+   "electricKw": "7.2 kW",
+   "voltage": "380v",
+   "phase": "three",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "gr100vc",
+  "name": "Roller Grill GR100VC Infrared 5 Burner Electric Kebab Machine",
+  "brand": "Roller Grill",
+  "mpn": "GR100VC",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GR100VC",
+  "known": {
+   "fuel": "electric",
+   "capacityKg": "60 kg",
+   "width": "580 mm",
+   "depth": "660 mm",
+   "height": "870 mm",
+   "weight": "39 kg",
+   "electricKw": "9 kW",
+   "voltage": "380v",
+   "phase": "three",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ps520g",
+  "name": "Middleby Marshall PS520G Countertop Gas Conveyor Oven - 37.5\" Wide",
+  "brand": "Middleby Marshall",
+  "mpn": "PS520G",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PS520G",
+  "known": {
+   "pizzaSize": "5\"",
+   "chamber": "chamber with 18\" (457",
+   "fuel": "gas",
+   "width": "1367 mm",
+   "depth": "951 mm",
+   "height": "536 mm",
+   "weight": "147 kg",
+   "gasKw": "12 kW",
+   "amps": "1.5 A",
+   "voltage": "240V 50Hz",
+   "phase": "single",
+   "gasConnection": "1/2\" Inch Connection",
+   "warranty": "3 years",
+   "finish": "Stainless steel"
+  }
+ }
+]

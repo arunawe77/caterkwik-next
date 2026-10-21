@@ -1,0 +1,140 @@
+[
+ {
+  "id": "y261",
+  "name": "Vogue Tri Wall Wok Flat Base 305mm - Y261",
+  "brand": "Vogue",
+  "mpn": "Y261",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_Y261",
+  "known": {
+   "fuel": "induction",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "gd065",
+  "name": "Vogue Carbon Steel Blini Pan 130mm - GD065",
+  "brand": "Vogue",
+  "mpn": "GD065",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GD065",
+  "known": {
+   "fuel": "induction",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "gd006",
+  "name": "Vogue GD006 Black Iron Induction Frying Pan 305mm",
+  "brand": "Vogue",
+  "mpn": "GD006",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GD006",
+  "known": {
+   "volume": "3.22 litres",
+   "fuel": "induction"
+  }
+ },
+ {
+  "id": "cc408",
+  "name": "Hygiplas CC408 Pizza Wheel Green 4\"",
+  "brand": "Hygiplas",
+  "mpn": "CC408",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CC408",
+  "known": {
+   "pizzaSize": "4\"",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cc856",
+  "name": "Clifton Sous Vide Machine FL08D",
+  "brand": "Clifton",
+  "mpn": "FL08D",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CC856",
+  "known": {
+   "timer": "timer function has a range from as little as",
+   "width": "322 mm",
+   "depth": "270 mm",
+   "height": "290 mm",
+   "voltage": "230V",
+   "plug": "Plug supplied",
+   "warranty": "2 years",
+   "finish": "Stainless Steel construction"
+  }
+ },
+ {
+  "id": "bthook",
+  "name": "Bradley Smoker Sausage Hooks - Set of 4",
+  "brand": "Bradley Smokers",
+  "mpn": "BTHOOK",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BTHOOK",
+  "known": {
+   "fuel": "induction",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "bthb48",
+  "name": "Bradley Smoker BTHB48 Hunters Blend Premium Bisquette - 48 Pack",
+  "brand": "Bradley Smokers",
+  "mpn": "BTHB48",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BTHB48",
+  "known": {
+   "fuel": "induction",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "btgs48",
+  "name": "Bradley Smoker BTGS48 Ginger Sesame Premium Bisquette - 48 Pack",
+  "brand": "Bradley Smoker",
+  "mpn": "BTGS48",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BTGS48",
+  "known": {
+   "fuel": "induction",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "btbr48",
+  "name": "Bradley Smoker BTBR48 Beer Premium Bisquette - 48 Pack",
+  "brand": "Bradley Smoker",
+  "mpn": "BTBR48",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BTBR48",
+  "known": {
+   "fuel": "induction",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "btcb48",
+  "name": "Bradley Smoker BTCB48 Caribbean Blend Premium Bisquette - 48 Pack",
+  "brand": "Bradley Smoker",
+  "mpn": "BTCB48",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BTCB48",
+  "known": {
+   "fuel": "induction",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "btcc48",
+  "name": "Bradley Smoker BTCC48 Chili Cumin Premium Bisquette - 48 Pack",
+  "brand": "Bradley Smoker",
+  "mpn": "BTCC48",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BTCC48",
+  "known": {
+   "fuel": "induction",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "btsg48",
+  "name": "Bradley Smoker BTSG48 Sage Premium Bisquette - 48 Pack",
+  "brand": "Bradley Smoker",
+  "mpn": "BTSG48",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BTSG48",
+  "known": {
+   "fuel": "induction",
+   "finish": "Black Finish"
+  }
+ }
+]

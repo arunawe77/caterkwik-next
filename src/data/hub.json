@@ -1,0 +1,569 @@
+{
+ "types": [
+  {
+   "slug": "4-burner",
+   "label": "4 Burner Ovens",
+   "audience": "Smaller sites, pubs and cafes where the run is tight and the covers are moderate.",
+   "cooking": [
+    "pans"
+   ],
+   "supply": [
+    "gas",
+    "lpg"
+   ],
+   "covers": [
+    "c40",
+    "c80"
+   ]
+  },
+  {
+   "slug": "6-burner-range",
+   "label": "6 Burner Ovens",
+   "audience": "The backbone of most commercial kitchens. Six burners over an oven, almost always 900 mm wide.",
+   "cooking": [
+    "pans"
+   ],
+   "supply": [
+    "gas",
+    "lpg"
+   ],
+   "covers": [
+    "c80",
+    "c150",
+    "c300"
+   ]
+  },
+  {
+   "slug": "8-burner",
+   "label": "8 Burner Ovens",
+   "audience": "High-output kitchens running several services at once.",
+   "cooking": [
+    "pans"
+   ],
+   "supply": [
+    "gas",
+    "lpg"
+   ],
+   "covers": [
+    "c150",
+    "c300",
+    "c300p"
+   ]
+  },
+  {
+   "slug": "10_burner_commercial_ovens",
+   "label": "10 Burner Ovens",
+   "audience": "The largest gas ranges, for hotel and banqueting kitchens.",
+   "cooking": [
+    "pans"
+   ],
+   "supply": [
+    "gas",
+    "lpg"
+   ],
+   "covers": [
+    "c300",
+    "c300p"
+   ]
+  },
+  {
+   "slug": "convectionovens",
+   "label": "Convection Ovens - Electric",
+   "audience": "Baking and pastry on an electric supply. Their largest oven category by some distance.",
+   "cooking": [
+    "trays",
+    "roast"
+   ],
+   "supply": [
+    "elec1",
+    "elec3"
+   ],
+   "covers": [
+    "c40",
+    "c80",
+    "c150",
+    "c300",
+    "c300p"
+   ]
+  },
+  {
+   "slug": "gas_convection_ovens",
+   "label": "Convection Ovens - Gas",
+   "audience": "Fan-assisted baking where the site has gas rather than the three-phase for electric.",
+   "cooking": [
+    "trays",
+    "roast"
+   ],
+   "supply": [
+    "gas",
+    "lpg"
+   ],
+   "covers": [
+    "c80",
+    "c150",
+    "c300",
+    "c300p"
+   ]
+  },
+  {
+   "slug": "convection_ovens_with_griddle",
+   "label": "Convection Ovens With Griddle",
+   "audience": "A fan oven with griddle space above it, for breakfast and grill service. Gas and electric models.",
+   "cooking": [
+    "trays",
+    "pans"
+   ],
+   "supply": [
+    "gas",
+    "lpg",
+    "elec1",
+    "elec3"
+   ],
+   "covers": [
+    "c80",
+    "c150",
+    "c300"
+   ]
+  },
+  {
+   "slug": "cook--hold--ovens",
+   "label": "Cook & Hold Ovens",
+   "audience": "Low-temperature overnight cooking, then holding at service temperature. Electric.",
+   "cooking": [
+    "roast"
+   ],
+   "supply": [
+    "elec1",
+    "elec3"
+   ],
+   "covers": [
+    "c80",
+    "c150",
+    "c300",
+    "c300p"
+   ]
+  },
+  {
+   "slug": "domestic_ovens",
+   "label": "Domestic Ovens",
+   "audience": "Domestic models for light or front-of-house use.",
+   "cooking": [
+    "pans",
+    "trays"
+   ],
+   "supply": [
+    "elec1"
+   ],
+   "covers": [
+    "c40"
+   ]
+  },
+  {
+   "slug": "burner-drop-in-equipment",
+   "label": "Drop In Equipment",
+   "audience": "Units that drop into a fabricated counter. Today that is a bain marie and a ceramic hob rather than an oven.",
+   "cooking": [
+    "pans"
+   ],
+   "supply": [
+    "elec1"
+   ],
+   "covers": [
+    "c40",
+    "c80"
+   ]
+  },
+  {
+   "slug": "dual-fuel",
+   "label": "Dual Fuel Commercial Ovens",
+   "audience": "A gas hob over an electric oven: gas control on top, even heat below.",
+   "cooking": [
+    "pans",
+    "trays"
+   ],
+   "supply": [
+    "gas",
+    "lpg"
+   ],
+   "covers": [
+    "c80",
+    "c150",
+    "c300"
+   ]
+  },
+  {
+   "slug": "electric-ovens-boiling-tops",
+   "label": "Electric Ovens/Ranges",
+   "audience": "Where there is no gas supply, or where the extraction rules it out.",
+   "cooking": [
+    "pans"
+   ],
+   "supply": [
+    "elec1",
+    "elec3"
+   ],
+   "covers": [
+    "c40",
+    "c80",
+    "c150",
+    "c300",
+    "c300p"
+   ]
+  },
+  {
+   "slug": "electric_ovens_with_griddle",
+   "label": "Electric Ovens With Griddle",
+   "audience": "Electric ranges with griddle space built into the top.",
+   "cooking": [
+    "pans"
+   ],
+   "supply": [
+    "elec1",
+    "elec3"
+   ],
+   "covers": [
+    "c80",
+    "c150",
+    "c300"
+   ]
+  },
+  {
+   "slug": "gas_ovens_with_griddle",
+   "label": "Gas Ovens With Griddle",
+   "audience": "Gas ranges with a griddle plate, for grill-led menus.",
+   "cooking": [
+    "pans"
+   ],
+   "supply": [
+    "gas",
+    "lpg"
+   ],
+   "covers": [
+    "c80",
+    "c150",
+    "c300"
+   ]
+  },
+  {
+   "slug": "hoblessovens",
+   "label": "Hobless Ovens",
+   "audience": "Oven only, to sit under a separate hob or in a bakery line. Electric.",
+   "cooking": [
+    "trays",
+    "roast"
+   ],
+   "supply": [
+    "elec1",
+    "elec3"
+   ],
+   "covers": [
+    "c40",
+    "c80",
+    "c150",
+    "c300",
+    "c300p"
+   ]
+  },
+  {
+   "slug": "_induction-cooking_",
+   "label": "Induction Ovens",
+   "audience": "Induction tops: fast, controllable, and far less waste heat in the kitchen.",
+   "cooking": [
+    "pans"
+   ],
+   "supply": [
+    "elec1",
+    "elec3"
+   ],
+   "covers": [
+    "c40",
+    "c80",
+    "c150",
+    "c300",
+    "c300p"
+   ]
+  },
+  {
+   "slug": "potato_ovens",
+   "label": "Potato Ovens",
+   "audience": "Jacket potato ovens for cafes, market stalls and event catering. Plug-in electric.",
+   "cooking": [
+    "potato"
+   ],
+   "supply": [
+    "elec1"
+   ],
+   "covers": [
+    "c40",
+    "c80",
+    "c150"
+   ]
+  },
+  {
+   "slug": "rotisserie_ovens_electric",
+   "label": "Rotisserie Ovens - Electric",
+   "audience": "Chicken rotisseries on an electric supply, for counter and takeaway service.",
+   "cooking": [
+    "rotisserie"
+   ],
+   "supply": [
+    "elec1",
+    "elec3"
+   ],
+   "covers": [
+    "c40",
+    "c80",
+    "c150",
+    "c300",
+    "c300p"
+   ]
+  },
+  {
+   "slug": "rotisserie-ovens",
+   "label": "Rotisserie Ovens - Gas",
+   "audience": "Gas rotisseries, usually the cheaper option to run at volume.",
+   "cooking": [
+    "rotisserie"
+   ],
+   "supply": [
+    "gas",
+    "lpg"
+   ],
+   "covers": [
+    "c40",
+    "c80",
+    "c150",
+    "c300",
+    "c300p"
+   ]
+  },
+  {
+   "slug": "solid-top-ranges",
+   "label": "Solid Top Ovens",
+   "audience": "A single solid plate instead of burners: move the pan to change the heat. Gas and electric.",
+   "cooking": [
+    "pans",
+    "roast"
+   ],
+   "supply": [
+    "gas",
+    "lpg",
+    "elec3"
+   ],
+   "covers": [
+    "c150",
+    "c300",
+    "c300p"
+   ]
+  },
+  {
+   "slug": "tandoori_ovens",
+   "label": "Tandoori Ovens",
+   "audience": "Clay tandoors for Indian kitchens. One gas, one charcoal.",
+   "cooking": [
+    "tandoor"
+   ],
+   "supply": [
+    "gas",
+    "solid"
+   ],
+   "covers": [
+    "c40",
+    "c80",
+    "c150",
+    "c300",
+    "c300p"
+   ]
+  },
+  {
+   "slug": "wood-fired-ovens",
+   "label": "Wood Fired Ovens",
+   "audience": "Wood-fired ovens for pizza and bread, indoor and mobile.",
+   "cooking": [
+    "pizza",
+    "trays"
+   ],
+   "supply": [
+    "solid"
+   ],
+   "covers": [
+    "c40",
+    "c80",
+    "c150",
+    "c300",
+    "c300p"
+   ]
+  },
+  {
+   "slug": "charcoal-oven",
+   "label": "Charcoal Ovens & Grills",
+   "audience": "Sealed charcoal ovens: the flavour of an open grill with the extraction of a closed oven.",
+   "cooking": [
+    "charcoal",
+    "roast"
+   ],
+   "supply": [
+    "solid"
+   ],
+   "covers": [
+    "c40",
+    "c80",
+    "c150",
+    "c300",
+    "c300p"
+   ]
+  }
+ ],
+ "finder": {
+  "eyebrow": "Oven finder",
+  "heading": "Which kind of oven does your kitchen need?",
+  "lead": "Pick the picture of what you cook, then your supply and your covers. The types below narrow as you go.",
+  "steps": {
+   "cooking": "What are you cooking?",
+   "supply": "What supply have you got?",
+   "covers": "How many covers at your busiest service?"
+  },
+  "cookings": [
+   {
+    "value": "pans",
+    "label": "Pans on burners",
+    "hint": "General service",
+    "photo": "6-burner-range"
+   },
+   {
+    "value": "trays",
+    "label": "Trays and bakes",
+    "hint": "Pastry, bread, batch",
+    "photo": "convectionovens"
+   },
+   {
+    "value": "roast",
+    "label": "Roasting and holding",
+    "hint": "Joints, overnight",
+    "photo": "cook--hold--ovens"
+   },
+   {
+    "value": "pizza",
+    "label": "Pizza",
+    "hint": "Deck or wood-fired",
+    "photo": "wood-fired-ovens"
+   },
+   {
+    "value": "tandoor",
+    "label": "Tandoor",
+    "hint": "Naan and tikka",
+    "photo": "tandoori_ovens"
+   },
+   {
+    "value": "rotisserie",
+    "label": "Rotisserie",
+    "hint": "Chicken on the spit",
+    "photo": "rotisserie-ovens"
+   },
+   {
+    "value": "potato",
+    "label": "Jacket potatoes",
+    "hint": "Counter and events",
+    "photo": "potato_ovens"
+   },
+   {
+    "value": "charcoal",
+    "label": "Charcoal grill",
+    "hint": "Steak and flame",
+    "photo": "charcoal-oven"
+   }
+  ],
+  "supplies": [
+   {
+    "value": "gas",
+    "label": "Mains natural gas",
+    "icon": "gas"
+   },
+   {
+    "value": "lpg",
+    "label": "Bottled LPG",
+    "icon": "lpg"
+   },
+   {
+    "value": "elec1",
+    "label": "Electric, 13A or single phase",
+    "icon": "elec1"
+   },
+   {
+    "value": "elec3",
+    "label": "Electric, three phase",
+    "icon": "elec3"
+   },
+   {
+    "value": "solid",
+    "label": "Wood or charcoal",
+    "icon": "solid"
+   },
+   {
+    "value": "any",
+    "label": "Not decided yet",
+    "icon": "any"
+   }
+  ],
+  "covers": [
+   {
+    "value": "c40",
+    "label": "Up to 40",
+    "n": 1
+   },
+   {
+    "value": "c80",
+    "label": "40 to 80",
+    "n": 2
+   },
+   {
+    "value": "c150",
+    "label": "80 to 150",
+    "n": 3
+   },
+   {
+    "value": "c300",
+    "label": "150 to 300",
+    "n": 4
+   },
+   {
+    "value": "c300p",
+    "label": "300 or more",
+    "n": 5
+   }
+  ],
+  "chips": [
+   {
+    "label": "Gas ranges",
+    "set": {
+     "cooking": "pans",
+     "supply": "gas"
+    }
+   },
+   {
+    "label": "Electric only",
+    "set": {
+     "supply": "elec1"
+    }
+   },
+   {
+    "label": "Baking",
+    "set": {
+     "cooking": "trays"
+    }
+   },
+   {
+    "label": "Pizza and wood",
+    "set": {
+     "cooking": "pizza"
+    }
+   },
+   {
+    "label": "Chicken",
+    "set": {
+     "cooking": "rotisserie"
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,131 @@
+[
+ {
+  "id": "gf124",
+  "name": "GF124 APS Pure White Melamine Tray GN 1/3",
+  "brand": "APS",
+  "mpn": "GF124",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF124",
+  "known": {
+   "gnCapacity": "1/3GN"
+  }
+ },
+ {
+  "id": "gf125",
+  "name": "GF125 APS Pure Black Melamine Tray GN 1/3",
+  "brand": "APS",
+  "mpn": "GF125",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF125",
+  "known": {
+   "gnCapacity": "1/3GN"
+  }
+ },
+ {
+  "id": "gf122",
+  "name": "GF122 APS Pure White Melamine Tray GN ½",
+  "brand": "APS",
+  "mpn": "GF122",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF122",
+  "known": {
+   "gnCapacity": "1/2GN"
+  }
+ },
+ {
+  "id": "gf123",
+  "name": "GF123 APS Pure Black Melamine Tray GN ½",
+  "brand": "APS",
+  "mpn": "GF123",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF123",
+  "known": {
+   "gnCapacity": "1/2GN"
+  }
+ },
+ {
+  "id": "gf128",
+  "name": "GF128 APS Pure White Melamine Tray GN 2/4",
+  "brand": "APS",
+  "mpn": "GF128",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF128",
+  "known": {
+   "gnCapacity": "2/4GN"
+  }
+ },
+ {
+  "id": "gf129",
+  "name": "GF129 APS Pure Black Melamine Tray GN 2/4",
+  "brand": "APS",
+  "mpn": "GF129",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF129",
+  "known": {
+   "gnCapacity": "2/4GN"
+  }
+ },
+ {
+  "id": "gn561",
+  "name": "APS GN561 Oak Effect Rectangle Handled Paddle Board 400mm",
+  "brand": "APS",
+  "mpn": "GN561",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GN561",
+  "known": {
+   "width": "400 mm",
+   "depth": "200 mm",
+   "height": "15 mm"
+  }
+ },
+ {
+  "id": "gn562",
+  "name": "APS GN562 Oak Effect Rectangle Handled Paddle Board 480mm.",
+  "brand": "APS",
+  "mpn": "GN562",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GN562",
+  "known": {
+   "width": "480 mm",
+   "depth": "200 mm",
+   "height": "15 mm"
+  }
+ },
+ {
+  "id": "gf120",
+  "name": "GF120 APS Pure White Melamine Tray GN 1/1",
+  "brand": "APS",
+  "mpn": "GF120",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF120",
+  "known": {
+   "gnCapacity": "1/1GN"
+  }
+ },
+ {
+  "id": "gf121",
+  "name": "GF121 APS Pure Black Melamine Tray GN 1/1",
+  "brand": "APS",
+  "mpn": "GF121",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF121",
+  "known": {
+   "gnCapacity": "1/1GN"
+  }
+ },
+ {
+  "id": "922747",
+  "name": "Electrolux Professional Double-Faced Griddle Plate 600 x 400mm - 922747",
+  "brand": "Electrolux",
+  "mpn": "922747",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922747",
+  "known": {
+   "width": "400 mm",
+   "depth": "600 mm",
+   "height": "15 mm"
+  }
+ },
+ {
+  "id": "922752",
+  "name": "Electrolux Professional Grease Collection Trolley - 922752",
+  "brand": "Electrolux",
+  "mpn": "922752",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922752",
+  "known": {
+   "width": "446 mm",
+   "depth": "514 mm",
+   "height": "351 mm",
+   "weight": "28 kg"
+  }
+ }
+]

@@ -1,0 +1,204 @@
+[
+ {
+  "id": "jd340",
+  "name": "Buffalo JD340 High Speed Oven",
+  "brand": "Buffalo",
+  "mpn": "JD340",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_JD340",
+  "known": {
+   "width": "406 mm",
+   "weight": "60.7 kg",
+   "voltage": "230 V",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cfheatlamp",
+  "name": "Cater-Fabs Stainless Steel Heat Lamp Assembly with Infrared Quartz Bulbs",
+  "brand": "Cater-Fabs",
+  "mpn": "CFHEATLAMP",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CFHEATLAMP",
+  "known": {
+   "bulbs": "Heat Lamp Assembly with Infrared Quartz",
+   "width": "945 mm",
+   "depth": "135 mm",
+   "height": "70 mm",
+   "electricKw": "0.9 kW",
+   "warranty": "1 year",
+   "finish": "Stainless Steel Construction"
+  }
+ },
+ {
+  "id": "xwh14",
+  "name": "Inomak XWH14 Quartz Heated Box",
+  "brand": "Inomak",
+  "mpn": "XWH14",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_XWH14",
+  "known": {
+   "bulbs": "halogen lamps",
+   "width": "1250 mm",
+   "depth": "120 mm",
+   "height": "50 mm",
+   "weight": "5 kg",
+   "electricKw": "0.6 kW",
+   "amps": "13 A",
+   "warranty": "1 year",
+   "finish": "stainless steel exterior"
+  }
+ },
+ {
+  "id": "bl70h1",
+  "name": "Victor Banquetline 70 Holding Cabinet 32 x GN 1/1 - BL70H1",
+  "brand": "Victor",
+  "mpn": "BL70H1",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BL70H1",
+  "known": {
+   "shelves": "4",
+   "mobility": "true",
+   "electricKw": "1.5 kW",
+   "amps": "6.3 A",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "dhb2pt20pub",
+  "name": "Prince Castle DHB2PT-20PUB 2 x 1/1GN Holding Tray",
+  "brand": "Prince Castle",
+  "mpn": "DHB2PT-20PUB",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DHB2PT20PUB",
+  "known": {
+   "gnCapacity": "2 x 1/1GN",
+   "wells": "2",
+   "width": "484 mm",
+   "depth": "610 mm",
+   "height": "302 mm",
+   "electricKw": "1.9 kW",
+   "amps": "13 A",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "lincatp6b2",
+  "name": "Lincat Panther P6B2 Bain Marie Top Mobile Hot Cupboard",
+  "brand": "Lincat",
+  "mpn": "P6B2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LINCATP6B2",
+  "known": {
+   "gnCapacity": "2 x 1/1 GN",
+   "heatType": "dry",
+   "wells": "2",
+   "mobility": "true",
+   "width": "900 mm",
+   "depth": "670 mm",
+   "height": "900 mm",
+   "weight": "80 kg",
+   "electricKw": "2.6 kW",
+   "amps": "11.3 A",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "archway5burner",
+  "name": "Archway 5BSTD 5 Burner Doner Kebab Machine",
+  "brand": "Archway",
+  "mpn": "5BSTD",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAY5BURNER",
+  "known": {
+   "fuel": "gas",
+   "width": "565 mm",
+   "depth": "655 mm",
+   "height": "1250 mm",
+   "weight": "45 kg",
+   "amps": "5 A",
+   "lpgKw": "14 kW",
+   "voltage": "230V 50HZ",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "sej21000",
+  "name": "TG - Wood Grain 50 Cups 14Ltr Rice Warmer SEJ21000",
+  "brand": "Thunder Group",
+  "mpn": "SEJ21000",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SEJ21000",
+  "known": {
+   "volume": "14 litres",
+   "width": "393 mm",
+   "depth": "393 mm",
+   "height": "387 mm",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "5rsw5400",
+  "name": "Roband SW5400 Rice Cookers",
+  "brand": "Roband",
+  "mpn": "SW5400",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_5RSW5400",
+  "known": {
+   "volume": "5.4 litres",
+   "depth": "370 mm",
+   "height": "360 mm",
+   "electricKw": "1.7 kW",
+   "amps": "10 A",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "sw6000",
+  "name": "Roband SW6000 Rice Cooker & Warmer",
+  "brand": "Roband",
+  "mpn": "5RSW6000",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SW6000",
+  "known": {
+   "depth": "470 mm",
+   "height": "360 mm",
+   "electricKw": "1.65 kW",
+   "amps": "10 A",
+   "warranty": "1 year",
+   "finish": "stainless steel body"
+  }
+ },
+ {
+  "id": "ps3240e",
+  "name": "Middleby Marshall PS3240E Countertop Electric Conveyor Oven - 33.5\" Wide",
+  "brand": "Middleby Marshall",
+  "mpn": "PS3240E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PS3240E",
+  "known": {
+   "pizzaSize": "5\"",
+   "fuel": "electric",
+   "width": "1943 mm",
+   "depth": "1524 mm",
+   "height": "1197 mm",
+   "weight": "499 kg",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "3 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "mix85rkmosaic",
+  "name": "AS Term MIX85RK Wood-Gas Fired Rotating Base Pizza Oven 4 x 12\" Pizzas - Mosaic Finish (Colour Options Available)",
+  "brand": "AS Term",
+  "mpn": "MIX85RK Mosaic",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MIX85RKMOSAIC",
+  "known": {
+   "pizzaSize": "12\" Pizzas",
+   "fuel": "gas",
+   "width": "1450 mm",
+   "depth": "1520 mm",
+   "height": "1860 mm",
+   "weight": "950 kg",
+   "voltage": "230V",
+   "warranty": "1 year"
+  }
+ }
+]

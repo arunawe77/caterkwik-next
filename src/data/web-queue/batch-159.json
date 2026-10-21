@@ -1,0 +1,237 @@
+[
+ {
+  "id": "650722",
+  "name": "FriFri Silofrit Countertop Chip Scuttle - 650722",
+  "brand": "FriFri",
+  "mpn": "650722",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_650722",
+  "known": {
+   "fuel": "electric",
+   "width": "400 mm",
+   "depth": "620 mm",
+   "height": "540 mm",
+   "weight": "20.4 kg",
+   "electricKw": "1 kW",
+   "amps": "4.4 A",
+   "voltage": "230V, 50Hz",
+   "plug": "Plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "e9646",
+  "name": "Falcon F900 E9646 Electric Chip Scuttle",
+  "brand": "Falcon",
+  "mpn": "E9646",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_E9646",
+  "known": {
+   "fuel": "electric",
+   "width": "400 mm",
+   "depth": "900 mm",
+   "height": "550 mm",
+   "weight": "22 kg",
+   "electricKw": "0.92 kW",
+   "amps": "4 A",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "grff",
+  "name": "Hatco GRFF Glo-Ray Portable Foodwarmer",
+  "brand": "Hatco",
+  "mpn": "GRFF",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GRFF",
+  "known": {
+   "width": "314 mm",
+   "depth": "610 mm",
+   "height": "400 mm",
+   "weight": "7 kg",
+   "phase": "single",
+   "warranty": "2 years",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "vitotabs",
+  "name": "VITO Tabs - Fryer Boil-Out",
+  "brand": "VITO",
+  "mpn": "Tabs",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_VITOTABS",
+  "known": {
+   "tanks": "1",
+   "filtration": "true",
+   "fuel": "electric",
+   "computerControl": "computer",
+   "amps": "1 A",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "gg198",
+  "name": "Caterlite Light Duty Single Tank Single Basket Countertop Electric Fryer 2kW - GG198",
+  "brand": "Caterlite",
+  "mpn": "GG198",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GG198",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "3.5 litres",
+   "fuel": "electric",
+   "width": "232 mm",
+   "depth": "429 mm",
+   "height": "240 mm",
+   "weight": "2.5 kg",
+   "electricKw": "2 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "profi8",
+  "name": "FriFri Profi+ 8 Single Tank Counter Top Electric Fryer",
+  "brand": "FriFri",
+  "mpn": "Profi+ 8",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PROFI8",
+  "known": {
+   "tanks": "1",
+   "fuel": "electric",
+   "thermostat": "150 to 190°C",
+   "computerControl": "electronic",
+   "width": "360 mm",
+   "depth": "475 mm",
+   "height": "456 mm",
+   "electricKw": "6.9 kW",
+   "amps": "13 A",
+   "voltage": "400V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "tf13",
+  "name": "Valentine TF13 Large Table Top Fryer",
+  "brand": "Valentine",
+  "mpn": "TF13",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_TF13",
+  "known": {
+   "drainValve": "Drain valve Pan pressed fr",
+   "width": "560 mm",
+   "depth": "415 mm",
+   "height": "265 mm",
+   "weight": "16 kg",
+   "electricKw": "6.9 kW",
+   "amps": "10 A",
+   "voltage": "400V",
+   "phase": "single",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "profi66",
+  "name": "FriFri Profi+ 6+6 Twin Tank Counter Top Electric Fryer",
+  "brand": "FriFri",
+  "mpn": "Profi+ 6+6",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PROFI66",
+  "known": {
+   "tanks": "2",
+   "fuel": "electric",
+   "thermostat": "150 to 190°C",
+   "computerControl": "electronic",
+   "width": "540 mm",
+   "depth": "475 mm",
+   "height": "456 mm",
+   "electricKw": "4.6 kW",
+   "amps": "13 A",
+   "voltage": "400V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ifs40e",
+  "name": "Imperial IFS-40 22 Litre Single Tank, Double Basket Freestanding Electric Fryer",
+  "brand": "Imperial",
+  "mpn": "IFS-40-E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_IFS40E",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "22 litres",
+   "fuel": "electric",
+   "thermostat": "93°c to 204°c",
+   "width": "394 mm",
+   "depth": "845 mm",
+   "height": "1122 mm",
+   "weight": "100 kg",
+   "electricKw": "14 kW",
+   "amps": "34 A",
+   "voltage": "400V, 50HZ",
+   "phase": "three",
+   "warranty": "1 year",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "e421",
+  "name": "Falcon E421 Twin Pan, Twin Basket Electric Fryer",
+  "brand": "Falcon",
+  "mpn": "E421",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_E421",
+  "known": {
+   "tanks": "2",
+   "oilCapacity": "20 litres",
+   "fuel": "electric",
+   "width": "400 mm",
+   "depth": "650 mm",
+   "height": "880 mm",
+   "weight": "72 kg",
+   "electricKw": "20 kW",
+   "amps": "32 A",
+   "voltage": "400V",
+   "plug": "32A",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "ef30",
+  "name": "Blue Seal Evolution Series EF30 - Filtamax Fryer Filter",
+  "brand": "Blue Seal",
+  "mpn": "EF30",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_EF30",
+  "known": {
+   "oilCapacity": "20 litres",
+   "filtration": "true",
+   "width": "324 mm",
+   "depth": "683 mm",
+   "height": "562 mm",
+   "weight": "51 kg",
+   "amps": "3.2 A",
+   "voltage": "230V, 50Hz",
+   "phase": "single",
+   "plug": "13A plug",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "ck8300",
+  "name": "Cater-Cook CK8300 20 Litre Single Tank, Twin Basket 3 Tube Commercial Gas Fryer - 90,000 BTUs - OUT OF STOCK",
+  "brand": "Cater-Cook-Fryer",
+  "mpn": "CK8300",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK8300",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "20 litres",
+   "fuel": "gas",
+   "width": "394 mm",
+   "depth": "762 mm",
+   "height": "1140 mm",
+   "weight": "80 kg",
+   "electricKw": "9 kW",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ }
+]

@@ -1,0 +1,150 @@
+[
+ {
+  "id": "gc913",
+  "name": "GC913 APS Frames Dark Wood Rectangular Small Bowl Base",
+  "brand": "APS",
+  "mpn": "GC913",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GC913",
+  "known": {
+   "width": "176 mm",
+   "depth": "530 mm",
+   "height": "85 mm",
+   "weight": "2.68 kg"
+  }
+ },
+ {
+  "id": "gc921",
+  "name": "GC921 APS Frames Maple Wood Large Square Buffet Bowl Box",
+  "brand": "APS",
+  "mpn": "GC921",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GC921",
+  "known": {
+   "width": "265 mm",
+   "depth": "265 mm",
+   "height": "85 mm",
+   "weight": "2.35 kg"
+  }
+ },
+ {
+  "id": "gc916",
+  "name": "GC916 APS Frames Maple Wood Rectangular Large Bowl Base",
+  "brand": "APS",
+  "mpn": "GC916",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GC916",
+  "known": {
+   "width": "265 mm",
+   "depth": "795 mm",
+   "height": "85 mm",
+   "weight": "4.86 kg"
+  }
+ },
+ {
+  "id": "gc914",
+  "name": "GC914 APS Frames Dark Wood Rectangular Large Bowl Base",
+  "brand": "APS",
+  "mpn": "GC914",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GC914",
+  "known": {
+   "width": "265 mm",
+   "depth": "795 mm",
+   "height": "85 mm",
+   "weight": "5.13 kg"
+  }
+ },
+ {
+  "id": "cn363",
+  "name": "CN363 ¼ GN Fleur Crock",
+  "brand": "Dalebrook",
+  "mpn": "CN363",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CN363",
+  "known": {
+   "gnCapacity": "1/4GN",
+   "volume": "2 litres"
+  }
+ },
+ {
+  "id": "cc719",
+  "name": "CC719 Dalebrook 2Ltr Black Fleur Crock",
+  "brand": "Dalebrook",
+  "mpn": "CC719",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CC719",
+  "known": {
+   "gnCapacity": "1/4GN",
+   "volume": "2 litres"
+  }
+ },
+ {
+  "id": "cc715",
+  "name": "CC715 Dalebrook 2Ltr White Fleur Crock",
+  "brand": "Dalebrook",
+  "mpn": "CC715",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CC715",
+  "known": {
+   "gnCapacity": "1/4GN",
+   "volume": "2 litres"
+  }
+ },
+ {
+  "id": "dl151",
+  "name": "DL151 ½ GN Fleur Crock",
+  "brand": "Dalebrook",
+  "mpn": "DL151",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DL151",
+  "known": {
+   "gnCapacity": "1/2GN",
+   "volume": "4 litres"
+  }
+ },
+ {
+  "id": "922653",
+  "name": "Electrolux Professional Open Base for Skyline Combi Ovens - Disassembled, 922653",
+  "brand": "Electrolux",
+  "mpn": "922653",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922653",
+  "known": {
+   "width": "867 mm",
+   "depth": "707 mm",
+   "height": "670 mm",
+   "weight": "20 kg",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "922638",
+  "name": "Electrolux Professional Grease Collection Trolley with 2 Tanks - 922638",
+  "brand": "Electrolux",
+  "mpn": "922638",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922638",
+  "known": {
+   "width": "446 mm",
+   "depth": "514 mm",
+   "height": "493 mm",
+   "weight": "28 kg"
+  }
+ },
+ {
+  "id": "922619",
+  "name": "Electrolux Professional Grease Collection Kit for Oven Cupboard Base - 922619",
+  "brand": "Electrolux",
+  "mpn": "922619",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922619",
+  "known": {
+   "width": "446 mm",
+   "depth": "514 mm",
+   "height": "493 mm",
+   "weight": "30.5 kg"
+  }
+ },
+ {
+  "id": "922678",
+  "name": "Electrolux Professional Flue Condenser - 922678",
+  "brand": "Electrolux",
+  "mpn": "922678",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922678",
+  "known": {
+   "width": "406 mm",
+   "depth": "305 mm",
+   "height": "255 mm"
+  }
+ }
+]

@@ -1,0 +1,231 @@
+[
+ {
+  "id": "robandmw10cs",
+  "name": "Roband MW10CS Carving Station",
+  "brand": "Roband",
+  "mpn": "MW10CS",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ROBANDMW10CS",
+  "known": {
+   "width": "395 mm",
+   "depth": "640 mm",
+   "height": "475 mm",
+   "electricKw": "0.785 kW",
+   "amps": "3.4 A",
+   "voltage": "230V, 50Hz",
+   "plug": "plug supplied",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "vimif600ct",
+  "name": "VIZU Mini Fries Counter Topper Chip Scuttle & Serving Area - VIMIF600CT",
+  "brand": "VIZU",
+  "mpn": "VIMIF600CT",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_VIMIF600CT",
+  "known": {
+   "width": "605 mm",
+   "depth": "550 mm",
+   "height": "820 mm",
+   "weight": "50 kg",
+   "electricKw": "1.5 kW",
+   "amps": "7 A",
+   "voltage": "230V, 50Hz",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "vimif600s",
+  "name": "VIZU Mini Fries Freestanding Chip Scuttle & Serving Area - VIMIF600S",
+  "brand": "VIZU",
+  "mpn": "VIMIF",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_VIMIF600S",
+  "known": {
+   "width": "605 mm",
+   "depth": "550 mm",
+   "height": "1535 mm",
+   "weight": "75 kg",
+   "electricKw": "1.5 kW",
+   "amps": "7 A",
+   "voltage": "230V, 50Hz",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "vimf",
+  "name": "VIZU Mega Fries Freestanding Chip Scuttle & Serving Area - VIMF",
+  "brand": "VIZU",
+  "mpn": "VIMF",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_VIMF",
+  "known": {
+   "width": "805 mm",
+   "depth": "710 mm",
+   "height": "1575 mm",
+   "weight": "97 kg",
+   "electricKw": "2.5 kW",
+   "amps": "11 A",
+   "voltage": "230V, 50Hz",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "grfhs",
+  "name": "Hatco GRFHS-16 Portable Fry Holding Station",
+  "brand": "Hatco",
+  "mpn": "GRFF",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GRFHS",
+  "known": {
+   "thermostat": "000-120 C",
+   "width": "416 mm",
+   "depth": "559 mm",
+   "height": "564 mm",
+   "electricKw": "1.1 kW",
+   "voltage": "240V",
+   "phase": "single",
+   "plug": "plug supplied",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ccs",
+  "name": "Parry CCS Countertop Electric Chip Scuttle",
+  "brand": "Parry",
+  "mpn": "CCS",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CCS",
+  "known": {
+   "fuel": "electric",
+   "width": "305 mm",
+   "depth": "360 mm",
+   "height": "420 mm",
+   "weight": "8 kg",
+   "electricKw": "0.35 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "fd80",
+  "name": "Roller Grill FD80 Electric Single Tank Counter-top Fryer - 8L",
+  "brand": "Roller Grill",
+  "mpn": "FD80",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FD80",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "8 litres",
+   "fuel": "electric",
+   "baskets": "1",
+   "width": "280 mm",
+   "depth": "425 mm",
+   "height": "320 mm",
+   "weight": "7 kg",
+   "electricKw": "3.4 kW",
+   "amps": "13 A",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "eco6",
+  "name": "FriFri Eco 6 Single Tank Counter Top Electric Fryer",
+  "brand": "FriFri",
+  "mpn": "Eco6",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ECO6",
+  "known": {
+   "tanks": "1",
+   "fuel": "electric",
+   "thermostat": "100-190 °C",
+   "computerControl": "thermostatic control",
+   "width": "218 mm",
+   "depth": "375 mm",
+   "height": "295 mm",
+   "electricKw": "3.2 kW",
+   "voltage": "230V",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "cu615",
+  "name": "Buffalo CU615 Twin Tank Twin Basket 2x3Ltr Countertop Fryer 2x2kW",
+  "brand": "Buffalo",
+  "mpn": "CU615",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CU615",
+  "known": {
+   "tanks": "2",
+   "computerControl": "digital",
+   "width": "360 mm",
+   "depth": "410 mm",
+   "height": "295 mm",
+   "weight": "6.2 kg",
+   "electricKw": "2 kW",
+   "amps": "8.7 A",
+   "voltage": "240V",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "fc259",
+  "name": "Buffalo FC259 Twin Tank Twin Basket 2x5Ltr Countertop Fryer with Timers 2x2.8kW",
+  "brand": "Buffalo",
+  "mpn": "FC259",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FC259",
+  "known": {
+   "tanks": "2",
+   "thermostat": "40° to 190°C",
+   "computerControl": "digital",
+   "width": "565 mm",
+   "depth": "450 mm",
+   "height": "355 mm",
+   "weight": "12.5 kg",
+   "amps": "12.2 A",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "seh50fdfff",
+  "name": "Pitco Solstice SEH50/FD Vat Electric Fry Suite With Filtration & Digital Controls",
+  "brand": "Pitco",
+  "mpn": "SEH50FDFFF",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SEH50FDFFF",
+  "known": {
+   "oilCapacity": "23 litres",
+   "filtration": "true",
+   "fuel": "electric",
+   "computerControl": "digital",
+   "width": "1191 mm",
+   "depth": "762 mm",
+   "height": "1163 mm",
+   "weight": "350 kg",
+   "electricKw": "46 kW",
+   "voltage": "400V",
+   "phase": "three",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ifs75",
+  "name": "Imperial IFS-75 41 Litre Single Tank Twin Basket Gas Fryer",
+  "brand": "Imperial",
+  "mpn": "IFS75",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_IFS75",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "41 litres",
+   "fuel": "gas",
+   "thermostat": "93°c to 204°c",
+   "width": "495 mm",
+   "depth": "876 mm",
+   "height": "1162 mm",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ }
+]

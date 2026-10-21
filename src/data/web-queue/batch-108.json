@@ -1,0 +1,214 @@
+[
+ {
+  "id": "smartvide9",
+  "name": "Sammic Immersion Circulator SmartVide 9",
+  "brand": "Sammic",
+  "mpn": "1180141",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SMARTVIDE9",
+  "known": {
+   "width": "124 mm",
+   "depth": "140 mm",
+   "height": "360 mm",
+   "weight": "4.2 kg",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "hw901",
+  "name": "Rowlett HW901 Premier 6 Slot Toaster with Extra Duraheat Elements",
+  "brand": "Rowlett",
+  "mpn": "HW901",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HW901",
+  "known": {
+   "timer": "timer - up to 5 minutes",
+   "plates": "6",
+   "width": "497 mm",
+   "depth": "237 mm",
+   "height": "212 mm",
+   "weight": "7.64 kg",
+   "electricKw": "2.6 kW",
+   "voltage": "240V",
+   "warranty": "3 years"
+  }
+ },
+ {
+  "id": "922718",
+  "name": "Electrolux Professional Odour Reduction Hood for 6 & 10 1/1GN Combi Ovens (Electric only) - 922718",
+  "brand": "Electrolux",
+  "mpn": "922718",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922718",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "width": "875 mm",
+   "depth": "1070 mm",
+   "height": "472 mm",
+   "weight": "96 kg",
+   "electricKw": "0.82 kW",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "922720",
+  "name": "Electrolux Professional Odour Reduction Hood for 20 1/1GN Combi Ovens (Electric only) - 922720",
+  "brand": "Electrolux",
+  "mpn": "922720",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922720",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "width": "917 mm",
+   "depth": "1085 mm",
+   "height": "450 mm",
+   "weight": "70 kg",
+   "electricKw": "0.82 kW",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "922719",
+  "name": "Electrolux Professional Odour Reduction Hood for 6 & 10 2/1GN Combi Ovens (Electric only) - 922719",
+  "brand": "Electrolux",
+  "mpn": "922719",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922719",
+  "known": {
+   "gnCapacity": "2/1GN",
+   "width": "1098 mm",
+   "depth": "1266 mm",
+   "height": "472 mm",
+   "weight": "114 kg",
+   "electricKw": "0.82 kW",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "bs4",
+  "name": "Lincat Silverlink 600 BS4 Dry Heat Bain Marie",
+  "brand": "Lincat",
+  "mpn": "BS4",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BS4",
+  "known": {
+   "heatType": "dry",
+   "volume": "4.5 litres",
+   "width": "450 mm",
+   "depth": "600 mm",
+   "height": "325 mm",
+   "weight": "14.8 kg",
+   "electricKw": "0.75 kW",
+   "voltage": "230V, 50Hz",
+   "plug": "Plug supplied",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "archway6pwe",
+  "name": "Archway 6PW/E Electric Wet Well Bain Marie - 6 x 4.5ltr Round Pots",
+  "brand": "Archway",
+  "mpn": "6PW/E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAY6PWE",
+  "known": {
+   "heatType": "wet",
+   "volume": "4.5 litres",
+   "width": "700 mm",
+   "depth": "605 mm",
+   "height": "290 mm",
+   "weight": "20 kg",
+   "electricKw": "2 kW",
+   "voltage": "230V, 50Hz",
+   "plug": "plug supplied",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "df824",
+  "name": "Caterlite Touch Control Double Induction Hob - DF824",
+  "brand": "Caterlite",
+  "mpn": "DF824",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DF824",
+  "known": {
+   "fuel": "induction",
+   "width": "608 mm",
+   "depth": "370 mm",
+   "height": "56 mm",
+   "weight": "6.8 kg",
+   "electricKw": "3 kW",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "250ltr",
+  "name": "Ozti CK70018 250 Litre Direct Gas Boiling Pan",
+  "brand": "Ozti",
+  "mpn": "CK70018",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_250LTR",
+  "known": {
+   "volume": "250 litres",
+   "fuel": "gas",
+   "heating": "direct",
+   "tap": "true",
+   "width": "1000 mm",
+   "depth": "900 mm",
+   "height": "850 mm",
+   "gasKw": "33 kW",
+   "voltage": "230 v",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "bm9g090i",
+  "name": "Firex EasyBratt Gas 90 Litre Manual Tilt Bratt Pan - BR9G090I",
+  "brand": "Firex",
+  "mpn": "BM9G090I",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BM9G090I",
+  "known": {
+   "volume": "90 litres",
+   "fuel": "gas",
+   "tilting": "true",
+   "tap": "true",
+   "width": "900 mm",
+   "depth": "900 mm",
+   "height": "970 mm",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "gl33",
+  "name": "Fimar GL33 Heavy Duty Char Grill",
+  "brand": "Fimar",
+  "mpn": "GL33",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GL33",
+  "known": {
+   "cookingWidth": "312 mm",
+   "plate": "cast iron",
+   "fuel": "gas",
+   "radiant": "lava rock",
+   "width": "330 mm",
+   "depth": "625 mm",
+   "height": "300 mm",
+   "weight": "24 kg",
+   "gasKw": "6.5 kW",
+   "finish": "stainless steel body"
+  }
+ },
+ {
+  "id": "gl66",
+  "name": "Fimar GL66 Heavy Duty Char Grill",
+  "brand": "Fimar",
+  "mpn": "GL66",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GL66",
+  "known": {
+   "cookingWidth": "624 mm",
+   "plate": "cast iron",
+   "fuel": "gas",
+   "radiant": "lava rock",
+   "width": "660 mm",
+   "depth": "625 mm",
+   "height": "300 mm",
+   "weight": "49 kg",
+   "gasKw": "13 kW",
+   "finish": "stainless steel body"
+  }
+ }
+]

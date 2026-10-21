@@ -1,0 +1,190 @@
+[
+ {
+  "id": "gh129",
+  "name": "Buffalo GH129 Stand for Double Fryer.",
+  "brand": "Buffalo",
+  "mpn": "GH129",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GH129",
+  "known": {
+   "volume": "8 litres",
+   "width": "562 mm",
+   "depth": "527 mm",
+   "height": "658 mm",
+   "weight": "7.2 kg",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "gh128",
+  "name": "Buffalo GH128 Stand for Single Tank Fryer",
+  "brand": "Buffalo",
+  "mpn": "GH128",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GH128",
+  "known": {
+   "volume": "8 litres",
+   "width": "294 mm",
+   "depth": "527 mm",
+   "height": "658 mm",
+   "weight": "5.8 kg",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "archwayhd32t",
+  "name": "Archway HD3/2T Electric Heated Chicken Display 3 Pans / 2 Tier",
+  "brand": "Archway",
+  "mpn": "HD3/2T",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAYHD32T",
+  "known": {
+   "wells": "3",
+   "shelves": "2",
+   "width": "1064 mm",
+   "depth": "755 mm",
+   "height": "830 mm",
+   "weight": "88 kg",
+   "electricKw": "3.68 kW",
+   "amps": "16 A",
+   "phase": "single",
+   "plug": "16A",
+   "hardWired": "true",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "vipc",
+  "name": "Vizu Pass Through Cabinet - VIPC",
+  "brand": "VIZU",
+  "mpn": "VIPC",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_VIPC",
+  "known": {
+   "gnCapacity": "6 x 1/1 gastronorm",
+   "doors": "single",
+   "width": "470 mm",
+   "depth": "941 mm",
+   "height": "948 mm",
+   "electricKw": "1.4 kW",
+   "amps": "6 A",
+   "voltage": "230V",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "ggp302mb",
+  "name": "Grill Guru Prime Medium Kamado Matte Black",
+  "brand": "Grill Guru",
+  "mpn": "GGP302MB",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GGP302MB",
+  "known": {
+   "radiant": "ceramic",
+   "weight": "67 kg",
+   "warranty": "20 years",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "ggp303mb",
+  "name": "Grill Guru Prime Compact Kamado Matte Black",
+  "brand": "Grill Guru",
+  "mpn": "GGP303MB",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GGP303MB",
+  "known": {
+   "radiant": "ceramic",
+   "weight": "33 kg",
+   "warranty": "20 years",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "ggp301mb",
+  "name": "Grill Guru Prime Large Kamado Matte Black",
+  "brand": "Grill Guru",
+  "mpn": "GGP301MB",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GGP301MB",
+  "known": {
+   "radiant": "ceramic",
+   "weight": "86 kg",
+   "warranty": "20 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "archwaybbq2",
+  "name": "Archway BBQ2 Deluxe Automated with Stand Mini",
+  "brand": "Archway",
+  "mpn": "BBQ2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAYBBQ2",
+  "known": {
+   "width": "750 mm",
+   "depth": "400 mm",
+   "height": "950 mm",
+   "weight": "22 kg",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "archwaybbq1",
+  "name": "Archway BBQ1 Deluxe Automated with Stand",
+  "brand": "Archway",
+  "mpn": "BBQ1",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAYBBQ1",
+  "known": {
+   "width": "1055 mm",
+   "depth": "400 mm",
+   "height": "950 mm",
+   "weight": "26 kg",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "ggp300mb",
+  "name": "Grill Guru Prime XL Kamado Matte Black",
+  "brand": "Grill Guru",
+  "mpn": "GGP300MB",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GGP300MB",
+  "known": {
+   "radiant": "ceramic",
+   "weight": "114.5 kg",
+   "warranty": "20 years",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "fs492",
+  "name": "Enders From Lifestyle Monroe Pro 4 Sik Turbo Gas Barbeque",
+  "brand": "Lifestyle",
+  "mpn": "FS492",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FS492",
+  "known": {
+   "fuel": "gas",
+   "radiant": "infrared",
+   "width": "74 mm",
+   "depth": "57 mm",
+   "height": "118.5 mm",
+   "weight": "56 kg",
+   "electricKw": "21.1 kW",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "e512d",
+  "name": "Blue Seal E512D-B 2 Element Cooktop",
+  "brand": "Blue Seal",
+  "mpn": "E512D-B",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_E512D",
+  "known": {
+   "fuel": "electric",
+   "width": "300 mm",
+   "depth": "812 mm",
+   "height": "315 mm",
+   "electricKw": "4.8 kW",
+   "amps": "20 A",
+   "voltage": "240v",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "Stainless steel exterior"
+  }
+ }
+]

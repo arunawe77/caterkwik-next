@@ -1,0 +1,143 @@
+[
+ {
+  "id": "s500",
+  "name": "S500 Service 1/1 GN Display Tray",
+  "brand": "APS",
+  "mpn": "S500",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_S500",
+  "known": {
+   "gnCapacity": "1/1 GN",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "cb790",
+  "name": "CB790 1/1 GN Display Tray",
+  "brand": "APS",
+  "mpn": "CB790",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CB790",
+  "known": {
+   "gnCapacity": "1/1 GN",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "p001",
+  "name": "P001 APS 1/1 GN Stacking Buffet Tray",
+  "brand": "APS",
+  "mpn": "P001",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_P001",
+  "known": {
+   "gnCapacity": "1/1 GN",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "922613",
+  "name": "Electrolux Professional Skyline Open Base Stand With Tray Supports - For 6 & 10 2/1 Ovens 922613",
+  "brand": "Electrolux",
+  "mpn": "922613",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922613",
+  "known": {
+   "width": "1088 mm",
+   "depth": "901 mm",
+   "height": "770 mm",
+   "weight": "44.5 kg"
+  }
+ },
+ {
+  "id": "hcscme10",
+  "name": "Chefmate by Hobart - 10 Grid Electric Combi Oven - CME10",
+  "brand": "Hobart",
+  "mpn": "CME10",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HCSCME10",
+  "known": {
+   "width": "890 mm",
+   "depth": "790 mm",
+   "height": "980 mm",
+   "electricKw": "18.5 kW",
+   "voltage": "400V"
+  }
+ },
+ {
+  "id": "hcscme4",
+  "name": "Chefmate by Hobart - 4 Grid Electric Combi Oven CME4",
+  "brand": "Hobart",
+  "mpn": "CME4",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HCSCME4",
+  "known": {
+   "width": "890 mm",
+   "depth": "790 mm",
+   "height": "600 mm",
+   "electricKw": "6 kW",
+   "voltage": "400V"
+  }
+ },
+ {
+  "id": "hcscmfe10",
+  "name": "Chefmate by Hobart - 10 Grid Full Touch Electric Combi Oven - CMFE10",
+  "brand": "Hobart",
+  "mpn": "CMFE10",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HCSCMFE10",
+  "known": {
+   "width": "890 mm",
+   "depth": "790 mm",
+   "height": "980 mm",
+   "electricKw": "18.5 kW",
+   "voltage": "400V"
+  }
+ },
+ {
+  "id": "ba96",
+  "name": "Lincat Silverlink 600 BA96 Half Fryer Basket",
+  "brand": "Lincat",
+  "mpn": "BA96",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BA96",
+  "known": {
+   "width": "100 mm",
+   "depth": "100 mm",
+   "height": "310 mm",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "ba122",
+  "name": "Lincat BA122 Half Fryer Basket",
+  "brand": "Lincat",
+  "mpn": "BA122",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BA122",
+  "known": {
+   "width": "115 mm",
+   "depth": "145 mm",
+   "height": "335 mm"
+  }
+ },
+ {
+  "id": "ba83",
+  "name": "Lincat BA83 Half Fryer Basket",
+  "brand": "Lincat",
+  "mpn": "BA83",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BA83",
+  "known": {
+   "width": "140 mm",
+   "depth": "140 mm",
+   "height": "330 mm"
+  }
+ },
+ {
+  "id": "ghd2st",
+  "name": "Moffat GHD2ST Catering Floor Stand For Up To 900mm Heated Drawer",
+  "brand": "Moffat",
+  "mpn": "GHD2ST",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GHD2ST",
+  "known": {}
+ },
+ {
+  "id": "ghd3st",
+  "name": "Moffat GHD3ST Catering Floor stand to take unit up to 900mm",
+  "brand": "Moffat",
+  "mpn": "GHD3ST",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GHD3ST",
+  "known": {}
+ }
+]

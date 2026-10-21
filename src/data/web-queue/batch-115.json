@@ -1,0 +1,236 @@
+[
+ {
+  "id": "apmrmb636",
+  "name": "MagiKitch'n APM-RMB-636 Counter Top Charbroiler 36\" (W910mm)",
+  "brand": "MagiKitchn",
+  "mpn": "APM-RMB-636",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_APMRMB636",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "gas",
+   "radiant": "radiant",
+   "weight": "159 kg",
+   "electricKw": "23.4 kW",
+   "gasKw": "70 kW",
+   "amps": "3 A",
+   "gasConnection": "¾\" Gas Hose Needed",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "gv455elm",
+  "name": "Arris GV455ELM Slimline Counter Top Electric Chargrill",
+  "brand": "Arris",
+  "mpn": "GV455ELM",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GV455ELM",
+  "known": {
+   "fuel": "electric",
+   "thermostat": "true",
+   "width": "420 mm",
+   "depth": "550 mm",
+   "height": "315 mm",
+   "electricKw": "3.8 kW",
+   "voltage": "230v",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "gv855el",
+  "name": "Arris GV855EL Slimline Electric Chargrill With Water Tray",
+  "brand": "Arris",
+  "mpn": "GV855EL",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GV855EL",
+  "known": {
+   "fuel": "electric",
+   "width": "800 mm",
+   "depth": "550 mm",
+   "height": "315 mm",
+   "electricKw": "7.6 kW",
+   "voltage": "415v",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "archway1bs",
+  "name": "Archway 1BS/1BL 1 Burner Charcoal Gas Chargrill",
+  "brand": "Archway",
+  "mpn": "ARCHWAY1BS/1BL",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAY1BS",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "charcoal",
+   "burners": "1",
+   "radiant": "lava rock",
+   "width": "400 mm",
+   "depth": "715 mm",
+   "height": "510 mm",
+   "lpgKw": "7 kW",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "3 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "archway2bs",
+  "name": "Archway 2BS/2BL 2 Burner Charcoal Gas Chargrill",
+  "brand": "Archway",
+  "mpn": "2BS",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAY2BS",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "charcoal",
+   "burners": "2",
+   "radiant": "lava rock",
+   "width": "600 mm",
+   "depth": "715 mm",
+   "height": "510 mm",
+   "lpgKw": "14 kW",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "3 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "cb6",
+  "name": "Blue Seal Cobra CB6 Gas Chargrill",
+  "brand": "Blue Seal",
+  "mpn": "CB6",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CB6",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "gas",
+   "radiant": "radiant",
+   "splashback": "true",
+   "width": "600 mm",
+   "depth": "800 mm",
+   "height": "585 mm",
+   "electricKw": "9 kW",
+   "gasKw": "19.6 kW",
+   "gasConnection": "3/4 Inch Gas Hose Needed",
+   "warranty": "1 year",
+   "finish": "Stainless steel finish"
+  }
+ },
+ {
+  "id": "archway3b",
+  "name": "Archway 3BS/3BL 3 Burner Charcoal Gas Chargrill",
+  "brand": "Archway",
+  "mpn": "3BS/3BL",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAY3B",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "charcoal",
+   "burners": "3",
+   "radiant": "lava rock",
+   "width": "900 mm",
+   "depth": "715 mm",
+   "height": "510 mm",
+   "lpgKw": "21 kW",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "3 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "gv409c",
+  "name": "Arris Grillvapor GV409C Radiant Gas Chicken Chargrill With Water Tray",
+  "brand": "Arris",
+  "mpn": "GV409C",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GV409C",
+  "known": {
+   "fuel": "gas",
+   "radiant": "radiant",
+   "tempRange": "380 - 400°C",
+   "width": "420 mm",
+   "depth": "900 mm",
+   "height": "440 mm",
+   "electricKw": "13 kW",
+   "gasConnection": "3/4 Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "601210",
+  "name": "FriFri Silofrit Free-Standing Chip Scuttle - 601210",
+  "brand": "FriFri",
+  "mpn": "601210",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_601210",
+  "known": {
+   "fuel": "electric",
+   "width": "400 mm",
+   "depth": "620 mm",
+   "height": "1155 mm",
+   "electricKw": "1 kW",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "lfe6850d",
+  "name": "Giorik LFE6850D Drop In Twin Tank Electric Fryer",
+  "brand": "Giorik",
+  "mpn": "LFE6850D",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LFE6850D",
+  "known": {
+   "tanks": "2",
+   "oilCapacity": "6 litres",
+   "fuel": "electric",
+   "baskets": "1",
+   "drainValve": "tted with front emptying drain tap",
+   "width": "600 mm",
+   "electricKw": "6.6 kW",
+   "voltage": "230V",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "cu616",
+  "name": "Buffalo CU616 Single Basket 5Ltr Countertop Fryer 2.8kW",
+  "brand": "Buffalo",
+  "mpn": "CU616",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CU616",
+  "known": {
+   "width": "270 mm",
+   "depth": "410 mm",
+   "height": "320 mm",
+   "weight": "5 kg",
+   "electricKw": "2.8 kW",
+   "amps": "13 A",
+   "voltage": "240V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "tf5",
+  "name": "Valentine TF Single Tank Electric Fryers",
+  "brand": "Valentine",
+  "mpn": "TF5",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_TF5",
+  "known": {
+   "tanks": "1",
+   "fuel": "electric",
+   "drainValve": "Drain valve Pan pressed fr",
+   "width": "260 mm",
+   "depth": "400 mm",
+   "height": "240 mm",
+   "electricKw": "3 kW",
+   "amps": "13 A",
+   "phase": "three",
+   "plug": "plug supplied",
+   "hardWired": "true",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ }
+]

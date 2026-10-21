@@ -1,0 +1,199 @@
+[
+ {
+  "id": "ruhc12p",
+  "name": "Parry RUHC12P Passthrough Roll Under Hot Cupboard - 1200mm",
+  "brand": "Parry",
+  "mpn": "RUHC12P",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_RUHC12P",
+  "known": {
+   "plateCapacity": "360",
+   "mobility": "true",
+   "width": "1200 mm",
+   "depth": "650 mm",
+   "height": "700 mm",
+   "weight": "69.5 kg",
+   "electricKw": "1.5 kW",
+   "amps": "13 A",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ruhc15p",
+  "name": "Parry RUHC15P Passthrough Roll Under Hot Cupboard - 1500mm",
+  "brand": "Parry",
+  "mpn": "RUHC15P",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_RUHC15P",
+  "known": {
+   "plateCapacity": "450",
+   "mobility": "true",
+   "width": "1500 mm",
+   "depth": "650 mm",
+   "height": "700 mm",
+   "weight": "113 kg",
+   "electricKw": "2.5 kW",
+   "amps": "13 A",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ruhc18p",
+  "name": "Parry RUHC18P Passthrough Roll Under Hot Cupboard - 1800mm",
+  "brand": "Parry",
+  "mpn": "RUHC18P",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_RUHC18P",
+  "known": {
+   "plateCapacity": "540",
+   "mobility": "true",
+   "width": "1800 mm",
+   "depth": "650 mm",
+   "height": "700 mm",
+   "weight": "118.5 kg",
+   "electricKw": "3 kW",
+   "amps": "13 A",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "upcs400",
+  "name": "Cambro UPCS400 Front loading Pan Carrier - 6 x 1/1 GN",
+  "brand": "Cambro",
+  "mpn": "UPCS400",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_UPCS400",
+  "known": {
+   "gnCapacity": "6 x 1/1 GN",
+   "wells": "6",
+   "width": "460 mm",
+   "depth": "635 mm",
+   "height": "630 mm",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "upc600",
+  "name": "Cambro UPC600 Insulated Ultra Camcart - 8 x 1/1 GN",
+  "brand": "Cambro",
+  "mpn": "UPC600",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_UPC600",
+  "known": {
+   "gnCapacity": "8 x 1/1 GN",
+   "wells": "8",
+   "width": "520 mm",
+   "depth": "690 mm",
+   "height": "1145 mm",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "cf238",
+  "name": "Plastic Kebab Knife - CF238",
+  "brand": "Kebab Knife",
+  "mpn": "CF238",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CF238",
+  "known": {
+   "fuel": "electric",
+   "width": "80 mm",
+   "depth": "90 mm",
+   "height": "220 mm",
+   "weight": "1 kg",
+   "amps": "2 A",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cr912",
+  "name": "Caterlite Pizza Oven CR912 - 1 x 12\" Pizza",
+  "brand": "Caterlite",
+  "mpn": "CR912",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CR912",
+  "known": {
+   "pizzaSize": "12\" Pizza",
+   "width": "380 mm",
+   "depth": "486 mm",
+   "height": "188 mm",
+   "weight": "8.2 kg",
+   "warranty": "1 year",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "dd2w",
+  "name": "Dualit DD2W Waffle Machine - 60 Waffles Per Hour",
+  "brand": "Dualit",
+  "mpn": "DD2W",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DD2W",
+  "known": {
+   "throughput": "60 Waffles Per Hour",
+   "width": "400 mm",
+   "depth": "220 mm",
+   "height": "190 mm",
+   "electricKw": "1.5 kW",
+   "warranty": "1 year",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "multimate",
+  "name": "Fracino Multi Cooking Gas System - M-ULTIMATE",
+  "brand": "Fracino",
+  "mpn": "M-ULTIMATE",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MULTIMATE",
+  "known": {
+   "fuel": "gas",
+   "width": "570 mm",
+   "depth": "453 mm",
+   "height": "393 mm",
+   "weight": "38 kg"
+  }
+ },
+ {
+  "id": "cn607",
+  "name": "Olympia CN607 1/1GN Milan Chafing Set - 3.7 Litre Capacity",
+  "brand": "Olympia",
+  "mpn": "CN607",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CN607",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "volume": "3.7 litres",
+   "width": "365 mm",
+   "depth": "300 mm",
+   "height": "300 mm",
+   "weight": "2.5 kg",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "s300rbd",
+  "name": "Milan Chafing Set (2 Pack) 2 x 1/1GN S300 - 2 x 9 Litre Capacity",
+  "brand": "Olympia",
+  "mpn": "S300",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_S300RBD",
+  "known": {
+   "gnCapacity": "2 x 1/1GN",
+   "wells": "2",
+   "volume": "9 litres",
+   "width": "332 mm",
+   "depth": "590 mm",
+   "height": "270 mm",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "ck8974",
+  "name": "Cater-Cook CK8974 1/1GN Chafing Dish - 9 Litre Capacity",
+  "brand": "Cater-Cook",
+  "mpn": "CK8974",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK8974",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "volume": "9 litres",
+   "width": "620 mm",
+   "depth": "370 mm",
+   "height": "240 mm",
+   "weight": "4 kg",
+   "finish": "stainless steel"
+  }
+ }
+]

@@ -1,0 +1,133 @@
+[
+ {
+  "id": "927219",
+  "name": "Electrolux Professional Grid Support for 927213 Baskets - 927219",
+  "brand": "Electrolux",
+  "mpn": "927219",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_927219",
+  "known": {
+   "width": "290 mm",
+   "depth": "500 mm",
+   "height": "115 mm"
+  }
+ },
+ {
+  "id": "ba114",
+  "name": "Lincat ½ Size Pasta Basket - BA114",
+  "brand": "Lincat",
+  "mpn": "BA114",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BA114",
+  "known": {
+   "width": "310 mm",
+   "depth": "101 mm",
+   "height": "99.5 mm"
+  }
+ },
+ {
+  "id": "921611",
+  "name": "Electrolux Professional Full Size Pasta Basket - 921611",
+  "brand": "Electrolux",
+  "mpn": "921611",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_921611",
+  "known": {
+   "width": "220 mm",
+   "depth": "350 mm",
+   "height": "240 mm"
+  }
+ },
+ {
+  "id": "921610",
+  "name": "Electrolux Professional 2 x Pasta Baskets - 921610",
+  "brand": "Electrolux",
+  "mpn": "921610",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_921610",
+  "known": {
+   "width": "220 mm",
+   "depth": "170 mm",
+   "height": "240 mm"
+  }
+ },
+ {
+  "id": "560302",
+  "name": "Alphin Pans Stainless Steel Pasta Basket- 560302",
+  "brand": "Alphin Pans",
+  "mpn": "560302",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_560302",
+  "known": {
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "340052",
+  "name": "Alphin Pans Wooden Pizza Peels - 12\", 14\" or 16\" Blade.",
+  "brand": "Alphin Pans",
+  "mpn": "340052",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_340052",
+  "known": {
+   "pizzaSize": "12\""
+  }
+ },
+ {
+  "id": "cb145",
+  "name": "CB145 Black Iron Pizza Pan 7in",
+  "brand": "Non Branded",
+  "mpn": "CB145",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CB145",
+  "known": {
+   "pizzaSize": "7in",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "705024",
+  "name": "Pujadas Non-Stick Pizza Pans - Solid",
+  "brand": "Pujadas",
+  "mpn": "705024",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_705024",
+  "known": {}
+ },
+ {
+  "id": "cb146",
+  "name": "CB146 Black Iron Pizza Pan 14in",
+  "brand": "Non Branded",
+  "mpn": "CB146",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CB146",
+  "known": {
+   "pizzaSize": "14in",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "gc935",
+  "name": "GC935 APS Frames 0.5Ltr Stainless Steel Bowl",
+  "brand": "APS",
+  "mpn": "GC935",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GC935",
+  "known": {
+   "volume": "0.5 litres",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "gc903",
+  "name": "GC903 APS Frames ½ GN Stainless Steel Platter",
+  "brand": "APS",
+  "mpn": "GC903",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GC903",
+  "known": {
+   "gnCapacity": "1/2GN",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "gc904",
+  "name": "GC904 APS Frames 1/1 GN Stainless Steel Platter",
+  "brand": "APS",
+  "mpn": "GC904",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GC904",
+  "known": {
+   "gnCapacity": "1/1 GN",
+   "finish": "Stainless Steel"
+  }
+ }
+]

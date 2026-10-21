@@ -1,0 +1,192 @@
+[
+ {
+  "id": "cf290",
+  "name": "APS CF290 Soup Chafing Dish",
+  "brand": "APS",
+  "mpn": "CF290",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CF290",
+  "known": {
+   "volume": "10 litres",
+   "mobility": "true",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cm582",
+  "name": "Artame Pressure Cooker 23Ltr CM582",
+  "brand": "Artame",
+  "mpn": "CM582",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CM582",
+  "known": {
+   "volume": "23 litres",
+   "weight": "7.6 kg",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "apmrmb648",
+  "name": "MagiKitch'n APM-RMB-648 Counter Top Charbroiler 48\" (W1220mm)",
+  "brand": "MagiKitchn",
+  "mpn": "APM-RMB-648",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_APMRMB648",
+  "known": {
+   "fuel": "gas",
+   "radiant": "radiant",
+   "weight": "193 kg",
+   "gasConnection": "¾\" Gas Hose Needed",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "921692",
+  "name": "Electrolux Professional 921692 2 x Fryer Baskets for 12, 14 & 15 Litre Fryers",
+  "brand": "Electrolux",
+  "mpn": "921692",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_921692",
+  "known": {
+   "fuel": "electric",
+   "baskets": "2",
+   "width": "105 mm",
+   "depth": "325 mm",
+   "height": "125 mm"
+  }
+ },
+ {
+  "id": "fc381",
+  "name": "Buffalo FC381 Large Contact Grill (Single/Flat Plates)",
+  "brand": "Buffalo",
+  "mpn": "FC381",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FC381",
+  "known": {
+   "plate": "cast iron",
+   "thermostat": "true",
+   "width": "480 mm",
+   "depth": "435 mm",
+   "height": "215 mm",
+   "weight": "29.5 kg",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "fc380",
+  "name": "Buffalo FC380 Large Ribbed Contact Grill",
+  "brand": "Buffalo",
+  "mpn": "FC380",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FC380",
+  "known": {
+   "plate": "ribbed",
+   "fuel": "electric",
+   "thermostat": "true",
+   "tempRange": "100°C to 300°C",
+   "weight": "29 kg",
+   "electricKw": "2.2 kW",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "memt16052x",
+  "name": "Hallco MEMT16052XNS Double Ribbed Top, Flat Bottom Contact Grill",
+  "brand": "Hallco",
+  "mpn": "MEMT16052XNS",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MEMT16052X",
+  "known": {
+   "plate": "ribbed",
+   "thermostat": "true",
+   "width": "630 mm",
+   "depth": "380 mm",
+   "height": "460 mm",
+   "electricKw": "3.6 kW",
+   "plug": "13A plug",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "hd200",
+  "name": "Rowlett Rutland HDR200 2 Wedge & Steamer Hot Dog Machine",
+  "brand": "Rowlett Rutland",
+  "mpn": "HDR200",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HD200",
+  "known": {
+   "volume": "7.5 litres",
+   "thermostat": "Thermostatically controlled",
+   "width": "400 mm",
+   "depth": "330 mm",
+   "height": "400 mm",
+   "electricKw": "0.75 kW",
+   "plug": "plug supplied",
+   "warranty": "1 year",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "hdst",
+  "name": "Rowlett Rutland HDST Hotdog Steamer",
+  "brand": "Rowlett Rutland",
+  "mpn": "HDST",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HDST",
+  "known": {
+   "volume": "7.5 litres",
+   "thermostat": "Thermostatically controlled",
+   "width": "230 mm",
+   "depth": "330 mm",
+   "height": "400 mm",
+   "electricKw": "0.26 kW",
+   "plug": "plug supplied",
+   "warranty": "1 year",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "inomakmd",
+  "name": "Inomak Storage Cupboards With Wet Well Bain Marie Top Range - Ambient Base",
+  "brand": "Inomak",
+  "mpn": "MDV",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_INOMAKMD",
+  "known": {
+   "heatType": "wet",
+   "tempRange": "30-70°C",
+   "width": "1100 mm",
+   "depth": "700 mm",
+   "height": "870 mm",
+   "electricKw": "2 kW",
+   "amps": "13 A",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "db152",
+  "name": "Cambro Camchiller Cold Plate - CP3253",
+  "brand": "Cambro",
+  "mpn": "CP3253",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DB152",
+  "known": {
+   "width": "530 mm",
+   "depth": "325 mm",
+   "height": "30 mm",
+   "weight": "3.9 kg"
+  }
+ },
+ {
+  "id": "archwayknife",
+  "name": "Archway AR1 Electric Kebab Knife",
+  "brand": "Archway",
+  "mpn": "AR1",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAYKNIFE",
+  "known": {
+   "fuel": "electric",
+   "width": "160 mm",
+   "depth": "245 mm",
+   "height": "215 mm",
+   "weight": "7 kg",
+   "amps": "5 A",
+   "warranty": "3 years",
+   "finish": "Stainless steel"
+  }
+ }
+]

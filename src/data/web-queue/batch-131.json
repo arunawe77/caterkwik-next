@@ -1,0 +1,235 @@
+[
+ {
+  "id": "3007017",
+  "name": "ConvoClean Forte 3007017 - Convotherm Cleaning Agent - 10 Litre",
+  "brand": "Convotherm",
+  "mpn": "3007017",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_3007017",
+  "known": {
+   "steam": "boiler",
+   "amps": "1 A",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "gp514",
+  "name": "Blue Seal GP514-B 600mm Heavy Duty Gas Griddle - Bench Model",
+  "brand": "Blue Seal",
+  "mpn": "GP514-B",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GP514",
+  "known": {
+   "cookingWidth": "600 mm",
+   "plate": "ribbed",
+   "fuel": "gas",
+   "thermostat": "true",
+   "tempRange": "90 - 300°C",
+   "splashback": "true",
+   "width": "600 mm",
+   "depth": "812 mm",
+   "height": "315 mm",
+   "gasKw": "14.5 kW",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "tep1b090e",
+  "name": "Casta TEP1B/090E Chrome Plated Teppanyaki griddle",
+  "brand": "Casta",
+  "mpn": "TEP1B/090E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_TEP1B090E",
+  "known": {
+   "plate": "chrome",
+   "fuel": "gas",
+   "thermostat": "true",
+   "width": "900 mm",
+   "depth": "700 mm",
+   "height": "330 mm",
+   "electricKw": "5.4 kW",
+   "voltage": "415v",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "Chrome"
+  }
+ },
+ {
+  "id": "tep1b100e",
+  "name": "Casta TEP1B/100E Chrome Plate Teppanyaki Grill",
+  "brand": "Casta",
+  "mpn": "TEP1B100E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_TEP1B100E",
+  "known": {
+   "plate": "chrome",
+   "fuel": "gas",
+   "thermostat": "true",
+   "width": "1000 mm",
+   "depth": "700 mm",
+   "height": "330 mm",
+   "electricKw": "5.4 kW",
+   "voltage": "415v",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "Chrome"
+  }
+ },
+ {
+  "id": "tep2b140",
+  "name": "Casta TEP2B/140E Chrome Plated Teppanyaki Grill",
+  "brand": "Casta",
+  "mpn": "TEP2B/140E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_TEP2B140",
+  "known": {
+   "plate": "chrome",
+   "fuel": "gas",
+   "thermostat": "true",
+   "width": "1400 mm",
+   "depth": "700 mm",
+   "height": "330 mm",
+   "electricKw": "10.8 kW",
+   "voltage": "415v",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "Chrome"
+  }
+ },
+ {
+  "id": "g2522",
+  "name": "Falcon Chieftain G2522 Gas Salamander Grill",
+  "brand": "Falcon",
+  "mpn": "G2522",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G2522",
+  "known": {
+   "fuel": "gas",
+   "width": "900 mm",
+   "depth": "585 mm",
+   "height": "505 mm",
+   "electricKw": "15.5 kW",
+   "gasConnection": "½ Inch Gas Hose",
+   "warranty": "2 years",
+   "finish": "stainless steel exterior"
+  }
+ },
+ {
+  "id": "i91105",
+  "name": "Falcon F900 i91105 Induction Range - 4 x 5kW",
+  "brand": "Falcon",
+  "mpn": "i91105",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_I91105",
+  "known": {
+   "fuel": "induction",
+   "width": "1000 mm",
+   "depth": "900 mm",
+   "height": "900 mm",
+   "weight": "140 kg",
+   "electricKw": "26.2 kW",
+   "amps": "40 A",
+   "voltage": "400V",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "e91b",
+  "name": "Blue Seal E91B Electric Salamander Grill",
+  "brand": "Blue Seal",
+  "mpn": "E91B",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_E91B",
+  "known": {
+   "cookingWidth": "610 mm",
+   "plate": "chrome",
+   "fuel": "electric",
+   "radiant": "infra-red",
+   "width": "900 mm",
+   "weight": "36 kg",
+   "electricKw": "3 kW",
+   "amps": "25 A",
+   "voltage": "240V",
+   "phase": "single",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "Stainless steel finish"
+  }
+ },
+ {
+  "id": "meg20a",
+  "name": "Mercury 20' Inch Countertop Electric Griddle - MEG-20-A",
+  "brand": "Mercury",
+  "mpn": "MEG-20-A",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MEG20A",
+  "known": {
+   "fuel": "electric",
+   "tempRange": "100°C-300°C",
+   "width": "525 mm",
+   "depth": "450 mm",
+   "height": "200 mm",
+   "weight": "30 kg",
+   "electricKw": "2.2 kW",
+   "amps": "10 A",
+   "voltage": "230V, 50HZ",
+   "plug": "Plug Supplied",
+   "warranty": "1 year",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "meg30a",
+  "name": "Mercury 30' Inch Countertop Electric Griddle - MEG-30-A",
+  "brand": "Mercury",
+  "mpn": "MEG-20-A",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MEG30A",
+  "known": {
+   "fuel": "electric",
+   "tempRange": "100°C-300°C",
+   "width": "745 mm",
+   "depth": "450 mm",
+   "height": "200 mm",
+   "weight": "30 kg",
+   "electricKw": "2.9 kW",
+   "amps": "13 A",
+   "voltage": "230V, 50HZ",
+   "plug": "Plug Supplied",
+   "warranty": "1 year",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "psr400e",
+  "name": "Roller Grill PSR400E Steel Griddle",
+  "brand": "Roller Grill",
+  "mpn": "PSR400E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PSR400E",
+  "known": {
+   "plate": "cast iron",
+   "tempRange": "40 - 300°C",
+   "width": "400 mm",
+   "depth": "475 mm",
+   "height": "230 mm",
+   "weight": "22 kg",
+   "electricKw": "3 kW",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "psf600e",
+  "name": "Roller Grill PSF600E Cast Iron Griddle",
+  "brand": "Roller Grill",
+  "mpn": "PSF600E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PSF600E",
+  "known": {
+   "plate": "cast iron",
+   "tempRange": "40 - 300°C",
+   "width": "600 mm",
+   "depth": "475 mm",
+   "height": "230 mm",
+   "weight": "33 kg",
+   "electricKw": "3 kW",
+   "warranty": "2 years"
+  }
+ }
+]

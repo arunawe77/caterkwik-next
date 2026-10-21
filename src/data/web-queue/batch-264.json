@@ -1,0 +1,234 @@
+[
+ {
+  "id": "in511r5",
+  "name": "IN511R5",
+  "brand": "Blue Seal",
+  "mpn": "IN511R5",
+  "caterkwikUrl": null,
+  "known": {
+   "castors": "adjustable feet",
+   "width": "450 mm",
+   "depth": "812 mm",
+   "height": "355 mm",
+   "electricKw": "5 kW",
+   "amps": "7 A",
+   "voltage": "400V 50Hz",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "in511f",
+  "name": "IN511F",
+  "brand": "Blue Seal",
+  "mpn": "IN511F",
+  "caterkwikUrl": null,
+  "known": {
+   "castors": "adjustable feet",
+   "width": "450 mm",
+   "depth": "812 mm",
+   "height": "355 mm",
+   "electricKw": "5 kW",
+   "amps": "7 A",
+   "voltage": "400V 50Hz",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "seriesdesigns",
+  "name": "D100S",
+  "brand": "AS Term",
+  "mpn": "D100S",
+  "caterkwikUrl": null,
+  "known": {
+   "pizzaSize": "12\"",
+   "fuel": "wood",
+   "width": "1350 mm",
+   "depth": "1620 mm",
+   "height": "1860 mm",
+   "weight": "1100 kg",
+   "electricKw": "26 kW",
+   "warranty": "1 year",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "d120k",
+  "name": "D120K",
+  "brand": "AS Term",
+  "mpn": "D120K",
+  "caterkwikUrl": null,
+  "known": {
+   "pizzaSize": "12\"",
+   "pizzasPerHour": "105",
+   "fuel": "wood",
+   "width": "1710 mm",
+   "depth": "1900 mm",
+   "height": "2050 mm",
+   "weight": "1500 kg",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "seriesddesignfb",
+  "name": "D100FB",
+  "brand": "AS Term",
+  "mpn": "D100FB",
+  "caterkwikUrl": null,
+  "known": {
+   "pizzaSize": "12\"",
+   "chamber": "chamber W400 x D500",
+   "fuel": "wood",
+   "width": "2020 mm",
+   "depth": "1700 mm",
+   "height": "2000 mm",
+   "weight": "1700 kg",
+   "electricKw": "32 kW",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "d140k",
+  "name": "D140K",
+  "brand": "AS Term",
+  "mpn": "D140K",
+  "caterkwikUrl": null,
+  "known": {
+   "pizzaSize": "12\"",
+   "pizzasPerHour": "150",
+   "fuel": "wood",
+   "width": "1910 mm",
+   "depth": "2150 mm",
+   "height": "2050 mm",
+   "weight": "1900 kg",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "hjx25m",
+  "name": "HJX25M",
+  "brand": "Josper",
+  "mpn": "HJX25M",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "charcoal",
+   "width": "640 mm",
+   "depth": "600 mm",
+   "height": "1290 mm",
+   "weight": "160 kg",
+   "electricKw": "8.8 kW"
+  }
+ },
+ {
+  "id": "g1066x",
+  "name": "G1066X",
+  "brand": "Falcon",
+  "mpn": "G1066X",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "gas",
+   "ignition": "spark",
+   "castors": "legs",
+   "door": "drop-down door",
+   "width": "900 mm",
+   "depth": "940 mm",
+   "height": "900 mm",
+   "weight": "250 kg",
+   "gasConnection": "3/4\" BSP Gas Hose required",
+   "warranty": "2 years",
+   "finish": "stainless steel finish"
+  }
+ },
+ {
+  "id": "cu470",
+  "name": "CU470",
+  "brand": "Buffalo",
+  "mpn": "CU470",
+  "caterkwikUrl": null,
+  "known": {
+   "plate": "ribbed",
+   "fuel": "electric",
+   "radiant": "ceramic",
+   "width": "600 mm",
+   "depth": "550 mm",
+   "height": "610 mm",
+   "weight": "37 kg",
+   "electricKw": "3.4 kW",
+   "voltage": "230V",
+   "hardWired": "true",
+   "finish": "STAINLESS STEEL"
+  }
+ },
+ {
+  "id": "fc60tq",
+  "name": "FC 60 TQ",
+  "brand": "Roller Grill",
+  "mpn": "FC 60 TQ",
+  "caterkwikUrl": null,
+  "known": {
+   "tempRange": "50°C to 300°C",
+   "maxTemp": "300 °C",
+   "door": "glass door",
+   "timer": "timer with lock position for non-stop use",
+   "width": "595 mm",
+   "depth": "610 mm",
+   "height": "590 mm",
+   "weight": "38 kg",
+   "electricKw": "3 kW",
+   "voltage": "230V",
+   "plug": "13A Plug",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "vista25",
+  "name": "VISTA25",
+  "brand": "King Edward",
+  "mpn": "VISTA25",
+  "caterkwikUrl": null,
+  "known": {
+   "width": "460 mm",
+   "depth": "490 mm",
+   "height": "480 mm",
+   "weight": "33 kg",
+   "electricKw": "2.45 kW",
+   "amps": "13 A",
+   "voltage": "240V, 50Hz",
+   "plug": "Plug supplied",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "blueseale23m3",
+  "name": "E23M3",
+  "brand": "Blue Seal",
+  "mpn": "E23M3",
+  "caterkwikUrl": null,
+  "known": {
+   "trays": "3 X 2/3GN capacity",
+   "gnCapacity": "3 X 2/3GN",
+   "tempRange": "50 - 260°C",
+   "humidity": "true",
+   "programs": "20",
+   "door": "drop down door",
+   "timer": "timer with time up alarm",
+   "width": "610 mm",
+   "depth": "642 mm",
+   "height": "607 mm",
+   "weight": "42.4 kg",
+   "electricKw": "3 kW",
+   "amps": "12 A",
+   "voltage": "240V, 50Hz",
+   "plug": "plug supplied",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ }
+]

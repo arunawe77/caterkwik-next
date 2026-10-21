@@ -1,0 +1,255 @@
+[
+ {
+  "id": "gs6c",
+  "name": "Lincat Silverlink 600 GS6/C Chrome Plated Electric Griddle",
+  "brand": "Lincat",
+  "mpn": "GS6/C",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GS6C",
+  "known": {
+   "cookingWidth": "12 mm",
+   "plate": "chrome",
+   "fuel": "electric",
+   "thermostat": "true",
+   "width": "600 mm",
+   "depth": "600 mm",
+   "height": "330 mm",
+   "weight": "50 kg",
+   "electricKw": "3 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "gs6ct",
+  "name": "Lincat Silverlink 600 GS6C/T Chrome Plated Electric Griddle",
+  "brand": "Lincat",
+  "mpn": "GS6C/T",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GS6CT",
+  "known": {
+   "cookingWidth": "12 mm",
+   "plate": "chrome",
+   "fuel": "electric",
+   "thermostat": "true",
+   "width": "600 mm",
+   "depth": "600 mm",
+   "height": "330 mm",
+   "weight": "50 kg",
+   "electricKw": "4 kW",
+   "voltage": "230V",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "gs7c",
+  "name": "Lincat Silverlink 600 GS7/C Chrome Plated Electric Griddle",
+  "brand": "Lincat",
+  "mpn": "GS7/C",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GS7C",
+  "known": {
+   "cookingWidth": "12 mm",
+   "plate": "chrome",
+   "fuel": "electric",
+   "thermostat": "true",
+   "width": "750 mm",
+   "depth": "600 mm",
+   "height": "330 mm",
+   "weight": "61 kg",
+   "electricKw": "6 kW",
+   "voltage": "230V",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "ne1843",
+  "name": "Panasonic NE-1815 Heavy Duty Commercial 1800W Microwave",
+  "brand": "Panasonic",
+  "mpn": "NE-1815",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_NE1843",
+  "known": {
+   "gnCapacity": "1/2GN",
+   "microwaveOutput": "1800 W",
+   "width": "422 mm",
+   "depth": "508 mm",
+   "height": "337 mm",
+   "weight": "18 kg",
+   "electricKw": "2.83 kW",
+   "amps": "12.3 A",
+   "voltage": "240V",
+   "phase": "single",
+   "warranty": "3 years",
+   "finish": "Stainless steel body"
+  }
+ },
+ {
+  "id": "hm1830",
+  "name": "Sammic MO-1834 1800W 34 Litre Heavy Duty Commercial Microwave",
+  "brand": "Sammic",
+  "mpn": "MO-1834",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HM1830",
+  "known": {
+   "trays": "2 levels",
+   "timer": "timer",
+   "width": "574 mm",
+   "depth": "526 mm",
+   "height": "368 mm",
+   "weight": "32.2 kg",
+   "electricKw": "2.8 kW",
+   "amps": "13 A",
+   "voltage": "230V, 50Hz",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "pb66",
+  "name": "Lincat Silverlink 600 PB66 Twin Tank Electric Pasta Boiler",
+  "brand": "Lincat",
+  "mpn": "PB66",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PB66",
+  "known": {
+   "volume": "7 litres",
+   "fuel": "electric",
+   "tap": "true",
+   "width": "600 mm",
+   "depth": "600 mm",
+   "height": "335 mm",
+   "weight": "30 kg",
+   "electricKw": "3 kW",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "svc14",
+  "name": "Sammic SVC-14 Sous-Vide - Unstirred Digital Bath",
+  "brand": "Sammic",
+  "mpn": "SVC14",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SVC14",
+  "known": {
+   "timer": "timer can be set between 1 minute and 99 hour",
+   "lowTemp": "true",
+   "width": "300 mm",
+   "depth": "300 mm",
+   "height": "150 mm",
+   "weight": "10 kg",
+   "electricKw": "1.5 kW",
+   "amps": "13 A",
+   "voltage": "230V",
+   "warranty": "1 year",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "lrb2",
+  "name": "Lincat Lynx 400 LRB2 Bain Marie",
+  "brand": "Lincat",
+  "mpn": "LRB2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LRB2",
+  "known": {
+   "heatType": "dry",
+   "volume": "4.5 litres",
+   "width": "565 mm",
+   "depth": "400 mm",
+   "height": "245 mm",
+   "weight": "16 kg",
+   "electricKw": "0.5 kW",
+   "phase": "single",
+   "plug": "plug supplied",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "lrb3",
+  "name": "Lincat Lynx 400 LRB3 Bain Marie",
+  "brand": "Lincat",
+  "mpn": "LRB3",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LRB3",
+  "known": {
+   "heatType": "dry",
+   "volume": "4.5 litres",
+   "width": "580 mm",
+   "depth": "400 mm",
+   "height": "245 mm",
+   "weight": "20 kg",
+   "electricKw": "0.75 kW",
+   "phase": "single",
+   "plug": "plug supplied",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "lbm3w",
+  "name": "Lincat Lynx 400 LBM3W 6 X 1 / 4 GN Bain Marie",
+  "brand": "Lincat",
+  "mpn": "DN689",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LBM3W",
+  "known": {
+   "gnCapacity": "1/4 GN",
+   "heatType": "dry",
+   "width": "850 mm",
+   "depth": "400 mm",
+   "height": "196 mm",
+   "weight": "22 kg",
+   "electricKw": "0.75 kW",
+   "gasKw": "0.75 kW",
+   "phase": "single",
+   "plug": "plug supplied",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "lrb2w",
+  "name": "Lincat Lynx 400 LRB2W Bain Marie",
+  "brand": "Lincat",
+  "mpn": "LRB2W",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LRB2W",
+  "known": {
+   "heatType": "dry",
+   "volume": "4.5 litres",
+   "width": "565 mm",
+   "depth": "400 mm",
+   "height": "245 mm",
+   "weight": "19 kg",
+   "electricKw": "0.5 kW",
+   "phase": "single",
+   "plug": "plug supplied",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "lrb3w",
+  "name": "Lincat Lynx 400 LRB3W Bain Marie",
+  "brand": "Lincat",
+  "mpn": "LRB3W",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LRB3W",
+  "known": {
+   "heatType": "dry",
+   "volume": "4.5 litres",
+   "width": "850 mm",
+   "depth": "400 mm",
+   "height": "245 mm",
+   "weight": "23 kg",
+   "electricKw": "0.75 kW",
+   "phase": "single",
+   "plug": "plug supplied",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ }
+]

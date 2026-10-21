@@ -1,0 +1,132 @@
+[
+ {
+  "id": "j820",
+  "name": "J820 Small Butchers Tray",
+  "brand": "Olympia",
+  "mpn": "J820",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_J820",
+  "known": {
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "560313",
+  "name": "Alphin Pans Fryer Basket - 560313",
+  "brand": "Alphin Pans",
+  "mpn": "560313",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_560313",
+  "known": {
+   "depth": "165 mm",
+   "height": "140 mm"
+  }
+ },
+ {
+  "id": "560310",
+  "name": "Alphin Pans Fryer Basket - 560310",
+  "brand": "Alphin Pans",
+  "mpn": "560310",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_560310",
+  "known": {
+   "depth": "165 mm",
+   "height": "150 mm"
+  }
+ },
+ {
+  "id": "927226",
+  "name": "Electrolux Professional 927226 Fryer Basket for 18 & 23 Litre Fryers",
+  "brand": "Electrolux",
+  "mpn": "927226",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_927226",
+  "known": {
+   "width": "285 mm",
+   "depth": "352 mm",
+   "height": "148 mm"
+  }
+ },
+ {
+  "id": "921629",
+  "name": "Electrolux Professional 921629 Full size Fryer Basket for 12 Litre Fryers",
+  "brand": "Electrolux",
+  "mpn": "921629",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_921629",
+  "known": {
+   "width": "225 mm",
+   "depth": "325 mm",
+   "height": "125 mm"
+  }
+ },
+ {
+  "id": "560311",
+  "name": "Alphin Pans Fryer Basket - 560311",
+  "brand": "Alphin Pans",
+  "mpn": "560311",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_560311",
+  "known": {
+   "depth": "165 mm",
+   "height": "135 mm"
+  }
+ },
+ {
+  "id": "560314",
+  "name": "Alphin Pans Fryer Basket - 560314",
+  "brand": "Alphin Pans",
+  "mpn": "560314",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_560314",
+  "known": {
+   "depth": "145 mm",
+   "height": "145 mm"
+  }
+ },
+ {
+  "id": "s025",
+  "name": "S025 Stainless Steel 2 Tier Afternoon Tea Stand",
+  "brand": "APS",
+  "mpn": "S025",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_S025",
+  "known": {
+   "shelves": "2",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "s024",
+  "name": "S024 Stainless Steel 3 Tier Afternoon Tea Stand",
+  "brand": "APS",
+  "mpn": "S024",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_S024",
+  "known": {
+   "shelves": "3",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "cc465",
+  "name": "CC465 Stackable Cover 1/1 GN",
+  "brand": "APS",
+  "mpn": "CC465",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CC465",
+  "known": {
+   "gnCapacity": "1/1 GN"
+  }
+ },
+ {
+  "id": "t760",
+  "name": "T760 Clear 1/1 GN Size Cover",
+  "brand": "APS",
+  "mpn": "T760",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_T760",
+  "known": {
+   "gnCapacity": "1/1 GN"
+  }
+ },
+ {
+  "id": "cb804",
+  "name": "CB804 Clear 1/1 GN Size Cover",
+  "brand": "APS",
+  "mpn": "CB804",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CB804",
+  "known": {
+   "gnCapacity": "1/1 GN"
+  }
+ }
+]

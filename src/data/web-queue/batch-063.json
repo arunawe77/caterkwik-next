@@ -1,0 +1,153 @@
+[
+ {
+  "id": "e550",
+  "name": "Arcoroc E550 Chefs Glass Bowl 1.1 Ltr (Pack of 6)",
+  "brand": "Arcoroc",
+  "mpn": "E550",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_E550",
+  "known": {
+   "volume": "1.1 litres"
+  }
+ },
+ {
+  "id": "k370",
+  "name": "K370 Oval Serving Tray 660mm",
+  "brand": "Olympia",
+  "mpn": "K370",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_K370",
+  "known": {
+   "width": "660 mm",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "922003",
+  "name": "Electrolux Professional Skyline Wheel kit for 1/1 and 2/1 Combi oven bases - 922003",
+  "brand": "Electrolux",
+  "mpn": "922003",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922003",
+  "known": {
+   "steam": "boiler",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "922704",
+  "name": "Electrolux Professional Castors for Stacked Skyline Combi Ovens - 922704",
+  "brand": "Electrolux",
+  "mpn": "922704",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922704",
+  "known": {
+   "steam": "boiler",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "922617",
+  "name": "Electrolux Professional Hot Cupboard Base with Tray Support for 6 & 10 2/1GN Combi Ovens - 922617",
+  "brand": "Electrolux",
+  "mpn": "922617",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922617",
+  "known": {
+   "gnCapacity": "5 x 2/1GN",
+   "width": "1090 mm",
+   "weight": "105 kg",
+   "electricKw": "2.8 kW",
+   "voltage": "230V, 50HZ",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "922615",
+  "name": "Electrolux Professional Hot Cupboard Base with Tray Support for 6 & 10 1/1GN Combi Ovens - 922615",
+  "brand": "Electrolux",
+  "mpn": "922615",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922615",
+  "known": {
+   "gnCapacity": "5 x 1/1GN",
+   "width": "867 mm",
+   "weight": "94 kg",
+   "electricKw": "2.5 kW",
+   "voltage": "230V, 50HZ",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "922729",
+  "name": "Electrolux Professional Exhaust Hood with Fan for 6 & 10 2/1GN Combi Ovens - 922729",
+  "brand": "Electrolux",
+  "mpn": "922729",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922729",
+  "known": {
+   "gnCapacity": "2/1GN",
+   "width": "1098 mm",
+   "depth": "1266 mm",
+   "height": "450 mm",
+   "weight": "66 kg",
+   "amps": "13 A",
+   "plug": "Plug supplied",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "922730",
+  "name": "Electrolux Professional Exhaust Hood with Fan for 20 1/1GN Combi Ovens - 922730",
+  "brand": "Electrolux",
+  "mpn": "922730",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922730",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "width": "917 mm",
+   "depth": "1085 mm",
+   "height": "450 mm",
+   "weight": "52 kg",
+   "amps": "13 A",
+   "plug": "Plug supplied",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "922739",
+  "name": "Electrolux Professional Plastic Drain Kit for 20 GN Combi Ovens, Dia=50mm - 922739",
+  "brand": "Electrolux",
+  "mpn": "922739",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922739",
+  "known": {
+   "steam": "boiler",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "922750",
+  "name": "Electrolux Professional Steam Optimiser - 922750",
+  "brand": "Electrolux",
+  "mpn": "922750",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922750",
+  "known": {
+   "steam": "boiler",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "922670",
+  "name": "Electrolux Professional Kit to Convert from Natural Gas to LPG Configuration - 922670",
+  "brand": "Electrolux",
+  "mpn": "922670",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922670",
+  "known": {
+   "steam": "boiler",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "922171",
+  "name": "Electrolux Professional External Spray Unit for Combi / Convection Ovens - 922171",
+  "brand": "Electrolux",
+  "mpn": "922171",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922171",
+  "known": {
+   "steam": "boiler",
+   "finish": "Black Finish"
+  }
+ }
+]

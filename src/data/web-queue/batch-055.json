@@ -1,0 +1,171 @@
+[
+ {
+  "id": "upc1600",
+  "name": "Cambro UPC1600 Insulated Ultra Camcarts",
+  "brand": "Cambro",
+  "mpn": "upc1600401",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_UPC1600",
+  "known": {
+   "gnCapacity": "24 x 1/1 GN",
+   "wells": "24",
+   "width": "715 mm",
+   "depth": "820 mm",
+   "height": "1350 mm",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "upc1200",
+  "name": "Cambro UPC1200 Insulated Ultra Camcart",
+  "brand": "Cambro",
+  "mpn": "UPC1200401",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_UPC1200",
+  "known": {
+   "gnCapacity": "16 x 1/1GN",
+   "wells": "16",
+   "width": "725 mm",
+   "depth": "820 mm",
+   "height": "1160 mm",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "btsgce240",
+  "name": "Bradley Smoke Generator with Adaptor",
+  "brand": "Bradley Smoker",
+  "mpn": "BTSGCE240",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BTSGCE240",
+  "known": {
+   "width": "317 mm",
+   "depth": "660 mm",
+   "height": "330 mm",
+   "weight": "7.71 kg",
+   "electricKw": "0.125 kW",
+   "voltage": "240V 50 Hz"
+  }
+ },
+ {
+  "id": "hatcotm5h",
+  "name": "Hatco Conveyor Toaster - TM-5",
+  "brand": "Hatco",
+  "mpn": "TM5H",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HATCOTM5H",
+  "known": {
+   "width": "290 mm",
+   "weight": "16 kg",
+   "electricKw": "1.6 kW",
+   "plug": "plug supplied",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "pldc001",
+  "name": "Thunder Group PLDC001 Pastry Display with 3 Trays",
+  "brand": "Thunder Group",
+  "mpn": "PLDC001",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PLDC001",
+  "known": {
+   "width": "533 mm",
+   "depth": "438 mm",
+   "height": "419 mm"
+  }
+ },
+ {
+  "id": "craventmhr3l",
+  "name": "Craven Bow Fronted Table Mounted Display Unit",
+  "brand": "Craven",
+  "mpn": "TMHR3L",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CRAVENTMHR3L",
+  "known": {
+   "volume": "3 litres",
+   "width": "400 mm",
+   "depth": "385 mm",
+   "height": "824 mm",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "pldc002",
+  "name": "Thunder Group PLDC002 Pastry Display with 4 Trays",
+  "brand": "Thunder Group",
+  "mpn": "PLDC002",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PLDC002",
+  "known": {
+   "width": "355 mm",
+   "depth": "609 mm",
+   "height": "609 mm"
+  }
+ },
+ {
+  "id": "gd128",
+  "name": "GD128 Olympia Rectangular Electric Chafer",
+  "brand": "Olympia",
+  "mpn": "GD128",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GD128",
+  "known": {
+   "heatType": "wet",
+   "volume": "8 litres",
+   "electricKw": "0.28 kW",
+   "voltage": "220V",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "cf309",
+  "name": "CF309 Ice Cream Cone Stand",
+  "brand": "APS",
+  "mpn": "CF309",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CF309",
+  "known": {
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "g518clpg",
+  "name": "Blue Seal G518C 6 Burner/300mm Griddle Cooktop - LPG",
+  "brand": "Blue Seal",
+  "mpn": "G518C - LPG",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G518CLPG",
+  "known": {
+   "fuel": "gas",
+   "width": "1200 mm",
+   "depth": "812 mm",
+   "height": "315 mm",
+   "gasKw": "48 kW",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "g518blpg",
+  "name": "Blue Seal G518B 4 Burner/600mm Griddle Cooktop - LPG",
+  "brand": "Blue Seal",
+  "mpn": "G518B- LPG",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G518BLPG",
+  "known": {
+   "fuel": "gas",
+   "width": "1200 mm",
+   "depth": "812 mm",
+   "height": "315 mm",
+   "gasKw": "40 kW",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "g518dlpg",
+  "name": "Blue Seal G518D 8 Burner Cooktop - LPG",
+  "brand": "Blue Seal",
+  "mpn": "G518D -LPG",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G518DLPG",
+  "known": {
+   "fuel": "gas",
+   "width": "1200 mm",
+   "depth": "812 mm",
+   "height": "315 mm",
+   "gasKw": "56 kW",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "1 year"
+  }
+ }
+]

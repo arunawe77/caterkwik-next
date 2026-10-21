@@ -1,0 +1,114 @@
+[
+ {
+  "id": "pujadaspizzapeels",
+  "name": "Pujadas Aluminium Pizza Peel",
+  "brand": "Pujadas",
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PUJADASPIZZAPEELS",
+  "known": {}
+ },
+ {
+  "id": "ge196",
+  "name": "GE196 Aluminium Pizza Tray Wide Rim 20cm",
+  "brand": "Vogue",
+  "mpn": "GE196",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GE196",
+  "known": {
+   "pizzaSize": "20cm"
+  }
+ },
+ {
+  "id": "ge197",
+  "name": "GE197 Aluminium Pizza Tray Wide Rim 26cm",
+  "brand": "Vogue",
+  "mpn": "GE197",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GE197",
+  "known": {
+   "pizzaSize": "26cm"
+  }
+ },
+ {
+  "id": "963025",
+  "name": "Pujadas Aluminium Pizza Screens - Perforated",
+  "brand": "Pujadas",
+  "mpn": "Aluminium Pizza Screen",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_963025",
+  "known": {}
+ },
+ {
+  "id": "ge201",
+  "name": "GE201 Aluminium Pizza Tray Wide Rim 46cm",
+  "brand": "Vogue",
+  "mpn": "GE201",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GE201",
+  "known": {
+   "pizzaSize": "46cm"
+  }
+ },
+ {
+  "id": "929025",
+  "name": "Pujadas Aluminium Pizza Pans - Solid",
+  "brand": "Pujadas",
+  "mpn": "929025",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_929025",
+  "known": {}
+ },
+ {
+  "id": "ge195",
+  "name": "GE195 Vogue Aluminium Pizza Screen 46cm",
+  "brand": "Vogue",
+  "mpn": "GE195",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GE195",
+  "known": {
+   "pizzaSize": "46cm"
+  }
+ },
+ {
+  "id": "ge200",
+  "name": "GE200 Aluminium Pizza Tray Wide Rim 41cm",
+  "brand": "Vogue",
+  "mpn": "GE200",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GE200",
+  "known": {
+   "pizzaSize": "41cm"
+  }
+ },
+ {
+  "id": "cb143",
+  "name": "CB143 Deep Pan Pizza Cover 12in",
+  "brand": "Non Branded",
+  "mpn": "CB143",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CB143",
+  "known": {
+   "pizzaSize": "12in"
+  }
+ },
+ {
+  "id": "pujadasperforatednonstickpans",
+  "name": "Pujadas Non-Stick Perforated Pizza Pans",
+  "brand": "Pujadas",
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PUJADASPERFORATEDNONSTICKPANS",
+  "known": {}
+ },
+ {
+  "id": "ge193",
+  "name": "GE193 Aluminium Pizza Screen 20cm",
+  "brand": "Vogue",
+  "mpn": "GE193",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GE193",
+  "known": {
+   "pizzaSize": "20cm"
+  }
+ },
+ {
+  "id": "ge207",
+  "name": "GE207 Wooden Pizza Peel, 36x41cm",
+  "brand": "Vogue",
+  "mpn": "GE207",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GE207",
+  "known": {
+   "pizzaSize": "41cm"
+  }
+ }
+]

@@ -1,0 +1,216 @@
+[
+ {
+  "id": "cj558",
+  "name": "Buffalo CJ558 Pie Cabinet 30 Pie Capacity",
+  "brand": "Buffalo",
+  "mpn": "CJ558",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CJ558",
+  "known": {
+   "width": "469 mm",
+   "depth": "363 mm",
+   "height": "433 mm",
+   "weight": "15 kg",
+   "electricKw": "0.35 kW",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "cj559",
+  "name": "Buffalo CJ559 Economy Pie Cabinet 60 Pie Capacity",
+  "brand": "Buffalo",
+  "mpn": "CJ559",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CJ559",
+  "known": {
+   "width": "744 mm",
+   "depth": "363 mm",
+   "height": "433 mm",
+   "weight": "21.5 kg",
+   "electricKw": "0.7 kW",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "hw921",
+  "name": "Buffalo HW921 Self-Serve Heated Display Unit with Hinged Doors",
+  "brand": "Buffalo",
+  "mpn": "HW921",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HW921",
+  "known": {
+   "gnCapacity": "1/2 gastronorm",
+   "width": "650 mm",
+   "depth": "467 mm",
+   "height": "630 mm",
+   "weight": "29 kg",
+   "electricKw": "0.56 kW",
+   "amps": "2.4 A",
+   "voltage": "240V",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "hw926",
+  "name": "Buffalo HW926 Sloped Chute Food Warmer 3 Shelf",
+  "brand": "Buffalo",
+  "mpn": "HW926",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HW926",
+  "known": {
+   "shelves": "3",
+   "width": "600 mm",
+   "depth": "739 mm",
+   "height": "947 mm",
+   "weight": "56.5 kg",
+   "electricKw": "1.47 kW",
+   "amps": "6.4 A",
+   "voltage": "240V",
+   "finish": "black finish"
+  }
+ },
+ {
+  "id": "vi017",
+  "name": "VIZU 2 TIER FOOD CHUTE - VI017",
+  "brand": "Vizu",
+  "mpn": "VI017",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_VI017",
+  "known": {
+   "shelves": "2",
+   "bulbs": "heat lamps are controlled by variable d",
+   "width": "710 mm",
+   "depth": "787 mm",
+   "height": "778 mm",
+   "electricKw": "2.1 kW",
+   "amps": "10 A",
+   "voltage": "230v 50hz",
+   "warranty": "1 year",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "vmu62aqv",
+  "name": "Valera VMU-62-AQV United Heated Slimline Multideck",
+  "brand": "Valera",
+  "mpn": "VMU62AQV",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_VMU62AQV",
+  "known": {
+   "shelves": "4",
+   "mobility": "true",
+   "width": "685 mm",
+   "depth": "620 mm",
+   "height": "1927 mm",
+   "amps": "13 A",
+   "plug": "Plug supplied",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "vmu80aqv",
+  "name": "Valera VMU-80-AQV United Heated Multideck",
+  "brand": "Valera",
+  "mpn": "VMU80AQV",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_VMU80AQV",
+  "known": {
+   "shelves": "4",
+   "mobility": "true",
+   "width": "685 mm",
+   "depth": "800 mm",
+   "height": "1927 mm",
+   "amps": "13 A",
+   "plug": "Plug supplied",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "buffalop111",
+  "name": "Buffalo P111 Folding Gas Barbecue On Wheels",
+  "brand": "Buffalo",
+  "mpn": "P111",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BUFFALOP111",
+  "known": {
+   "plate": "chrome",
+   "fuel": "gas",
+   "width": "1120 mm",
+   "depth": "410 mm",
+   "height": "900 mm",
+   "weight": "28.5 kg",
+   "electricKw": "6.9 kW",
+   "gasConnection": "1/4\" connection",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "tg160f",
+  "name": "Cinders TG160F Festival Folding Professional Barbecue",
+  "brand": "Cinders",
+  "mpn": "TG160F",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_TG160F",
+  "known": {
+   "fuel": "gas",
+   "width": "800 mm",
+   "weight": "54 kg",
+   "electricKw": "17 kW",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "s502",
+  "name": "Buffalo Folding Gas Barbecue with Free Folding Table - S502",
+  "brand": "Buffalo",
+  "mpn": "S502",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_S502",
+  "known": {
+   "plate": "chrome",
+   "fuel": "gas",
+   "width": "1120 mm",
+   "depth": "410 mm",
+   "height": "900 mm",
+   "weight": "28.5 kg",
+   "electricKw": "6.9 kW",
+   "gasConnection": "1/4\" connection",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "pgf600g",
+  "name": "Parry PGF600G LPG Gas Griddle",
+  "brand": "Parry",
+  "mpn": "PGF600G",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PGF600G",
+  "known": {
+   "fuel": "gas",
+   "burners": "2",
+   "width": "620 mm",
+   "depth": "510 mm",
+   "height": "235 mm",
+   "weight": "22.5 kg",
+   "gasKw": "5.5 kW",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ispa18",
+  "name": "Imperial ISPA-18 Gas Stock Pot Hob",
+  "brand": "Imperial",
+  "mpn": "ISPA-18",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ISPA18",
+  "known": {
+   "fuel": "gas",
+   "zones": "3",
+   "width": "457 mm",
+   "depth": "533 mm",
+   "height": "629 mm",
+   "weight": "57 kg",
+   "gasKw": "26 kW",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ }
+]

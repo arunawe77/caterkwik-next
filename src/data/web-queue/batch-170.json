@@ -1,0 +1,239 @@
+[
+ {
+  "id": "ck7804",
+  "name": "Cater-Cook CK7804 Single Tank 4 Litre Electric Counter Top Fryer",
+  "brand": "Cater-Cook",
+  "mpn": "CK7804",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK7804",
+  "known": {
+   "tanks": "1",
+   "fuel": "electric",
+   "thermostat": "50°C to 190°C",
+   "computerControl": "thermostat control",
+   "width": "264 mm",
+   "weight": "5.4 kg",
+   "electricKw": "2.5 kW",
+   "voltage": "240V",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cu614",
+  "name": "Buffalo CU614 Single Tank Single Basket 3Ltr Countertop Fryer 2kW",
+  "brand": "Buffalo",
+  "mpn": "CU614",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CU614",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "3 litres",
+   "thermostat": "60°C to 190°C",
+   "computerControl": "thermostat control",
+   "width": "180 mm",
+   "depth": "410 mm",
+   "height": "280 mm",
+   "weight": "3 kg",
+   "electricKw": "2 kW",
+   "voltage": "240V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "msf5",
+  "name": "Hallco MSF5 Small Single Tank / Basket Counter-top Fryer",
+  "brand": "Hallco",
+  "mpn": "MSF5",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MSF5",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "3 litres",
+   "drainValve": "ddition of a useful tank drain tap for ease of em",
+   "computerControl": "thermostatic control",
+   "electricKw": "2.5 kW",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ht756",
+  "name": "Buffalo HT756 600 Series Single Tank Electric Fryer 8Ltr",
+  "brand": "Buffalo",
+  "mpn": "HT756",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HT756",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "8 litres",
+   "fuel": "electric",
+   "thermostat": "60°C to 190°C",
+   "drainValve": "Front oil drain tap for safe",
+   "width": "400 mm",
+   "depth": "600 mm",
+   "height": "280 mm",
+   "weight": "20 kg",
+   "electricKw": "6 kW",
+   "voltage": "230V",
+   "phase": "single"
+  }
+ },
+ {
+  "id": "fe8",
+  "name": "Sammic FE-8 Countertop Electric 8 Litre, Welded Tank Fryer - 5130116",
+  "brand": "Sammic",
+  "mpn": "5130116",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FE8",
+  "known": {
+   "oilCapacity": "8 litres",
+   "fuel": "electric",
+   "coldZone": "true",
+   "drainValve": "Front drain tap",
+   "width": "290 mm",
+   "depth": "550 mm",
+   "height": "335 mm",
+   "weight": "14 kg",
+   "electricKw": "3 kW",
+   "amps": "13 A",
+   "voltage": "230V, 50Hz",
+   "plug": "Plug supplied",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "fe9",
+  "name": "Sammic FE-9 Countertop Electric 8 Litre, Three Phase, Welded Tank Fryer - 5130120",
+  "brand": "Sammic",
+  "mpn": "FE-9",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FE9",
+  "known": {
+   "oilCapacity": "8 litres",
+   "fuel": "electric",
+   "coldZone": "true",
+   "drainValve": "Front drain tap",
+   "width": "290 mm",
+   "depth": "550 mm",
+   "height": "335 mm",
+   "weight": "14 kg",
+   "electricKw": "6 kW",
+   "voltage": "400V, 50Hz",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "fe12",
+  "name": "Sammic FE-12 Countertop Electric 12 Litre, Welded Tank Fryer - 5130122",
+  "brand": "Sammic",
+  "mpn": "FE-12",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FE12",
+  "known": {
+   "oilCapacity": "12 litres",
+   "fuel": "electric",
+   "coldZone": "true",
+   "drainValve": "Front drain tap",
+   "width": "400 mm",
+   "depth": "700 mm",
+   "height": "310 mm",
+   "weight": "17 kg",
+   "electricKw": "9 kW",
+   "voltage": "400V, 50Hz",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "mdf55",
+  "name": "Hallco MDF55 Twin Tank / Basket Counter-top Fryer",
+  "brand": "Hallco",
+  "mpn": "MDF55",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MDF55",
+  "known": {
+   "tanks": "2",
+   "oilCapacity": "3 litres",
+   "drainValve": "ddition of a useful tank drain tap for ease of em",
+   "computerControl": "thermostatic control",
+   "electricKw": "2.5 kW",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "mdf88",
+  "name": "Hallco MDF88 Large Twin Tank / Basket Counter-top Fryer",
+  "brand": "Hallco",
+  "mpn": "MDF88",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MDF88",
+  "known": {
+   "tanks": "2",
+   "oilCapacity": "6 litres",
+   "drainValve": "ddition of a useful tank drain tap for ease of em",
+   "computerControl": "thermostatic control",
+   "electricKw": "3 kW",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "mdf88t",
+  "name": "Hallco MDF88T Twin Tank / Basket Fryer with Drainage Taps",
+  "brand": "Hallco",
+  "mpn": "MDF88T",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MDF88T",
+  "known": {
+   "tanks": "2",
+   "oilCapacity": "6 litres",
+   "drainValve": "ddition of a useful tank drain tap for ease of em",
+   "computerControl": "thermostatic control",
+   "electricKw": "2.5 kW",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "fr25",
+  "name": "Roband FR25 Frypod - 2 x 5 Litre Capacity",
+  "brand": "Roband",
+  "mpn": "FR25",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FR25",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "5 litres",
+   "thermostat": "25C to 180C",
+   "computerControl": "thermostat control",
+   "width": "570 mm",
+   "depth": "480 mm",
+   "height": "335 mm",
+   "electricKw": "2.3 kW",
+   "amps": "13 A",
+   "voltage": "230V, 50hz",
+   "warranty": "1 year",
+   "finish": "stainless steel finish"
+  }
+ },
+ {
+  "id": "profi10",
+  "name": "FriFri Profi+ 10 Single Tank Counter Top Electric Fryer",
+  "brand": "FriFri",
+  "mpn": "Profi+ 10",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PROFI10",
+  "known": {
+   "tanks": "1",
+   "fuel": "electric",
+   "thermostat": "150 to 190°C",
+   "computerControl": "electronic",
+   "width": "540 mm",
+   "depth": "475 mm",
+   "height": "456 mm",
+   "electricKw": "6.9 kW",
+   "amps": "13 A",
+   "voltage": "400V",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ }
+]

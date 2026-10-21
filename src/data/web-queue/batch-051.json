@@ -1,0 +1,135 @@
+[
+ {
+  "id": "f464",
+  "name": "Olympia F464 Cast Iron 240mm Oval Sizzler With Wooden Stand",
+  "brand": null,
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_F464",
+  "known": {
+   "fuel": "induction",
+   "width": "240 mm"
+  }
+ },
+ {
+  "id": "pldbc1826pp",
+  "name": "Thunder Group PLDBC1826PP Pizza Dough Box Lid",
+  "brand": "Thunder Group",
+  "mpn": "PLDBC1826PP",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PLDBC1826PP",
+  "known": {
+   "width": "660 mm"
+  }
+ },
+ {
+  "id": "tbpol",
+  "name": "Polyester Pizza Delivery Bag",
+  "brand": "Alphin Pans",
+  "mpn": "TBPOL",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_TBPOL",
+  "known": {
+   "pizzaSize": "5'",
+   "width": "457 mm",
+   "depth": "483 mm",
+   "height": "127 mm",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "gc902",
+  "name": "GC902 APS Frames Maple Wood 1/1 GN Base",
+  "brand": "APS",
+  "mpn": "GC902",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GC902",
+  "known": {
+   "gnCapacity": "1/1 GN",
+   "width": "325 mm",
+   "depth": "530 mm",
+   "height": "85 mm",
+   "weight": "5.72 kg"
+  }
+ },
+ {
+  "id": "gc901",
+  "name": "GC901 APS Frames Dark Wood 1/1 GN Base",
+  "brand": "APS",
+  "mpn": "GC901",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GC901",
+  "known": {
+   "gnCapacity": "1/1 GN",
+   "width": "325 mm",
+   "depth": "530 mm",
+   "height": "85 mm",
+   "weight": "6.08 kg"
+  }
+ },
+ {
+  "id": "slop012",
+  "name": "Thunder Group SLOP012 12\" Oval Platter",
+  "brand": "Thunder Group",
+  "mpn": "SLOP012",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SLOP012",
+  "known": {
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "slop010",
+  "name": "Thunder Group SLOP010 10\" Oval Platter",
+  "brand": "Thunder Group",
+  "mpn": "SLOP010",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SLOP010",
+  "known": {
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "slop014",
+  "name": "Thunder Group SLOP014 14\" Oval Platter",
+  "brand": "Thunder Group",
+  "mpn": "SLOP014",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SLOP014",
+  "known": {
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "slop016",
+  "name": "Thunder Group SLOP016 16\" Oval Platter",
+  "brand": "Thunder Group",
+  "mpn": "SLOP016",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SLOP016",
+  "known": {
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "slop018",
+  "name": "Thunder Group SLOP018 18\" Oval Platter",
+  "brand": "Thunder Group",
+  "mpn": "SLOP018",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SLOP018",
+  "known": {
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "slop020",
+  "name": "Thunder Group SLOP020 20\" Oval Platter",
+  "brand": "Thunder Group",
+  "mpn": "SLOP020",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SLOP020",
+  "known": {
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "slop022",
+  "name": "Thunder Group SLOP022 22\" Oval Platter",
+  "brand": "Thunder Group",
+  "mpn": "SLOP022",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SLOP022",
+  "known": {
+   "finish": "stainless steel"
+  }
+ }
+]

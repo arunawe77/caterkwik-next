@@ -1,0 +1,231 @@
+[
+ {
+  "id": "oe8601",
+  "name": "Lincat Opus OE8601 Electric Wet Heat Bain Marie - 1/1 GN Compatible",
+  "brand": "Lincat",
+  "mpn": "OE8601",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_OE8601",
+  "known": {
+   "gnCapacity": "1/1 GN",
+   "heatType": "wet",
+   "width": "400 mm",
+   "depth": "800 mm",
+   "height": "300 mm",
+   "weight": "17 kg",
+   "electricKw": "1.8 kW",
+   "amps": "7.8 A",
+   "voltage": "230V, 50Hz",
+   "plug": "Plug supplied",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "buffalogh227",
+  "name": "Buffalo GH227 Red 5.7 Litre Soup Kettle",
+  "brand": "Buffalo",
+  "mpn": "GH227",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BUFFALOGH227",
+  "known": {
+   "heatType": "wet",
+   "volume": "5.7 litres",
+   "mobility": "true",
+   "tempRange": "35°C to 95°C",
+   "weight": "3.4 kg",
+   "electricKw": "0.3 kW",
+   "amps": "1.3 A",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "vollrathinductionsoupkettle",
+  "name": "Vollrath Mirage Countertop Induction Soup Kettle",
+  "brand": "Vollrath",
+  "mpn": "74110310 / 74110340",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_VOLLRATHINDUCTIONSOUPKETTLE",
+  "known": {
+   "volume": "10.4 litres",
+   "electricKw": "0.8 kW",
+   "amps": "23 A",
+   "voltage": "230V, 50HZ",
+   "plug": "plug supplied",
+   "warranty": "1 year",
+   "finish": "white"
+  }
+ },
+ {
+  "id": "vollrathretrosoupkettle",
+  "name": "Vollrath Heat and Hold Retro Soup Kettle - 10.4 Litres",
+  "brand": "Vollrath",
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_VOLLRATHRETROSOUPKETTLE",
+  "known": {
+   "volume": "10.4 litres",
+   "weight": "8.6 kg",
+   "electricKw": "1.5 kW",
+   "amps": "13 A",
+   "voltage": "230V, 50HZ",
+   "plug": "Plug supplied",
+   "warranty": "1 year",
+   "finish": "White"
+  }
+ },
+ {
+  "id": "vollrathdropinsoupkettle",
+  "name": "Vollrath Mirage Drop-In Induction Soup Kettle - 741103D",
+  "brand": "Vollrath",
+  "mpn": "741103D",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_VOLLRATHDROPINSOUPKETTLE",
+  "known": {
+   "volume": "10.4 litres",
+   "electricKw": "0.8 kW",
+   "amps": "5 A",
+   "voltage": "230V, 50HZ",
+   "plug": "Plug supplied",
+   "warranty": "1 year",
+   "finish": "white"
+  }
+ },
+ {
+  "id": "cw35a",
+  "name": "Valera CW35A Wok Induction Hob",
+  "brand": "Valera",
+  "mpn": "CW35A",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CW35A",
+  "known": {
+   "fuel": "induction",
+   "width": "385 mm",
+   "depth": "520 mm",
+   "height": "223 mm",
+   "weight": "13 kg",
+   "electricKw": "3.5 kW",
+   "amps": "20 A",
+   "voltage": "230V",
+   "phase": "single",
+   "hardWired": "true",
+   "warranty": "3 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "ct35a",
+  "name": "Valera CT35A Countertop Induction Hob",
+  "brand": "Valera",
+  "mpn": "CT35A",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CT35A",
+  "known": {
+   "volume": "1.5 litres",
+   "fuel": "induction",
+   "width": "385 mm",
+   "depth": "520 mm",
+   "height": "177 mm",
+   "weight": "13 kg",
+   "electricKw": "3.5 kW",
+   "amps": "20 A",
+   "phase": "single",
+   "hardWired": "true",
+   "warranty": "3 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "sa807",
+  "name": "Buffalo SA807 600 Series 4 Zone Freestanding Induction Hob 2x 3kW",
+  "brand": "Buffalo",
+  "mpn": "SA807",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SA807",
+  "known": {
+   "volume": "15 litres",
+   "fuel": "induction",
+   "heating": "bain marie",
+   "zones": "4",
+   "tap": "true",
+   "width": "600 mm",
+   "depth": "600 mm",
+   "height": "850 mm",
+   "electricKw": "3.4 kW",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "6954303ngct",
+  "name": "Vollrath Professional Series Single Induction Hob - 6954303NGCT",
+  "brand": "Vollrath",
+  "mpn": "6954303NGCT",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_6954303NGCT",
+  "known": {
+   "fuel": "induction",
+   "width": "419 mm",
+   "electricKw": "2.6 kW",
+   "amps": "10.8 A",
+   "voltage": "230v, 50hz",
+   "plug": "Plug Supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel casing"
+  }
+ },
+ {
+  "id": "piw30",
+  "name": "Roller Grill PIW 30 Single Induction Wok",
+  "brand": "Roller Grill",
+  "mpn": "PIW30",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PIW30",
+  "known": {
+   "fuel": "induction",
+   "width": "390 mm",
+   "depth": "430 mm",
+   "height": "165 mm",
+   "weight": "7 kg",
+   "electricKw": "3 kW",
+   "warranty": "2 years",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "ck71082",
+  "name": "Cater-Cook CK71082 Industrial Electric 250 Litre Indirect Boiling Pan",
+  "brand": "Cater-Cook",
+  "mpn": "CK71082",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK71082",
+  "known": {
+   "volume": "250 litres",
+   "fuel": "electric",
+   "heating": "indirect",
+   "tap": "true",
+   "width": "1000 mm",
+   "depth": "900 mm",
+   "height": "850 mm",
+   "electricKw": "27 kW",
+   "voltage": "400V",
+   "phase": "three",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "pm8ie100",
+  "name": "Firex PM8IE100 Electric Indirect Heat Boiling Pan - 100 Litres",
+  "brand": "Firex",
+  "mpn": "PM8IE100",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PM8IE100",
+  "known": {
+   "volume": "100 litres",
+   "fuel": "electric",
+   "heating": "indirect",
+   "tap": "true",
+   "width": "800 mm",
+   "depth": "900 mm",
+   "height": "1110 mm",
+   "electricKw": "16 kW",
+   "amps": "32 A",
+   "voltage": "400V, 50Hz",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ }
+]

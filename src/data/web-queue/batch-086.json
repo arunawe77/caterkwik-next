@@ -1,0 +1,172 @@
+[
+ {
+  "id": "e269",
+  "name": "Dualit E269 6 Slice Vario Toaster Charcoal 60156",
+  "brand": "Dualit",
+  "mpn": "E269",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_E269",
+  "known": {
+   "fuel": "charcoal",
+   "throughput": "195 slices/hr",
+   "weight": "5.1 kg",
+   "electricKw": "3 kW",
+   "amps": "12.5 A",
+   "voltage": "230V"
+  }
+ },
+ {
+  "id": "ch176",
+  "name": "Rowlett Regent 6 Slot Toaster White - CH176",
+  "brand": "ROWLETT",
+  "mpn": "CH176",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CH176",
+  "known": {
+   "fuel": "electric",
+   "timer": "timer",
+   "plates": "6",
+   "weight": "8.89 kg",
+   "voltage": "240V",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "cb760",
+  "name": "CB760 Flat Notched Lid For Small Salad Crock",
+  "brand": "Kristallon",
+  "mpn": "CB760",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CB760",
+  "known": {
+   "heatType": "dry",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Shades",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "cb751",
+  "name": "CB751 Raised Lid For Large Salad Crock",
+  "brand": "Kristallon",
+  "mpn": "CB751",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CB751",
+  "known": {
+   "heatType": "dry",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Shades",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "cb752",
+  "name": "CB752 Notched Lid For Large Salad Crock",
+  "brand": "Kristallon",
+  "mpn": "CB752",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CB752",
+  "known": {
+   "heatType": "dry",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Shades",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "cb756",
+  "name": "CB756 Kristallon Notched Lid For Medium Salad Crock",
+  "brand": "Kristallon",
+  "mpn": "CB756",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CB756",
+  "known": {
+   "heatType": "dry",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Shades",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "gk852",
+  "name": "GK852 APS Zero Melamine Platter White GN 1/3",
+  "brand": "APS",
+  "mpn": "GK852",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GK852",
+  "known": {
+   "heatType": "dry",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Shades",
+   "finish": "White"
+  }
+ },
+ {
+  "id": "gk856",
+  "name": "GK856 APS Zero Melamine Platter Black GN 1/3",
+  "brand": "APS",
+  "mpn": "GK856",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GK856",
+  "known": {
+   "heatType": "dry",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Shades",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "gk827",
+  "name": "GK827 APS Wave Melamine Platter White GN 2/4",
+  "brand": "APS",
+  "mpn": "GK827",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GK827",
+  "known": {
+   "heatType": "dry",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Shades",
+   "finish": "White"
+  }
+ },
+ {
+  "id": "gk829",
+  "name": "GK829 APS Wave Melamine Platter Black GN 2/4",
+  "brand": "APS",
+  "mpn": "GK829",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GK829",
+  "known": {
+   "heatType": "dry",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Shades",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "gk851",
+  "name": "GK851 APS Zero Melamine Platter White GN ½",
+  "brand": "APS",
+  "mpn": "GK851",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GK851",
+  "known": {
+   "heatType": "dry",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Shades",
+   "finish": "White"
+  }
+ },
+ {
+  "id": "gk855",
+  "name": "GK855 APS Zero Melamine Platter Black GN ½",
+  "brand": "APS",
+  "mpn": "GK855",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GK855",
+  "known": {
+   "heatType": "dry",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Shades",
+   "finish": "Black"
+  }
+ }
+]

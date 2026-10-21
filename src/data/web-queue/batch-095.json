@@ -1,0 +1,184 @@
+[
+ {
+  "id": "gh413",
+  "name": "GH413 APS White 1/2GN Basket Bowl",
+  "brand": "APS",
+  "mpn": "GH413",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GH413",
+  "known": {
+   "gnCapacity": "1/2GN",
+   "heatType": "dry",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Shades",
+   "finish": "white"
+  }
+ },
+ {
+  "id": "gh410",
+  "name": "GH410 APS Red 1/2GN Basket Bowl",
+  "brand": "APS",
+  "mpn": "GH410",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GH410",
+  "known": {
+   "gnCapacity": "1/2GN",
+   "heatType": "dry",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Shades",
+   "finish": "white"
+  }
+ },
+ {
+  "id": "gh414",
+  "name": "GH414 APS White 2/4GN Basket Bowl",
+  "brand": "APS",
+  "mpn": "GH414",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GH414",
+  "known": {
+   "gnCapacity": "2/4GN",
+   "heatType": "dry",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Shades",
+   "finish": "white"
+  }
+ },
+ {
+  "id": "l281",
+  "name": "L281 Clear Small Notched Lid",
+  "brand": "Dalebrook",
+  "mpn": "L281",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_L281",
+  "known": {
+   "heatType": "dry",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Shades",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "l282",
+  "name": "L282 Clear Medium Notched Lid",
+  "brand": "Dalebrook",
+  "mpn": "L282",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_L282",
+  "known": {
+   "heatType": "dry",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Shades",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "922724",
+  "name": "Electrolux Professional Condensation Hood for 6 & 10 2/1GN Combi Ovens (Electric only) - 922724",
+  "brand": "Electrolux",
+  "mpn": "922724",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922724",
+  "known": {
+   "gnCapacity": "2/1GN",
+   "width": "1098 mm",
+   "depth": "1266 mm",
+   "height": "472 mm",
+   "weight": "84 kg",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "922725",
+  "name": "Electrolux Professional Condensation Hood for20 1/1GN Combi Ovens (Electric only) - 922725",
+  "brand": "Electrolux",
+  "mpn": "922725",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922725",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "width": "917 mm",
+   "depth": "1085 mm",
+   "height": "472 mm",
+   "weight": "78 kg",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "archway2pwg",
+  "name": "Archway 2PW/G Gas Wet Well Bain Marie - 2 x 4.5ltr Round Pots",
+  "brand": "Archway",
+  "mpn": "2PWG",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAY2PWG",
+  "known": {
+   "heatType": "wet",
+   "volume": "4.5 litres",
+   "width": "385 mm",
+   "depth": "630 mm",
+   "height": "350 mm",
+   "weight": "17 kg",
+   "gasConnection": "1/2\" Gas Hose Needed",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "archway4pwg",
+  "name": "Archway 4PW/G Gas Wet Well Bain Marie - 4 x 4.5ltr Round Pots",
+  "brand": "Archway",
+  "mpn": "4PWG",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAY4PWG",
+  "known": {
+   "heatType": "wet",
+   "volume": "4.5 litres",
+   "width": "445 mm",
+   "depth": "630 mm",
+   "height": "350 mm",
+   "weight": "20 kg",
+   "gasConnection": "1/2\" Gas Hose Needed",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ck8976",
+  "name": "Cater-Cook CK8976 Black 10 Litre Soup Kettle",
+  "brand": "Cater-Cook",
+  "mpn": "CK8976",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK8976",
+  "known": {
+   "heatType": "wet",
+   "volume": "10 litres",
+   "mobility": "true",
+   "electricKw": "0.4 kW",
+   "voltage": "230V",
+   "warranty": "1 year",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "cf291",
+  "name": "APS CF291 Chafing Stand for Soup Kettle CF290",
+  "brand": "APS",
+  "mpn": "CF291",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CF291",
+  "known": {
+   "heatType": "dry",
+   "volume": "10 litres",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Shades",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "mc30l4b",
+  "name": "Hallco MC30L4B Induction Hob",
+  "brand": "Hallco",
+  "mpn": "MC30L4B",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MC30L4B",
+  "known": {
+   "fuel": "induction",
+   "electricKw": "2.8 kW",
+   "warranty": "1 year"
+  }
+ }
+]

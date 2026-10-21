@@ -1,0 +1,36 @@
+# Caterkwik staging or production on one server: the site and its Postgres.
+# nginx on the host terminates TLS and proxies to 127.0.0.1:3000 (see deploy/nginx.conf).
+#
+#   cp .env.example .env     # fill in SITE_URL, SITE_PASSWORD, DB_PASSWORD, keys
+#   docker compose up -d --build
+
+services:
+  db:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: caterkwik
+      POSTGRES_PASSWORD: ${DB_PASSWORD:?set DB_PASSWORD in .env}
+      POSTGRES_DB: caterkwik
+    volumes:
+      - dbdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U caterkwik -d caterkwik"]
+      interval: 10s
+      timeout: 5s
+      retries: 6
+
+  app:
+    build: .
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    env_file: .env
+    environment:
+      DATABASE_URL: postgresql://caterkwik:${DB_PASSWORD}@db:5432/caterkwik
+    ports:
+      - "127.0.0.1:3000:3000"
+
+volumes:
+  dbdata:

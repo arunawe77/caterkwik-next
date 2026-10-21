@@ -1,0 +1,262 @@
+[
+ {
+  "id": "cu621",
+  "name": "Buffalo CU621 Double Electric Fryer with Timer 2x8Ltr",
+  "brand": "Buffalo",
+  "mpn": "CU621",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CU621",
+  "known": {
+   "tanks": "2",
+   "oilCapacity": "8 litres",
+   "fuel": "electric",
+   "computerControl": "digital",
+   "width": "560 mm",
+   "depth": "505 mm",
+   "height": "410 mm",
+   "weight": "16 kg",
+   "amps": "12.6 A",
+   "voltage": "240V",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "fe99",
+  "name": "Sammic FE-9+9 Countertop Electric 8+8 Litre, Three Phase, Welded Twin Tank Fryer - 5130125",
+  "brand": "Sammic",
+  "mpn": "FE9+9",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FE99",
+  "known": {
+   "tanks": "2",
+   "oilCapacity": "8 litres",
+   "fuel": "electric",
+   "coldZone": "true",
+   "drainValve": "Front drain tap",
+   "width": "580 mm",
+   "depth": "550 mm",
+   "height": "295 mm",
+   "weight": "23 kg",
+   "electricKw": "12 kW",
+   "voltage": "400V, 50Hz",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "fe88",
+  "name": "Sammic FE-8+8 Countertop Electric 8+8 Litre, Welded Twin Tank Fryer - 5130118",
+  "brand": "Sammic",
+  "mpn": "FE8+8",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FE88",
+  "known": {
+   "tanks": "2",
+   "oilCapacity": "8 litres",
+   "fuel": "electric",
+   "coldZone": "true",
+   "drainValve": "Front drain tap",
+   "width": "580 mm",
+   "depth": "550 mm",
+   "height": "295 mm",
+   "weight": "19 kg",
+   "electricKw": "6 kW",
+   "voltage": "230V, 50Hz",
+   "phase": "single",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "fe1212",
+  "name": "Sammic FE-12+12 Countertop Electric 2 x 12 Litre, Welded Twin Tank Fryer - 5130127",
+  "brand": "Sammic",
+  "mpn": "FE12+12",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FE1212",
+  "known": {
+   "tanks": "2",
+   "oilCapacity": "12 litres",
+   "fuel": "electric",
+   "coldZone": "true",
+   "drainValve": "Front drain tap",
+   "width": "800 mm",
+   "depth": "700 mm",
+   "height": "310 mm",
+   "weight": "32 kg",
+   "electricKw": "18 kW",
+   "voltage": "400V, 50Hz",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "tf55",
+  "name": "Valentine TF55 Twin Tank Countertop Electric Fryer",
+  "brand": "Valentine",
+  "mpn": "TF55",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_TF55",
+  "known": {
+   "tanks": "2",
+   "oilCapacity": "5 litres",
+   "fuel": "electric",
+   "drainValve": "Drain valve Pan pressed fr",
+   "width": "420 mm",
+   "depth": "415 mm",
+   "height": "265 mm",
+   "weight": "13 kg",
+   "electricKw": "3.2 kW",
+   "amps": "13 A",
+   "voltage": "230V",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ck8303",
+  "name": "Cater-Cook CK8303 Twin Tank 8ltr Electric Counter Top Fryer",
+  "brand": "Cater-Cook",
+  "mpn": "CK8303",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK8303",
+  "known": {
+   "tanks": "2",
+   "oilCapacity": "4 litres",
+   "fuel": "electric",
+   "computerControl": "thermostatic control",
+   "width": "450 mm",
+   "depth": "385 mm",
+   "height": "355 mm",
+   "electricKw": "2 kW",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "buffalol485",
+  "name": "Buffalo L485 Twin Tank Electric Fryer - 10 Ltr",
+  "brand": "Buffalo",
+  "mpn": "L485",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BUFFALOL485",
+  "known": {
+   "tanks": "2",
+   "oilCapacity": "5 litres",
+   "fuel": "electric",
+   "thermostat": "40 - 190°C",
+   "width": "540 mm",
+   "depth": "400 mm",
+   "height": "300 mm",
+   "weight": "9.8 kg",
+   "electricKw": "2.8 kW",
+   "amps": "12 A",
+   "voltage": "240V",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "buffalop107",
+  "name": "Buffalo P107 Twin Tank Electric Fryer - 2x3Ltr",
+  "brand": "Buffalo",
+  "mpn": "P107",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BUFFALOP107",
+  "known": {
+   "tanks": "2",
+   "oilCapacity": "3 litres",
+   "fuel": "electric",
+   "thermostat": "40 - 190°C",
+   "computerControl": "thermostat control",
+   "width": "360 mm",
+   "depth": "400 mm",
+   "height": "300 mm",
+   "electricKw": "2 kW",
+   "amps": "8.7 A",
+   "voltage": "240V",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "hu198",
+  "name": "Buffalo HU198 Free Standing Electric Fryer 20Ltr",
+  "brand": "Buffalo",
+  "mpn": "HU198",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HU198",
+  "known": {
+   "oilCapacity": "20 litres",
+   "fuel": "electric",
+   "thermostat": "60°C to 190°C",
+   "drainValve": "Oil drain tap and hinged ele",
+   "width": "394 mm",
+   "depth": "750 mm",
+   "height": "1014 mm",
+   "weight": "33 kg",
+   "voltage": "400V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "e421f",
+  "name": "Falcon E421F Twin Pan, Twin Basket Electric Fryer with Filtration",
+  "brand": "Falcon",
+  "mpn": "E421F",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_E421F",
+  "known": {
+   "tanks": "2",
+   "oilCapacity": "20 litres",
+   "chipOutput": "25 kg/hr",
+   "filtration": "true",
+   "fuel": "electric",
+   "width": "400 mm",
+   "depth": "650 mm",
+   "height": "880 mm",
+   "weight": "83 kg",
+   "electricKw": "20 kW",
+   "amps": "32 A",
+   "voltage": "400V",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "gf90",
+  "name": "Chefsrange GF90 3 Burner Single Tank Gas Fryer - 22 Litres",
+  "brand": "Chefsrange",
+  "mpn": "GF90",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF90",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "22 litres",
+   "fuel": "gas",
+   "coldZone": "true",
+   "width": "395 mm",
+   "depth": "767 mm",
+   "height": "900 mm",
+   "weight": "65 kg",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "gf120fryer",
+  "name": "Chefsrange GF120 4 Burner Single Tank Gas Fryer - 22 Litres",
+  "brand": "Chefsrange",
+  "mpn": "GF120",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF120FRYER",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "22 litres",
+   "fuel": "gas",
+   "coldZone": "true",
+   "width": "395 mm",
+   "depth": "767 mm",
+   "height": "900 mm",
+   "weight": "71 kg",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ }
+]

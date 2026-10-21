@@ -1,0 +1,247 @@
+[
+ {
+  "id": "oe8416",
+  "name": "Lincat OE8416 Opus 800 Ignite Electric Countertop Chargrill",
+  "brand": "Lincat",
+  "mpn": "OE8416",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_OE8416",
+  "known": {
+   "cookingWidth": "600 mm",
+   "plate": "cast iron",
+   "fuel": "electric",
+   "splashback": "true",
+   "width": "850 mm",
+   "depth": "800 mm",
+   "height": "700 mm",
+   "electricKw": "10.8 kW",
+   "voltage": "240V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "hx611c",
+  "name": "Sammic HX-611D 6 x 1/1GN Electric Combi Oven",
+  "brand": "Sammic",
+  "mpn": "HX-611C",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HX611C",
+  "known": {
+   "gnCapacity": "6 x 1/1GN",
+   "waterConnection": "Water connection: ¾' Inch",
+   "probe": "true",
+   "connectivity": "WI-FI",
+   "width": "510 mm",
+   "depth": "905 mm",
+   "height": "850 mm",
+   "weight": "79 kg",
+   "electricKw": "7.5 kW",
+   "voltage": "400V, 50Hz",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "hx1111",
+  "name": "Sammic HX-1111 11 x 1/1GN Electric Commercial Combi Oven",
+  "brand": "Sammic",
+  "mpn": "HX-1111",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HX1111",
+  "known": {
+   "gnCapacity": "11 x 1/1GN",
+   "waterConnection": "Water connection: ¾' Inch",
+   "probe": "true",
+   "connectivity": "WI-FI",
+   "width": "850 mm",
+   "depth": "890 mm",
+   "height": "1170 mm",
+   "weight": "142 kg",
+   "electricKw": "17 kW",
+   "voltage": "400V, 50Hz",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "hx211t",
+  "name": "Sammic HX-211T 20 x 1/1GN Electric Commercial Combi Oven",
+  "brand": "Sammic",
+  "mpn": "HX-211T",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HX211T",
+  "known": {
+   "gnCapacity": "20 x 1/1GN",
+   "waterConnection": "Water connection: ¾' Inch",
+   "probe": "true",
+   "connectivity": "WI-FI",
+   "width": "900 mm",
+   "depth": "890 mm",
+   "height": "1915 mm",
+   "weight": "225 kg",
+   "electricKw": "31.5 kW",
+   "voltage": "400V, 50Hz",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cs4",
+  "name": "Lincat Silverlink 600 CS4 Electric Chip Scuttle",
+  "brand": "Lincat",
+  "mpn": "CS4",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CS4",
+  "known": {
+   "fuel": "electric",
+   "width": "450 mm",
+   "depth": "600 mm",
+   "height": "265 mm",
+   "weight": "22 kg",
+   "electricKw": "0.5 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "cs6",
+  "name": "Lincat Silverlink 600 CS6 Electric Chip Scuttle",
+  "brand": "Lincat",
+  "mpn": "CS6",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CS6",
+  "known": {
+   "fuel": "electric",
+   "width": "600 mm",
+   "depth": "600 mm",
+   "height": "265 mm",
+   "weight": "26 kg",
+   "electricKw": "0.75 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "cs4g",
+  "name": "Lincat Silverlink 600 CS4/G Electric Chip Scuttle With Gantry",
+  "brand": "Lincat",
+  "mpn": "CS4/G - CK0553",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CS4G",
+  "known": {
+   "fuel": "electric",
+   "width": "450 mm",
+   "depth": "600 mm",
+   "height": "645 mm",
+   "weight": "22 kg",
+   "electricKw": "1 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "grfhs21",
+  "name": "Hatco - Glo-Ray Portable Fry Holding Stations - GRFHS-21",
+  "brand": "Hatco",
+  "mpn": "GRFHS-21",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GRFHS21",
+  "known": {
+   "thermostat": "000-120 C",
+   "width": "543 mm",
+   "depth": "724 mm",
+   "height": "578 mm",
+   "weight": "29 kg",
+   "voltage": "240 v",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "oe7109",
+  "name": "Lincat Opus 700 OE7109 Electric Chip Scuttle With Gantry",
+  "brand": "Lincat",
+  "mpn": "OE7109",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_OE7109",
+  "known": {
+   "fuel": "electric",
+   "width": "400 mm",
+   "depth": "737 mm",
+   "height": "713 mm",
+   "weight": "35 kg",
+   "electricKw": "1.5 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "bf6",
+  "name": "Blizzard BF6 Commercial Single Tank Counter Top Electric Fryer",
+  "brand": "BLIZZARD",
+  "mpn": "BF6",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BF6",
+  "known": {
+   "tanks": "1",
+   "filtration": "true",
+   "fuel": "electric",
+   "computerControl": "computer",
+   "weight": "6 kg",
+   "electricKw": "2.5 kW",
+   "amps": "13 A",
+   "warranty": "1 year",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "bif",
+  "name": "Blizzard BIF Single Tank Induction Fryer 8L",
+  "brand": "Blizzard",
+  "mpn": "BIF",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BIF",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "8 litres",
+   "drainValve": "Heavy-duty drain tap",
+   "computerControl": "digital",
+   "width": "288 mm",
+   "depth": "478 mm",
+   "height": "410 mm",
+   "weight": "13.9 kg",
+   "electricKw": "3 kW",
+   "amps": "13 A",
+   "warranty": "1 year",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "cu476",
+  "name": "Buffalo CU476 600 Series Single Tank Electric Fryer 8Ltr",
+  "brand": "Buffalo",
+  "mpn": "CU476",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CU476",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "8 litres",
+   "fuel": "electric",
+   "drainValve": "series mounted drain tap",
+   "width": "400 mm",
+   "depth": "600 mm",
+   "height": "240 mm",
+   "weight": "14.3 kg",
+   "electricKw": "3.4 kW",
+   "voltage": "400V",
+   "hardWired": "true",
+   "finish": "Stainless steel"
+  }
+ }
+]

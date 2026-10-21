@@ -1,0 +1,248 @@
+[
+ {
+  "id": "391120",
+  "name": "Electrolux Professional 900XP 150 Litre Electric Boiling Pan - 391120",
+  "brand": "Electrolux",
+  "mpn": "391120",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_391120",
+  "known": {
+   "volume": "150 litres",
+   "fuel": "electric",
+   "heating": "indirect",
+   "tap": "true",
+   "width": "800 mm",
+   "depth": "930 mm",
+   "height": "850 mm",
+   "weight": "135 kg",
+   "electricKw": "21.5 kW",
+   "voltage": "400V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "391102",
+  "name": "Electrolux Professional 900XP 150 Litre Gas, Indirect Boiling Pan - 391102",
+  "brand": "Electrolux",
+  "mpn": "391102",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_391102",
+  "known": {
+   "volume": "150 litres",
+   "fuel": "gas",
+   "heating": "indirect",
+   "tap": "true",
+   "width": "800 mm",
+   "depth": "930 mm",
+   "height": "850 mm",
+   "weight": "126 kg",
+   "electricKw": "0.1 kW",
+   "voltage": "230V, 50Hz",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "391145",
+  "name": "Electrolux Professional 900XP Duomat Manual Tilt Electric Bratt Pan - 80 Litres - 391145",
+  "brand": "Electrolux Professional",
+  "mpn": "391145",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_391145",
+  "known": {
+   "volume": "80 litres",
+   "fuel": "electric",
+   "tilting": "true",
+   "width": "800 mm",
+   "depth": "930 mm",
+   "height": "850 mm",
+   "weight": "150 kg",
+   "electricKw": "13 kW",
+   "voltage": "400V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "391149",
+  "name": "Electrolux Professional 900XP Duomat 100 litre manual Tilt Electric Bratt Pan - 391149",
+  "brand": "Electrolux",
+  "mpn": "391149",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_391149",
+  "known": {
+   "volume": "100 litres",
+   "fuel": "electric",
+   "tilting": "true",
+   "width": "1000 mm",
+   "depth": "930 mm",
+   "height": "850 mm",
+   "weight": "180 kg",
+   "electricKw": "17 kW",
+   "voltage": "400V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "g9881",
+  "name": "Falcon F900 G9881 Gas Bratt Pan",
+  "brand": "Falcon",
+  "mpn": "G9881",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G9881",
+  "known": {
+   "volume": "80 litres",
+   "fuel": "gas",
+   "heating": "direct",
+   "tilting": "true",
+   "basket": "6",
+   "width": "800 mm",
+   "depth": "900 mm",
+   "height": "900 mm",
+   "electricKw": "9.5 kW",
+   "gasConnection": "3/4\" BSP Gas Hose required",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ja938",
+  "name": "Buffalo JA938 Countertop Gas Chargrill 600mm",
+  "brand": "Buffalo",
+  "mpn": "JA938",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_JA938",
+  "known": {
+   "cookingWidth": "600 mm",
+   "plate": "cast iron",
+   "fuel": "gas",
+   "radiant": "radiant",
+   "width": "604 mm",
+   "depth": "640 mm",
+   "height": "390 mm",
+   "weight": "54 kg",
+   "gasKw": "15 kW",
+   "lpgKw": "12 kW",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cg4n",
+  "name": "Lincat Silverlink 600 CG4 Gas Chargrill",
+  "brand": "Lincat",
+  "mpn": "CG4",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CG4N",
+  "known": {
+   "fuel": "gas",
+   "radiant": "lava rock",
+   "width": "450 mm",
+   "depth": "600 mm",
+   "height": "415 mm",
+   "weight": "32 kg",
+   "electricKw": "14.3 kW",
+   "gasConnection": "1/2 Inch Gas Hose Needed",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "ugc8",
+  "name": "Parry UGC8 Lavaless Heavy Duty Gas Chargrill",
+  "brand": "Parry",
+  "mpn": "UGC8/P",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_UGC8",
+  "known": {
+   "fuel": "gas",
+   "radiant": "lava rock",
+   "thermostat": "true",
+   "width": "880 mm",
+   "depth": "775 mm",
+   "height": "1060 mm",
+   "weight": "97 kg",
+   "electricKw": "5 kW",
+   "gasKw": "26 kW",
+   "gasConnection": "3/4 Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "og8402",
+  "name": "Lincat Opus 800 OG8402 Gas Chargrill",
+  "brand": "Lincat",
+  "mpn": "OG8402",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_OG8402",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "gas",
+   "radiant": "infra-red",
+   "width": "900 mm",
+   "depth": "800 mm",
+   "height": "653 mm",
+   "weight": "120 kg",
+   "electricKw": "23 kW",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "og8403",
+  "name": "Lincat Opus 800 OG8403 Gas Chargrill",
+  "brand": "Lincat",
+  "mpn": "OG8403",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_OG8403",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "gas",
+   "radiant": "infra-red",
+   "width": "1200 mm",
+   "depth": "800 mm",
+   "height": "653 mm",
+   "weight": "160 kg",
+   "electricKw": "32.2 kW",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "ck079",
+  "name": "Buffalo CK079 Smart Touchscreen Combi Oven 7 x 1/1GN",
+  "brand": "Buffalo",
+  "mpn": "CK079",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK079",
+  "known": {
+   "gnCapacity": "7 x 1/1GN",
+   "autoClean": "true",
+   "probe": "true",
+   "width": "790 mm",
+   "depth": "790 mm",
+   "height": "825 mm",
+   "weight": "94 kg",
+   "voltage": "400V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "hx568",
+  "name": "Buffalo HX568 Smart Touchscreen Combi Oven 11 x GN 1/1",
+  "brand": "Buffalo",
+  "mpn": "HX568",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HX568",
+  "known": {
+   "gnCapacity": "11x 1/1 GN",
+   "programs": "99",
+   "autoClean": "true",
+   "waterConnection": "Water connection required",
+   "probe": "true",
+   "width": "790 mm",
+   "weight": "127 kg",
+   "electricKw": "18.5 kW",
+   "voltage": "400V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years"
+  }
+ }
+]

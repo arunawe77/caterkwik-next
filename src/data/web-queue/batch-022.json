@@ -1,0 +1,121 @@
+[
+ {
+  "id": "singlegantry",
+  "name": "Inomak Stainless Steel Single Gantry",
+  "brand": "Inomak",
+  "mpn": "RE - Single Gantry",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SINGLEGANTRY",
+  "known": {
+   "depth": "400 mm",
+   "height": "300 mm",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ad732",
+  "name": "AD732 Spare Blade for CF238 Kebab Knife.",
+  "brand": null,
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_AD732",
+  "known": {
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "u009",
+  "name": "U009 Olympia Paris Roll Top Chafing Dish Round - 6 Litre Capacity",
+  "brand": "Olympia",
+  "mpn": "U009",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_U009",
+  "known": {
+   "volume": "6 litres",
+   "warranty": "1 year",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "u008",
+  "name": "U008 Olympia Madrid Roll Top Chafing Dish",
+  "brand": "Olympia",
+  "mpn": "U008",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_U008",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "volume": "9 litres",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "cy740",
+  "name": "CY740 Churchill Wood Small Rustic Nesting Crate",
+  "brand": "Churchill",
+  "mpn": "CY740",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CY740",
+  "known": {}
+ },
+ {
+  "id": "ck320",
+  "name": "CK320 Olympia Ceramic Cake Stand Grey",
+  "brand": "Olympia",
+  "mpn": "CK320",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK320",
+  "known": {}
+ },
+ {
+  "id": "cb807",
+  "name": "CB807 APS 2 Tier Stand 1/1 GN Chrome Plated",
+  "brand": "APS",
+  "mpn": "CB807",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CB807",
+  "known": {
+   "gnCapacity": "1/1 GN",
+   "shelves": "2",
+   "finish": "Chrome"
+  }
+ },
+ {
+  "id": "bt5fv60",
+  "name": "Bradley Smoker BT5FV60 Assorted Flavour Bisquette Pack",
+  "brand": "Bradley Smoker",
+  "mpn": "BT5FV60",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BT5FV60",
+  "known": {}
+ },
+ {
+  "id": "dk397",
+  "name": "Fiesta Green DK397 Biodegradable Bamboo Paddle Skewers 90mm (Pack of 100)",
+  "brand": "Fiesta Green",
+  "mpn": "DK397",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DK397",
+  "known": {}
+ },
+ {
+  "id": "927213",
+  "name": "Electrolux Professional 6 x Round Pasta Baskets - 927213",
+  "brand": "Electrolux",
+  "mpn": "927213",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_927213",
+  "known": {
+   "volume": "40 litres",
+   "width": "135 mm",
+   "depth": "135 mm",
+   "height": "180 mm"
+  }
+ },
+ {
+  "id": "dghtraygws3",
+  "name": "Alphin Pans 600mm x 400mm Dough Tray - Various Colours",
+  "brand": "Alphin Pans",
+  "mpn": "DGH.TRAY.GWS3",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DGHTRAYGWS3",
+  "known": {}
+ },
+ {
+  "id": "gh395",
+  "name": "GH395 APS Breadstation Breadbox 125mm",
+  "brand": "APS",
+  "mpn": "GH395",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GH395",
+  "known": {}
+ }
+]

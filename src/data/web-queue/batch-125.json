@@ -1,0 +1,235 @@
+[
+ {
+  "id": "g598",
+  "name": "Blue Seal G598 Gas Chargrill - Natural Gas",
+  "brand": "Blue Seal",
+  "mpn": "G598",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G598",
+  "known": {
+   "cookingWidth": "450 mm",
+   "plate": "cast iron",
+   "fuel": "gas",
+   "splashback": "true",
+   "width": "1200 mm",
+   "depth": "812 mm",
+   "height": "915 mm",
+   "weight": "227 kg",
+   "electricKw": "9.8 kW",
+   "gasKw": "39.1 kW",
+   "gasConnection": "3/4 Inch Gas Hose Needed",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "irb48",
+  "name": "Imperial 48' Gas Countertop Chargrill - IRB-48",
+  "brand": "Imperial",
+  "mpn": "IRB-48",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_IRB48",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "gas",
+   "radiant": "radiant",
+   "width": "1219 mm",
+   "depth": "797 mm",
+   "height": "286 mm",
+   "weight": "202 kg",
+   "gasKw": "35 kW",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "vi005mab",
+  "name": "VIZU Mega Auto Breader Fast Food Breading Station - VI005MAB",
+  "brand": "VIZU",
+  "mpn": "VI005MAB",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_VI005MAB",
+  "known": {
+   "width": "1055 mm",
+   "depth": "605 mm",
+   "height": "1050 mm",
+   "weight": "70 kg",
+   "amps": "0.4 A",
+   "voltage": "230V, 50Hz",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ck8090",
+  "name": "Cater-Cook CK8090 Single Heat Lamp Food Tray",
+  "brand": "Cater-Cook",
+  "mpn": "CK8090",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK8090",
+  "known": {
+   "width": "275 mm",
+   "depth": "400 mm",
+   "height": "580 mm",
+   "electricKw": "0.275 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "2001",
+  "name": "Parry 2001 Twin Tank Electric Fryer - 9.2 Ltr",
+  "brand": "Parry",
+  "mpn": "2001",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_2001",
+  "known": {
+   "tanks": "2",
+   "oilCapacity": "4.6 litres",
+   "chipOutput": "28 kg/hr",
+   "fuel": "electric",
+   "computerControl": "thermostatic control",
+   "width": "600 mm",
+   "depth": "540 mm",
+   "height": "310 mm",
+   "weight": "14 kg",
+   "electricKw": "3 kW",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "pl412h31g0",
+  "name": "FriFri Precision 412 20 Litre Single Tank Fryer with Filtration",
+  "brand": "FriFri",
+  "mpn": "Precision 412",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PL412H31G0",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "20 litres",
+   "filtration": "true",
+   "computerControl": "digital",
+   "width": "400 mm",
+   "depth": "650 mm",
+   "height": "994 mm",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "sfsg14s",
+  "name": "Pitco SF-SG14RS Solstice Gas Solo Filter Fryer - 21L",
+  "brand": "Pitco",
+  "mpn": "SF-SG14RS",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SFSG14S",
+  "known": {
+   "tanks": "2",
+   "filtration": "true",
+   "fuel": "gas",
+   "baskets": "2",
+   "drainValve": "cm Full port drain valve for faster dra",
+   "computerControl": "digital",
+   "width": "397 mm",
+   "amps": "3 A",
+   "voltage": "115V",
+   "gasConnection": "3/4 INCH GAS CONNECTION SG14 (R) SG18",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "ece500",
+  "name": "Chefs Range ECE500 Electric Pressure Fryer with Filtration – Mechanical Controls",
+  "brand": "Chefs Range",
+  "mpn": "ECE500",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ECE500",
+  "known": {
+   "filtration": "true",
+   "fuel": "electric",
+   "width": "460 mm",
+   "depth": "960 mm",
+   "height": "1230 mm",
+   "electricKw": "13500 kW",
+   "amps": "20 A",
+   "voltage": "415V",
+   "plug": "32A supply required",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "mepmsarr1",
+  "name": "Mercury Single Countertop Ribbed Grill - MEP-M-SARR-1",
+  "brand": "Mercury",
+  "mpn": "MEP-M-SARR-1",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MEPMSARR1",
+  "known": {
+   "plate": "ribbed",
+   "thermostat": "true",
+   "width": "380 mm",
+   "depth": "395 mm",
+   "height": "210 mm",
+   "weight": "30 kg",
+   "electricKw": "2.2 kW",
+   "voltage": "230V, 50HZ",
+   "plug": "Plug Supplied",
+   "warranty": "1 year",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "mepmsatff",
+  "name": "Mercury Single Countertop Flat Grill with Digital Timer - MEP-M-SATFF",
+  "brand": "Mercury",
+  "mpn": "MEP-M-SATFF",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MEPMSATFF",
+  "known": {
+   "plate": "cast iron",
+   "thermostat": "true",
+   "width": "435 mm",
+   "depth": "480 mm",
+   "height": "210 mm",
+   "weight": "30 kg",
+   "electricKw": "2.2 kW",
+   "voltage": "230V, 50HZ",
+   "plug": "Plug Supplied",
+   "warranty": "1 year",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "mepmsatrr",
+  "name": "Mercury Single Countertop Ribbed Grill with Digital Timer - MEP-M-SATRR",
+  "brand": "Mercury",
+  "mpn": "MEP-M-SATRR",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MEPMSATRR",
+  "known": {
+   "plate": "ribbed",
+   "thermostat": "true",
+   "width": "435 mm",
+   "depth": "480 mm",
+   "height": "210 mm",
+   "weight": "30 kg",
+   "electricKw": "2.2 kW",
+   "voltage": "230V, 50HZ",
+   "plug": "Plug Supplied",
+   "warranty": "1 year",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "cu607",
+  "name": "Buffalo CU607 Extra Large Contact Grill Single Flat Plate",
+  "brand": "Buffalo",
+  "mpn": "CU607",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CU607",
+  "known": {
+   "plate": "cast iron",
+   "tempRange": "50°C to 300°C",
+   "width": "430 mm",
+   "depth": "310 mm",
+   "height": "200 mm",
+   "electricKw": "2.5 kW",
+   "voltage": "240V",
+   "warranty": "2 years"
+  }
+ }
+]

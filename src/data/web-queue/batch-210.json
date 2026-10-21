@@ -1,0 +1,253 @@
+[
+ {
+  "id": "fl56d",
+  "name": "Clifton Food Range FL56D 56 Litre Unstirred Digital Bath Sous Vide Machine",
+  "brand": "Clifton",
+  "mpn": "FL56D",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FL56D",
+  "known": {
+   "timer": "timer can be set between 1 minute and 99 hour",
+   "lowTemp": "true",
+   "width": "660 mm",
+   "depth": "540 mm",
+   "height": "290 mm",
+   "electricKw": "2.5 kW",
+   "amps": "13 A",
+   "voltage": "230v",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "lrb",
+  "name": "Lincat Lynx 400 LRB Bain Marie",
+  "brand": "Lincat",
+  "mpn": "J199",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LRB",
+  "known": {
+   "heatType": "dry",
+   "volume": "4.5 litres",
+   "width": "285 mm",
+   "depth": "400 mm",
+   "height": "245 mm",
+   "weight": "10 kg",
+   "electricKw": "0.25 kW",
+   "phase": "single",
+   "plug": "plug supplied",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "ba3",
+  "name": "Lincat Silverlink 600 BS3 Dry Heat Bain Marie",
+  "brand": "Lincat",
+  "mpn": "BS3",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BA3",
+  "known": {
+   "heatType": "dry",
+   "wells": "6",
+   "volume": "4.5 litres",
+   "width": "300 mm",
+   "depth": "600 mm",
+   "height": "290 mm",
+   "weight": "16 kg",
+   "electricKw": "0.5 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "ba7",
+  "name": "Lincat Silverlink 600 BS7 Bain Marie",
+  "brand": "Lincat",
+  "mpn": "BS7",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BA7",
+  "known": {
+   "heatType": "dry",
+   "wells": "6",
+   "volume": "4.5 litres",
+   "width": "750 mm",
+   "depth": "600 mm",
+   "height": "290 mm",
+   "weight": "28 kg",
+   "electricKw": "1 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "391125",
+  "name": "Electrolux Professional 900XP 2/1GN Wet Heat Bain Marie - 391125",
+  "brand": "Electrolux",
+  "mpn": "391125",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_391125",
+  "known": {
+   "gnCapacity": "2x 1/1 GN",
+   "heatType": "wet",
+   "wells": "2",
+   "width": "800 mm",
+   "depth": "930 mm",
+   "height": "250 mm",
+   "weight": "45 kg",
+   "electricKw": "4.4 kW",
+   "voltage": "400V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "lrbw",
+  "name": "Lincat Lynx 400 LRBW Bain Marie",
+  "brand": "Lincat",
+  "mpn": "J549",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LRBW",
+  "known": {
+   "heatType": "dry",
+   "volume": "4.5 litres",
+   "width": "285 mm",
+   "depth": "400 mm",
+   "height": "245 mm",
+   "weight": "13 kg",
+   "electricKw": "0.25 kW",
+   "phase": "single",
+   "plug": "plug supplied",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "pwb2",
+  "name": "Parry NPWB2 2 Pot Electric Wet Well Bain Marie 3kW",
+  "brand": "parry",
+  "mpn": "NPWB2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PWB2",
+  "known": {
+   "heatType": "wet",
+   "wells": "2",
+   "volume": "4 litres",
+   "mobility": "true",
+   "tempRange": "30–80°C",
+   "width": "300 mm",
+   "depth": "600 mm",
+   "height": "360 mm",
+   "weight": "14 kg",
+   "electricKw": "3 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "bs3w",
+  "name": "Lincat Silverlink 600 BS3W Bain Marie",
+  "brand": "Lincat",
+  "mpn": "BS3W",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BS3W",
+  "known": {
+   "heatType": "wet",
+   "wells": "6",
+   "volume": "4.5 litres",
+   "width": "300 mm",
+   "depth": "600 mm",
+   "height": "290 mm",
+   "weight": "16 kg",
+   "electricKw": "1 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "bs4w",
+  "name": "Lincat Silverlink 600 BS4W Wet Heat Bain Marie",
+  "brand": "Lincat",
+  "mpn": "BS4W",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BS4W",
+  "known": {
+   "heatType": "wet",
+   "wells": "6",
+   "volume": "4.5 litres",
+   "width": "450 mm",
+   "depth": "600 mm",
+   "height": "290 mm",
+   "weight": "22 kg",
+   "electricKw": "1 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "pwb6",
+  "name": "Parry NPWB6 6 Pot Electric Wet Well Bain Marie 3kW",
+  "brand": "Parry",
+  "mpn": "NPWB6",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PWB6",
+  "known": {
+   "heatType": "wet",
+   "wells": "6",
+   "volume": "4.5 litres",
+   "mobility": "true",
+   "tempRange": "30°C to 80°C",
+   "width": "750 mm",
+   "depth": "600 mm",
+   "height": "360 mm",
+   "weight": "25 kg",
+   "electricKw": "3 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "bs7w",
+  "name": "Lincat Silverlink 600 BS7W Bain Marie",
+  "brand": "Lincat",
+  "mpn": "BS7W",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BS7W",
+  "known": {
+   "heatType": "wet",
+   "wells": "6",
+   "volume": "4.5 litres",
+   "width": "750 mm",
+   "depth": "600 mm",
+   "height": "290 mm",
+   "weight": "33 kg",
+   "electricKw": "2 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "ih3",
+  "name": "Lincat IH3 Table Top Induction Hob",
+  "brand": "Lincat",
+  "mpn": "IH3",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_IH3",
+  "known": {
+   "fuel": "induction",
+   "zones": "1",
+   "width": "400 mm",
+   "depth": "654 mm",
+   "height": "115 mm",
+   "weight": "15 kg",
+   "electricKw": "2.4 kW",
+   "amps": "13 A",
+   "voltage": "230V",
+   "phase": "single",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ }
+]

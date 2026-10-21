@@ -1,0 +1,242 @@
+[
+ {
+  "id": "ep702",
+  "name": "Zanolli Citizen EP70 Twin Deck Electric Pizza Oven - 8 x 13 Inch Pizzas",
+  "brand": "Zanolli",
+  "mpn": "EP70",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_EP702",
+  "known": {
+   "decks": "2",
+   "pizzaSize": "13 Inch Pizzas",
+   "chamber": "deck: W 700 x D 700 x H 120mm",
+   "stone": "Refractory",
+   "fuel": "electric",
+   "width": "990 mm",
+   "depth": "990 mm",
+   "height": "590 mm",
+   "weight": "150 kg",
+   "electricKw": "11.2 kW",
+   "voltage": "230V / 400V, 50Hz",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "3 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "lincatpo6302",
+  "name": "Lincat PO630-2 Twin Deck Electric Pizza Oven - 12 x 12\" Pizzas",
+  "brand": "Lincat",
+  "mpn": "PO630-2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LINCATPO6302",
+  "known": {
+   "decks": "2",
+   "pizzaSize": "12\" Pizzas",
+   "chamber": "deck 80 123 98 156 131 208",
+   "stone": "Firebrick",
+   "maxTemp": "480 °C",
+   "fuel": "electric",
+   "width": "1286 mm",
+   "depth": "1002 mm",
+   "height": "675 mm",
+   "weight": "181 kg",
+   "electricKw": "14.4 kW",
+   "voltage": "230V",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "bpo2",
+  "name": "Blizzard BPO2 Double Deck Pizza Oven",
+  "brand": "Blizzard",
+  "mpn": "BPO2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BPO2",
+  "known": {
+   "decks": "2",
+   "pizzaSize": "16”",
+   "stone": "stone",
+   "width": "630 mm",
+   "depth": "510 mm",
+   "height": "510 mm",
+   "weight": "44.6 kg",
+   "amps": "13 A",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "gr110k",
+  "name": "AS Term GR110K-BO Gas Fired Rotating Base Pizza Oven - 8 x 12\" Pizza - Mosaic Design",
+  "brand": "AS Term",
+  "mpn": "GR110K",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GR110K",
+  "known": {
+   "pizzaSize": "12\" Pizza",
+   "fuel": "gas",
+   "width": "1710 mm",
+   "depth": "1900 mm",
+   "height": "2050 mm",
+   "weight": "1400 kg",
+   "electricKw": "26 kW",
+   "voltage": "230V",
+   "gasConnection": "3/4\" Gas Hose",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "sammicst252st352",
+  "name": "Sammic ST-22 Conveyor Toasters",
+  "brand": "Sammic",
+  "mpn": "ST-22",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SAMMICST252ST352",
+  "known": {
+   "width": "350 mm",
+   "depth": "410 mm",
+   "height": "390 mm",
+   "weight": "15 kg",
+   "electricKw": "2.1 kW",
+   "amps": "13 A",
+   "voltage": "230V, 50Hz",
+   "plug": "plug supplied",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "ctdtoaster",
+  "name": "Prince Castle CTD-SAX-CE Single Vertical Contact Toaster",
+  "brand": "Prince Castle",
+  "mpn": "CTD-SAX-CE",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CTDTOASTER",
+  "known": {
+   "width": "305 mm",
+   "depth": "540 mm",
+   "height": "229 mm",
+   "electricKw": "1.5 kW",
+   "amps": "9.4 A",
+   "voltage": "240 V",
+   "phase": "single",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "4q",
+  "name": "Sirman 4Q Sandwich Toaster",
+  "brand": "Sirman",
+  "mpn": "4Q",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_4Q",
+  "known": {
+   "cookingWidth": "235 mm",
+   "width": "360 mm",
+   "depth": "410 mm",
+   "height": "240 mm",
+   "weight": "7 kg",
+   "electricKw": "1.6 kW",
+   "amps": "13 A",
+   "voltage": "240V, 50HZ",
+   "phase": "single",
+   "plug": "Plug supplied",
+   "warranty": "1 year",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "6q",
+  "name": "Sirman 6Q Sandwich Toaster",
+  "brand": "Sirman",
+  "mpn": "6Q",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_6Q",
+  "known": {
+   "cookingWidth": "355 mm",
+   "width": "475 mm",
+   "depth": "410 mm",
+   "height": "475 mm",
+   "weight": "8.5 kg",
+   "electricKw": "2.4 kW",
+   "amps": "13 A",
+   "voltage": "240V, 50HZ",
+   "phase": "single",
+   "plug": "Plug Supplied",
+   "warranty": "1 year",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "12q",
+  "name": "Sirman 12Q Sandwich Toaster",
+  "brand": null,
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_12Q",
+  "known": {
+   "cookingWidth": "355 mm",
+   "width": "475 mm",
+   "depth": "410 mm",
+   "height": "365 mm",
+   "weight": "9 kg",
+   "electricKw": "3 kW",
+   "amps": "13 A",
+   "voltage": "240V, 50HZ",
+   "phase": "single",
+   "plug": "Plug supplied",
+   "warranty": "1 year",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "hs985",
+  "name": "Buffalo HS985 Round Belgian Waffle Maker",
+  "brand": "Buffalo",
+  "mpn": "HS985",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HS985",
+  "known": {
+   "throughput": "30 waffles per hour",
+   "timer": "Timer for consistent results",
+   "width": "240 mm",
+   "depth": "290 mm",
+   "height": "198 mm",
+   "weight": "5.1 kg",
+   "electricKw": "1 kW",
+   "amps": "4.3 A",
+   "voltage": "240V",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "ged75",
+  "name": "Roller Grill GED75 Round Waffle Maker",
+  "brand": "Roller Grill",
+  "mpn": "GED75",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GED75",
+  "known": {
+   "thermostat": "thermostat",
+   "width": "550 mm",
+   "depth": "440 mm",
+   "height": "230 mm",
+   "weight": "38 kg",
+   "electricKw": "3 kW",
+   "amps": "13 A",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "ged20",
+  "name": "Roller Grill GED20 Liege Waffle Iron",
+  "brand": "Roller Grill",
+  "mpn": "GED20",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GED20",
+  "known": {
+   "thermostat": "thermostat",
+   "width": "550 mm",
+   "depth": "440 mm",
+   "height": "230 mm",
+   "weight": "38 kg",
+   "electricKw": "3 kW",
+   "amps": "13 A",
+   "warranty": "2 years"
+  }
+ }
+]

@@ -1,0 +1,263 @@
+[
+ {
+  "id": "og8002dd",
+  "name": "OG8002DD",
+  "brand": "Lincat",
+  "mpn": "OG8002DD",
+  "caterkwikUrl": null,
+  "known": {
+   "burners": "6",
+   "fuel": "gas",
+   "ovenSize": "W723 x D600 x H410mm",
+   "ignition": "flame failure",
+   "door": "Drop Down Door",
+   "width": "900 mm",
+   "depth": "800 mm",
+   "height": "910 mm",
+   "electricKw": "55 kW",
+   "gasKw": "54.5 kW",
+   "gasConnection": "3/4 Inch Gas Hose Required",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "lmr9",
+  "name": "LMR9",
+  "brand": "Lincat",
+  "mpn": "LMR9",
+  "caterkwikUrl": null,
+  "known": {
+   "burners": "6",
+   "fuel": "gas",
+   "ovenSize": "W715 x D530 x H490mm",
+   "gnCapacity": "2 x 1/1 GN",
+   "ignition": "piezo",
+   "castors": "castors",
+   "width": "900 mm",
+   "depth": "530 mm",
+   "height": "490 mm",
+   "weight": "177 kg",
+   "electricKw": "35 kW",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "sa808",
+  "name": "SA808",
+  "brand": "Buffalo",
+  "mpn": "SA808",
+  "caterkwikUrl": null,
+  "known": {
+   "gnCapacity": "1/1GN",
+   "tempRange": "50°C to 300°C",
+   "width": "600 mm",
+   "depth": "600 mm",
+   "height": "850 mm",
+   "electricKw": "7 kW",
+   "voltage": "400V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "STAINLESS STEEL"
+  }
+ },
+ {
+  "id": "bkm",
+  "name": "Bake King Mini",
+  "brand": "King Edward",
+  "mpn": "Bake King Mini",
+  "caterkwikUrl": null,
+  "known": {
+   "timer": "timer",
+   "width": "460 mm",
+   "depth": "550 mm",
+   "height": "670 mm",
+   "weight": "31 kg",
+   "electricKw": "2.5 kW",
+   "amps": "13 A",
+   "voltage": "230V, 50Hz",
+   "plug": "Plug supplied",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "g56c",
+  "name": "G56C",
+  "brand": "Blue Seal",
+  "mpn": "G56C",
+  "caterkwikUrl": null,
+  "known": {
+   "plate": "ribbed",
+   "fuel": "gas",
+   "burners": "4",
+   "splashback": "true",
+   "width": "900 mm",
+   "depth": "812 mm",
+   "height": "915 mm",
+   "weight": "220 kg",
+   "electricKw": "7 kW",
+   "gasKw": "43 kW",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "e3914i",
+  "name": "E3914i",
+  "brand": "Falcon",
+  "mpn": "E3914i",
+  "caterkwikUrl": null,
+  "known": {
+   "volume": "1 litres",
+   "fuel": "induction",
+   "heating": "direct",
+   "width": "900 mm",
+   "depth": "820 mm",
+   "height": "890 mm",
+   "electricKw": "5 kW",
+   "voltage": "400V",
+   "warranty": "2 years",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "e3913i",
+  "name": "E3913i",
+  "brand": "Falcon",
+  "mpn": "E3913i",
+  "caterkwikUrl": null,
+  "known": {
+   "volume": "1 litres",
+   "fuel": "induction",
+   "heating": "direct",
+   "width": "900 mm",
+   "depth": "820 mm",
+   "height": "890 mm",
+   "electricKw": "3.5 kW",
+   "voltage": "400V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ge508c",
+  "name": "GE508C",
+  "brand": "Blue Seal",
+  "mpn": "GE508C",
+  "caterkwikUrl": null,
+  "known": {
+   "plate": "smooth",
+   "fuel": "electric",
+   "burners": "6",
+   "thermostat": "true",
+   "tempRange": "80-300°C",
+   "splashback": "true",
+   "width": "1200 mm",
+   "depth": "812 mm",
+   "height": "915 mm",
+   "weight": "263 kg",
+   "electricKw": "6.5 kW",
+   "gasKw": "48 kW",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "Stainless steel exterior"
+  }
+ },
+ {
+  "id": "gpe508",
+  "name": "GPE508",
+  "brand": "Blue Seal",
+  "mpn": "GPE508",
+  "caterkwikUrl": null,
+  "known": {
+   "cookingWidth": "1192 mm",
+   "plate": "ribbed",
+   "fuel": "electric",
+   "thermostat": "true",
+   "tempRange": "90-300°C",
+   "splashback": "true",
+   "width": "1200 mm",
+   "depth": "812 mm",
+   "height": "915 mm",
+   "electricKw": "6.5 kW",
+   "gasKw": "31 kW",
+   "amps": "27 A",
+   "voltage": "240V",
+   "phase": "three",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "Stainless steel exterior"
+  }
+ },
+ {
+  "id": "cr9c",
+  "name": "CR9C",
+  "brand": "Blue Seal",
+  "mpn": "CR9C",
+  "caterkwikUrl": null,
+  "known": {
+   "cookingWidth": "750 mm",
+   "plate": "cast iron",
+   "fuel": "gas",
+   "burners": "4",
+   "thermostat": "true",
+   "tempRange": "100-310°C",
+   "splashback": "true",
+   "width": "900 mm",
+   "depth": "800 mm",
+   "height": "915 mm",
+   "electricKw": "5 kW",
+   "gasKw": "35.5 kW",
+   "lpgKw": "33.5 kW",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "Stainless steel finish"
+  }
+ },
+ {
+  "id": "g528c",
+  "name": "G528C",
+  "brand": "Blue Seal",
+  "mpn": "G528C",
+  "caterkwikUrl": null,
+  "known": {
+   "plate": "smooth",
+   "fuel": "gas",
+   "burners": "6",
+   "thermostat": "true",
+   "tempRange": "100-270°C",
+   "splashback": "true",
+   "width": "1200 mm",
+   "depth": "812 mm",
+   "height": "915 mm",
+   "weight": "302 kg",
+   "electricKw": "7 kW",
+   "gasKw": "61.2 kW",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "in511r3",
+  "name": "IN511R3",
+  "brand": "Blue Seal",
+  "mpn": "IN511R3",
+  "caterkwikUrl": null,
+  "known": {
+   "castors": "adjustable feet",
+   "width": "450 mm",
+   "depth": "812 mm",
+   "height": "355 mm",
+   "electricKw": "3.5 kW",
+   "amps": "15 A",
+   "voltage": "230V 50Hz",
+   "phase": "single",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "stainless steel construction"
+  }
+ }
+]

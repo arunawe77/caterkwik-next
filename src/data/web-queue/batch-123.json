@@ -1,0 +1,235 @@
+[
+ {
+  "id": "archwayg1we",
+  "name": "Archway G1W/E Electric Wet Well Bain Marie - 3 x ¼ Gastronorm Containers",
+  "brand": "Archway",
+  "mpn": "G1W/E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAYG1WE",
+  "known": {
+   "gnCapacity": "6 x 1/4GN",
+   "heatType": "wet",
+   "wells": "6",
+   "width": "295 mm",
+   "depth": "605 mm",
+   "height": "290 mm",
+   "weight": "12 kg",
+   "electricKw": "1 kW",
+   "voltage": "230V, 50Hz",
+   "plug": "plug supplied",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "eb45d",
+  "name": "Blue Seal EB45D Electric Freestanding Wet Well Bain Marie",
+  "brand": "Blue Seal",
+  "mpn": "EB45D",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_EB45D",
+  "known": {
+   "gnCapacity": "1/1 Gastronorm",
+   "heatType": "wet",
+   "width": "450 mm",
+   "depth": "812 mm",
+   "height": "915 mm",
+   "weight": "60 kg",
+   "electricKw": "3 kW",
+   "amps": "13 A",
+   "voltage": "240V",
+   "phase": "single",
+   "warranty": "1 year",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "4pwe",
+  "name": "Archway 4PW/E Electric Wet Well Bain Marie - 4 x 4.5ltr Round Pots",
+  "brand": "Archway",
+  "mpn": "4PW/E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_4PWE",
+  "known": {
+   "heatType": "wet",
+   "wells": "2",
+   "volume": "4.5 litres",
+   "width": "445 mm",
+   "depth": "605 mm",
+   "height": "290 mm",
+   "weight": "15 kg",
+   "electricKw": "1 kW",
+   "voltage": "230V, 50Hz",
+   "plug": "plug supplied",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ht759",
+  "name": "Buffalo HT759 Heat and Hold Soup Kettle 9Ltr",
+  "brand": "Buffalo",
+  "mpn": "HT759",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HT759",
+  "known": {
+   "volume": "9 litres",
+   "weight": "5.78 kg",
+   "electricKw": "1.4 kW",
+   "amps": "6.09 A",
+   "voltage": "240V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "bih1",
+  "name": "Blizzard BIH1 Commercial Single Induction Hob",
+  "brand": "Blizzard",
+  "mpn": "BIH1",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BIH1",
+  "known": {
+   "fuel": "induction",
+   "width": "340 mm",
+   "depth": "432 mm",
+   "height": "117 mm",
+   "weight": "15 kg",
+   "amps": "13 A",
+   "voltage": "240v",
+   "plug": "13A - plug",
+   "warranty": "1 year",
+   "finish": "Stainless Steel construction"
+  }
+ },
+ {
+  "id": "bspih",
+  "name": "Blizzard BSPIH Commercial 3000W Stock Pot Induction Hob",
+  "brand": "Blizzard",
+  "mpn": "BSPIH",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BSPIH",
+  "known": {
+   "fuel": "induction",
+   "width": "440 mm",
+   "depth": "540 mm",
+   "height": "130 mm",
+   "weight": "10.9 kg",
+   "electricKw": "3 kW",
+   "amps": "13 A",
+   "warranty": "1 year",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "ct25c",
+  "name": "Valera CT25C Countertop Induction Hob",
+  "brand": "Valera",
+  "mpn": "CT25C",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CT25C",
+  "known": {
+   "fuel": "induction",
+   "width": "328 mm",
+   "depth": "422 mm",
+   "height": "100 mm",
+   "weight": "7 kg",
+   "electricKw": "2.5 kW",
+   "voltage": "230V",
+   "phase": "single",
+   "plug": "plug supplied",
+   "warranty": "3 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "ind25",
+  "name": "Sirman IND-25 2.5kw Countertop Induction Hob",
+  "brand": "Sirman",
+  "mpn": "IND-25",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_IND25",
+  "known": {
+   "fuel": "induction",
+   "width": "322 mm",
+   "depth": "440 mm",
+   "height": "90 mm",
+   "weight": "7.5 kg",
+   "electricKw": "2.5 kW",
+   "amps": "13 A",
+   "voltage": "230V, 50HZ",
+   "finish": "Stainless steel finish"
+  }
+ },
+ {
+  "id": "ind35",
+  "name": "Sirman IND-35 3.5kw Countertop Induction Hob",
+  "brand": "Sirman",
+  "mpn": "IND-35",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_IND35",
+  "known": {
+   "fuel": "induction",
+   "width": "330 mm",
+   "depth": "440 mm",
+   "height": "164 mm",
+   "weight": "11 kg",
+   "electricKw": "3.5 kW",
+   "amps": "13 A",
+   "voltage": "230v, 50hz",
+   "plug": "Plug Supplied"
+  }
+ },
+ {
+  "id": "ct25a",
+  "name": "Valera CT 25A Countertop Induction Hob",
+  "brand": "Valera",
+  "mpn": "CT25A",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CT25A",
+  "known": {
+   "fuel": "induction",
+   "width": "328 mm",
+   "depth": "422 mm",
+   "height": "100 mm",
+   "weight": "7 kg",
+   "electricKw": "2.5 kW",
+   "voltage": "230V",
+   "phase": "single",
+   "plug": "plug supplied",
+   "warranty": "3 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "e207845",
+  "name": "Falcon Dominator E2078-45 45LTR Electric Boiling Pan",
+  "brand": "Falcon",
+  "mpn": "E2078",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_E207845",
+  "known": {
+   "volume": "45 litres",
+   "fuel": "electric",
+   "tap": "true",
+   "width": "840 mm",
+   "depth": "995 mm",
+   "height": "850 mm",
+   "weight": "86 kg",
+   "electricKw": "6.7 kW",
+   "amps": "33 A",
+   "voltage": "415V",
+   "phase": "three",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "pm8ig100",
+  "name": "Firex Easypan Gas 100 Litre Indirect Heat Boiling Pan - PM8IG100",
+  "brand": "Firex",
+  "mpn": "PM8IG100",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PM8IG100",
+  "known": {
+   "volume": "100 litres",
+   "fuel": "gas",
+   "heating": "indirect",
+   "tap": "true",
+   "width": "800 mm",
+   "depth": "900 mm",
+   "height": "1100 mm",
+   "gasConnection": "½\" Gase Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ }
+]

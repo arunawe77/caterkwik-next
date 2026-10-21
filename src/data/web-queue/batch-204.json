@@ -1,0 +1,239 @@
+[
+ {
+  "id": "memt16000x",
+  "name": "Hallco MEMT16000XNS Single Ribbed Non Stick Contact Grill",
+  "brand": "Hallco",
+  "mpn": "MEMT16000XNS",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MEMT16000X",
+  "known": {
+   "plate": "ribbed",
+   "thermostat": "true",
+   "width": "310 mm",
+   "depth": "380 mm",
+   "height": "460 mm",
+   "weight": "20 kg",
+   "electricKw": "1.73 kW",
+   "amps": "13 A",
+   "plug": "plug supplied",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "sirmanelio",
+  "name": "Sirman ELIO Electric Contact Grill",
+  "brand": "Sirman",
+  "mpn": "Elio",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SIRMANELIO",
+  "known": {
+   "plate": "ribbed",
+   "fuel": "electric",
+   "radiant": "ceramic",
+   "thermostat": "true",
+   "width": "260 mm",
+   "depth": "435 mm",
+   "height": "235 mm",
+   "electricKw": "1.55 kW",
+   "phase": "single",
+   "plug": "plug supplied",
+   "warranty": "1 year",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "sirmancort",
+  "name": "Sirman Cort Electric Contact Grill",
+  "brand": "Sirman",
+  "mpn": "Cort",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SIRMANCORT",
+  "known": {
+   "plate": "ribbed",
+   "fuel": "electric",
+   "radiant": "ceramic",
+   "thermostat": "true",
+   "width": "380 mm",
+   "depth": "435 mm",
+   "height": "235 mm",
+   "electricKw": "2.1 kW",
+   "phase": "single",
+   "plug": "plug supplied",
+   "warranty": "1 year",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "panini",
+  "name": "Roller Grill Panini Large Cast Iron Contact Grill",
+  "brand": "Roller Grill",
+  "mpn": "Panini R",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PANINI",
+  "known": {
+   "plate": "cast iron",
+   "thermostat": "true",
+   "tempRange": "50°C to 320°C",
+   "width": "430 mm",
+   "depth": "385 mm",
+   "height": "220 mm",
+   "weight": "22.5 kg",
+   "electricKw": "3 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "majestic",
+  "name": "Roller Grill Majestic Twin Cast Iron Contact Grill",
+  "brand": "Roller Grill",
+  "mpn": "Majestic R",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MAJESTIC",
+  "known": {
+   "plate": "cast iron",
+   "thermostat": "true",
+   "tempRange": "50°C to 320°C",
+   "width": "600 mm",
+   "depth": "385 mm",
+   "height": "220 mm",
+   "weight": "34 kg",
+   "electricKw": "2 kW",
+   "plug": "13A plug",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "ges10",
+  "name": "Roller Grill GES10 Brussels Waffle Iron",
+  "brand": "Roller Grill",
+  "mpn": "GES10",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GES10",
+  "known": {
+   "plate": "cast iron",
+   "thermostat": "true",
+   "width": "305 mm",
+   "depth": "440 mm",
+   "height": "230 mm",
+   "weight": "19 kg",
+   "electricKw": "1.5 kW",
+   "amps": "13 A",
+   "plug": "Plug Supplied",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "gsa",
+  "name": "Roband GSA610S/GSA610R Grill Stations",
+  "brand": "Roband",
+  "mpn": "GSA610S",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GSA",
+  "known": {
+   "plate": "ribbed",
+   "thermostat": "true",
+   "width": "435 mm",
+   "depth": "490 mm",
+   "height": "220 mm",
+   "weight": "16.5 kg",
+   "electricKw": "2.2 kW",
+   "amps": "13 A",
+   "voltage": "230V, 50Hz",
+   "phase": "single",
+   "plug": "Plug Supplied",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "paninixl",
+  "name": "Roller Grill Panini Extra Large Cast Iron Contact Grill",
+  "brand": "Roller Grill",
+  "mpn": "Panini XL ER",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PANINIXL",
+  "known": {
+   "plate": "cast iron",
+   "thermostat": "true",
+   "width": "410 mm",
+   "depth": "620 mm",
+   "height": "340 mm",
+   "weight": "32 kg",
+   "electricKw": "3.6 kW",
+   "phase": "single",
+   "hardWired": "true",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "rollergrillcs4e",
+  "name": "Roller Grill CS4E 4 Spike Hot Dog & Steamer",
+  "brand": "Roller Grill",
+  "mpn": "CS4E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ROLLERGRILLCS4E",
+  "known": {
+   "fuel": "electric",
+   "throughput": "60 hot dogs per hour",
+   "thermostat": "thermostat to max for 15 minutes, then i",
+   "width": "440 mm",
+   "depth": "300 mm",
+   "height": "400 mm",
+   "weight": "10 kg",
+   "electricKw": "0.65 kW",
+   "plug": "Plug Supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "rg9",
+  "name": "Roller Grill RG90 Hot Dog Rolling Grill",
+  "brand": "Roller Grill",
+  "mpn": "RG90",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_RG9",
+  "known": {
+   "fuel": "electric",
+   "throughput": "96 hot dogs per hour",
+   "width": "545 mm",
+   "depth": "460 mm",
+   "height": "240 mm",
+   "weight": "18.5 kg",
+   "electricKw": "1.125 kW",
+   "plug": "Plug Supplied",
+   "warranty": "2 years",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "cibo",
+  "name": "CiBO - By Lincat - Electric Accelerated Cooking Oven - Various Colours Available",
+  "brand": "CiBO",
+  "mpn": "CIBO",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CIBO",
+  "known": {
+   "width": "440 mm",
+   "depth": "620 mm",
+   "height": "370 mm",
+   "weight": "27 kg",
+   "electricKw": "2.7 kW",
+   "phase": "single",
+   "plug": "13A plug",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "e2strend",
+  "name": "Merrychef Eikon E2S Trend High Speed Oven",
+  "brand": "Merrychef",
+  "mpn": "e2s Trend",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_E2STREND",
+  "known": {
+   "gnCapacity": "1/3GN",
+   "tempRange": "100° to 275°C",
+   "width": "356 mm",
+   "depth": "595 mm",
+   "height": "644 mm",
+   "electricKw": "4.5 kW",
+   "amps": "13 A",
+   "voltage": "230V",
+   "phase": "three",
+   "plug": "32A",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ }
+]

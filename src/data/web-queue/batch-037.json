@@ -1,0 +1,106 @@
+[
+ {
+  "id": "gf084",
+  "name": "GF084 APS Float White Round Bowl 5in",
+  "brand": "APS",
+  "mpn": "GF084",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF084",
+  "known": {}
+ },
+ {
+  "id": "gf087",
+  "name": "GF087 APS Float Black Round Bowl 6in",
+  "brand": "APS",
+  "mpn": "GF087",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF087",
+  "known": {}
+ },
+ {
+  "id": "gf086",
+  "name": "GF086 APS Float White Round Bowl 6in",
+  "brand": "APS",
+  "mpn": "GF086",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF086",
+  "known": {}
+ },
+ {
+  "id": "cb758",
+  "name": "CB758 Kristallon Small White Salad Crock",
+  "brand": "Kristallon",
+  "mpn": "CB758",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CB758",
+  "known": {
+   "volume": "0.75 litres"
+  }
+ },
+ {
+  "id": "cb754",
+  "name": "CB754 Kristallon Medium White Salad Crock",
+  "brand": "Kristallon",
+  "mpn": "CB754",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CB754",
+  "known": {
+   "volume": "2 litres"
+  }
+ },
+ {
+  "id": "l276",
+  "name": "L276 Dalebrook Small White SAN Salad Crock",
+  "brand": "Dalebrook",
+  "mpn": "L276",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_L276",
+  "known": {}
+ },
+ {
+  "id": "cb750",
+  "name": "CB750 Kristallon Large White Salad Crock",
+  "brand": "Kristallon",
+  "mpn": "CB750",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CB750",
+  "known": {
+   "volume": "4.25 litres"
+  }
+ },
+ {
+  "id": "l277",
+  "name": "L277 Dalebrook Medium White SAN Salad Crock",
+  "brand": "Dalebrook",
+  "mpn": "L277",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_L277",
+  "known": {}
+ },
+ {
+  "id": "f679",
+  "name": "F679 Dalebrook Large Black SAN Salad Crock",
+  "brand": "Dalebrook",
+  "mpn": "F679",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_F679",
+  "known": {}
+ },
+ {
+  "id": "f678",
+  "name": "F678 Dalebrook Small Black SAN Salad Crock",
+  "brand": "Dalebrook",
+  "mpn": "F678",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_F678",
+  "known": {}
+ },
+ {
+  "id": "j910",
+  "name": "J910 Dalebrook Medium Black SAN Salad Crock",
+  "brand": "Dalebrook",
+  "mpn": "J910",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_J910",
+  "known": {}
+ },
+ {
+  "id": "gk840",
+  "name": "GK840 APS Marone Melamine Platter Black 265x 165mm",
+  "brand": "APS",
+  "mpn": "GK840",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GK840",
+  "known": {
+   "finish": "black body"
+  }
+ }
+]

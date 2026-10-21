@@ -1,0 +1,209 @@
+[
+ {
+  "id": "gc46",
+  "name": "Lincat GC46 Glass Display",
+  "brand": "Lincat",
+  "mpn": "GC46",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GC46",
+  "known": {
+   "width": "600 mm",
+   "depth": "350 mm",
+   "height": "645 mm",
+   "weight": "32 kg",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "3022",
+  "name": "Parry 3022 Electric Heated Base Unit",
+  "brand": "Parry",
+  "mpn": "3022",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_3022",
+  "known": {
+   "width": "975 mm",
+   "depth": "525 mm",
+   "height": "85 mm",
+   "weight": "12 kg",
+   "electricKw": "0.8 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "lpw",
+  "name": "Lincat LPW Pie Cabinet",
+  "brand": "Lincat",
+  "mpn": "LPW",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LPW",
+  "known": {
+   "width": "710 mm",
+   "depth": "330 mm",
+   "height": "520 mm",
+   "weight": "29 kg",
+   "electricKw": "0.75 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "vhfd",
+  "name": "King Edward Vista Hot Food Display",
+  "brand": "King Edward",
+  "mpn": "VHFD",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_VHFD",
+  "known": {
+   "tempRange": "30°C to 110°C",
+   "width": "490 mm",
+   "depth": "575 mm",
+   "height": "640 mm",
+   "weight": "27 kg",
+   "electricKw": "1.3 kW",
+   "amps": "13 A",
+   "voltage": "230V, 50Hz",
+   "plug": "Plug supplied",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "jb188",
+  "name": "Buffalo JB188 4 Tier Heated Pizza Display Merchandiser",
+  "brand": "Buffalo",
+  "mpn": "JB188",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_JB188",
+  "known": {
+   "shelves": "4",
+   "tempRange": "30°C to 90°C",
+   "width": "460 mm",
+   "depth": "448 mm",
+   "height": "785 mm",
+   "weight": "20.5 kg",
+   "voltage": "240V",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "dtght6",
+  "name": "Cossiga DTGHT6 Heated Multi-Deck",
+  "brand": "Cossiga",
+  "mpn": "DTGHT6",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DTGHT6",
+  "known": {
+   "mobility": "true",
+   "tempRange": "70°C to 85°C",
+   "electricKw": "1.9 kW",
+   "amps": "7.2 A",
+   "voltage": "240V",
+   "warranty": "2 years",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "dc859",
+  "name": "Buffalo DC859 Economy Pie Cabinet - 60 Pie Capacity",
+  "brand": "BUFFALO",
+  "mpn": "DC859",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DC859",
+  "known": {
+   "width": "744 mm",
+   "depth": "363 mm",
+   "height": "433 mm",
+   "weight": "31.5 kg",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "magnum8burner",
+  "name": "Fir Tree Magnum 8 Burner Stainless Steel Gas BBQ",
+  "brand": "Fir tree",
+  "mpn": "Magnum 8",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MAGNUM8BURNER",
+  "known": {
+   "cookingWidth": "1600 mm",
+   "fuel": "gas",
+   "burners": "8",
+   "width": "1935 mm",
+   "depth": "535 mm",
+   "height": "840 mm",
+   "weight": "74 kg",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cf732",
+  "name": "Buffalo CF732 4 Burner Gas Barbecue with Hob",
+  "brand": "Buffalo",
+  "mpn": "CF732",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CF732",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "gas",
+   "burners": "4",
+   "width": "1330 mm",
+   "depth": "570 mm",
+   "height": "1120 mm",
+   "weight": "34.5 kg",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "sa801",
+  "name": "Buffalo SA801 600 Series Freestanding 4 Plate Electric Hob 7kW",
+  "brand": "Buffalo",
+  "mpn": "SA801",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SA801",
+  "known": {
+   "fuel": "electric",
+   "zones": "4",
+   "width": "600 mm",
+   "depth": "600 mm",
+   "height": "850 mm",
+   "weight": "28.4 kg",
+   "electricKw": "7 kW",
+   "voltage": "400V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "gg567",
+  "name": "Caterlite GG567 Countertop Double Boiling Hob",
+  "brand": "Caterlite",
+  "mpn": "GG567",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GG567",
+  "known": {
+   "width": "460 mm",
+   "depth": "270 mm",
+   "height": "67 mm",
+   "weight": "3.8 kg",
+   "electricKw": "2.5 kW",
+   "amps": "10.8 A",
+   "plug": "plug supplied",
+   "finish": "White"
+  }
+ },
+ {
+  "id": "hz898",
+  "name": "Buffalo HZ898 Gas Stock Pot Stove",
+  "brand": "Buffalo",
+  "mpn": "HZ898",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HZ898",
+  "known": {
+   "fuel": "gas",
+   "width": "400 mm",
+   "depth": "400 mm",
+   "height": "390 mm",
+   "weight": "13 kg",
+   "electricKw": "5.2 kW",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ }
+]

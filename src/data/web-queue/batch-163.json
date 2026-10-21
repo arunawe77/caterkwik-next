@@ -1,0 +1,228 @@
+[
+ {
+  "id": "po89x",
+  "name": "Lincat PO89X Twin Deck Electric Pizza Oven - 4 x 9\" Pizzas",
+  "brand": "Lincat",
+  "mpn": "PO89X",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PO89X",
+  "known": {
+   "decks": "2",
+   "pizzaSize": "9\" Pizzas",
+   "stone": "firebrick",
+   "fuel": "electric",
+   "width": "810 mm",
+   "depth": "740 mm",
+   "height": "565 mm",
+   "weight": "96 kg",
+   "electricKw": "5.7 kW",
+   "voltage": "230V",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "seriesgdesignc",
+  "name": "AS Term G100C Gas Fired Static Base Pizza Ovens 4 x 12\" Pizza - Red Brick Finish",
+  "brand": "AS Term",
+  "mpn": "G100C",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SERIESGDESIGNC",
+  "known": {
+   "pizzaSize": "12\" Pizza",
+   "fuel": "gas",
+   "width": "1350 mm",
+   "depth": "1620 mm",
+   "height": "1860 mm",
+   "weight": "1800 kg",
+   "voltage": "230V",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "seriesgdesignksilicone",
+  "name": "AS Term G100K Gas Fired Static Base Pizza Oven 4 x 12\" Pizza - Silicone Design",
+  "brand": "AS Term",
+  "mpn": "G100KSILC",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SERIESGDESIGNKSILICONE",
+  "known": {
+   "pizzaSize": "12\" Pizza",
+   "fuel": "gas",
+   "width": "1450 mm",
+   "depth": "1670 mm",
+   "height": "2050 mm",
+   "weight": "1250 kg",
+   "voltage": "230V",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "bs916eu",
+  "name": "Bradley Smart Smoker",
+  "brand": "Bradley Smoker",
+  "mpn": "BS916EU",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BS916EU",
+  "known": {
+   "fuel": "electric",
+   "width": "430 mm",
+   "depth": "370 mm",
+   "height": "990 mm",
+   "weight": "33 kg",
+   "electricKw": "0.5 kW",
+   "voltage": "240V",
+   "warranty": "12 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "st350",
+  "name": "Roband ST350 Sycloid Toaster - 350 Slices Per Hour",
+  "brand": "Roband",
+  "mpn": "ST350",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ST350",
+  "known": {
+   "throughput": "350 Slices Per Hour",
+   "width": "415 mm",
+   "depth": "600 mm",
+   "height": "425 mm",
+   "weight": "25 kg",
+   "electricKw": "2.3 kW",
+   "amps": "13 A",
+   "voltage": "230V, 50hz",
+   "plug": "plug supplied",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "buffalogf269",
+  "name": "Buffalo GF269 Double Slice Conveyor Toaster",
+  "brand": "Buffalo",
+  "mpn": "GF269",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BUFFALOGF269",
+  "known": {
+   "throughput": "400 slices per hour",
+   "width": "370 mm",
+   "depth": "750 mm",
+   "height": "410 mm",
+   "weight": "17.6 kg",
+   "electricKw": "2.6 kW",
+   "amps": "11.3 A",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "qld2",
+  "name": "Parry QLD2 Electric Quartz 2 Lamp Display Unit",
+  "brand": "Parry",
+  "mpn": "QLD2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_QLD2",
+  "known": {
+   "bulbs": "heat lamps over which supply both illum",
+   "width": "825 mm",
+   "depth": "505 mm",
+   "height": "547 mm",
+   "weight": "17 kg",
+   "electricKw": "1 kW",
+   "amps": "13 A",
+   "voltage": "240V",
+   "plug": "13A - Plug",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "qld3",
+  "name": "Parry QLD3 Electric Quartz 3 Lamp Display Unit",
+  "brand": "Parry",
+  "mpn": "QLD3",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_QLD3",
+  "known": {
+   "bulbs": "heat lamps over which supply both illum",
+   "width": "1165 mm",
+   "depth": "505 mm",
+   "height": "547 mm",
+   "weight": "22 kg",
+   "electricKw": "1.3 kW",
+   "amps": "13 A",
+   "voltage": "240V",
+   "plug": "13A - Plug",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ck2865",
+  "name": "Cater-Cook Electric Heated Pie Cabinet - CK2865 - Approx 70 pies.",
+  "brand": "Cater-Cook",
+  "mpn": "CK2865",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK2865",
+  "known": {
+   "tempRange": "30°C to 80°C",
+   "width": "865 mm",
+   "depth": "360 mm",
+   "height": "625 mm",
+   "weight": "33 kg",
+   "electricKw": "1.5 kW",
+   "voltage": "240V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "cpc",
+  "name": "Parry CPC Electric Heated Pie Cabinet",
+  "brand": "Parry",
+  "mpn": "CPC",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CPC",
+  "known": {
+   "width": "740 mm",
+   "depth": "360 mm",
+   "height": "420 mm",
+   "weight": "22 kg",
+   "electricKw": "0.75 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cpc1",
+  "name": "Parry CPC1 Electric Heated Pie Cabinet",
+  "brand": "Parry",
+  "mpn": "CPC1",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CPC1",
+  "known": {
+   "mobility": "true",
+   "width": "740 mm",
+   "depth": "360 mm",
+   "height": "530 mm",
+   "weight": "31 kg",
+   "electricKw": "0.75 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "pc140g",
+  "name": "Parry PC140G Pie Master Pie Cabinet with Glass Back",
+  "brand": "Parry",
+  "mpn": "PC140G",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PC140G",
+  "known": {
+   "shelves": "5",
+   "width": "1130 mm",
+   "depth": "470 mm",
+   "height": "895 mm",
+   "weight": "60 kg",
+   "electricKw": "1.9 kW",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ }
+]

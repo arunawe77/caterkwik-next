@@ -1,0 +1,245 @@
+[
+ {
+  "id": "g3121",
+  "name": "Falcon Dominator Plus G3121 6 Burner Gas Boiling Top",
+  "brand": "Falcon",
+  "mpn": "G3121",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G3121",
+  "known": {
+   "fuel": "gas",
+   "width": "900 mm",
+   "depth": "770 mm",
+   "height": "455 mm",
+   "weight": "75 kg",
+   "electricKw": "5.3 kW",
+   "gasKw": "31.8 kW",
+   "gasConnection": "3/4\" BSP",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "sl633h31n0",
+  "name": "FriFri Super Easy 633 3 x 9 Litre Triple Tank Fryer",
+  "brand": "FriFri",
+  "mpn": "SuperEasy 633",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SL633H31N0",
+  "known": {
+   "tanks": "3",
+   "oilCapacity": "9 litres",
+   "filtration": "true",
+   "thermostat": "90 - 195°C",
+   "computerControl": "thermostatic control",
+   "width": "600 mm",
+   "depth": "650 mm",
+   "height": "986 mm",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "og8202",
+  "name": "Lincat Opus 800 OG8202 Gas Griddle",
+  "brand": "Lincat",
+  "mpn": "OG8202",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_OG8202",
+  "known": {
+   "cookingWidth": "900 mm",
+   "plate": "smooth",
+   "fuel": "gas",
+   "thermostat": "true",
+   "tempRange": "90°C - 280°C",
+   "width": "900 mm",
+   "depth": "800 mm",
+   "height": "535 mm",
+   "weight": "96 kg",
+   "electricKw": "23 kW",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "g516a",
+  "name": "Blue Seal G516A 900mm Gas Griddle Cooktop - Natural Gas",
+  "brand": "Blue Seal",
+  "mpn": "G516A",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G516A",
+  "known": {
+   "cookingWidth": "300 mm",
+   "plate": "smooth",
+   "fuel": "gas",
+   "thermostat": "true",
+   "splashback": "true",
+   "width": "900 mm",
+   "depth": "812 mm",
+   "height": "315 mm",
+   "electricKw": "7 kW",
+   "gasKw": "18 kW",
+   "amps": "1.8 A",
+   "voltage": "240V",
+   "plug": "13A plug",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "Stainless steel exterior"
+  }
+ },
+ {
+  "id": "mkg24",
+  "name": "Magikitch'n MKG/C 24\" Inch Gas Chrome Griddle",
+  "brand": "MagiKitchn",
+  "mpn": "MKG/C-24",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MKG24",
+  "known": {
+   "plate": "chrome",
+   "fuel": "gas",
+   "thermostat": "true",
+   "splashback": "true",
+   "width": "610 mm",
+   "depth": "801 mm",
+   "height": "592 mm",
+   "weight": "140 kg",
+   "gasKw": "17.6 kW",
+   "gasConnection": "4\" Inch Gas Chrome Griddle",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "mkg36",
+  "name": "Magikitch'n MKG/C 36\" Inch Gas Chrome Griddle",
+  "brand": "MagiKitchn",
+  "mpn": "MKG/C-36",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MKG36",
+  "known": {
+   "plate": "chrome",
+   "fuel": "gas",
+   "thermostat": "true",
+   "splashback": "true",
+   "width": "910 mm",
+   "depth": "801 mm",
+   "height": "592 mm",
+   "weight": "210 kg",
+   "gasKw": "26.4 kW",
+   "gasConnection": "6\" Inch Gas Chrome Griddle",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "mkg48",
+  "name": "Magikitch'n MKG/C 48\" Inch Gas Chrome Griddle",
+  "brand": "MagiKitchn",
+  "mpn": "MKG48",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MKG48",
+  "known": {
+   "plate": "chrome",
+   "fuel": "gas",
+   "thermostat": "true",
+   "splashback": "true",
+   "width": "1220 mm",
+   "depth": "801 mm",
+   "height": "592 mm",
+   "weight": "231 kg",
+   "gasKw": "35.1 kW",
+   "gasConnection": "8\" Inch Gas Chrome Griddle",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "mkg60",
+  "name": "Magikitch'n MKG/C 60\" Inch Gas Chrome Griddle",
+  "brand": "MagiKitchn",
+  "mpn": "MKG/C-60",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MKG60",
+  "known": {
+   "plate": "chrome",
+   "fuel": "gas",
+   "thermostat": "true",
+   "splashback": "true",
+   "width": "1520 mm",
+   "depth": "801 mm",
+   "height": "592 mm",
+   "weight": "352 kg",
+   "gasKw": "43.9 kW",
+   "gasConnection": "0\" Inch Gas Chrome Griddle",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cs9",
+  "name": "Blue Seal CS9 Cobra Series Gas Salamander Grill",
+  "brand": "Blue Seal",
+  "mpn": "CS9",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CS9",
+  "known": {
+   "plate": "chrome",
+   "fuel": "gas",
+   "radiant": "infrared",
+   "width": "900 mm",
+   "weight": "42 kg",
+   "electricKw": "4.4 kW",
+   "gasConnection": "1/2 Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "Stainless steel exterior"
+  }
+ },
+ {
+  "id": "g3512",
+  "name": "Falcon Dominator Plus G3512 Gas Salamander Grill",
+  "brand": "Falcon",
+  "mpn": "G3512",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G3512",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "gas",
+   "width": "730 mm",
+   "depth": "560 mm",
+   "height": "505 mm",
+   "weight": "60 kg",
+   "gasKw": "8.55 kW",
+   "gasConnection": "1/2\" gas inlet connection",
+   "warranty": "2 years",
+   "finish": "stainless steel exterior"
+  }
+ },
+ {
+  "id": "sgm60",
+  "name": "Roller Grill SGM600 600mm Sliding Gas Salamander Grill",
+  "brand": "Roller Grill",
+  "mpn": "SGM60",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SGM60",
+  "known": {
+   "fuel": "gas",
+   "radiant": "radiant",
+   "width": "600 mm",
+   "depth": "590 mm",
+   "height": "590 mm",
+   "weight": "49 kg",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "oe8304",
+  "name": "Lincat Opus 800 OE8304 Electric Salamander Grill",
+  "brand": "Lincat",
+  "mpn": "OE8304",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_OE8304",
+  "known": {
+   "plate": "chrome",
+   "fuel": "electric",
+   "width": "800 mm",
+   "depth": "410 mm",
+   "height": "384 mm",
+   "electricKw": "5.5 kW",
+   "amps": "23.9 A",
+   "phase": "single",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "Chrome"
+  }
+ }
+]

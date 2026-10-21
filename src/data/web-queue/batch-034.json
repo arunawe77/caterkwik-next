@@ -1,0 +1,127 @@
+[
+ {
+  "id": "alptwr010",
+  "name": "TG - 10\" 254mm Wide Rim Pizza Tray",
+  "brand": "Thunder Group",
+  "mpn": "ALPTWR010",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ALPTWR010",
+  "known": {
+   "pizzaSize": "10\""
+  }
+ },
+ {
+  "id": "alptwr012",
+  "name": "TG - 12\" 305mm Wide Rim Pizza Tray",
+  "brand": "Thunder Group",
+  "mpn": "ALPTWR012",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ALPTWR012",
+  "known": {
+   "pizzaSize": "12\""
+  }
+ },
+ {
+  "id": "alptwr014",
+  "name": "TG - 14\" 356mm Wide Rim Pizza Tray",
+  "brand": "Thunder Group",
+  "mpn": "ALPTWR014",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ALPTWR014",
+  "known": {
+   "pizzaSize": "14\""
+  }
+ },
+ {
+  "id": "alpz22",
+  "name": "TG - 22\" 559mm Seamless Rim Pizza Screen",
+  "brand": "Thunder Group",
+  "mpn": "ALPZ22",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ALPZ22",
+  "known": {
+   "pizzaSize": "22\""
+  }
+ },
+ {
+  "id": "alptwr018",
+  "name": "TG - 18\" 457mm Wide Rim Pizza Tray",
+  "brand": "Thunder Group",
+  "mpn": "ALPTWR018",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ALPTWR018",
+  "known": {
+   "pizzaSize": "18\""
+  }
+ },
+ {
+  "id": "alptwr020",
+  "name": "TG - 20\" 508mm Wide Rim Pizza Tray",
+  "brand": "Thunder Group",
+  "mpn": "ALPTWR020",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ALPTWR020",
+  "known": {
+   "pizzaSize": "20\""
+  }
+ },
+ {
+  "id": "s473",
+  "name": "S473 Black Iron Pizza Pan 9in",
+  "brand": "Non Branded",
+  "mpn": "S473",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_S473",
+  "known": {
+   "pizzaSize": "9in",
+   "stone": "steel"
+  }
+ },
+ {
+  "id": "s474",
+  "name": "S474 Black Iron Pizza Pan 10in",
+  "brand": "Non Branded",
+  "mpn": "S474",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_S474",
+  "known": {
+   "pizzaSize": "10in",
+   "stone": "steel"
+  }
+ },
+ {
+  "id": "dspp",
+  "name": "Alphin Pans Detroit Style Pizza Pans",
+  "brand": "Alphin Pans",
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DSPP",
+  "known": {
+   "pizzaSize": "5cm",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "100602sa",
+  "name": "Alphin Pans 1.5' Deep Black Iron Sicilian Pizza Pan",
+  "brand": "Alphin Pans",
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_100602SA",
+  "known": {
+   "pizzaSize": "5'",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "s475",
+  "name": "S475 Black Iron Pizza Pan 12in",
+  "brand": "Non Branded",
+  "mpn": "S475",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_S475",
+  "known": {
+   "pizzaSize": "12in",
+   "stone": "steel"
+  }
+ },
+ {
+  "id": "ge208",
+  "name": "GE208 Wood Handle Aluminium Pizza Peel 31x36cm",
+  "brand": "Vogue",
+  "mpn": "GE208",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GE208",
+  "known": {
+   "pizzaSize": "36cm"
+  }
+ }
+]

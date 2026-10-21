@@ -1,0 +1,114 @@
+[
+ {
+  "id": "btch",
+  "name": "Bradley Smoker BTCH Cherry Bisquette Pack",
+  "brand": "Bradley Smoker",
+  "mpn": "BTCH",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BTCH",
+  "known": {}
+ },
+ {
+  "id": "btmp",
+  "name": "Bradley Smoker BTMP Maple Bisquette Pack",
+  "brand": "Bradley Smoker",
+  "mpn": "BTMP",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BTMP",
+  "known": {}
+ },
+ {
+  "id": "btmq",
+  "name": "Bradley Smoker BTMQ Mesquite Bisquette Pack",
+  "brand": "Bradley Smoker",
+  "mpn": "BTMQ",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BTMQ",
+  "known": {}
+ },
+ {
+  "id": "btok",
+  "name": "Bradley Smoker BTOK Oak Bisquette Pack",
+  "brand": "Bradley Smoker",
+  "mpn": "BTOK",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BTOK",
+  "known": {}
+ },
+ {
+  "id": "btpc",
+  "name": "Bradley Smoker BTPC Pecan Bisquette Pack",
+  "brand": "Bradley Smoker",
+  "mpn": "BTPC",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BTPC",
+  "known": {}
+ },
+ {
+  "id": "btsb",
+  "name": "Bradley Smoker BTSB Special Blend Bisquette Pack",
+  "brand": "Bradley Smoker",
+  "mpn": "BTSB",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BTSB",
+  "known": {}
+ },
+ {
+  "id": "btpb",
+  "name": "Bradley Smoker BTPB Pacific Blend Bisquette Pack",
+  "brand": "Bradley Smoker",
+  "mpn": "BTPB",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BTPB",
+  "known": {}
+ },
+ {
+  "id": "cb903",
+  "name": "Vogue Non Stick Induction Flared Saute Pan 200mm - CB903",
+  "brand": "Vogue",
+  "mpn": "CB903",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CB903",
+  "known": {
+   "fuel": "induction"
+  }
+ },
+ {
+  "id": "927216",
+  "name": "Electrolux Professional 1/1GN Pasta Basket for 40 Litre Pasta Boilers - 927216",
+  "brand": "Electrolux",
+  "mpn": "927216",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_927216",
+  "known": {
+   "volume": "40 litres",
+   "width": "275 mm",
+   "depth": "480 mm",
+   "height": "210 mm"
+  }
+ },
+ {
+  "id": "927211",
+  "name": "Electrolux Professional Kit of 2 x GN ½ Baskets for Pasta Cookers - 927211",
+  "brand": "Electrolux",
+  "mpn": "927211",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_927211",
+  "known": {
+   "width": "275 mm",
+   "depth": "230 mm",
+   "height": "210 mm",
+   "weight": "2.5 kg"
+  }
+ },
+ {
+  "id": "peelsmall",
+  "name": "Alphin Pans Aluminium 7\" Blade Pizza Peel - PEEL.SMALL",
+  "brand": "Alphin Pans",
+  "mpn": "PEEL.SMALL",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PEELSMALL",
+  "known": {
+   "pizzaSize": "7\""
+  }
+ },
+ {
+  "id": "peel2309",
+  "name": "Alphin Pans Aluminium 9 x 9\" Blade Pizza Peel - Various Handle Lengths",
+  "brand": "Alphin Pans",
+  "mpn": "PEEL.2309",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PEEL2309",
+  "known": {
+   "pizzaSize": "9\""
+  }
+ }
+]

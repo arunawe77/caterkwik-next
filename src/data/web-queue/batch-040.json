@@ -1,0 +1,120 @@
+[
+ {
+  "id": "gf156",
+  "name": "GF156 APS Pure Rolltop Serving Plate Cover",
+  "brand": "APS",
+  "mpn": "GF156",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF156",
+  "known": {}
+ },
+ {
+  "id": "dl496",
+  "name": "DL496 Churchill 2 Tier Rectangular Plate Tower",
+  "brand": "Churchill Alchemy",
+  "mpn": "DL496",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DL496",
+  "known": {
+   "shelves": "2"
+  }
+ },
+ {
+  "id": "dk998",
+  "name": "DK998 Churchill Alchemy 2 Tier Plate Tower",
+  "brand": "Churchill Alchemy",
+  "mpn": "DK998",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DK998",
+  "known": {
+   "shelves": "2"
+  }
+ },
+ {
+  "id": "dl494",
+  "name": "DL494 Churchill Alchemy 3 Tier Plate Tower",
+  "brand": "Churchill Alchemy",
+  "mpn": "DL494",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DL494",
+  "known": {
+   "shelves": "3"
+  }
+ },
+ {
+  "id": "dl495",
+  "name": "DL495 Churchill 2 Tier Rectangular Plate Tower",
+  "brand": "Churchill Alchemy",
+  "mpn": "DL495",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DL495",
+  "known": {
+   "shelves": "2"
+  }
+ },
+ {
+  "id": "cd721",
+  "name": "CD721 Olympia Whiteware Gastronorm Lid 1/6 Size",
+  "brand": "Olympia",
+  "mpn": "CD721",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CD721",
+  "known": {
+   "gnCapacity": "1/6GN"
+  }
+ },
+ {
+  "id": "dm154",
+  "name": "DM154 Kristallon Melamine 1/3 Gastronorm Dish 100mm",
+  "brand": "Kristallon",
+  "mpn": "DM154",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DM154",
+  "known": {
+   "gnCapacity": "1/3 Gastronorm"
+  }
+ },
+ {
+  "id": "cd720",
+  "name": "CD720 Olympia Whiteware Gastronorm Lid 1/3 Size",
+  "brand": "Olympia",
+  "mpn": "CD720",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CD720",
+  "known": {
+   "gnCapacity": "1/3GN"
+  }
+ },
+ {
+  "id": "u810",
+  "name": "U810 Olympia Whiteware 1/3 One Third Size Gastronorm",
+  "brand": "Olympia",
+  "mpn": "U810",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_U810",
+  "known": {
+   "gnCapacity": "1/3GN"
+  }
+ },
+ {
+  "id": "u811",
+  "name": "U811 Olympia Whiteware 1/3 One Third Size Gastronorm",
+  "brand": "Olympia",
+  "mpn": "U811",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_U811",
+  "known": {
+   "gnCapacity": "1/3GN"
+  }
+ },
+ {
+  "id": "u808",
+  "name": "U808 Olympia Whiteware ½ Half Size Gastronorm",
+  "brand": "Olympia",
+  "mpn": "U808",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_U808",
+  "known": {
+   "gnCapacity": "1/2GN"
+  }
+ },
+ {
+  "id": "u813",
+  "name": "U813 Olympia Whiteware 1/6 One Sixth Size Gastronorm",
+  "brand": "Olympia",
+  "mpn": "U813",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_U813",
+  "known": {
+   "gnCapacity": "1/6GN"
+  }
+ }
+]

@@ -1,0 +1,100 @@
+[
+ {
+  "id": "f769",
+  "name": "F769 Roll Top Covered Cheeseboard",
+  "brand": "APS",
+  "mpn": "F769",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_F769",
+  "known": {}
+ },
+ {
+  "id": "gl076",
+  "name": "GL076 Olympia Acacia Riser Small",
+  "brand": "Olympia",
+  "mpn": "GL076",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GL076",
+  "known": {}
+ },
+ {
+  "id": "gf186",
+  "name": "GF186 APS Low Buffet Stand",
+  "brand": "APS",
+  "mpn": "GF186",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF186",
+  "known": {}
+ },
+ {
+  "id": "gl077",
+  "name": "GL077 Olympia Acacia Riser Large",
+  "brand": "Olympia",
+  "mpn": "GL077",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GL077",
+  "known": {}
+ },
+ {
+  "id": "cc449",
+  "name": "CC449 Buffet Step Display 25mm High",
+  "brand": "Non Branded",
+  "mpn": "CC449",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CC449",
+  "known": {}
+ },
+ {
+  "id": "gl073",
+  "name": "GL073 Olympia Bamboo Risers Set of 3",
+  "brand": "Olympia",
+  "mpn": "GL073",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GL073",
+  "known": {}
+ },
+ {
+  "id": "gf187",
+  "name": "GF187 APS Medium Buffet Stand",
+  "brand": "APS",
+  "mpn": "GF187",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF187",
+  "known": {}
+ },
+ {
+  "id": "gf188",
+  "name": "GF188 APS High Buffet Stand",
+  "brand": "APS",
+  "mpn": "GF188",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF188",
+  "known": {}
+ },
+ {
+  "id": "cc450",
+  "name": "CC450 Buffet Step Display 75mm High",
+  "brand": "Non Branded",
+  "mpn": "CC450",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CC450",
+  "known": {}
+ },
+ {
+  "id": "cc451",
+  "name": "CC451 Buffet Step Display 130mm High",
+  "brand": "Non Branded",
+  "mpn": "CC451",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CC451",
+  "known": {}
+ },
+ {
+  "id": "gf196",
+  "name": "GF196 T&G Wooden Table Riser 375mm High",
+  "brand": "T&G Woodware",
+  "mpn": "GF196",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF196",
+  "known": {}
+ },
+ {
+  "id": "cb901",
+  "name": "CB901 Vogue Non-Stick Induction Frypan 260mm",
+  "brand": "Vogue",
+  "mpn": "CB901",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CB901",
+  "known": {
+   "fuel": "induction"
+  }
+ }
+]

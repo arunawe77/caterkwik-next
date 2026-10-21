@@ -1,0 +1,226 @@
+[
+ {
+  "id": "sp010pgb",
+  "name": "Spidocook SP010P Spidoglass Single Smooth Contact Grill - Manual Control",
+  "brand": "Spidocook",
+  "mpn": "SP010P",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SP010PGB",
+  "known": {
+   "plate": "smooth",
+   "fuel": "electric",
+   "radiant": "ceramic",
+   "width": "331 mm",
+   "depth": "458 mm",
+   "height": "176 mm",
+   "weight": "10 kg",
+   "electricKw": "1.6 kW",
+   "voltage": "240v",
+   "warranty": "1 year",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "cu613",
+  "name": "Buffalo CU613 Double Contact Grill Flat Left/Ribbed Right Plate",
+  "brand": "Buffalo",
+  "mpn": "CU613",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CU613",
+  "known": {
+   "plate": "ribbed",
+   "tempRange": "50°C to 300°C",
+   "width": "570 mm",
+   "depth": "310 mm",
+   "height": "200 mm",
+   "weight": "25.3 kg",
+   "electricKw": "3.6 kW",
+   "voltage": "240V",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "da566",
+  "name": "Buffalo DA566 4 Spike Hot Dog Warmer",
+  "brand": "Buffalo",
+  "mpn": "DA566",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DA566",
+  "known": {
+   "thermostat": "thermostat",
+   "width": "550 mm",
+   "depth": "340 mm",
+   "height": "370 mm",
+   "weight": "9 kg",
+   "electricKw": "0.55 kW",
+   "amps": "2.8 A",
+   "voltage": "240V 50Hz",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "dr757",
+  "name": "Buffalo DR757 Retractable Heat Shade Copper Finish",
+  "brand": "Buffalo",
+  "mpn": "DR757",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DR757",
+  "known": {
+   "bulbs": "heat lamps",
+   "width": "177 mm",
+   "depth": "177 mm",
+   "height": "310 mm",
+   "weight": "1.05 kg",
+   "electricKw": "0.25 kW",
+   "voltage": "240V",
+   "hardWired": "true",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "dy460",
+  "name": "Buffalo DY460 Retractable Dome Heat Shade Copper Finish",
+  "brand": "Buffalo",
+  "mpn": "DY460",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DY460",
+  "known": {
+   "bulbs": "heat lamp is finished in a premium copp",
+   "width": "292 mm",
+   "depth": "292 mm",
+   "height": "295 mm",
+   "weight": "1.36 kg",
+   "electricKw": "0.25 kW",
+   "voltage": "240V",
+   "hardWired": "true",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "dy463",
+  "name": "Buffalo DY463 Conical Retractable Heat Shade Copper Finish",
+  "brand": "Buffalo",
+  "mpn": "DY463",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DY463",
+  "known": {
+   "bulbs": "heat lamp is finished in a premium pale",
+   "width": "272 mm",
+   "depth": "272 mm",
+   "height": "310 mm",
+   "weight": "1.1 kg",
+   "electricKw": "0.25 kW",
+   "voltage": "240V",
+   "hardWired": "true",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "dhb4pt20bgb",
+  "name": "Prince Castle Holding Trays With MenuTrak",
+  "brand": "Prince Castle",
+  "mpn": "DHB2PT-33CGB / DHB4PT-20BCE",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DHB4PT20BGB",
+  "known": {
+   "gnCapacity": "8 x 1/3GN",
+   "wells": "8",
+   "width": "500 mm",
+   "depth": "358 mm",
+   "height": "523 mm",
+   "electricKw": "1.9 kW",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "fsh",
+  "name": "Parry FLEXI-SERVE FS-H Hot Cupboard with Plain Top",
+  "brand": "Parry",
+  "mpn": "Flexi-Serve",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FSH",
+  "known": {
+   "gnCapacity": "1/1 gastronorm",
+   "mobility": "true",
+   "width": "860 mm",
+   "depth": "700 mm",
+   "height": "900 mm",
+   "electricKw": "1.7 kW",
+   "amps": "13 A",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "fsht",
+  "name": "Parry FLEXI-SERVE FS-HT Hot Cupboard with Hot Top",
+  "brand": "Parry",
+  "mpn": "Flexi-Serve",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FSHT",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "mobility": "true",
+   "width": "860 mm",
+   "depth": "700 mm",
+   "height": "900 mm",
+   "electricKw": "2.06 kW",
+   "amps": "13 A",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "hb5",
+  "name": "Moffat Premier One-Door Hot Cupboard with Bain Marie",
+  "brand": "Moffat",
+  "mpn": "HB2 / HB3 / HB4  HB5",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HB5",
+  "known": {
+   "wells": "5",
+   "mobility": "true",
+   "tempRange": "30°-110°C",
+   "weight": "65 kg",
+   "electricKw": "2.4 kW",
+   "amps": "13 A",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "hc20ms",
+  "name": "Victor HC20MS General Purpose Hot Cupboard",
+  "brand": "Victor",
+  "mpn": "HC20MS",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HC20MS",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "plateCapacity": "258",
+   "mobility": "true",
+   "width": "945 mm",
+   "depth": "670 mm",
+   "height": "900 mm",
+   "electricKw": "0.9 kW",
+   "amps": "3.75 A",
+   "voltage": "220V/240V",
+   "phase": "single",
+   "plug": "13A plug",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "hc30ms",
+  "name": "Victor HC30MS General Purpose Mobile Hot Cupboard",
+  "brand": "Victor",
+  "mpn": "HC30MS",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HC30MS",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "plateCapacity": "344",
+   "mobility": "true",
+   "width": "1270 mm",
+   "depth": "670 mm",
+   "height": "900 mm",
+   "electricKw": "1.5 kW",
+   "amps": "6.3 A",
+   "voltage": "220V/240V",
+   "phase": "single",
+   "plug": "13A - Plug",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ }
+]

@@ -1,0 +1,244 @@
+[
+ {
+  "id": "d140s",
+  "name": "D140S",
+  "brand": "AS Term",
+  "mpn": "D140S",
+  "caterkwikUrl": null,
+  "known": {
+   "pizzaSize": "12\"",
+   "pizzasPerHour": "150",
+   "fuel": "wood",
+   "width": "1800 mm",
+   "depth": "2100 mm",
+   "height": "1860 mm",
+   "weight": "1700 kg",
+   "electricKw": "40 kW",
+   "warranty": "1 year",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "d160s",
+  "name": "D160S",
+  "brand": "AS Term",
+  "mpn": "D160S",
+  "caterkwikUrl": null,
+  "known": {
+   "pizzaSize": "12\"",
+   "pizzasPerHour": "195",
+   "fuel": "wood",
+   "width": "2000 mm",
+   "depth": "2300 mm",
+   "height": "1860 mm",
+   "weight": "2100 kg",
+   "electricKw": "48 kW",
+   "warranty": "1 year",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "p5050b",
+  "name": "850500",
+  "brand": "Pujadas",
+  "mpn": "850500",
+  "caterkwikUrl": null,
+  "known": {
+   "ovenCavities": "1",
+   "fuel": "charcoal",
+   "width": "690 mm",
+   "depth": "570 mm",
+   "height": "930 mm",
+   "weight": "170 kg",
+   "electricKw": "4 kW",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "p85090b",
+  "name": "850900",
+  "brand": "Pujadas",
+  "mpn": "850900",
+  "caterkwikUrl": null,
+  "known": {
+   "ovenCavities": "1",
+   "fuel": "charcoal",
+   "width": "690 mm",
+   "depth": "660 mm",
+   "height": "1030 mm",
+   "weight": "210 kg",
+   "electricKw": "4 kW",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "r54",
+  "name": "R54",
+  "brand": "Roaster",
+  "mpn": "R54",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "charcoal",
+   "gnCapacity": "1/1GN",
+   "castors": "legs",
+   "width": "785 mm",
+   "depth": "577 mm",
+   "height": "1095 mm",
+   "weight": "230 kg",
+   "electricKw": "6 kW",
+   "voltage": "220 v",
+   "warranty": "2 years",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "p8505b",
+  "name": "851400",
+  "brand": "Pujadas",
+  "mpn": "851400",
+  "caterkwikUrl": null,
+  "known": {
+   "ovenCavities": "1",
+   "fuel": "charcoal",
+   "width": "870 mm",
+   "depth": "860 mm",
+   "height": "1150 mm",
+   "weight": "320 kg",
+   "electricKw": "4 kW",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "r56",
+  "name": "R56",
+  "brand": "Roaster",
+  "mpn": "R56",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "charcoal",
+   "gnCapacity": "1/1GN",
+   "castors": "legs",
+   "width": "785 mm",
+   "depth": "777 mm",
+   "height": "1095 mm",
+   "weight": "281 kg",
+   "electricKw": "6 kW",
+   "voltage": "220 v",
+   "warranty": "2 years",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "r76",
+  "name": "R76",
+  "brand": "Roaster",
+  "mpn": "R76",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "charcoal",
+   "gnCapacity": "1/1GN",
+   "castors": "legs",
+   "width": "985 mm",
+   "depth": "777 mm",
+   "height": "1095 mm",
+   "weight": "302 kg",
+   "electricKw": "8 kW",
+   "voltage": "220 v",
+   "warranty": "2 years",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "r74",
+  "name": "R74",
+  "brand": "Roaster",
+  "mpn": "R74",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "charcoal",
+   "gnCapacity": "1/1GN",
+   "castors": "legs",
+   "width": "985 mm",
+   "depth": "577 mm",
+   "height": "1095 mm",
+   "weight": "285 kg",
+   "electricKw": "6 kW",
+   "voltage": "220 v",
+   "warranty": "2 years",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "gb4",
+  "name": "GB4/P",
+  "brand": "Parry",
+  "mpn": "GB4/P",
+  "caterkwikUrl": null,
+  "known": {
+   "burners": "4",
+   "fuel": "gas",
+   "ovenSize": "W405 x D605 x H480mm",
+   "ignition": "flame failure",
+   "castors": "castors",
+   "width": "600 mm",
+   "depth": "800 mm",
+   "height": "970 mm",
+   "weight": "100 kg",
+   "gasKw": "29.03 kW",
+   "gasConnection": "¾ inch BSP male inlet gas connection",
+   "warranty": "2 years",
+   "finish": "vitreous enamel"
+  }
+ },
+ {
+  "id": "titan",
+  "name": "444449438",
+  "brand": "Burco",
+  "mpn": "444449438",
+  "caterkwikUrl": null,
+  "known": {
+   "burners": "6",
+   "fuel": "gas",
+   "ovenSize": "W651 x D524 x H500mm",
+   "gnCapacity": "2/1 gastronorm",
+   "ignition": "piezo",
+   "castors": "castors",
+   "width": "900 mm",
+   "depth": "524 mm",
+   "height": "500 mm",
+   "weight": "117 kg",
+   "electricKw": "6.1 kW",
+   "gasKw": "45.6 kW",
+   "lpgKw": "41.4 kW",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "e30m3",
+  "name": "E30M3",
+  "brand": "Blue Seal",
+  "mpn": "E30M3",
+  "caterkwikUrl": null,
+  "known": {
+   "trays": "6 tray runners suitable for",
+   "tempRange": "50-260°C",
+   "door": "side hinged door (standard LH hinge)",
+   "timer": "timer with time up alarm",
+   "width": "810 mm",
+   "depth": "616 mm",
+   "height": "625 mm",
+   "weight": "59 kg",
+   "electricKw": "2.2 kW",
+   "amps": "10 A",
+   "voltage": "240V, 50Hz",
+   "plug": "Plug Supplied",
+   "warranty": "2 years",
+   "finish": "Vitreous enamel"
+  }
+ }
+]

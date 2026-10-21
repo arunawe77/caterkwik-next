@@ -1,0 +1,162 @@
+[
+ {
+  "id": "gg133",
+  "name": "Olympia GG133 Cast Iron Sizzler Pan 240mm",
+  "brand": null,
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GG133",
+  "known": {
+   "fuel": "induction",
+   "width": "240 mm"
+  }
+ },
+ {
+  "id": "s480",
+  "name": "Vogue Large Pizza Peel - 12 inch x 14 inch",
+  "brand": "Vogue",
+  "mpn": "S480",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_S480",
+  "known": {
+   "pizzaSize": "12 inch"
+  }
+ },
+ {
+  "id": "ge194",
+  "name": "GE194 Vogue Aluminium Pizza Screen 41cm",
+  "brand": "Vogue",
+  "mpn": "GE194",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GE194",
+  "known": {
+   "pizzaSize": "41cm",
+   "maxTemp": "350 °C"
+  }
+ },
+ {
+  "id": "fs998",
+  "name": "Vogue FS998 PP Dough Box 650 x 455 x 85mm",
+  "brand": null,
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FS998",
+  "known": {
+   "width": "455 mm",
+   "depth": "650 mm",
+   "height": "85 mm",
+   "weight": "1.63 kg",
+   "finish": "white"
+  }
+ },
+ {
+  "id": "fb448",
+  "name": "Kitchen Craft FB448 Italian Wood Handled Pizza Wheel 2.5\"",
+  "brand": "KitchenCraft",
+  "mpn": "FB448",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FB448",
+  "known": {
+   "pizzaSize": "5\"",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "btkitcart",
+  "name": "Bradley Smoker Foldable Kitchen Cart",
+  "brand": "Bradley Smokers",
+  "mpn": "BTKITCART",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BTKITCART",
+  "known": {
+   "width": "190 mm",
+   "depth": "558 mm",
+   "height": "889 mm",
+   "weight": "20 kg"
+  }
+ },
+ {
+  "id": "gc900",
+  "name": "GC900 APS Frames Stainless Steel 1/1 GN Base",
+  "brand": "APS",
+  "mpn": "GC900",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GC900",
+  "known": {
+   "gnCapacity": "1/1 GN",
+   "width": "325 mm",
+   "depth": "530 mm",
+   "height": "85 mm",
+   "weight": "3 kg",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "922612",
+  "name": "Electrolux Professional Skyline Open Base Stand With Tray Supports - For 6 & 10 Deck 1/1GN Ovens",
+  "brand": "Electrolux Professional",
+  "mpn": "922612",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922612",
+  "known": {
+   "gnCapacity": "1/1GN Oven",
+   "width": "865 mm",
+   "depth": "705 mm",
+   "height": "770 mm",
+   "weight": "36.5 kg",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "922321",
+  "name": "Electrolux Professional 1/1 GN Grease Collection Tray - 922321",
+  "brand": "Electrolux",
+  "mpn": "922321",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922321",
+  "known": {
+   "gnCapacity": "1/1 GN",
+   "width": "580 mm",
+   "depth": "340 mm",
+   "height": "110 mm",
+   "weight": "3 kg",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "922357",
+  "name": "Electrolux Professional 2/1 GN Grease Collection Tray - 922357",
+  "brand": "Electrolux",
+  "mpn": "922357",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922357",
+  "known": {
+   "gnCapacity": "2/1 GN",
+   "width": "530 mm",
+   "depth": "740 mm",
+   "height": "60 mm",
+   "weight": "3.9 kg",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "0s10",
+  "name": "Sammic 0S-10 Soup Kettle 10Ltr",
+  "brand": "Sammic",
+  "mpn": "OS-10",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_0S10",
+  "known": {
+   "heatType": "wet",
+   "volume": "10 litres",
+   "width": "340 mm",
+   "depth": "340 mm",
+   "height": "340 mm",
+   "weight": "5.5 kg",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "roc10",
+  "name": "Grelhaco ROC10 \"Rotativas\" Charcoal chargrill with rotating spits",
+  "brand": null,
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ROC10",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "charcoal",
+   "amps": "13 A",
+   "voltage": "230v",
+   "warranty": "2 years"
+  }
+ }
+]

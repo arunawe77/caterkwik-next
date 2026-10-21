@@ -1,0 +1,218 @@
+[
+ {
+  "id": "pfg6",
+  "name": "Prisma Food GAS6 Single Deck Gas Pizza Oven",
+  "brand": "Prisma Food",
+  "mpn": "GAS6",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PFG6",
+  "known": {
+   "decks": "1",
+   "pizzaSize": "50'",
+   "stone": "refractory",
+   "fuel": "gas",
+   "width": "1000 mm",
+   "depth": "1362 mm",
+   "height": "560 mm",
+   "gasConnection": "¾ inch gas supply",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "pfg9",
+  "name": "Prisma Food GAS9 Single Deck Gas Pizza Oven",
+  "brand": "Prisma Food",
+  "mpn": "GAS9",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PFG9",
+  "known": {
+   "decks": "1",
+   "pizzaSize": "12 inch pizzas",
+   "stone": "refractory",
+   "fuel": "gas",
+   "width": "1300 mm",
+   "depth": "1360 mm",
+   "height": "560 mm",
+   "gasConnection": "¾ inch gas connection",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "archwaypo6868e",
+  "name": "Archway PO6868E Electric Pizza Oven Single Deck - 4 x 12\"",
+  "brand": "Archway",
+  "mpn": "PO6868E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAYPO6868E",
+  "known": {
+   "decks": "1",
+   "pizzaSize": "12\"",
+   "chamber": "Deck - 4 x 12\"",
+   "maxTemp": "500 °C",
+   "fuel": "electric",
+   "width": "980 mm",
+   "depth": "860 mm",
+   "height": "430 mm",
+   "weight": "85 kg",
+   "electricKw": "5 kW",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "dcsb40024201",
+  "name": "Hatco DCSB400-2420-1 Decorative Carving Station",
+  "brand": "Hatco",
+  "mpn": "DCSB4002420A",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DCSB40024201",
+  "known": {
+   "width": "610 mm",
+   "weight": "36 kg",
+   "electricKw": "0.75 kW",
+   "voltage": "230V",
+   "phase": "single",
+   "plug": "plug supplied"
+  }
+ },
+ {
+  "id": "hss96",
+  "name": "Blizzard Heated Counter Top Display",
+  "brand": "Blizzard",
+  "mpn": "HSS",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HSS96",
+  "known": {
+   "width": "664 mm",
+   "depth": "493 mm",
+   "height": "663 mm",
+   "weight": "36 kg",
+   "amps": "13 A",
+   "warranty": "2 years",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "wd780s",
+  "name": "Roller Grill WD780S Countertop Heated Display Unit",
+  "brand": "Roller Grill",
+  "mpn": "WD780S",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_WD780S",
+  "known": {
+   "shelves": "3",
+   "tempRange": "20 - 90°C",
+   "width": "780 mm",
+   "depth": "490 mm",
+   "height": "480 mm",
+   "weight": "30 kg",
+   "electricKw": "1.2 kW",
+   "warranty": "2 years",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "wd780d",
+  "name": "Roller Grill WD780D Countertop Heated Display Unit",
+  "brand": "Roller Grill",
+  "mpn": "WD780D",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_WD780D",
+  "known": {
+   "shelves": "5",
+   "tempRange": "20 - 90°C",
+   "width": "780 mm",
+   "depth": "490 mm",
+   "height": "640 mm",
+   "weight": "35 kg",
+   "electricKw": "1.8 kW",
+   "warranty": "2 years",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "d5h75",
+  "name": "Lincat D5H/75 Hot Food Display",
+  "brand": "Lincat",
+  "mpn": "D5H/75B",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_D5H75",
+  "known": {
+   "width": "750 mm",
+   "depth": "500 mm",
+   "height": "575 mm",
+   "weight": "58 kg",
+   "electricKw": "1.52 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "silver finish"
+  }
+ },
+ {
+  "id": "d5h100",
+  "name": "Lincat D5H/100 Hot Food Display",
+  "brand": "Lincat",
+  "mpn": "D5H/100B",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_D5H100",
+  "known": {
+   "width": "1000 mm",
+   "depth": "500 mm",
+   "height": "575 mm",
+   "weight": "73 kg",
+   "electricKw": "2.02 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "silver finish"
+  }
+ },
+ {
+  "id": "c6h100",
+  "name": "Lincat C6H/100 650 Curved Front Heated Food Merchandiser",
+  "brand": "Lincat",
+  "mpn": "C6H/100B",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_C6H100",
+  "known": {
+   "width": "1000 mm",
+   "depth": "650 mm",
+   "height": "755 mm",
+   "weight": "89 kg",
+   "electricKw": "2.02 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "silver finish"
+  }
+ },
+ {
+  "id": "gkkchwc3",
+  "name": "KK Cooking 3 Series Chicken Warmer - GKKCHWC3",
+  "brand": "KK Cooking",
+  "mpn": "GKKCHWC3",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GKKCHWC3",
+  "known": {
+   "width": "1540 mm",
+   "depth": "760 mm",
+   "height": "515 mm",
+   "weight": "130 kg",
+   "electricKw": "4 kW",
+   "amps": "16 A",
+   "voltage": "230V, 50Hz",
+   "phase": "single",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "gkkchwc5",
+  "name": "KK Cooking 5 Series Chicken Warmer - GKKCHWC5",
+  "brand": "KK Cooking",
+  "mpn": "GKKCHWC5",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GKKCHWC5",
+  "known": {
+   "width": "1540 mm",
+   "depth": "760 mm",
+   "height": "835 mm",
+   "weight": "170 kg",
+   "electricKw": "5 kW",
+   "amps": "32 A",
+   "voltage": "230V, 50Hz",
+   "phase": "single",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ }
+]

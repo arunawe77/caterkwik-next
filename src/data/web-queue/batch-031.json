@@ -1,0 +1,125 @@
+[
+ {
+  "id": "gf991",
+  "name": "GF991 Olympia 3 Tier Slate Afternoon Tea Stand",
+  "brand": "Olympia",
+  "mpn": "GF991",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF991",
+  "known": {
+   "shelves": "3"
+  }
+ },
+ {
+  "id": "gf153",
+  "name": "GF153 APS Pure Melamine White Cake Platter",
+  "brand": "APS",
+  "mpn": "GF153",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF153",
+  "known": {}
+ },
+ {
+  "id": "ce823",
+  "name": "CE823 Emile Henry Ceramic Gastronorm ¼",
+  "brand": "Emile Henry",
+  "mpn": "CE823",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CE823",
+  "known": {
+   "volume": "1.3 litres"
+  }
+ },
+ {
+  "id": "ce829",
+  "name": "CE829 Emile Henry Ceramic Gastronorm 1/3",
+  "brand": "Emile Henry",
+  "mpn": "CE829",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CE829",
+  "known": {
+   "volume": "1.8 litres"
+  }
+ },
+ {
+  "id": "cf280",
+  "name": "CF280 Small Buffet Ladder Set",
+  "brand": "APS",
+  "mpn": "CF280",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CF280",
+  "known": {
+   "finish": "Chrome"
+  }
+ },
+ {
+  "id": "cf285",
+  "name": "CF285 Large Buffet Ladder Set",
+  "brand": "APS",
+  "mpn": "CF285",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CF285",
+  "known": {
+   "finish": "Chrome"
+  }
+ },
+ {
+  "id": "d676",
+  "name": "Vogue D676 Metal Skewer 10\"",
+  "brand": "Vogue",
+  "mpn": "D676",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_D676",
+  "known": {
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cb093",
+  "name": "Lavastenen 5kg Lava Rock CB093",
+  "brand": "Lavastenen",
+  "mpn": "CB093",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CB093",
+  "known": {
+   "fuel": "gas",
+   "radiant": "lava rock"
+  }
+ },
+ {
+  "id": "m922",
+  "name": "Vogue M922 Stainless Steel Saucepan 900ml",
+  "brand": "Vogue",
+  "mpn": "M922",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_M922",
+  "known": {
+   "fuel": "induction",
+   "finish": "stainless steel body"
+  }
+ },
+ {
+  "id": "y244",
+  "name": "Vogue Y244 Tri Wall Saucepan 900ml",
+  "brand": "Vogue",
+  "mpn": "Y244",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_Y244",
+  "known": {
+   "fuel": "induction",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "dn890",
+  "name": "DN890 De Buyer Chocinduction Non Stick Cast Aluminium Fry Pan 200mm",
+  "brand": "De Buyer",
+  "mpn": "DN890",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DN890",
+  "known": {
+   "fuel": "induction",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "dn891",
+  "name": "DN891 De Buyer Chocinduction Non Stick Cast Aluminium Fry Pan 240mm",
+  "brand": "De Buyer",
+  "mpn": "DN891",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DN891",
+  "known": {
+   "fuel": "induction",
+   "finish": "stainless steel"
+  }
+ }
+]

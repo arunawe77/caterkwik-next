@@ -1,0 +1,245 @@
+[
+ {
+  "id": "lincatplh60",
+  "name": "Lincat PLH60 Double Door Plate Warmer",
+  "brand": "Lincat",
+  "mpn": "PLH60",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LINCATPLH60",
+  "known": {
+   "doors": "Double",
+   "tempRange": "30 – 90°C",
+   "width": "600 mm",
+   "depth": "600 mm",
+   "height": "900 mm",
+   "weight": "45 kg",
+   "electricKw": "1.5 kW",
+   "amps": "6.3 A",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "lincatplh90",
+  "name": "Lincat PLH90 Double Door Plate Warmer",
+  "brand": "Lincat",
+  "mpn": "PLH90",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LINCATPLH90",
+  "known": {
+   "doors": "Double",
+   "tempRange": "30 – 90°C",
+   "width": "900 mm",
+   "depth": "600 mm",
+   "height": "900 mm",
+   "weight": "61 kg",
+   "electricKw": "2 kW",
+   "amps": "8.4 A",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "zanolli1280g",
+  "name": "Zanolli Synthesis 12/80V G Gas Conveyor Oven (32\"/80cm)",
+  "brand": "Zanolli",
+  "mpn": "12/80VG",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ZANOLLI1280G",
+  "known": {
+   "pizzaSize": "32\"",
+   "belt": "1200 mm",
+   "fuel": "gas",
+   "width": "1650 mm",
+   "depth": "2180 mm",
+   "height": "600 mm",
+   "weight": "315 kg",
+   "gasKw": "30 kW",
+   "warranty": "3 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "ps640g",
+  "name": "Middleby Marshall PS640G WOW! Gas Impingement Conveyor Pizza Oven Belt Width 33.5\"",
+  "brand": "Middleby Marshall",
+  "mpn": "PS640G",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PS640G",
+  "known": {
+   "pizzaSize": "5\"",
+   "chamber": "chamber length: 40",
+   "fuel": "gas",
+   "width": "1943 mm",
+   "depth": "1524 mm",
+   "height": "1197 mm",
+   "weight": "499 kg",
+   "gasKw": "29.14 kW",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "blodgettmt1820e",
+  "name": "Blodgett BE20 Electric Counter Top Conveyor Oven",
+  "brand": "Blodgett",
+  "mpn": "BE20",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BLODGETTMT1820E",
+  "known": {
+   "pizzaSize": "18\"",
+   "fuel": "electric",
+   "width": "965 mm",
+   "depth": "1075 mm",
+   "height": "552 mm",
+   "electricKw": "9.2 kW",
+   "amps": "1.5 A",
+   "voltage": "240 V",
+   "phase": "three",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "astermmix85",
+  "name": "AS Term MIX85RK Wood-Gas Fired Rotating Base Pizza Oven 4 x 12\" Pizzas - Silicone Coated Finish (Colour Options Available)",
+  "brand": "AS Term",
+  "mpn": "MIX85RK",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ASTERMMIX85",
+  "known": {
+   "pizzaSize": "12\" Pizzas",
+   "fuel": "gas",
+   "width": "1450 mm",
+   "depth": "1520 mm",
+   "height": "1860 mm",
+   "weight": "950 kg",
+   "voltage": "230V",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "kktwingpizza",
+  "name": "KK Cooking 4+4 Gas Pizza Oven",
+  "brand": "KK Cooking",
+  "mpn": "4+4",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_KKTWINGPIZZA",
+  "known": {
+   "decks": "1",
+   "pizzaSize": "12\" pizzas",
+   "stone": "Refractory",
+   "fuel": "gas",
+   "weight": "186 kg",
+   "electricKw": "15.5 kW",
+   "gasKw": "15.5 kW",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "pfg4",
+  "name": "Prisma Food GAS4 Single Deck Gas Pizza Oven",
+  "brand": "Prisma Food",
+  "mpn": "GAS4",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PFG4",
+  "known": {
+   "decks": "1",
+   "pizzaSize": "50'",
+   "stone": "refractory",
+   "fuel": "gas",
+   "width": "1000 mm",
+   "depth": "1060 mm",
+   "height": "560 mm",
+   "gasKw": "13.9 kW",
+   "amps": "13 A",
+   "voltage": "230V",
+   "phase": "single",
+   "gasConnection": "¾ inch gas supply",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "citizen9",
+  "name": "Zanolli Citizen 9 Electric Pizza Oven",
+  "brand": "Zanolli",
+  "mpn": "Citizen 9",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CITIZEN9",
+  "known": {
+   "pizzaSize": "12 Inch Pizzas",
+   "stone": "Refractory",
+   "fuel": "electric",
+   "width": "1420 mm",
+   "depth": "1380 mm",
+   "height": "430 mm",
+   "weight": "200 kg",
+   "electricKw": "11.2 kW",
+   "voltage": "400V, 50Hz",
+   "hardWired": "true",
+   "warranty": "3 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "a00043362",
+  "name": "Kingfisher Little Italy Twin Deck Pizza Oven, 2 X 14\" Capacity - A0004336/2",
+  "brand": "Kingfisher",
+  "mpn": "A0004336/2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_A00043362",
+  "known": {
+   "decks": "2",
+   "pizzaSize": "14\"",
+   "stone": "refractory",
+   "width": "550 mm",
+   "depth": "430 mm",
+   "height": "370 mm",
+   "weight": "28 kg",
+   "electricKw": "2.25 kW",
+   "amps": "13 A",
+   "voltage": "230V, 50Hz",
+   "plug": "Plug Supplied",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "a000502",
+  "name": "Kingfisher Little Italy 50/2 Twin Deck Pizza Oven, 8 X 8\" Capacity - A00050/2",
+  "brand": "Kingfisher",
+  "mpn": "A00050/2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_A000502",
+  "known": {
+   "decks": "2",
+   "pizzaSize": "8\"",
+   "stone": "Refractory",
+   "width": "710 mm",
+   "depth": "590 mm",
+   "height": "450 mm",
+   "weight": "40 kg",
+   "electricKw": "4.5 kW",
+   "voltage": "230V, 50Hz",
+   "phase": "single",
+   "hardWired": "true",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "superpizzapo6868de",
+  "name": "Super Pizza PO6868DE Commercial Twin Deck Electric Pizza Oven - 8 x 13\" Pizzas",
+  "brand": "Super Pizza",
+  "mpn": "PO6868DE",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SUPERPIZZAPO6868DE",
+  "known": {
+   "decks": "2",
+   "pizzaSize": "13\" Pizzas",
+   "stone": "Refractory",
+   "fuel": "electric",
+   "width": "980 mm",
+   "depth": "780 mm",
+   "height": "760 mm",
+   "weight": "155 kg",
+   "electricKw": "10 kW",
+   "voltage": "230V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ }
+]

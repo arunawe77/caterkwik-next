@@ -1,0 +1,206 @@
+[
+ {
+  "id": "d140ksilc",
+  "name": "D140K-Silicone",
+  "brand": "AS Term",
+  "mpn": "D140K-Silicone",
+  "caterkwikUrl": null,
+  "known": {
+   "pizzaSize": "12\"",
+   "pizzasPerHour": "150",
+   "fuel": "wood",
+   "width": "1910 mm",
+   "depth": "2150 mm",
+   "height": "2050 mm",
+   "weight": "1900 kg"
+  }
+ },
+ {
+  "id": "d160k",
+  "name": "D140K",
+  "brand": "AS Term",
+  "mpn": "D140K",
+  "caterkwikUrl": null,
+  "known": {
+   "pizzaSize": "12\"",
+   "pizzasPerHour": "195",
+   "fuel": "wood",
+   "width": "2100 mm",
+   "depth": "2350 mm",
+   "height": "2050 mm",
+   "weight": "2300 kg"
+  }
+ },
+ {
+  "id": "hjxpromini",
+  "name": "HJX-PRO MINI",
+  "brand": "Josper",
+  "mpn": "HJX-PRO MINI",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "charcoal",
+   "gnCapacity": "1/1GN",
+   "width": "710 mm",
+   "depth": "805 mm",
+   "height": "560 mm",
+   "weight": "128 kg"
+  }
+ },
+ {
+  "id": "hjxpros80",
+  "name": "HJX-PRO-S80",
+  "brand": "Josper",
+  "mpn": "HJX-PRO-S80",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "charcoal",
+   "gnCapacity": "1/1GN",
+   "width": "649 mm",
+   "depth": "780 mm",
+   "height": "1030 mm",
+   "weight": "180 kg"
+  }
+ },
+ {
+  "id": "hjxprom120",
+  "name": "HJX-PRO-M120",
+  "brand": "Josper",
+  "mpn": "HJX-PRO-M120",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "charcoal",
+   "gnCapacity": "2 x 1/1GN",
+   "width": "916 mm",
+   "depth": "774 mm",
+   "height": "1091 mm",
+   "weight": "250 kg"
+  }
+ },
+ {
+  "id": "hjxprol175",
+  "name": "HJX-PRO-L175",
+  "brand": "Josper",
+  "mpn": "HJX-PRO-L175",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "charcoal",
+   "gnCapacity": "2 x 1/1GN",
+   "width": "916 mm",
+   "depth": "1011 mm",
+   "height": "1090 mm",
+   "weight": "250 kg"
+  }
+ },
+ {
+  "id": "p4bo",
+  "name": "GB4",
+  "brand": "Parry",
+  "mpn": "GB4",
+  "caterkwikUrl": null,
+  "known": {
+   "burners": "4",
+   "fuel": "gas",
+   "ovenSize": "W405 x D605 x H480mm",
+   "ignition": "piezo",
+   "castors": "castors",
+   "racking": "3 rack positions",
+   "width": "600 mm",
+   "depth": "800 mm",
+   "height": "970 mm",
+   "weight": "100 kg",
+   "gasKw": "26.78 kW",
+   "gasConnection": "3/4\" Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "Vitreous enamelled"
+  }
+ },
+ {
+  "id": "icve",
+  "name": "ICVE-1",
+  "brand": "Imperial",
+  "mpn": "ICVE-1",
+  "caterkwikUrl": null,
+  "known": {
+   "tempRange": "66°C to 260°C",
+   "timer": "timer",
+   "width": "965 mm",
+   "depth": "1054 mm",
+   "height": "1524 mm",
+   "weight": "236 kg",
+   "electricKw": "11 kW",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "Stainless steel exterior"
+  }
+ },
+ {
+  "id": "mkv2",
+  "name": "MKV-2",
+  "brand": "Blodgett",
+  "mpn": "MKV-2",
+  "caterkwikUrl": null,
+  "known": {
+   "tempRange": "93 - 260°C",
+   "width": "972 mm",
+   "depth": "937 mm",
+   "height": "1448 mm",
+   "weight": "454 kg",
+   "electricKw": "11 kW",
+   "phase": "three",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "hbmw",
+  "name": "HBMW",
+  "brand": "Designline",
+  "mpn": "HBMW",
+  "caterkwikUrl": null,
+  "known": {
+   "gnCapacity": "1/1GN",
+   "width": "1175 mm",
+   "weight": "48 kg",
+   "electricKw": "3.2 kW",
+   "amps": "16 A",
+   "voltage": "230V",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "pfc70v7",
+  "name": "PFC70V7",
+  "brand": "Tecnoinox",
+  "mpn": "PFC70V7",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "electric",
+   "zones": "4",
+   "width": "700 mm",
+   "depth": "700 mm",
+   "height": "860 mm",
+   "electricKw": "13.6 kW",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "Stainless steel exterior"
+  }
+ },
+ {
+  "id": "hx569",
+  "name": "HX569",
+  "brand": "Buffalo",
+  "mpn": "HX569",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "charcoal",
+   "width": "740 mm",
+   "depth": "575 mm",
+   "height": "670 mm",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ }
+]

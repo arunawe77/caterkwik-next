@@ -1,0 +1,234 @@
+[
+ {
+  "id": "fld88",
+  "name": "Clifton Food Range FLD-8/8 8 Litre + 8 Litre Unstirred Digital DuoBath Sous Vide Machine",
+  "brand": "Clifton",
+  "mpn": "FLD-8/8",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FLD88",
+  "known": {
+   "timer": "timer on each controller can be set between 1",
+   "lowTemp": "true",
+   "width": "600 mm",
+   "depth": "332 mm",
+   "height": "290 mm",
+   "electricKw": "1.6 kW",
+   "amps": "13 A",
+   "voltage": "230v",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "hw911",
+  "name": "Rowlett HW911 Esprit 4 Slot Toaster Chrome with Duraheat Elements & Sandwich Cage",
+  "brand": "Rowlett",
+  "mpn": "HW911",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HW911",
+  "known": {
+   "fuel": "electric",
+   "timer": "timer, you'll always be able to achieve the r",
+   "plates": "4",
+   "width": "410 mm",
+   "weight": "6 kg",
+   "voltage": "240 V",
+   "warranty": "2 years",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "lt4x",
+  "name": "Lincat LT4X 4 Slot Toaster",
+  "brand": "Lincat",
+  "mpn": "LT4X",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LT4X",
+  "known": {
+   "fuel": "electric",
+   "timer": "timer control for reliability",
+   "plates": "4",
+   "width": "360 mm",
+   "depth": "220 mm",
+   "height": "240 mm",
+   "weight": "7 kg",
+   "electricKw": "2.3 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "6071319",
+  "name": "Rational 60.31.854 iVario 2-S Stand with Feet",
+  "brand": "Rational",
+  "mpn": "60.31.854",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_6071319",
+  "known": {
+   "width": "1100 mm",
+   "depth": "899 mm",
+   "height": "595 mm",
+   "weight": "56.9 kg",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "ck7006",
+  "name": "Cater-Cook CK7006 Wet Heat Bain Marie With Tap (Without Pans)",
+  "brand": "Cater-Cook",
+  "mpn": "CK7006",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK7006",
+  "known": {
+   "heatType": "wet",
+   "volume": "24 litres",
+   "width": "336 mm",
+   "depth": "535 mm",
+   "height": "230 mm",
+   "weight": "7.4 kg",
+   "electricKw": "1.2 kW",
+   "voltage": "230V",
+   "warranty": "1 year",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "ft695",
+  "name": "Buffalo Bain Marie with Round Pots - FT695",
+  "brand": "Buffalo",
+  "mpn": "FT695",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FT695",
+  "known": {
+   "volume": "21 litres",
+   "tempRange": "30° to 90°C",
+   "width": "645 mm",
+   "depth": "432 mm",
+   "height": "327 mm",
+   "weight": "10.8 kg",
+   "voltage": "240V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cp851",
+  "name": "Buffalo CP851 Copper 10 Litre Soup Kettle",
+  "brand": "Buffalo",
+  "mpn": "CP851",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CP851",
+  "known": {
+   "heatType": "wet",
+   "volume": "10 litres",
+   "mobility": "true",
+   "tempRange": "35 - 95°C",
+   "weight": "4.3 kg",
+   "electricKw": "0.4 kW",
+   "amps": "1.9 A",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "l714",
+  "name": "Buffalo L714 Stainless Steel 10 Litre Soup Kettle",
+  "brand": "Buffalo",
+  "mpn": "L714",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_L714",
+  "known": {
+   "volume": "10 litres",
+   "mobility": "true",
+   "tempRange": "35 - 95°C",
+   "weight": "4.4 kg",
+   "electricKw": "0.4 kW",
+   "amps": "1.9 A",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "1 year",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "pmrie200",
+  "name": "Firex Easypan Indirect Electric 220 Litre Boiling Pan - PMRIE200",
+  "brand": "Firex",
+  "mpn": "PMRIE200",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PMRIE200",
+  "known": {
+   "volume": "220 litres",
+   "fuel": "electric",
+   "heating": "indirect",
+   "tap": "true",
+   "width": "1175 mm",
+   "depth": "1000 mm",
+   "height": "1055 mm",
+   "electricKw": "32 kW",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "pmrei300",
+  "name": "Firex EasyPan Indirect Electric 330 Litre Boiling Pan - PMREI300",
+  "brand": "Firex",
+  "mpn": "PMRIE300",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PMREI300",
+  "known": {
+   "volume": "330 litres",
+   "fuel": "electric",
+   "heating": "indirect",
+   "tap": "true",
+   "width": "1305 mm",
+   "depth": "1255 mm",
+   "height": "1055 mm",
+   "electricKw": "36 kW",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "e5808",
+  "name": "Blue Seal E580-8 Manual Tilt Electric Bratt Pan - 80L",
+  "brand": "Blue Seal",
+  "mpn": "e580-8",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_E5808",
+  "known": {
+   "volume": "80 litres",
+   "fuel": "electric",
+   "tilting": "true",
+   "width": "900 mm",
+   "depth": "812 mm",
+   "height": "915 mm",
+   "weight": "180 kg",
+   "electricKw": "12 kW",
+   "amps": "17 A",
+   "voltage": "415V",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "Stainless steel exterior"
+  }
+ },
+ {
+  "id": "e5808e",
+  "name": "Blue Seal E580-8E Powered Tilt Electric Bratt Pan - 80L",
+  "brand": "Blue Seal",
+  "mpn": "E580-8E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_E5808E",
+  "known": {
+   "volume": "80 litres",
+   "fuel": "electric",
+   "tilting": "true",
+   "width": "900 mm",
+   "depth": "812 mm",
+   "height": "915 mm",
+   "weight": "180 kg",
+   "electricKw": "12 kW",
+   "amps": "17 A",
+   "voltage": "415V",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "Stainless steel exterior"
+  }
+ }
+]

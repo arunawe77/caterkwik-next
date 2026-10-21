@@ -1,0 +1,245 @@
+[
+ {
+  "id": "mirrorzone",
+  "name": "Mirror Zone Heavy Duty Gas Chrome Griddle - Smooth Plate.",
+  "brand": "Mirror",
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MIRRORZONE",
+  "known": {
+   "plate": "chrome",
+   "fuel": "gas",
+   "burners": "1",
+   "thermostat": "true",
+   "width": "400 mm",
+   "depth": "650 mm",
+   "height": "350 mm",
+   "electricKw": "11 kW",
+   "gasKw": "11 kW",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "gp516",
+  "name": "Blue Seal GP516-B 900mm Heavy Duty Gas Griddle - Bench Model",
+  "brand": "Blue Seal",
+  "mpn": "GP516",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GP516",
+  "known": {
+   "cookingWidth": "900 mm",
+   "plate": "ribbed",
+   "fuel": "gas",
+   "thermostat": "true",
+   "tempRange": "90 - 30°C",
+   "splashback": "true",
+   "width": "900 mm",
+   "depth": "812 mm",
+   "height": "315 mm",
+   "electricKw": "11.5 kW",
+   "gasKw": "23 kW",
+   "amps": "1.8 A",
+   "voltage": "240V",
+   "plug": "13A plug",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "gp518",
+  "name": "Blue Seal GP518-B 1200mm Heavy Duty Gas Griddle - Bench Model",
+  "brand": "Blue Seal",
+  "mpn": "GP518",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GP518",
+  "known": {
+   "cookingWidth": "1200 mm",
+   "plate": "ribbed",
+   "fuel": "gas",
+   "thermostat": "true",
+   "tempRange": "90 - 300°C",
+   "splashback": "true",
+   "width": "1200 mm",
+   "depth": "812 mm",
+   "height": "315 mm",
+   "electricKw": "10.3 kW",
+   "gasKw": "31 kW",
+   "amps": "1.8 A",
+   "voltage": "240V",
+   "plug": "13A plug",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "parrycasgrill",
+  "name": "Parry CAS Sandwich Grill",
+  "brand": "Parry",
+  "mpn": "CAS",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PARRYCASGRILL",
+  "known": {
+   "fuel": "electric",
+   "radiant": "infra-red",
+   "width": "520 mm",
+   "depth": "420 mm",
+   "height": "315 mm",
+   "weight": "15 kg",
+   "electricKw": "3 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel body"
+  }
+ },
+ {
+  "id": "sammicsg652",
+  "name": "Sammic SG-652 Electric Adjustable Salamander Grill",
+  "brand": "Sammic",
+  "mpn": "SG-652",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SAMMICSG652",
+  "known": {
+   "cookingWidth": "590 mm",
+   "fuel": "electric",
+   "thermostat": "true",
+   "width": "625 mm",
+   "depth": "510 mm",
+   "height": "530 mm",
+   "weight": "37 kg",
+   "electricKw": "4 kW",
+   "voltage": "230V",
+   "phase": "single",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "pro12g",
+  "name": "Sirman PRO 1/2G Electric Adjustable Salamander Grill",
+  "brand": "Sirman",
+  "mpn": "PRO 1/2G",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PRO12G",
+  "known": {
+   "fuel": "electric",
+   "width": "400 mm",
+   "depth": "545 mm",
+   "height": "510 mm",
+   "weight": "45 kg",
+   "electricKw": "1.7 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "1 year",
+   "finish": "Stainless steel body"
+  }
+ },
+ {
+  "id": "i9042",
+  "name": "Falcon i9042 Induction Boiling Top - 2 x 3.5kW",
+  "brand": "Falcon",
+  "mpn": "i9042",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_I9042",
+  "known": {
+   "fuel": "induction",
+   "width": "450 mm",
+   "depth": "970 mm",
+   "height": "775 mm",
+   "electricKw": "7 kW",
+   "amps": "10.1 A",
+   "voltage": "400V",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "sharpr21at",
+  "name": "Sharp R21-ATR 1000W Medium Duty Commercial Microwave",
+  "brand": "Sharp",
+  "mpn": "R-21AT",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SHARPR21AT",
+  "known": {
+   "microwaveOutput": "1000 W",
+   "width": "520 mm",
+   "depth": "406 mm",
+   "height": "309 mm",
+   "weight": "18 kg",
+   "electricKw": "1.55 kW",
+   "voltage": "240V",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "abw50a",
+  "name": "Valera ABW50A Drop in Wok Induction Hob",
+  "brand": "Valera",
+  "mpn": "ABW50A",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ABW50A",
+  "known": {
+   "fuel": "induction",
+   "width": "400 mm",
+   "depth": "400 mm",
+   "height": "212 mm",
+   "weight": "15 kg",
+   "electricKw": "5 kW",
+   "amps": "8 A",
+   "voltage": "415V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "cb70a",
+  "name": "Valera CB70A Commercial Drop-In Induction Hob",
+  "brand": "Valera",
+  "mpn": "CB70A",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CB70A",
+  "known": {
+   "fuel": "induction",
+   "zones": "2",
+   "width": "450 mm",
+   "depth": "700 mm",
+   "height": "208 mm",
+   "electricKw": "7 kW",
+   "amps": "30 A",
+   "voltage": "230V",
+   "phase": "single",
+   "hardWired": "true",
+   "warranty": "3 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "mw1200",
+  "name": "Maestrowave MW1200 Medium Duty 1200W Commercial Microwave",
+  "brand": "Maestrowave",
+  "mpn": "MW1200",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MW1200",
+  "known": {
+   "microwaveOutput": "1200 W",
+   "width": "520 mm",
+   "depth": "406 mm",
+   "height": "309 mm",
+   "weight": "18 kg",
+   "electricKw": "1.55 kW",
+   "voltage": "240V",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "sharpr24at",
+  "name": "Sharp R24-ATR 1900W Heavy Duty Commercial Microwave",
+  "brand": "Sharp",
+  "mpn": "R-24AT",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SHARPR24AT",
+  "known": {
+   "microwaveOutput": "1900 W",
+   "width": "510 mm",
+   "depth": "470 mm",
+   "height": "335 mm",
+   "weight": "33 kg",
+   "electricKw": "2.9 kW",
+   "voltage": "240V",
+   "warranty": "3 years"
+  }
+ }
+]

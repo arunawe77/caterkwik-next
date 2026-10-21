@@ -1,0 +1,255 @@
+[
+ {
+  "id": "e3487",
+  "name": "Falcon Dominator Plus E3478 Electric Atmospheric Steamer - 6 x 1/1 GNs",
+  "brand": "Falcon",
+  "mpn": "E3478",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_E3487",
+  "known": {
+   "trays": "6 x 1/1 GNs",
+   "gnCapacity": "6 x 1/1 GN",
+   "humidity": "true",
+   "width": "600 mm",
+   "depth": "850 mm",
+   "height": "1590 mm",
+   "electricKw": "8.6 kW",
+   "voltage": "400V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "1885fb",
+  "name": "Parry 1885FB Electric Wet Heat Bain Marie 3kW",
+  "brand": "Parry",
+  "mpn": "1885FB",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_1885FB",
+  "known": {
+   "gnCapacity": "1 x 1/1 Gastronorm",
+   "heatType": "wet",
+   "wells": "3",
+   "width": "340 mm",
+   "depth": "560 mm",
+   "height": "300 mm",
+   "weight": "12 kg",
+   "electricKw": "3 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "bmf6cg",
+  "name": "Parry BMF6C/G LPG 6 Pot Wet Bain Marie 2.7kW",
+  "brand": "Parry",
+  "mpn": "BMF6C/G",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BMF6CG",
+  "known": {
+   "gnCapacity": "6 x 1/4gn",
+   "heatType": "wet",
+   "wells": "6",
+   "mobility": "true",
+   "width": "840 mm",
+   "depth": "400 mm",
+   "height": "310 mm",
+   "weight": "17 kg",
+   "gasKw": "1.8 kW",
+   "gasConnection": "1/2\" Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel finish"
+  }
+ },
+ {
+  "id": "59651",
+  "name": "Vollrath Mirage Coutertop Induction Hob - 59651",
+  "brand": "Vollrath",
+  "mpn": "59651",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_59651",
+  "known": {
+   "fuel": "induction",
+   "width": "356 mm",
+   "depth": "387 mm",
+   "height": "76 mm",
+   "electricKw": "1.8 kW",
+   "amps": "7.8 A",
+   "voltage": "230V, 50 HZ",
+   "plug": "Plug supplied",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "sli21",
+  "name": "Lincat Silverlink 600 SLI21 2 Plate Induction Hob",
+  "brand": "Lincat",
+  "mpn": "SLI21",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SLI21",
+  "known": {
+   "fuel": "induction",
+   "zones": "2",
+   "width": "450 mm",
+   "depth": "600 mm",
+   "height": "265 mm",
+   "electricKw": "3 kW",
+   "amps": "13 A",
+   "voltage": "230V",
+   "phase": "single",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "hpi426",
+  "name": "Vollrath 4-Series Countertop Induction Hob",
+  "brand": "Vollrath",
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HPI426",
+  "known": {
+   "fuel": "induction",
+   "tilting": "true",
+   "width": "420 mm",
+   "depth": "492 mm",
+   "height": "133 mm",
+   "electricKw": "2.6 kW",
+   "amps": "11.3 A",
+   "voltage": "230v, 50hz",
+   "plug": "Plug Supplied",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "ck71080",
+  "name": "Ozti CK71080 900 Series 100 Litre Electric Indirect Heat Cylindrical Boiling Pan",
+  "brand": "Cater-Cook",
+  "mpn": "7855.N1.80908.04",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK71080",
+  "known": {
+   "volume": "100 litres",
+   "fuel": "electric",
+   "heating": "indirect",
+   "tap": "true",
+   "width": "800 mm",
+   "depth": "900 mm",
+   "height": "850 mm",
+   "weight": "90.6 kg",
+   "electricKw": "18 kW",
+   "amps": "78 A",
+   "voltage": "400V",
+   "phase": "three",
+   "warranty": "2 years",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "e207890",
+  "name": "Falcon Dominator E2078-90 90LTR Electric Boiling Pan",
+  "brand": "Falcon",
+  "mpn": "E2078",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_E207890",
+  "known": {
+   "volume": "90 litres",
+   "fuel": "electric",
+   "tap": "true",
+   "width": "840 mm",
+   "depth": "995 mm",
+   "height": "850 mm",
+   "weight": "122 kg",
+   "electricKw": "11.02 kW",
+   "amps": "33 A",
+   "voltage": "415V",
+   "phase": "three",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "e9781150",
+  "name": "Falcon F900 E9781 Electric Boiling Pan - 150 Litre",
+  "brand": "Falcon",
+  "mpn": "E9781-150",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_E9781150",
+  "known": {
+   "volume": "150 litres",
+   "fuel": "electric",
+   "width": "800 mm",
+   "depth": "900 mm",
+   "height": "900 mm",
+   "weight": "140 kg",
+   "amps": "32 A",
+   "voltage": "400V",
+   "plug": "32A",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "371271",
+  "name": "Electrolux Professional 700XP 60 Litre Gas Direct Boiling Pan - 371271",
+  "brand": "Electrolux",
+  "mpn": "371271",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_371271",
+  "known": {
+   "volume": "60 litres",
+   "fuel": "gas",
+   "heating": "direct",
+   "tilting": "true",
+   "tap": "true",
+   "basket": "3",
+   "width": "800 mm",
+   "depth": "730 mm",
+   "height": "850 mm",
+   "weight": "95 kg",
+   "electricKw": "0.1 kW",
+   "gasKw": "14 kW",
+   "voltage": "230V, 50Hz",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "e3625",
+  "name": "Falcon Dominator Plus E3625 Electric Chargrill",
+  "brand": "Falcon",
+  "mpn": "E3625",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_E3625",
+  "known": {
+   "cookingWidth": "450 mm",
+   "fuel": "electric",
+   "tempRange": "70° - 400°C",
+   "width": "600 mm",
+   "depth": "785 mm",
+   "height": "530 mm",
+   "electricKw": "8.4 kW",
+   "amps": "32 A",
+   "voltage": "400V",
+   "plug": "32A",
+   "hardWired": "true",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "oe8414",
+  "name": "Lincat Opus Electric Counter-top Direct Cook Chargrill - OE8414",
+  "brand": "Lincat",
+  "mpn": "OE8414",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_OE8414",
+  "known": {
+   "cookingWidth": "730 mm",
+   "fuel": "electric",
+   "tempRange": "90°C to 400°C",
+   "width": "900 mm",
+   "depth": "800 mm",
+   "height": "592 mm",
+   "weight": "78.5 kg",
+   "electricKw": "1354 kW",
+   "amps": "22 A",
+   "voltage": "400 V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years"
+  }
+ }
+]

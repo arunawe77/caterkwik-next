@@ -1,0 +1,221 @@
+[
+ {
+  "id": "pf6",
+  "name": "Moffat Bulk Food Hotline Banqueting Trolley PF6",
+  "brand": "Moffat",
+  "mpn": "PF6",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PF6",
+  "known": {
+   "shelves": "2",
+   "mobility": "true",
+   "weight": "70 kg",
+   "electricKw": "0.9 kW",
+   "amps": "13 A",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "pf12",
+  "name": "Moffat Bulk Food Hotline Banqueting Trolley PF12",
+  "brand": "Moffat",
+  "mpn": "PF12",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PF12",
+  "known": {
+   "shelves": "3",
+   "mobility": "true",
+   "weight": "89 kg",
+   "electricKw": "1.9 kW",
+   "amps": "13 A",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "moffatbmhc",
+  "name": "Moffat Bainmarie And Hot Cupboard",
+  "brand": "Moffat",
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MOFFATBMHC",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "mobility": "true",
+   "weight": "65 kg",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "hc3r",
+  "name": "Moffat HC3R Catering Roll Under Hot Cupboard",
+  "brand": "Moffat",
+  "mpn": "HC3R",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HC3R",
+  "known": {
+   "mobility": "true",
+   "weight": "49 kg",
+   "electricKw": "1.5 kW",
+   "amps": "13 A",
+   "voltage": "230v",
+   "plug": "13A moulded plug",
+   "warranty": "2 years",
+   "finish": "silver"
+  }
+ },
+ {
+  "id": "hc4r",
+  "name": "Moffat HC4R Catering Roll Under Hot Cupboard",
+  "brand": "Moffat",
+  "mpn": "HC4R",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HC4R",
+  "known": {
+   "mobility": "true",
+   "weight": "65 kg",
+   "electricKw": "1.5 kW",
+   "amps": "13 A",
+   "voltage": "230v",
+   "plug": "13A moulded plug",
+   "warranty": "2 years",
+   "finish": "silver"
+  }
+ },
+ {
+  "id": "archwaypo6262e",
+  "name": "Archway PO6262E Electric Pizza Oven Single Deck - 4 x 12\"",
+  "brand": "Archway",
+  "mpn": "PO6262E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAYPO6262E",
+  "known": {
+   "decks": "1",
+   "pizzaSize": "12\"",
+   "chamber": "Deck - 4 x 12\"",
+   "maxTemp": "500 °C",
+   "fuel": "electric",
+   "width": "920 mm",
+   "depth": "800 mm",
+   "height": "440 mm",
+   "electricKw": "5 kW",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "archwaypo9262e",
+  "name": "Archway PO9262E Electric Pizza Oven Single Deck - 6 x 12\"",
+  "brand": "Archway",
+  "mpn": "PO9262E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAYPO9262E",
+  "known": {
+   "decks": "1",
+   "pizzaSize": "12\"",
+   "chamber": "Deck - 6 x 12\"",
+   "maxTemp": "500 °C",
+   "fuel": "electric",
+   "width": "1220 mm",
+   "depth": "800 mm",
+   "height": "430 mm",
+   "electricKw": "6 kW",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "archwaypo9292e",
+  "name": "Archway PO9292E Electric Pizza Oven Single Deck - 6 x 12\"",
+  "brand": "Archway",
+  "mpn": "PO9292E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAYPO9292E",
+  "known": {
+   "decks": "1",
+   "pizzaSize": "12\"",
+   "chamber": "Deck - 6 x 12\"",
+   "maxTemp": "500 °C",
+   "fuel": "electric",
+   "width": "1220 mm",
+   "depth": "1120 mm",
+   "height": "440 mm",
+   "electricKw": "8 kW",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "archwaypo6292e",
+  "name": "Archway PO6292E Electric Pizza Oven Single Deck - 6 x 12\"",
+  "brand": "Archway",
+  "mpn": "PO6292E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAYPO6292E",
+  "known": {
+   "decks": "1",
+   "pizzaSize": "12\"",
+   "chamber": "Deck - 6 x 12\"",
+   "maxTemp": "500 °C",
+   "fuel": "electric",
+   "width": "920 mm",
+   "depth": "1120 mm",
+   "height": "440 mm",
+   "electricKw": "6 kW",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "archwaypo5050e",
+  "name": "Archway PO5050E Electric Pizza Oven Single Deck - 4 x 10\"",
+  "brand": "Archway",
+  "mpn": "PO5050E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAYPO5050E",
+  "known": {
+   "decks": "1",
+   "pizzaSize": "10\"",
+   "chamber": "Deck - 4 x 10\"",
+   "maxTemp": "500 °C",
+   "fuel": "electric",
+   "width": "800 mm",
+   "depth": "720 mm",
+   "height": "390 mm",
+   "electricKw": "4 kW",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "archwaypo9262de",
+  "name": "Archway PO9262DE Electric Pizza Oven Double Deck - 6 x 6 12\"",
+  "brand": "Archway",
+  "mpn": "PO9262DE",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAYPO9262DE",
+  "known": {
+   "decks": "2",
+   "pizzaSize": "12\"",
+   "chamber": "Deck - 6 x 6 12\"",
+   "maxTemp": "500 °C",
+   "fuel": "electric",
+   "width": "1220 mm",
+   "depth": "800 mm",
+   "height": "7060 mm",
+   "electricKw": "12 kW",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "archwaypo9292de",
+  "name": "Archway PO9292DE Electric Pizza Oven Double Deck - 6 x 6 12\"",
+  "brand": "Archway",
+  "mpn": "PO9292DE",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAYPO9292DE",
+  "known": {
+   "decks": "2",
+   "pizzaSize": "12\"",
+   "chamber": "Deck - 6 x 6 12\"",
+   "maxTemp": "500 °C",
+   "fuel": "electric",
+   "width": "1220 mm",
+   "depth": "1120 mm",
+   "height": "760 mm",
+   "electricKw": "16 kW",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ }
+]

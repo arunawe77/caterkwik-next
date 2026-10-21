@@ -1,0 +1,246 @@
+[
+ {
+  "id": "arrb36",
+  "name": "American Range ARRB36A 36\" Heavy Duty Gas Radiant Chargrill",
+  "brand": "American Range",
+  "mpn": "ARRB36A",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARRB36",
+  "known": {
+   "plate": "chrome",
+   "fuel": "gas",
+   "radiant": "radiant",
+   "splashback": "true",
+   "width": "915 mm",
+   "depth": "830 mm",
+   "height": "320 mm",
+   "weight": "63 kg",
+   "electricKw": "26.4 kW",
+   "gasKw": "26.4 kW",
+   "gasConnection": "6\" Heavy Duty Gas Radiant Chargrill",
+   "warranty": "2 years",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "rmb660",
+  "name": "Magikitch'n 60\" Inch Countertop Gas Chargrill - RMB-660",
+  "brand": "MagiKitchn",
+  "mpn": "RMB-660",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_RMB660",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "gas",
+   "radiant": "radiant",
+   "width": "1520 mm",
+   "depth": "801 mm",
+   "height": "592 mm",
+   "weight": "256 kg",
+   "gasKw": "57.2 kW",
+   "gasConnection": "0\" Inch Countertop Gas Chargrill - RMB-660",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "dc331n",
+  "name": "Buffalo DC331-N Countertop Gas Chargrill",
+  "brand": "Buffalo",
+  "mpn": "DC331-N",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DC331N",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "gas",
+   "radiant": "radiant",
+   "width": "610 mm",
+   "depth": "730 mm",
+   "height": "372 mm",
+   "weight": "64 kg",
+   "gasConnection": "3/4\" gas hose required",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "ret52515",
+  "name": "RET52515 - Hobart Chef's Combi 10 1/1GN Grid Electric Combi Oven - HICS101E",
+  "brand": null,
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_RET52515",
+  "known": {
+   "gnCapacity": "10 x 1/1GN",
+   "autoClean": "true",
+   "waterConnection": "Water connection: ¾\"",
+   "connectivity": "WI-FI",
+   "width": "852 mm",
+   "depth": "826 mm",
+   "height": "1076 mm",
+   "weight": "155 kg",
+   "electricKw": "18.2 kW",
+   "amps": "32 A",
+   "voltage": "400V, 50Hz",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "hcscme6",
+  "name": "Chefmate by Hobart - 6 Grid Electric Combi Oven - CME6",
+  "brand": "Hobart",
+  "mpn": "CME6",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HCSCME6",
+  "known": {
+   "trayPitch": "70 mm",
+   "programs": "100",
+   "autoClean": "true",
+   "waterConnection": "water pressures you have",
+   "probe": "true",
+   "connectivity": "USB",
+   "width": "890 mm",
+   "depth": "790 mm",
+   "height": "720 mm",
+   "weight": "120 kg",
+   "electricKw": "6 kW",
+   "voltage": "400V"
+  }
+ },
+ {
+  "id": "hcscmfe6",
+  "name": "Chefmate by Hobart - 6 Grid Full Touch Electric Combi Oven CMFE6",
+  "brand": "Hobart",
+  "mpn": "CMFE6",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HCSCMFE6",
+  "known": {
+   "trayPitch": "70 mm",
+   "programs": "100",
+   "autoClean": "true",
+   "waterConnection": "water pressures you have",
+   "probe": "true",
+   "connectivity": "USB",
+   "width": "890 mm",
+   "depth": "790 mm",
+   "height": "720 mm",
+   "weight": "120 kg",
+   "electricKw": "9.5 kW",
+   "voltage": "400V"
+  }
+ },
+ {
+  "id": "e3405",
+  "name": "Falcon Dominator Plus E3405 Electric Chip Scuttle",
+  "brand": "Falcon",
+  "mpn": "E3405",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_E3405",
+  "known": {
+   "fuel": "electric",
+   "width": "400 mm",
+   "depth": "770 mm",
+   "height": "455 mm",
+   "amps": "13 A",
+   "voltage": "230V",
+   "plug": "13A - Supplied with cable and plug",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "mefl8sat",
+  "name": "Mercury 8 Litre Single Tank Countertop Electric Fryer",
+  "brand": "Mercury",
+  "mpn": "MEF-L8-SAT",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MEFL8SAT",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "8 litres",
+   "fuel": "electric",
+   "drainValve": "Oil Drain Valve",
+   "computerControl": "digital",
+   "width": "280 mm",
+   "depth": "510 mm",
+   "height": "440 mm",
+   "electricKw": "2.9 kW",
+   "voltage": "240V",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "eco4",
+  "name": "FriFri Eco 4 4 Litre Single Tank Electric Counter Top Fryer",
+  "brand": "FriFri",
+  "mpn": "Eco4",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ECO4",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "4 litres",
+   "fuel": "electric",
+   "thermostat": "100-190 °C",
+   "computerControl": "thermostatic control",
+   "width": "167 mm",
+   "depth": "375 mm",
+   "height": "295 mm",
+   "electricKw": "2.3 kW",
+   "voltage": "230V",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "mefl8dat",
+  "name": "Mercury 2 x 8 Litre Twin Tank Countertop Electric Fryer",
+  "brand": "Mercury",
+  "mpn": "MEF-L8-DAT",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MEFL8DAT",
+  "known": {
+   "tanks": "2",
+   "oilCapacity": "8 litres",
+   "fuel": "electric",
+   "drainValve": "Oil Drain Valve",
+   "computerControl": "digital",
+   "width": "560 mm",
+   "depth": "510 mm",
+   "height": "440 mm",
+   "electricKw": "2.9 kW",
+   "voltage": "240V",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "eco44",
+  "name": "FriFri Eco 4+4 Litre Twin Tank Electric Counter Top Fryer",
+  "brand": "FriFri",
+  "mpn": "Eco 4+4",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ECO44",
+  "known": {
+   "tanks": "2",
+   "oilCapacity": "4 litres",
+   "fuel": "electric",
+   "thermostat": "100-190 °C",
+   "computerControl": "thermostatic control",
+   "width": "348 mm",
+   "depth": "375 mm",
+   "height": "295 mm",
+   "electricKw": "2.3 kW",
+   "voltage": "230V",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "eco66",
+  "name": "FriFri Eco 6+6 Twin Tank Counter Top Electric Fryer",
+  "brand": "FriFri",
+  "mpn": "Eco 6+6",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ECO66",
+  "known": {
+   "tanks": "2",
+   "oilCapacity": "6 litres",
+   "fuel": "electric",
+   "thermostat": "100-190 °C",
+   "computerControl": "thermostatic control",
+   "width": "450 mm",
+   "depth": "375 mm",
+   "height": "295 mm",
+   "electricKw": "3.2 kW",
+   "voltage": "230V",
+   "warranty": "2 years"
+  }
+ }
+]

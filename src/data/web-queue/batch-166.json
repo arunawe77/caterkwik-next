@@ -1,0 +1,233 @@
+[
+ {
+  "id": "fb861",
+  "name": "Buffalo FB861 Manual Commercial Microwave Oven 25ltr 1000W",
+  "brand": "Buffalo",
+  "mpn": "FB861",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FB861",
+  "known": {
+   "timer": "Timer up to 6 minutes",
+   "width": "511 mm",
+   "depth": "432 mm",
+   "height": "311 mm",
+   "weight": "14.7 kg",
+   "electricKw": "1.55 kW",
+   "voltage": "240V",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "bcm1000",
+  "name": "Blizzard BCM1000 1000W Light Duty Commercial Microwave",
+  "brand": "Blizzard",
+  "mpn": "BCM1000",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BCM1000",
+  "known": {
+   "programs": "10",
+   "width": "511 mm",
+   "depth": "398 mm",
+   "height": "311 mm",
+   "weight": "16.5 kg",
+   "electricKw": "1 kW",
+   "amps": "13 A",
+   "warranty": "1 year",
+   "finish": "Stainless Steel Construction"
+  }
+ },
+ {
+  "id": "vmc1000",
+  "name": "Valera VMC1000 25 litre 1000W Light Duty Microwave",
+  "brand": "Valera",
+  "mpn": "VMC 1000",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_VMC1000",
+  "known": {
+   "programs": "10",
+   "microwaveOutput": "1000 W",
+   "width": "511 mm",
+   "depth": "346 mm",
+   "height": "200 mm",
+   "weight": "16.5 kg",
+   "electricKw": "1.5 kW",
+   "warranty": "3 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "cb35a",
+  "name": "Valera CB35A Commercial Drop-In Induction Hob",
+  "brand": "Valera",
+  "mpn": "CB35A",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CB35A",
+  "known": {
+   "fuel": "induction",
+   "width": "385 mm",
+   "depth": "385 mm",
+   "height": "178 mm",
+   "electricKw": "3.5 kW",
+   "amps": "20 A",
+   "voltage": "230V",
+   "phase": "single",
+   "hardWired": "true",
+   "warranty": "3 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "fb863",
+  "name": "Buffalo FB863 Manual Commercial Microwave Oven 34ltr 1800W",
+  "brand": "Buffalo",
+  "mpn": "FB863",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FB863",
+  "known": {
+   "timer": "Timer for up to 6 minutes",
+   "microwaveOutput": "1800 W",
+   "width": "528 mm",
+   "depth": "574 mm",
+   "height": "368 mm",
+   "weight": "32.3 kg",
+   "electricKw": "3 kW",
+   "voltage": "240V",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "vmc1880",
+  "name": "Valera VMC 1880 High Capacity 1800W Microwave",
+  "brand": "Valera",
+  "mpn": "VMC1880",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_VMC1880",
+  "known": {
+   "programs": "100",
+   "microwaveOutput": "1800 W",
+   "width": "574 mm",
+   "depth": "528 mm",
+   "height": "367 mm",
+   "weight": "34.3 kg",
+   "electricKw": "3 kW",
+   "warranty": "3 years",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "ims1800s",
+  "name": "Falcon Vario-Therm ScanHeat™ IMS-1800S Microwave - 18Ltr Capacity",
+  "brand": "Falcon",
+  "mpn": "IMS-1800S",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_IMS1800S",
+  "known": {
+   "width": "420 mm",
+   "depth": "565 mm",
+   "height": "339 mm",
+   "weight": "30 kg",
+   "electricKw": "3 kW",
+   "amps": "13 A",
+   "voltage": "230V, 50Hz",
+   "phase": "single",
+   "plug": "13A - Plug",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "680131",
+  "name": "FriFri Super Easy Pasta 311 Free Standing Pasta Cooker - 7.5kW",
+  "brand": "Fri Fri",
+  "mpn": "680131",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_680131",
+  "known": {
+   "volume": "3 litres",
+   "fuel": "electric",
+   "tilting": "true",
+   "width": "298 mm",
+   "depth": "650 mm",
+   "height": "993 mm",
+   "electricKw": "7.5 kW",
+   "amps": "16 A",
+   "voltage": "400V",
+   "plug": "16A Supply",
+   "hardWired": "true",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "vmcn3",
+  "name": "Valentine Multi Cookers (Noodle) VMCN3, VMCNT3.",
+  "brand": "Valentine",
+  "mpn": "VMCN3",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_VMCN3",
+  "known": {
+   "volume": "40 litres",
+   "tap": "true",
+   "width": "350 mm",
+   "depth": "550 mm",
+   "height": "850 mm",
+   "electricKw": "7.1 kW",
+   "amps": "30 A",
+   "phase": "three",
+   "warranty": "3 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "italgiturandotauto",
+  "name": "Italgi Turandot Automatic Pasta or Noodle Station",
+  "brand": "TURANDOT AUTO",
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ITALGITURANDOTAUTO",
+  "known": {
+   "fuel": "induction",
+   "heating": "bain marie",
+   "width": "1610 mm",
+   "depth": "800 mm",
+   "height": "900 mm",
+   "electricKw": "14.6 kW",
+   "voltage": "415V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "690132",
+  "name": "FriFri Super Easy Pasta 311 Built-In Pasta Cooker - 7.5kW",
+  "brand": "FriFri",
+  "mpn": "690132",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_690132",
+  "known": {
+   "volume": "3 litres",
+   "fuel": "electric",
+   "tilting": "true",
+   "width": "298 mm",
+   "depth": "630 mm",
+   "height": "768 mm",
+   "electricKw": "7.5 kW",
+   "amps": "16 A",
+   "voltage": "400V",
+   "plug": "16A Supply",
+   "hardWired": "true",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "augusto6",
+  "name": "Zanolli Augusto 6 Dome Pizza Oven",
+  "brand": "Zanolli",
+  "mpn": "Dome6",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_AUGUSTO6",
+  "known": {
+   "pizzaSize": "12\" pizzas",
+   "maxTemp": "500 °C",
+   "fuel": "electric",
+   "width": "1620 mm",
+   "depth": "2160 mm",
+   "height": "1800 mm",
+   "weight": "455 kg",
+   "electricKw": "14.4 kW",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years"
+  }
+ }
+]

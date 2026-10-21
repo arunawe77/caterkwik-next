@@ -1,0 +1,246 @@
+[
+ {
+  "id": "g516d",
+  "name": "Blue Seal G516D 6 Burner Cooktop - Natural Gas",
+  "brand": "Blue Seal",
+  "mpn": "G516D - NAT GAS",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G516D",
+  "known": {
+   "fuel": "gas",
+   "width": "900 mm",
+   "depth": "812 mm",
+   "height": "315 mm",
+   "electricKw": "7 kW",
+   "gasKw": "42 kW",
+   "amps": "1.8 A",
+   "voltage": "240V",
+   "plug": "13A plug",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel finish"
+  }
+ },
+ {
+  "id": "g516c",
+  "name": "Blue Seal G516C 4 Burner/300mm Griddle Cooktop - Natural Gas",
+  "brand": "Blue Seal",
+  "mpn": "G516C - NAT GAS",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G516C",
+  "known": {
+   "fuel": "gas",
+   "width": "900 mm",
+   "depth": "812 mm",
+   "height": "315 mm",
+   "electricKw": "7 kW",
+   "gasKw": "34 kW",
+   "amps": "1.8 A",
+   "voltage": "240V",
+   "plug": "13A plug",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel finish"
+  }
+ },
+ {
+  "id": "g516b",
+  "name": "Blue Seal G516B 2 Burner/600mm Griddle Cooktop - Natural Gas",
+  "brand": "Blue Seal",
+  "mpn": "G516B - NAT GAS",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G516B",
+  "known": {
+   "fuel": "gas",
+   "width": "900 mm",
+   "depth": "812 mm",
+   "height": "315 mm",
+   "electricKw": "7 kW",
+   "gasKw": "26 kW",
+   "amps": "1.8 A",
+   "voltage": "240V",
+   "plug": "13A plug",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel finish"
+  }
+ },
+ {
+  "id": "g518d",
+  "name": "Blue Seal G518D 8 Burner Cooktop - Natural Gas",
+  "brand": "Blue Seal",
+  "mpn": "G518D - NAT GAS",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G518D",
+  "known": {
+   "fuel": "gas",
+   "width": "1200 mm",
+   "depth": "812 mm",
+   "height": "315 mm",
+   "electricKw": "7 kW",
+   "gasKw": "56 kW",
+   "amps": "1.8 A",
+   "voltage": "240V",
+   "plug": "13A plug",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "1 year",
+   "finish": "Stainless steel exterior"
+  }
+ },
+ {
+  "id": "g518c",
+  "name": "Blue Seal G518C 6 Burner/300mm Griddle Cooktop - Natural Gas",
+  "brand": "Blue Seal",
+  "mpn": "G518C",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G518C",
+  "known": {
+   "fuel": "gas",
+   "width": "1200 mm",
+   "depth": "812 mm",
+   "height": "315 mm",
+   "electricKw": "7 kW",
+   "gasKw": "48 kW",
+   "amps": "1.8 A",
+   "voltage": "240V",
+   "plug": "13A plug",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "Stainless steel exterior"
+  }
+ },
+ {
+  "id": "g518a",
+  "name": "Blue Seal G518A-B 900mm Griddle Cooktop - Bench Model",
+  "brand": "Blue Seal",
+  "mpn": "G518A-B",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G518A",
+  "known": {
+   "fuel": "gas",
+   "width": "1200 mm",
+   "depth": "812 mm",
+   "height": "485 mm",
+   "electricKw": "7 kW",
+   "gasKw": "24 kW",
+   "amps": "1.8 A",
+   "voltage": "240V",
+   "plug": "13A plug",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "Stainless steel exterior"
+  }
+ },
+ {
+  "id": "g514b",
+  "name": "Blue Seal G514B-B 600mm Gas Griddle Cooktop - Bench Model",
+  "brand": "Blue Seal",
+  "mpn": "G514B",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G514B",
+  "known": {
+   "cookingWidth": "300 mm",
+   "plate": "smooth",
+   "fuel": "gas",
+   "splashback": "true",
+   "width": "600 mm",
+   "depth": "812 mm",
+   "height": "315 mm",
+   "electricKw": "7 kW",
+   "gasKw": "12 kW",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "g91b",
+  "name": "Blue Seal G91-B Gas Salamander Grill",
+  "brand": "Blue Seal",
+  "mpn": "G91-B",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G91B",
+  "known": {
+   "cookingWidth": "610 mm",
+   "plate": "chrome",
+   "fuel": "gas",
+   "radiant": "infrared",
+   "width": "900 mm",
+   "weight": "42 kg",
+   "electricKw": "4.4 kW",
+   "gasKw": "4.4 kW",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "og8302",
+  "name": "Lincat Opus 800 OG8302 Gas Salamander Grill",
+  "brand": "Lincat",
+  "mpn": "OG8302",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_OG8302",
+  "known": {
+   "fuel": "gas",
+   "radiant": "ceramic",
+   "width": "900 mm",
+   "depth": "530 mm",
+   "height": "495 mm",
+   "electricKw": "8.7 kW",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "icma36",
+  "name": "Imperial Pro-Series IRCM-36 2 Burner Infared Cheese Melter Grill",
+  "brand": "Imperial",
+  "mpn": "ICRM-36",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ICMA36",
+  "known": {
+   "plate": "chrome",
+   "fuel": "gas",
+   "burners": "2",
+   "radiant": "infrared",
+   "width": "915 mm",
+   "depth": "451 mm",
+   "height": "483 mm",
+   "weight": "75 kg",
+   "electricKw": "10 kW",
+   "gasKw": "10 kW",
+   "warranty": "1 year",
+   "finish": "Chrome"
+  }
+ },
+ {
+  "id": "fale600",
+  "name": "Falcon F900 - E600 Rise and Fall Grill",
+  "brand": "Falcon",
+  "mpn": "F900",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FALE600",
+  "known": {
+   "radiant": "infra-red",
+   "width": "570 mm",
+   "depth": "580 mm",
+   "height": "520 mm",
+   "electricKw": "4.5 kW",
+   "amps": "32 A",
+   "voltage": "400V",
+   "phase": "three",
+   "plug": "32A three phase",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "pg7",
+  "name": "Parry PG7 Double Electric Griddle",
+  "brand": "Parry",
+  "mpn": "NPG7",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PG7",
+  "known": {
+   "plate": "mild steel",
+   "fuel": "electric",
+   "thermostat": "true",
+   "tempRange": "50 - 300°C",
+   "width": "750 mm",
+   "depth": "600 mm",
+   "height": "355 mm",
+   "weight": "58 kg",
+   "electricKw": "3 kW",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ }
+]

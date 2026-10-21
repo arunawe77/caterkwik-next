@@ -1,0 +1,231 @@
+[
+ {
+  "id": "grb",
+  "name": "Hatco GR-B Glo-Ray Portable Foodwarmer with Metal Sheathed Elements",
+  "brand": "Hatco",
+  "mpn": "GRB",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GRB",
+  "known": {
+   "bulbs": "Halogen Bulb",
+   "width": "324 mm",
+   "depth": "559 mm",
+   "height": "57 mm",
+   "weight": "7 kg",
+   "voltage": "240 V",
+   "phase": "single",
+   "warranty": "2 years",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "ht760",
+  "name": "Buffalo HT760 Food Warmer with Gantry 2x GN 1/1",
+  "brand": "Buffalo",
+  "mpn": "HT760",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HT760",
+  "known": {
+   "gnCapacity": "1/1gn",
+   "tempRange": "35° to 85°C",
+   "bulbs": "infrared bulbs",
+   "width": "699 mm",
+   "depth": "501 mm",
+   "height": "567 mm",
+   "weight": "11.8 kg",
+   "electricKw": "1 kW",
+   "amps": "4.3 A",
+   "voltage": "240V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ht761",
+  "name": "Buffalo HT761 Food Warmer with Gantry 3x GN 1/1",
+  "brand": "Buffalo",
+  "mpn": "HT761",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HT761",
+  "known": {
+   "gnCapacity": "1/1gn",
+   "tempRange": "35° to 85°C",
+   "bulbs": "infrared bulbs",
+   "width": "1036 mm",
+   "depth": "501 mm",
+   "height": "567 mm",
+   "weight": "16.3 kg",
+   "electricKw": "1.5 kW",
+   "amps": "6.5 A",
+   "voltage": "240V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "dcsb40036242",
+  "name": "Hatco DCSB400-3624-2 Decorative Carving Station",
+  "brand": "Hatco",
+  "mpn": "DCSB400-3624-2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DCSB40036242",
+  "known": {
+   "bulbs": "Heat Lamp with the Swanstone® Heated Ba",
+   "width": "914 mm",
+   "weight": "54 kg",
+   "electricKw": "1.05 kW",
+   "voltage": "230V",
+   "phase": "single",
+   "plug": "plug supplied",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "ck2640",
+  "name": "Cater-Cook Electric Heated Pie Cabinet - CK2640. Approx 50 pies.",
+  "brand": "Cater-Cook",
+  "mpn": "CK2640",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK2640",
+  "known": {
+   "shelves": "4",
+   "tempRange": "30°C to 80°C",
+   "width": "640 mm",
+   "depth": "360 mm",
+   "height": "530 mm",
+   "weight": "23 kg",
+   "electricKw": "1.5 kW",
+   "voltage": "240V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "spc",
+  "name": "Parry SPCD Digital Electric Heated Small Pie Cabinet",
+  "brand": "Parry",
+  "mpn": "SPCD",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SPC",
+  "known": {
+   "width": "400 mm",
+   "depth": "360 mm",
+   "height": "455 mm",
+   "weight": "14.5 kg",
+   "electricKw": "0.28 kW",
+   "amps": "11 A",
+   "voltage": "240V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "hw922",
+  "name": "Buffalo HW922 Freestanding Heated Multideck",
+  "brand": "Buffalo",
+  "mpn": "HW922",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HW922",
+  "known": {
+   "volume": "200 litres",
+   "mobility": "true",
+   "width": "1000 mm",
+   "depth": "592 mm",
+   "height": "1253 mm",
+   "weight": "95.5 kg",
+   "electricKw": "2 kW",
+   "amps": "8.9 A",
+   "voltage": "240V",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "zenith5",
+  "name": "Fir Tree Zenith 5 Stainless Steel Foldable Propane Gas Barbecue - 5 Burners",
+  "brand": "Fir Tree",
+  "mpn": "Zenith 5",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ZENITH5",
+  "known": {
+   "cookingWidth": "1000 mm",
+   "fuel": "gas",
+   "burners": "5",
+   "width": "1000 mm",
+   "depth": "480 mm",
+   "height": "830 mm",
+   "weight": "48 kg",
+   "electricKw": "25 kW",
+   "warranty": "1 year",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "oe8011",
+  "name": "Lincat Opus 800 OE8011 6 Hot plate Electric Boiling Top",
+  "brand": "Lincat",
+  "mpn": "DM512",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_OE8011",
+  "known": {
+   "fuel": "electric",
+   "width": "900 mm",
+   "weight": "70 kg",
+   "electricKw": "15.6 kW",
+   "voltage": "400V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "sirmancrepe",
+  "name": "Sirman Crepe Maker",
+  "brand": "Sirman",
+  "mpn": "Crepe",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SIRMANCREPE",
+  "known": {
+   "thermostat": "Thermostat control",
+   "width": "350 mm",
+   "depth": "350 mm",
+   "height": "135 mm",
+   "weight": "10.5 kg",
+   "electricKw": "2 kW",
+   "amps": "13 A",
+   "voltage": "240V, 50HZ",
+   "plug": "Plug supplied",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "400ed",
+  "name": "Roller Grill 400 CDE Double Plate Electric Crepe Machine",
+  "brand": "Roller Grill",
+  "mpn": "400 CDE",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_400ED",
+  "known": {
+   "fuel": "electric",
+   "thermostat": "Thermostat controlled",
+   "width": "860 mm",
+   "depth": "500 mm",
+   "height": "240 mm",
+   "weight": "44 kg",
+   "electricKw": "3 kW",
+   "hardWired": "true",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "buffalocc39",
+  "name": "Buffalo CC039 Electric Crepe Machine",
+  "brand": "Buffalo",
+  "mpn": "CC039",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BUFFALOCC39",
+  "known": {
+   "fuel": "electric",
+   "thermostat": "60 - 300°C",
+   "width": "550 mm",
+   "depth": "456 mm",
+   "height": "140 mm",
+   "weight": "15.7 kg",
+   "electricKw": "2.9 kW",
+   "amps": "12.6 A",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ }
+]

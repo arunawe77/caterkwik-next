@@ -1,0 +1,245 @@
+[
+ {
+  "id": "rbe12",
+  "name": "RBE120Q",
+  "brand": "Roller Grill",
+  "mpn": "RBE120Q",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "electric",
+   "ignition": "pilot",
+   "castors": "castors",
+   "width": "940 mm",
+   "depth": "450 mm",
+   "height": "845 mm",
+   "weight": "40 kg",
+   "electricKw": "6.6 kW",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "rbe20",
+  "name": "RBE20",
+  "brand": "Roller Grill",
+  "mpn": "RBE20",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "electric",
+   "ignition": "pilot",
+   "width": "940 mm",
+   "depth": "445 mm",
+   "height": "1250 mm",
+   "weight": "72 kg",
+   "electricKw": "11 kW",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "dr140",
+  "name": "DR140",
+  "brand": "AS Term",
+  "mpn": "DR140",
+  "caterkwikUrl": null,
+  "known": {
+   "pizzaSize": "12\"",
+   "fuel": "wood",
+   "width": "2250 mm",
+   "depth": "2160 mm",
+   "height": "1880 mm",
+   "weight": "2100 kg",
+   "electricKw": "40 kW",
+   "voltage": "230V",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "og8001",
+  "name": "OG8001",
+  "brand": "Lincat",
+  "mpn": "OG8001",
+  "caterkwikUrl": null,
+  "known": {
+   "burners": "4",
+   "fuel": "gas",
+   "ignition": "flame failure",
+   "width": "600 mm",
+   "depth": "800 mm",
+   "height": "900 mm",
+   "electricKw": "6.8 kW",
+   "gasKw": "36.8 kW",
+   "gasConnection": "1/2 Inch Gas Hose Required",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "imperialir10",
+  "name": "IR10",
+  "brand": "Imperial",
+  "mpn": "IR10",
+  "caterkwikUrl": null,
+  "known": {
+   "burners": "10",
+   "fuel": "gas",
+   "ovenSize": "W1346 x D660 x H356mm",
+   "ovenType": "convection",
+   "griddle": "GRIDDLES AND RAISED GRIDDLE BROILERS",
+   "ignition": "pilot",
+   "castors": "legs",
+   "width": "1524 mm",
+   "depth": "660 mm",
+   "height": "356 mm",
+   "gasKw": "103 kW",
+   "voltage": "120V",
+   "warranty": "1 year",
+   "finish": "stainless steel exterior"
+  }
+ },
+ {
+  "id": "blueseale27m3",
+  "name": "E27M3",
+  "brand": "Blue Seal",
+  "mpn": "E27M3",
+  "caterkwikUrl": null,
+  "known": {
+   "trays": "6 tray runners suitable for up",
+   "tempRange": "50 - 260°C",
+   "door": "drop down door",
+   "timer": "timer with time up alarm",
+   "width": "810 mm",
+   "depth": "762 mm",
+   "height": "607 mm",
+   "weight": "61.9 kg",
+   "electricKw": "4.7 kW",
+   "amps": "19.6 A",
+   "voltage": "240V, 50Hz",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "blueseale28m4",
+  "name": "E28M4",
+  "brand": "Blue Seal",
+  "mpn": "E28M4",
+  "caterkwikUrl": null,
+  "known": {
+   "trays": "6 tray runners suitable for up",
+   "tempRange": "50-260°C",
+   "door": "drop down door",
+   "timer": "timer with time up alarm",
+   "width": "810 mm",
+   "depth": "762 mm",
+   "height": "662 mm",
+   "weight": "69.5 kg",
+   "electricKw": "5.8 kW",
+   "amps": "25 A",
+   "voltage": "240V",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "ck0303",
+  "name": "CK0303",
+  "brand": "Cater-Cook",
+  "mpn": "CK0303",
+  "caterkwikUrl": null,
+  "known": {
+   "door": "drop down door",
+   "timer": "timer - 0 to 285 °C",
+   "width": "585 mm",
+   "depth": "572 mm",
+   "height": "550 mm",
+   "weight": "25 kg",
+   "electricKw": "2.5 kW",
+   "amps": "13 A",
+   "voltage": "240V 50Hz",
+   "plug": "Plug Supplied",
+   "warranty": "1 year",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "h8duc",
+  "name": "H8D-UC",
+  "brand": "Blue Seal",
+  "mpn": "H8D-UC",
+  "caterkwikUrl": null,
+  "known": {
+   "trays": "1 Tray",
+   "gnCapacity": "1/1 GN",
+   "timer": "timer controls",
+   "weight": "65 kg",
+   "electricKw": "1.2 kW",
+   "voltage": "240V",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "v74",
+  "name": "V7/4",
+  "brand": "Lincat",
+  "mpn": "V7/4",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "electric",
+   "width": "750 mm",
+   "depth": "600 mm",
+   "height": "650 mm",
+   "weight": "71 kg",
+   "electricKw": "4 kW",
+   "amps": "16 A",
+   "voltage": "230V",
+   "plug": "16A",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "eslr6c",
+  "name": "ESLR6C",
+  "brand": "Lincat",
+  "mpn": "ESLR6C",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "electric",
+   "zones": "4",
+   "width": "600 mm",
+   "depth": "670 mm",
+   "height": "932 mm",
+   "weight": "64 kg",
+   "electricKw": "11 kW",
+   "amps": "17.4 A",
+   "voltage": "400V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "gastandoor",
+  "name": "Size 1",
+  "brand": "Gas Shahi Tandoori Oven",
+  "mpn": "Size 1",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "gas",
+   "castors": "castors",
+   "width": "600 mm",
+   "depth": "700 mm",
+   "height": "920 mm",
+   "gasKw": "10 kW",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ }
+]

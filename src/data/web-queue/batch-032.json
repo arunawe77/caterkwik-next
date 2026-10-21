@@ -1,0 +1,124 @@
+[
+ {
+  "id": "dn893",
+  "name": "DN893 De Buyer Chocinduction Non Stick Cast Aluminium Fry Pan 320mm",
+  "brand": "De Buyer",
+  "mpn": "DN893",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DN893",
+  "known": {
+   "fuel": "induction",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "dn892",
+  "name": "DN892 De Buyer Chocinduction Non Stick Cast Aluminium Fry Pan 280mm",
+  "brand": "De Buyer",
+  "mpn": "DN892",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DN892",
+  "known": {
+   "fuel": "induction",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "wdpp1236",
+  "name": "TG - Wooden Pizza Peel 305mm x 356mm / 12\" x 14\" Blade, 914mm / 36\" Overall",
+  "brand": "Thunder Group",
+  "mpn": "WDPP1236",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_WDPP1236",
+  "known": {
+   "pizzaSize": "12\""
+  }
+ },
+ {
+  "id": "wdpp1436",
+  "name": "TG - Wooden Pizza Peel 356mm x 406mm / 14\" x 16\" Blade, 914mm / 36\" Overall",
+  "brand": "Thunder Group",
+  "mpn": "WDPP1436",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_WDPP1436",
+  "known": {
+   "pizzaSize": "14\""
+  }
+ },
+ {
+  "id": "alwdpp3512",
+  "name": "TG - 12\" x 14\" x 35\" Aluminium Pizza Peel",
+  "brand": "Thunder Group",
+  "mpn": "ALWDPP3512",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ALWDPP3512",
+  "known": {
+   "pizzaSize": "12\""
+  }
+ },
+ {
+  "id": "wdpp1642",
+  "name": "TG - Wooden Pizza Peel 16\" x 18\"(406mm x 457mm) Blade, 42\"(1067mm) Overall",
+  "brand": "Thunder Group",
+  "mpn": "WDPP1642",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_WDPP1642",
+  "known": {
+   "pizzaSize": "16\""
+  }
+ },
+ {
+  "id": "wdpp1442",
+  "name": "TG - Wooden 14\" (356mm) X 16\" (406mm) Blade Pizza Peel 42\" (1067mm)",
+  "brand": "Thunder Group",
+  "mpn": "WDPP1442",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_WDPP1442",
+  "known": {
+   "pizzaSize": "14\""
+  }
+ },
+ {
+  "id": "wdpp1842",
+  "name": "Wooden 18\" X 18\" / 457mm X 457mm Blade Pizza Peel 42\" 1067mm Overall",
+  "brand": "Thunder Group",
+  "mpn": "WDPP1842",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_WDPP1842",
+  "known": {
+   "pizzaSize": "18\""
+  }
+ },
+ {
+  "id": "f036",
+  "name": "F036 Pizza Peel Medium",
+  "brand": "Vogue",
+  "mpn": "F036",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_F036",
+  "known": {
+   "pizzaSize": "36\""
+  }
+ },
+ {
+  "id": "alpz08",
+  "name": "TG - 8\" 203mm Seamless Rim Pizza Screen",
+  "brand": "Thunder Group",
+  "mpn": "ALPZ08",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ALPZ08",
+  "known": {
+   "pizzaSize": "8\""
+  }
+ },
+ {
+  "id": "alpz09",
+  "name": "TG - 9\" 229mm Seamless Rim Pizza Screen",
+  "brand": "Thunder Group",
+  "mpn": "ALPZ09",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ALPZ09",
+  "known": {
+   "pizzaSize": "9\""
+  }
+ },
+ {
+  "id": "alpz10",
+  "name": "TG - 10\" 254mm Seamless Rim Pizza Screen",
+  "brand": "Thunder Group",
+  "mpn": "ALPZ10",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ALPZ10",
+  "known": {
+   "pizzaSize": "10\""
+  }
+ }
+]

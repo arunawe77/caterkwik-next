@@ -1,0 +1,246 @@
+[
+ {
+  "id": "ccsu2",
+  "name": "Parry CCSU2 Electric Carvery Servery",
+  "brand": "Parry",
+  "mpn": "CCSU2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CCSU2",
+  "known": {
+   "gnCapacity": "2 x 2/3 Gastronorm",
+   "volume": "5.75 litres",
+   "bulbs": "Heat Lamp: 2 x 250W",
+   "width": "1040 mm",
+   "depth": "465 mm",
+   "height": "850 mm",
+   "weight": "24 kg",
+   "electricKw": "1.3 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "silver"
+  }
+ },
+ {
+  "id": "lpwlr",
+  "name": "Lincat LPW/LR Pie Cabinet",
+  "brand": "Lincat",
+  "mpn": "LPW/LR",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LPWLR",
+  "known": {
+   "width": "710 mm",
+   "depth": "330 mm",
+   "height": "520 mm",
+   "weight": "30 kg",
+   "electricKw": "0.8 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "ums50",
+  "name": "Lincat UMS50 Heated Merchandiser",
+  "brand": "Lincat",
+  "mpn": "UMS50",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_UMS50",
+  "known": {
+   "width": "565 mm",
+   "depth": "565 mm",
+   "height": "780 mm",
+   "weight": "41 kg",
+   "electricKw": "1.5 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "um50",
+  "name": "Lincat UM50 Upright Heated Merchandiser",
+  "brand": "Lincat",
+  "mpn": "UM50",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_UM50",
+  "known": {
+   "width": "565 mm",
+   "depth": "565 mm",
+   "height": "780 mm",
+   "weight": "41 kg",
+   "electricKw": "1.5 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "cu472",
+  "name": "Buffalo CU472 600 Series 2 Ring Electric Hob",
+  "brand": "Buffalo",
+  "mpn": "CU472",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CU472",
+  "known": {
+   "volume": "15 litres",
+   "fuel": "electric",
+   "heating": "bain marie",
+   "zones": "2",
+   "tap": "true",
+   "width": "400 mm",
+   "depth": "600 mm",
+   "height": "240 mm",
+   "weight": "8.4 kg",
+   "electricKw": "3.4 kW",
+   "voltage": "230V",
+   "hardWired": "true",
+   "finish": "STAINLESS STEEL"
+  }
+ },
+ {
+  "id": "ht3",
+  "name": "Lincat Silverlink 600 HT3 2 Plate Electric Plate Boiling Top",
+  "brand": "Lincat",
+  "mpn": "HT3",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HT3",
+  "known": {
+   "fuel": "electric",
+   "zones": "2",
+   "width": "300 mm",
+   "depth": "600 mm",
+   "height": "290 mm",
+   "weight": "14 kg",
+   "electricKw": "3 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "ht7",
+  "name": "Lincat Silverlink 600 HT7 4 Plate Electric Boiling Top",
+  "brand": "Lincat",
+  "mpn": "HT7",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HT7",
+  "known": {
+   "fuel": "electric",
+   "zones": "4",
+   "width": "750 mm",
+   "depth": "600 mm",
+   "height": "290 mm",
+   "weight": "26 kg",
+   "electricKw": "7 kW",
+   "voltage": "230V",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "e3122",
+  "name": "Falcon Dominator Plus E3122 2 Plate Electric Boiling Top",
+  "brand": "Falcon",
+  "mpn": "E3122",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_E3122",
+  "known": {
+   "fuel": "electric",
+   "zones": "2",
+   "width": "400 mm",
+   "depth": "770 mm",
+   "height": "455 mm",
+   "weight": "25 kg",
+   "electricKw": "4 kW",
+   "amps": "16 A",
+   "voltage": "230V",
+   "plug": "16A - 4kW",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "e9084",
+  "name": "Falcon F900 E9084 Four Hotplate Electric Boiling Top",
+  "brand": "Falcon",
+  "mpn": "E9084",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_E9084",
+  "known": {
+   "volume": "12 litres",
+   "fuel": "electric",
+   "heating": "direct",
+   "tilting": "true",
+   "basket": "6",
+   "width": "1000 mm",
+   "depth": "1000 mm",
+   "height": "780 mm",
+   "electricKw": "16 kW",
+   "amps": "63 A",
+   "voltage": "400V",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "e9042",
+  "name": "Falcon F900 E9042 Two Hotplate Electric Boiling Top",
+  "brand": "Falcon",
+  "mpn": "E9042",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_E9042",
+  "known": {
+   "volume": "12 litres",
+   "fuel": "electric",
+   "heating": "direct",
+   "tilting": "true",
+   "basket": "6",
+   "width": "490 mm",
+   "depth": "1000 mm",
+   "height": "780 mm",
+   "electricKw": "9.5 kW",
+   "voltage": "400V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "g9081",
+  "name": "Falcon F900 G9081 Single Bullseye Gas Boiling Top",
+  "brand": "Falcon",
+  "mpn": "G9081",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G9081",
+  "known": {
+   "volume": "12 litres",
+   "fuel": "gas",
+   "heating": "direct",
+   "tilting": "true",
+   "basket": "6",
+   "width": "800 mm",
+   "depth": "900 mm",
+   "height": "350 mm",
+   "electricKw": "9.5 kW",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "606miniblacket",
+  "name": "Convotherm Mini easyTouch Black 6.06 Electric 6 Deck Combination Oven",
+  "brand": "Convotherm",
+  "mpn": "6.06MINIBLACKET",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_606MINIBLACKET",
+  "known": {
+   "gnCapacity": "6 x 2/3GN",
+   "steam": "injection",
+   "waterConnection": "Water Connections",
+   "connectivity": "HACCP",
+   "width": "514 mm",
+   "depth": "599 mm",
+   "height": "664 mm",
+   "weight": "46 kg",
+   "electricKw": "3 kW",
+   "amps": "16 A",
+   "voltage": "230V",
+   "phase": "single",
+   "plug": "16A",
+   "warranty": "2 years",
+   "finish": "Black"
+  }
+ }
+]

@@ -1,0 +1,225 @@
+[
+ {
+  "id": "hc3",
+  "name": "Lincat Silverlink 600 HC3 Heated Pedestal",
+  "brand": "Lincat",
+  "mpn": "HC3",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HC3",
+  "known": {
+   "fuel": "gas",
+   "computerControl": "thermostatic control",
+   "width": "300 mm",
+   "depth": "600 mm",
+   "height": "650 mm",
+   "weight": "23 kg",
+   "electricKw": "0.25 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "hc4",
+  "name": "Lincat Silverlink 600 HC4 Heated Pedestal",
+  "brand": "Lincat",
+  "mpn": "HC4",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HC4",
+  "known": {
+   "fuel": "gas",
+   "computerControl": "thermostatic control",
+   "width": "450 mm",
+   "depth": "600 mm",
+   "height": "650 mm",
+   "weight": "29 kg",
+   "electricKw": "0.5 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "hcl4",
+  "name": "Lincat Silverlink 600 HCL4 Heated Pedestal With Legs",
+  "brand": "Lincat",
+  "mpn": "HCL4",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HCL4",
+  "known": {
+   "fuel": "gas",
+   "computerControl": "thermostatic control",
+   "width": "450 mm",
+   "depth": "600 mm",
+   "height": "650 mm",
+   "weight": "30 kg",
+   "electricKw": "0.5 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "hc6",
+  "name": "Lincat Silverlink 600 HC6 Heated Pedestal",
+  "brand": "Lincat",
+  "mpn": "HC6",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HC6",
+  "known": {
+   "fuel": "gas",
+   "computerControl": "thermostatic control",
+   "width": "600 mm",
+   "depth": "600 mm",
+   "height": "650 mm",
+   "weight": "36 kg",
+   "electricKw": "0.5 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "hcl3",
+  "name": "Lincat Silverlink 600 HCL3 Heated Pedestal With Legs",
+  "brand": "Lincat",
+  "mpn": "HCL3",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HCL3",
+  "known": {
+   "fuel": "gas",
+   "computerControl": "thermostatic control",
+   "width": "300 mm",
+   "depth": "600 mm",
+   "height": "650 mm",
+   "weight": "24 kg",
+   "electricKw": "0.25 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "hcl6",
+  "name": "Lincat Silverlink 600 HCL6 Heated Pedestal With Legs",
+  "brand": "Lincat",
+  "mpn": "HCL6",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HCL6",
+  "known": {
+   "fuel": "gas",
+   "computerControl": "thermostatic control",
+   "width": "600 mm",
+   "depth": "600 mm",
+   "height": "650 mm",
+   "weight": "37 kg",
+   "electricKw": "0.5 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "hcl7",
+  "name": "Lincat Silverlink 600 HCL7 Heated Pedestal With Legs",
+  "brand": "Lincat",
+  "mpn": "HCL7",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HCL7",
+  "known": {
+   "fuel": "gas",
+   "computerControl": "thermostatic control",
+   "width": "750 mm",
+   "depth": "600 mm",
+   "height": "650 mm",
+   "weight": "43 kg",
+   "electricKw": "0.75 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "hcl9",
+  "name": "Lincat Silverlink 600 HCL9 Heated Pedestal With Legs",
+  "brand": "Lincat",
+  "mpn": "HCL9",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HCL9",
+  "known": {
+   "fuel": "gas",
+   "computerControl": "thermostatic control",
+   "width": "900 mm",
+   "depth": "600 mm",
+   "height": "650 mm",
+   "weight": "49 kg",
+   "electricKw": "1 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "mdxz16",
+  "name": "Chefsrange ECE16B Programmable Countertop Pressure Fryer",
+  "brand": "Chefsrange",
+  "mpn": "ECE16B",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MDXZ16",
+  "known": {
+   "width": "380 mm",
+   "depth": "470 mm",
+   "height": "530 mm",
+   "electricKw": "3 kW",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "bxl",
+  "name": "Kuroma BXL Counter Top Pressure Fryer",
+  "brand": "KUROMA",
+  "mpn": "BXL",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BXL",
+  "known": {
+   "oilCapacity": "18 litres",
+   "chipOutput": "12 kg/hr",
+   "fuel": "electric",
+   "width": "420 mm",
+   "depth": "590 mm",
+   "height": "545 mm",
+   "electricKw": "3 kW",
+   "voltage": "240V, 50Hz",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "mepmsaff1",
+  "name": "Mercury Single Countertop Flat Grill - MEP-M-SAFF-1",
+  "brand": "Mercury",
+  "mpn": "MEP-M-SAFF-1",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MEPMSAFF1",
+  "known": {
+   "plate": "cast iron",
+   "thermostat": "true",
+   "width": "380 mm",
+   "depth": "395 mm",
+   "height": "210 mm",
+   "weight": "19.3 kg",
+   "electricKw": "2.2 kW",
+   "voltage": "230V, 50HZ",
+   "plug": "Plug Supplied",
+   "warranty": "1 year",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "fc382",
+  "name": "Buffalo FC382 Large Ribbed Top Contact Grill",
+  "brand": "Buffalo",
+  "mpn": "FC382",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FC382",
+  "known": {
+   "plate": "ribbed",
+   "width": "480 mm",
+   "depth": "435 mm",
+   "height": "215 mm",
+   "weight": "29 kg",
+   "electricKw": "2.2 kW",
+   "voltage": "230V",
+   "warranty": "2 years"
+  }
+ }
+]

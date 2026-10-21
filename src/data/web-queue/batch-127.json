@@ -1,0 +1,216 @@
+[
+ {
+  "id": "ckf1800hc",
+  "name": "Cater-Fabs CKF1800HC Stainless Steel Mobile Hot Cupboard",
+  "brand": "Cater-Fabs",
+  "mpn": "CKF1800HC",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CKF1800HC",
+  "known": {
+   "mobility": "true",
+   "tempRange": "30° to 85°C",
+   "width": "1800 mm",
+   "depth": "650 mm",
+   "height": "900 mm",
+   "weight": "135 kg",
+   "electricKw": "3 kW",
+   "amps": "13 A",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "lincatp8p5",
+  "name": "Lincat Panther P8P5 / P8P5PT Mobile Hot Cupboards",
+  "brand": "Lincat",
+  "mpn": "P8P5",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LINCATP8P5",
+  "known": {
+   "mobility": "true",
+   "width": "1775 mm",
+   "depth": "800 mm",
+   "height": "900 mm",
+   "electricKw": "2.5 kW",
+   "amps": "10.9 A",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ck8147",
+  "name": "Cater-Cook CK8147 MAXI Plain Top Large Capacity Hot Cupboard - W1400 x D700 x H850/+100mm.",
+  "brand": "Cater-Cook",
+  "mpn": "CK8147",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK8147",
+  "known": {
+   "mobility": "true",
+   "width": "1400 mm",
+   "depth": "700 mm",
+   "height": "850 mm",
+   "weight": "100 kg",
+   "electricKw": "2.6 kW",
+   "voltage": "230V",
+   "plug": "13A plug",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "gr80e",
+  "name": "Roller Grill GR80E 800mm Electric Kebab Grill",
+  "brand": "Roller Grill",
+  "mpn": "GR80E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GR80E",
+  "known": {
+   "fuel": "electric",
+   "width": "580 mm",
+   "depth": "660 mm",
+   "height": "1045 mm",
+   "weight": "35 kg",
+   "electricKw": "7.2 kW",
+   "voltage": "415V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "i3gshort",
+  "name": "EasyCut I3G Short Integrated Gas Kebab Machine N/LPG",
+  "brand": "Easy-Cut",
+  "mpn": "I3GSHORT",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_I3GSHORT",
+  "known": {
+   "fuel": "gas",
+   "capacityKg": "70 kg",
+   "weight": "39 kg",
+   "electricKw": "1328 kW",
+   "voltage": "230V",
+   "warranty": "1 year",
+   "finish": "Stainless Steel Body"
+  }
+ },
+ {
+  "id": "i3gnarrow",
+  "name": "EasyCut I3G Narrow 3 Burner Integrated Gas Kebab Machine N/LPG",
+  "brand": "Easy-Cut",
+  "mpn": "I3GNARROW",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_I3GNARROW",
+  "known": {
+   "fuel": "gas",
+   "capacityKg": "40 kg",
+   "weight": "30 kg",
+   "electricKw": "9.96 kW",
+   "voltage": "230V",
+   "warranty": "1 year",
+   "finish": "Stainless Steel Body"
+  }
+ },
+ {
+  "id": "cn324",
+  "name": "Buffalo CN324 4 Litre Commercial Rice Cooker",
+  "brand": "Buffalo",
+  "mpn": "CN324",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CN324",
+  "known": {
+   "volume": "4 litres",
+   "width": "380 mm",
+   "depth": "320 mm",
+   "height": "350 mm",
+   "weight": "5 kg",
+   "electricKw": "1.55 kW",
+   "warranty": "2 years",
+   "finish": "white"
+  }
+ },
+ {
+  "id": "sej18000",
+  "name": "Thunder Group SEJ18000 Wood Grain 30 Cups 8.5Ltr Rice Warmer",
+  "brand": "Thunder Group",
+  "mpn": "SEJ18000",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SEJ18000",
+  "known": {
+   "volume": "8.5 litres",
+   "width": "393 mm",
+   "depth": "393 mm",
+   "height": "292 mm",
+   "amps": "13 A",
+   "voltage": "240v",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "sej20000",
+  "name": "TG - Stainless Steel 30 Cups 8.5Ltr Rice Warmer SEJ20000",
+  "brand": "Thunder Group",
+  "mpn": "SEJ20000",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SEJ20000",
+  "known": {
+   "volume": "8.5 litres",
+   "width": "393 mm",
+   "depth": "393 mm",
+   "height": "292 mm",
+   "amps": "13 A",
+   "voltage": "240v",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "blodgettbg40",
+  "name": "Blodgett BG40 Gas Conveyor Oven",
+  "brand": "Blodgett",
+  "mpn": "BG40",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BLODGETTBG40",
+  "known": {
+   "pizzaSize": "32\"",
+   "fuel": "gas",
+   "width": "2032 mm",
+   "electricKw": "32.23 kW",
+   "gasKw": "32.23 kW",
+   "amps": "75 A",
+   "voltage": "208 V",
+   "phase": "three",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "mix100rk",
+  "name": "AS Term MIX100RK Compact Wood-Gas Fired Rotating Base Pizza Oven 6 x 12\" Pizzas - Mosaic Finish (Colour Options Available)",
+  "brand": "AS Term",
+  "mpn": "MIX100RK",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MIX100RK",
+  "known": {
+   "pizzaSize": "12\" Pizzas",
+   "fuel": "gas",
+   "width": "1470 mm",
+   "depth": "1700 mm",
+   "height": "2000 mm",
+   "weight": "1400 kg",
+   "electricKw": "24 kW",
+   "voltage": "230 V",
+   "gasConnection": "3/4\" gas hose",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "pk1",
+  "name": "King Edward Pizza King Single Deck Pizza Oven - PK1",
+  "brand": "King Edward",
+  "mpn": "PK1",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PK1",
+  "known": {
+   "decks": "1",
+   "pizzaSize": "15 Inch pizza",
+   "stone": "stone",
+   "width": "570 mm",
+   "depth": "610 mm",
+   "height": "585 mm",
+   "electricKw": "2.5 kW",
+   "amps": "13 A",
+   "voltage": "230V, 50Hz",
+   "warranty": "1 year"
+  }
+ }
+]

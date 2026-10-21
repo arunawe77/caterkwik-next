@@ -1,0 +1,210 @@
+[
+ {
+  "id": "vibc14",
+  "name": "Vizu Double Decker 14 Lane Food Chute - VIBC14",
+  "brand": "VIZU",
+  "mpn": "VIBC14",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_VIBC14",
+  "known": {
+   "shelves": "2",
+   "bulbs": "heat lamps are controlled by variable d",
+   "width": "1210 mm",
+   "depth": "787 mm",
+   "height": "773 mm",
+   "electricKw": "4.2 kW",
+   "amps": "20 A",
+   "voltage": "230V",
+   "phase": "single",
+   "warranty": "1 year",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "zenith4",
+  "name": "Fir Tree Zenith 4 Stainless Steel Foldable Propane Gas Barbecue - 4 Burners",
+  "brand": "Fir Tree",
+  "mpn": "ZENITH4",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ZENITH4",
+  "known": {
+   "cookingWidth": "830 mm",
+   "fuel": "gas",
+   "burners": "4",
+   "width": "810 mm",
+   "depth": "480 mm",
+   "height": "830 mm",
+   "weight": "40 kg",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "lp20",
+  "name": "Cinders Streetwok LP20 Portable Wok Burner",
+  "brand": "Cinders",
+  "mpn": "LP20",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LP20",
+  "known": {
+   "fuel": "gas",
+   "width": "340 mm",
+   "depth": "580 mm",
+   "height": "220 mm",
+   "weight": "19 kg",
+   "electricKw": "16 kW",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "cr886",
+  "name": "Buffalo CR886 Outdoor Griddle - LPG",
+  "brand": "Buffalo",
+  "mpn": "CR886",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CR886",
+  "known": {
+   "fuel": "gas",
+   "width": "630 mm",
+   "depth": "470 mm",
+   "height": "240 mm",
+   "weight": "15 kg",
+   "warranty": "2 years",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "ht3gas",
+  "name": "Lincat HT3 2 Hob Gas Boiling Top",
+  "brand": "Lincat",
+  "mpn": "HT3/N",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HT3GAS",
+  "known": {
+   "fuel": "gas",
+   "zones": "2",
+   "width": "300 mm",
+   "depth": "600 mm",
+   "height": "305 mm",
+   "weight": "16 kg",
+   "lpgKw": "5.6 kW",
+   "gasConnection": "½\" BSP)",
+   "warranty": "2 years",
+   "finish": "vitreous enamelled"
+  }
+ },
+ {
+  "id": "ht6gas",
+  "name": "Lincat HT6 4 Hob Gas Boiling Top",
+  "brand": "Lincat",
+  "mpn": "HT6/N",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HT6GAS",
+  "known": {
+   "fuel": "gas",
+   "zones": "4",
+   "width": "600 mm",
+   "depth": "600 mm",
+   "height": "305 mm",
+   "weight": "28 kg",
+   "lpgKw": "11.2 kW",
+   "gasConnection": "½\" BSP)",
+   "warranty": "2 years",
+   "finish": "vitreous enamelled"
+  }
+ },
+ {
+  "id": "g3122",
+  "name": "Falcon Dominator Plus G3122 2 Burner Gas Boiling Top",
+  "brand": "Falcon",
+  "mpn": "G3122",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G3122",
+  "known": {
+   "fuel": "gas",
+   "width": "400 mm",
+   "depth": "770 mm",
+   "height": "455 mm",
+   "electricKw": "10.6 kW",
+   "amps": "574 A",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "og8009",
+  "name": "Lincat Opus 800 OG8009 2 Burner Gas Boiling Top",
+  "brand": "Lincat",
+  "mpn": "OG8009",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_OG8009",
+  "known": {
+   "fuel": "gas",
+   "width": "300 mm",
+   "depth": "800 mm",
+   "height": "400 mm",
+   "electricKw": "15 kW",
+   "gasConnection": "1/2 inch BSP gas hose required",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ht9gas",
+  "name": "Lincat HT9 6 Hob Gas Boiling Top",
+  "brand": "Lincat",
+  "mpn": "HT9",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HT9GAS",
+  "known": {
+   "fuel": "gas",
+   "zones": "6",
+   "width": "900 mm",
+   "depth": "600 mm",
+   "height": "305 mm",
+   "weight": "40 kg",
+   "lpgKw": "16.8 kW",
+   "gasConnection": "½\" BSP)",
+   "warranty": "2 years",
+   "finish": "vitreous enamelled"
+  }
+ },
+ {
+  "id": "3007028",
+  "name": "ConvoCare Rinse Aid 3007028 - 1 Litre Concentrate - CK7028",
+  "brand": "Convotherm",
+  "mpn": "3007028",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_3007028",
+  "known": {
+   "steam": "boiler",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "armg36",
+  "name": "American Range ARMG36 36\" Heavy Duty Nat Gas Griddle",
+  "brand": "American Range",
+  "mpn": "ARMG36",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARMG36",
+  "known": {
+   "plate": "chrome",
+   "fuel": "gas",
+   "splashback": "true",
+   "width": "915 mm",
+   "depth": "830 mm",
+   "height": "320 mm",
+   "electricKw": "17.6 kW",
+   "gasKw": "17.6 kW",
+   "gasConnection": "6\" Heavy Duty Nat Gas Griddle",
+   "warranty": "2 years",
+   "finish": "Stainless steel exterior"
+  }
+ },
+ {
+  "id": "og8301",
+  "name": "Lincat Opus 800 OG8301 Gas Salamander Grill",
+  "brand": "Lincat",
+  "mpn": "OG8301",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_OG8301",
+  "known": {
+   "fuel": "gas",
+   "radiant": "ceramic",
+   "width": "800 mm",
+   "depth": "410 mm",
+   "height": "450 mm",
+   "electricKw": "6.5 kW",
+   "gasConnection": "1/2\" BSP Hose required*",
+   "warranty": "2 years"
+  }
+ }
+]

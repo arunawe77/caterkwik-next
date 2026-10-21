@@ -1,0 +1,234 @@
+[
+ {
+  "id": "vi400ptms",
+  "name": "VIZU 400 Passthrough Electric Heated Chicken Display - VI400PTMS",
+  "brand": "VIZU",
+  "mpn": "VI400PTMS",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_VI400PTMS",
+  "known": {
+   "gnCapacity": "6 x 1/1GN",
+   "wells": "6",
+   "bulbs": "Halogen bulbs brightly illuminate food pro",
+   "width": "470 mm",
+   "depth": "805 mm",
+   "height": "940 mm",
+   "weight": "68 kg",
+   "electricKw": "1.4 kW",
+   "amps": "6 A",
+   "voltage": "230V, 50Hz",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "vi700ptms",
+  "name": "VIZU 700 Passthrough Electric Heated Chicken Display - VI700PTMS",
+  "brand": "VIZU",
+  "mpn": "VI700PTMS",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_VI700PTMS",
+  "known": {
+   "gnCapacity": "8 x 1/1GN",
+   "wells": "8",
+   "bulbs": "Halogen bulbs brightly illuminate food pro",
+   "width": "780 mm",
+   "depth": "780 mm",
+   "height": "885 mm",
+   "weight": "90 kg",
+   "electricKw": "1.9 kW",
+   "amps": "9 A",
+   "voltage": "230V, 50Hz",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "vi1100ptms",
+  "name": "VIZU 1100 Passthrough Electric Heated Chicken Display - VI1100PTMS",
+  "brand": "VIZU",
+  "mpn": "VI1100PTMS",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_VI1100PTMS",
+  "known": {
+   "gnCapacity": "12 x 1/1GN",
+   "wells": "12",
+   "bulbs": "Halogen bulbs brightly illuminate food pro",
+   "width": "1150 mm",
+   "depth": "780 mm",
+   "height": "885 mm",
+   "weight": "100 kg",
+   "electricKw": "2 kW",
+   "amps": "9 A",
+   "voltage": "230V, 50Hz",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "buffalock916",
+  "name": "Buffalo Countertop Heated Food Display 554mm - CK916",
+  "brand": "Buffalo",
+  "mpn": "CK916",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BUFFALOCK916",
+  "known": {
+   "volume": "45 litres",
+   "shelves": "2",
+   "tempRange": "30°C - 90°C",
+   "width": "554 mm",
+   "depth": "376 mm",
+   "height": "376 mm",
+   "weight": "14.4 kg",
+   "electricKw": "0.8 kW",
+   "warranty": "2 years",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "hw923",
+  "name": "Buffalo HW923 Square Countertop Heated Display Merchandiser 120Ltr",
+  "brand": "Buffalo",
+  "mpn": "HW923",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HW923",
+  "known": {
+   "volume": "120 litres",
+   "width": "678 mm",
+   "depth": "568 mm",
+   "height": "686 mm",
+   "weight": "39 kg",
+   "electricKw": "1.1 kW",
+   "amps": "4.75 A",
+   "voltage": "240V",
+   "warranty": "2 years",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "hw928",
+  "name": "Buffalo HW928 Front and Rear Door Heated Merchandiser 136Ltr",
+  "brand": "Buffalo",
+  "mpn": "HW928",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HW928",
+  "known": {
+   "volume": "136 litres",
+   "width": "915 mm",
+   "depth": "484 mm",
+   "height": "662.5 mm",
+   "weight": "41.5 kg",
+   "electricKw": "1.1 kW",
+   "amps": "4.8 A",
+   "voltage": "240V",
+   "warranty": "2 years",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "hw924",
+  "name": "Buffalo HW924 Square Countertop Heated Display Merchandiser 160Ltr",
+  "brand": "Buffalo",
+  "mpn": "HW924",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HW924",
+  "known": {
+   "volume": "160 litres",
+   "width": "856 mm",
+   "depth": "568 mm",
+   "height": "686 mm",
+   "weight": "45.5 kg",
+   "electricKw": "1.5 kW",
+   "amps": "6.3 A",
+   "voltage": "240V",
+   "warranty": "2 years",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "had50",
+  "name": "Lincat HAD50 Hot Air Display Cabinet",
+  "brand": "Lincat",
+  "mpn": "HAD50",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HAD50",
+  "known": {
+   "tempRange": "60°-80°C",
+   "width": "500 mm",
+   "depth": "585 mm",
+   "height": "845 mm",
+   "weight": "48.6 kg",
+   "electricKw": "2.2 kW",
+   "amps": "9.6 A",
+   "voltage": "230V",
+   "phase": "single",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "pgf1000g",
+  "name": "Parry PGF1000G LPG Gas Griddle",
+  "brand": "Parry",
+  "mpn": "PGF1000G",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PGF1000G",
+  "known": {
+   "plate": "mild steel",
+   "fuel": "gas",
+   "burners": "3",
+   "width": "1020 mm",
+   "depth": "510 mm",
+   "height": "235 mm",
+   "weight": "35 kg",
+   "gasKw": "9.3 kW",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "pfa7201",
+  "name": "Perfect Fry PFA7201 Fully Automatic Electric Countertop Ventless Deep Fryer With Fire Suppression",
+  "brand": "Perfect Fry",
+  "mpn": "PFA7201",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PFA7201",
+  "known": {
+   "oilCapacity": "11 litres",
+   "fuel": "electric",
+   "width": "432 mm",
+   "depth": "578 mm",
+   "height": "606 mm",
+   "weight": "37 kg",
+   "electricKw": "7.2 kW",
+   "voltage": "240V",
+   "phase": "single",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "400g",
+  "name": "Roller Grill 400 CSG Single Plate Gas Crepe Machine",
+  "brand": "Roller Grill",
+  "mpn": "400 CSG",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_400G",
+  "known": {
+   "fuel": "gas",
+   "width": "450 mm",
+   "depth": "500 mm",
+   "height": "240 mm",
+   "weight": "23 kg",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "400gd",
+  "name": "Roller Grill 400 CDG Double Plate Gas Crepe Machine",
+  "brand": "Roller Grill",
+  "mpn": "400 CDG",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_400GD",
+  "known": {
+   "fuel": "gas",
+   "width": "860 mm",
+   "depth": "500 mm",
+   "height": "240 mm",
+   "weight": "44 kg",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "2 years"
+  }
+ }
+]

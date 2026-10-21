@@ -1,0 +1,117 @@
+[
+ {
+  "id": "gf107",
+  "name": "GF107 APS Chrome Buffet Stand 140mm High",
+  "brand": "APS",
+  "mpn": "GF107",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF107",
+  "known": {
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "gf166",
+  "name": "GF166 APS Pure Melamine Chrome Serving Stand 290mm",
+  "brand": "APS",
+  "mpn": "GF166",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF166",
+  "known": {
+   "finish": "Chrome"
+  }
+ },
+ {
+  "id": "gf108",
+  "name": "GF108 APS Chrome Buffet Stand 210mm High",
+  "brand": "APS",
+  "mpn": "GF108",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF108",
+  "known": {
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "gf167",
+  "name": "GF167 APS Pure Melamine Chrome Serving Stand 330mm",
+  "brand": "APS",
+  "mpn": "GF167",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF167",
+  "known": {
+   "finish": "Chrome"
+  }
+ },
+ {
+  "id": "gf168",
+  "name": "GF168 APS Pure Melamine Chrome Serving Stand 370mm",
+  "brand": "APS",
+  "mpn": "GF168",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF168",
+  "known": {
+   "finish": "Chrome"
+  }
+ },
+ {
+  "id": "gf169",
+  "name": "GF169 APS Pure Melamine Chrome Serving Stand 630mm",
+  "brand": "APS",
+  "mpn": "GF169",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF169",
+  "known": {
+   "finish": "Chrome"
+  }
+ },
+ {
+  "id": "gk818",
+  "name": "GK818 APS Triangle Wooden Buffet Stand Black",
+  "brand": "APS",
+  "mpn": "GK818",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GK818",
+  "known": {
+   "width": "530 mm",
+   "depth": "210 mm",
+   "height": "500 mm",
+   "weight": "4.4 kg"
+  }
+ },
+ {
+  "id": "gf079",
+  "name": "GF079 APS Float Chrome 4 Bowl Stand",
+  "brand": "APS",
+  "mpn": "GF079",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF079",
+  "known": {
+   "finish": "Chrome"
+  }
+ },
+ {
+  "id": "gf091",
+  "name": "GF091 APS Float Black Square Bowl 2in",
+  "brand": "APS",
+  "mpn": "GF091",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF091",
+  "known": {}
+ },
+ {
+  "id": "gf090",
+  "name": "GF090 APS Float White Square Bowl 2in",
+  "brand": "APS",
+  "mpn": "GF090",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF090",
+  "known": {}
+ },
+ {
+  "id": "gf081",
+  "name": "GF081 APS Float Black Round Bowl 2in",
+  "brand": "APS",
+  "mpn": "GF081",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF081",
+  "known": {}
+ },
+ {
+  "id": "gf080",
+  "name": "GF080 APS Float White Round Bowl 2in",
+  "brand": "APS",
+  "mpn": "GF080",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF080",
+  "known": {}
+ }
+]

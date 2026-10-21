@@ -1,0 +1,232 @@
+[
+ {
+  "id": "parryhot15",
+  "name": "Parry HOT15 Mobile Hot Cupboard",
+  "brand": "Parryhot",
+  "mpn": "HOT15",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PARRYHOT15",
+  "known": {
+   "plateCapacity": "450",
+   "mobility": "true",
+   "width": "1500 mm",
+   "depth": "650 mm",
+   "height": "900 mm",
+   "weight": "123 kg",
+   "electricKw": "2.5 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "hot15p",
+  "name": "Parry HOT15P Passthrough Mobile Hot Cupboard",
+  "brand": "Parry",
+  "mpn": "HOT15P",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HOT15P",
+  "known": {
+   "plateCapacity": "450",
+   "mobility": "true",
+   "width": "1500 mm",
+   "depth": "650 mm",
+   "height": "900 mm",
+   "weight": "130 kg",
+   "electricKw": "2.5 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "parryhot18",
+  "name": "Parry HOT18 Mobile Hot Cupboard",
+  "brand": "Parry",
+  "mpn": "HOT18",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PARRYHOT18",
+  "known": {
+   "plateCapacity": "540",
+   "mobility": "true",
+   "width": "1800 mm",
+   "depth": "650 mm",
+   "height": "900 mm",
+   "weight": "128.5 kg",
+   "electricKw": "3 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "hot18p",
+  "name": "Parry HOT18P Passthrough Mobile Hot Cupboard",
+  "brand": "Parry",
+  "mpn": "HOT18P",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HOT18P",
+  "known": {
+   "plateCapacity": "540",
+   "mobility": "true",
+   "width": "1800 mm",
+   "depth": "650 mm",
+   "height": "900 mm",
+   "weight": "135 kg",
+   "electricKw": "3 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ck8060",
+  "name": "Cater-Cook CK8060 Single Door Plate Warmer",
+  "brand": "Cater-Cook",
+  "mpn": "CK8060",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK8060",
+  "known": {
+   "doors": "Single",
+   "tempRange": "30 - 85°C",
+   "width": "400 mm",
+   "depth": "420 mm",
+   "height": "810 mm",
+   "electricKw": "0.75 kW",
+   "voltage": "230V",
+   "plug": "Plug Supplied",
+   "warranty": "2 years",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "ck8030",
+  "name": "Cater-Cook CK8030 Compact Single Door Plate Warmer, High Quality Stainless Steel, Great Value",
+  "brand": "Cater-Cook",
+  "mpn": "CK8030",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK8030",
+  "known": {
+   "doors": "Single",
+   "tempRange": "30 - 85°C",
+   "width": "400 mm",
+   "depth": "450 mm",
+   "height": "510 mm",
+   "electricKw": "0.4 kW",
+   "voltage": "230V",
+   "plug": "Plug Supplied",
+   "warranty": "2 years",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "1868",
+  "name": "Parry 1868 Short Single Door Plate Warmer",
+  "brand": "Parry",
+  "mpn": "1868",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_1868",
+  "known": {
+   "plateCapacity": "90",
+   "doors": "Single",
+   "width": "375 mm",
+   "depth": "600 mm",
+   "height": "945 mm",
+   "weight": "26 kg",
+   "electricKw": "2 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "ck8080",
+  "name": "Cater-Cook CK8080 Double Door Plate Warmer",
+  "brand": "Cater-Cook",
+  "mpn": "CK8080",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK8080",
+  "known": {
+   "doors": "Double",
+   "tempRange": "35 - 85°C",
+   "width": "800 mm",
+   "depth": "420 mm",
+   "height": "815 mm",
+   "electricKw": "1.5 kW",
+   "voltage": "230V",
+   "plug": "13A plug",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "1832",
+  "name": "Parry 1832 Tall Single Door Plate Warmer",
+  "brand": "Parry",
+  "mpn": "1832",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_1832",
+  "known": {
+   "plateCapacity": "160",
+   "doors": "Single",
+   "width": "370 mm",
+   "depth": "600 mm",
+   "height": "1115 mm",
+   "weight": "29 kg",
+   "electricKw": "2 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "1869",
+  "name": "Parry 1869 Short Double Door Plate Warmer",
+  "brand": "Parry",
+  "mpn": "1869",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_1869",
+  "known": {
+   "plateCapacity": "180",
+   "doors": "Double",
+   "width": "600 mm",
+   "depth": "600 mm",
+   "height": "945 mm",
+   "weight": "41 kg",
+   "electricKw": "2 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "1863",
+  "name": "Parry 1863 Tall Double Door Plate Warmer",
+  "brand": "Parry",
+  "mpn": "1863",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_1863",
+  "known": {
+   "plateCapacity": "240",
+   "doors": "Double",
+   "width": "600 mm",
+   "depth": "600 mm",
+   "height": "1115 mm",
+   "weight": "44 kg",
+   "electricKw": "2 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "9214",
+  "name": "Parry 9214 Double Door Hot Cupboard / Plate Warmer",
+  "brand": "Parry",
+  "mpn": "9214",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_9214",
+  "known": {
+   "plateCapacity": "240",
+   "doors": "Double",
+   "width": "1000 mm",
+   "depth": "592 mm",
+   "height": "825 mm",
+   "weight": "44 kg",
+   "electricKw": "2 kW",
+   "amps": "8.5 A",
+   "voltage": "240V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "chrome"
+  }
+ }
+]

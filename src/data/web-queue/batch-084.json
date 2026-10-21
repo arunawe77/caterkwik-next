@@ -1,0 +1,171 @@
+[
+ {
+  "id": "archwayhd3",
+  "name": "Archway HD3 Electric Heated Chicken Display 3 Pans",
+  "brand": "Archway",
+  "mpn": "HD3",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAYHD3",
+  "known": {
+   "wells": "3",
+   "width": "1520 mm",
+   "depth": "755 mm",
+   "height": "507 mm",
+   "weight": "85 kg",
+   "electricKw": "3.86 kW",
+   "amps": "17 A",
+   "phase": "single",
+   "hardWired": "true",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "grsdsh",
+  "name": "Hatco Slant/Horizontal Display Warmer - Dual Shelf",
+  "brand": "Hatco",
+  "mpn": "GRSDS/H",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GRSDSH",
+  "known": {
+   "width": "914 mm",
+   "depth": "616 mm",
+   "height": "827 mm",
+   "electricKw": "1.81 kW",
+   "voltage": "240V",
+   "plug": "plug supplied"
+  }
+ },
+ {
+  "id": "fs491",
+  "name": "Enders from Lifestyle Kansas Pro 3 Sik Turbo Gas Barbecue FS491",
+  "brand": "Lifestyle",
+  "mpn": "FS491",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FS491",
+  "known": {
+   "fuel": "gas",
+   "burners": "4",
+   "radiant": "infrared",
+   "weight": "65 kg",
+   "electricKw": "11.6 kW",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "c25elx",
+  "name": "Electrolux Professional C25 Rinse & Descale for Skyline Combination Ovens (50 Sachets) - CK0025",
+  "brand": "Electrolux",
+  "mpn": "C25",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_C25ELX",
+  "known": {
+   "steam": "boiler",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "c22",
+  "name": "Electrolux Professional C22 Cleaning Tablets For Skyline Combination Ovens (100 Sachets) - CK0022",
+  "brand": "Electrolux",
+  "mpn": "CK0022",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_C22",
+  "known": {
+   "steam": "boiler",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "c20",
+  "name": "Electrolux Professional Extra Strong Detergent for Skyline Combi Ovens - C20",
+  "brand": "Electrolux",
+  "mpn": "C20",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_C20",
+  "known": {
+   "steam": "boiler",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "c21",
+  "name": "Electrolux Professional Extra Strong Rinse Aid for Skyline Combi Ovens - C21",
+  "brand": "Electrolux",
+  "mpn": "C21",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_C21",
+  "known": {
+   "steam": "boiler",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "ck0440",
+  "name": "Fimar ck0440 CR400G1 400mm Gas Crepe Machine",
+  "brand": "Fimar",
+  "mpn": "CK0440",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK0440",
+  "known": {
+   "fuel": "gas",
+   "width": "430 mm",
+   "depth": "480 mm",
+   "height": "270 mm",
+   "weight": "23 kg",
+   "electricKw": "3.6 kW",
+   "warranty": "1 year",
+   "finish": "Stainless steel body"
+  }
+ },
+ {
+  "id": "ity24",
+  "name": "Imperial ITY-24 Teppan-Yaki Gas Griddles",
+  "brand": "Imperial",
+  "mpn": "ITY-24",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ITY24",
+  "known": {
+   "plate": "chrome",
+   "fuel": "gas",
+   "width": "654 mm",
+   "depth": "797 mm",
+   "height": "254 mm",
+   "gasKw": "9 kW",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "fr227",
+  "name": "Vogue FR227 Insulated Top Loading Delivery Bag",
+  "brand": "Vogue",
+  "mpn": "FR227",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FR227",
+  "known": {
+   "width": "330 mm",
+   "depth": "230 mm",
+   "height": "330 mm",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "gt114",
+  "name": "Schneider GT114 Stainless Steel Dough Scraper",
+  "brand": "SCHNEIDER",
+  "mpn": "GT114",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GT114",
+  "known": {
+   "decks": "1",
+   "pizzaSize": "3'",
+   "fuel": "electric",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "ch178",
+  "name": "Rowlett Esprit 2 Slot Toaster White w/ 2 Elements & Sandwich Cage - CH178",
+  "brand": "ROWLETT",
+  "mpn": "CH178",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CH178",
+  "known": {
+   "fuel": "electric",
+   "timer": "Timer",
+   "plates": "2",
+   "weight": "4.9 kg",
+   "voltage": "240V",
+   "finish": "Stainless Steel"
+  }
+ }
+]

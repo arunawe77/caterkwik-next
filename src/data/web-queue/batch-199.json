@@ -1,0 +1,257 @@
+[
+ {
+  "id": "oe8306",
+  "name": "Lincat Opus 800 OE8306 Cook & Hold Salamander Grill",
+  "brand": "Lincat",
+  "mpn": "OE8306",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_OE8306",
+  "known": {
+   "cookingWidth": "600 mm",
+   "fuel": "electric",
+   "width": "600 mm",
+   "depth": "520 mm",
+   "height": "510 mm",
+   "electricKw": "4.5 kW",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "ht764",
+  "name": "Buffalo HT764 Heavy Duty Induction Hob 5kW",
+  "brand": "Buffalo",
+  "mpn": "HT764",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HT764",
+  "known": {
+   "fuel": "induction",
+   "width": "398 mm",
+   "depth": "515 mm",
+   "height": "168 mm",
+   "weight": "9.48 kg",
+   "electricKw": "5 kW",
+   "amps": "21.73 A",
+   "voltage": "240V",
+   "phase": "single",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "Stainless steel body"
+  }
+ },
+ {
+  "id": "irngpc2f36",
+  "name": "Hatco - High Powered Heavy Duty Dual Front to Back Counter Top Induction Hob IRNGPC2F36",
+  "brand": "Hatco",
+  "mpn": "IRNG-PC2F-36",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_IRNGPC2F36",
+  "known": {
+   "fuel": "induction",
+   "width": "356 mm",
+   "depth": "753 mm",
+   "height": "133 mm",
+   "amps": "60 A",
+   "voltage": "230v",
+   "phase": "single",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "i9043",
+  "name": "Falcon i9043 Induction Boiling Top - 2 x 5kW",
+  "brand": "Falcon",
+  "mpn": "i9043",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_I9043",
+  "known": {
+   "fuel": "induction",
+   "width": "400 mm",
+   "depth": "900 mm",
+   "height": "350 mm",
+   "electricKw": "10 kW",
+   "amps": "32 A",
+   "voltage": "400V",
+   "phase": "three",
+   "plug": "32A three phase - 400V",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "e3903i",
+  "name": "Falcon E3903i 4 Zone Induction Boiling Top",
+  "brand": "Falcon",
+  "mpn": "E3903i",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_E3903I",
+  "known": {
+   "volume": "1 litres",
+   "fuel": "induction",
+   "heating": "direct",
+   "zones": "4",
+   "width": "900 mm",
+   "depth": "770 mm",
+   "height": "890 mm",
+   "electricKw": "14 kW",
+   "voltage": "400V",
+   "phase": "three",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "3013",
+  "name": "Parry 3013 Electric Double Griddle",
+  "brand": "Parry",
+  "mpn": "3013",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_3013",
+  "known": {
+   "cookingWidth": "750 mm",
+   "plate": "mild steel",
+   "fuel": "electric",
+   "thermostat": "true",
+   "tempRange": "50-300°C",
+   "width": "750 mm",
+   "depth": "520 mm",
+   "height": "240 mm",
+   "weight": "55 kg",
+   "electricKw": "3 kW",
+   "plug": "13A Plug",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "oe8205",
+  "name": "Lincat Opus 800 OE8205 Electric Griddle",
+  "brand": "Lincat",
+  "mpn": "DM548",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_OE8205",
+  "known": {
+   "cookingWidth": "600 mm",
+   "plate": "ribbed",
+   "fuel": "electric",
+   "radiant": "radiant",
+   "thermostat": "true",
+   "tempRange": "90°C - 300°C",
+   "width": "600 mm",
+   "depth": "800 mm",
+   "height": "430 mm",
+   "weight": "87 kg",
+   "electricKw": "8 kW",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "buffalol515",
+  "name": "Buffalo L515 Electric Griddle",
+  "brand": "Buffalo",
+  "mpn": "L515",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BUFFALOL515",
+  "known": {
+   "plate": "mild steel",
+   "fuel": "electric",
+   "thermostat": "true",
+   "tempRange": "60 - 300°C",
+   "width": "525 mm",
+   "depth": "450 mm",
+   "height": "200 mm",
+   "weight": "24.5 kg",
+   "electricKw": "2.2 kW",
+   "amps": "9.6 A",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel exterior"
+  }
+ },
+ {
+  "id": "oe8205c",
+  "name": "Lincat Opus 800 OE8205/C Chrome Electric Griddle",
+  "brand": "Lincat",
+  "mpn": "OE8205/C",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_OE8205C",
+  "known": {
+   "cookingWidth": "600 mm",
+   "plate": "chrome",
+   "fuel": "electric",
+   "thermostat": "true",
+   "tempRange": "90-300°C",
+   "width": "600 mm",
+   "depth": "800 mm",
+   "height": "430 mm",
+   "weight": "116 kg",
+   "electricKw": "8 kW",
+   "voltage": "400V",
+   "phase": "three",
+   "warranty": "2 years",
+   "finish": "Chrome"
+  }
+ },
+ {
+  "id": "buffalog791",
+  "name": "Buffalo G791 Extra Wide Countertop Griddle",
+  "brand": "Buffalo",
+  "mpn": "G791",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BUFFALOG791",
+  "known": {
+   "plate": "mild steel",
+   "fuel": "electric",
+   "thermostat": "true",
+   "tempRange": "60 - 300°C",
+   "width": "742 mm",
+   "depth": "462 mm",
+   "height": "241 mm",
+   "weight": "34.2 kg",
+   "electricKw": "2.9 kW",
+   "amps": "12.6 A",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel exterior"
+  }
+ },
+ {
+  "id": "buffalop109",
+  "name": "Buffalo P109 Large Countertop Electric Griddle",
+  "brand": "Buffalo",
+  "mpn": "P109",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BUFFALOP109",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "electric",
+   "thermostat": "true",
+   "tempRange": "100°C-300°C",
+   "width": "440 mm",
+   "depth": "465 mm",
+   "height": "228 mm",
+   "weight": "23 kg",
+   "electricKw": "2.8 kW",
+   "amps": "12.2 A",
+   "voltage": "240V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "5120057",
+  "name": "Sammic MO-1434 34 Litre 1400W Programmable Microwave - 5120057",
+  "brand": "Sammic",
+  "mpn": "5120057",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_5120057",
+  "known": {
+   "programs": "100",
+   "width": "553 mm",
+   "depth": "485 mm",
+   "height": "343 mm",
+   "weight": "20.2 kg",
+   "electricKw": "1.4 kW",
+   "voltage": "230V, 50Hz",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ }
+]

@@ -1,0 +1,196 @@
+[
+ {
+  "id": "archwaypo5050de",
+  "name": "Archway PO5050DE Electric Pizza Oven Double Deck - 4 x 4 10\"",
+  "brand": "Archway",
+  "mpn": "PO5050DE",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAYPO5050DE",
+  "known": {
+   "decks": "2",
+   "pizzaSize": "10\"",
+   "chamber": "Deck - 4 x 4 10\"",
+   "maxTemp": "500 °C",
+   "fuel": "electric",
+   "width": "800 mm",
+   "depth": "720 mm",
+   "height": "500 mm",
+   "electricKw": "6 kW",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "archwaypo6262de",
+  "name": "Archway PO6262DE Electric Pizza Oven Double Deck - 4 x 4 12\"",
+  "brand": "Archway",
+  "mpn": "PO6262DE",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAYPO6262DE",
+  "known": {
+   "decks": "2",
+   "pizzaSize": "12\"",
+   "chamber": "Deck - 4 x 4 12\"",
+   "maxTemp": "500 °C",
+   "fuel": "electric",
+   "width": "920 mm",
+   "depth": "800 mm",
+   "height": "760 mm",
+   "electricKw": "10 kW",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "archwaypo6868de",
+  "name": "Archway PO6868DE Electric Pizza Oven Double Deck - 4 x 4 12\"",
+  "brand": "Archway",
+  "mpn": "PO6868DE",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAYPO6868DE",
+  "known": {
+   "decks": "2",
+   "pizzaSize": "12\"",
+   "chamber": "Deck - 4 x 4 12\"",
+   "maxTemp": "500 °C",
+   "fuel": "electric",
+   "width": "980 mm",
+   "depth": "860 mm",
+   "height": "760 mm",
+   "electricKw": "10 kW",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "archwaypo6292de",
+  "name": "Archway PO6292DE Electric Pizza Oven Double Deck - 6 x 6 12\"",
+  "brand": "Archway",
+  "mpn": "PO6292DE",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAYPO6292DE",
+  "known": {
+   "decks": "2",
+   "pizzaSize": "12\"",
+   "chamber": "Deck - 6 x 6 12\"",
+   "maxTemp": "500 °C",
+   "fuel": "electric",
+   "width": "920 mm",
+   "depth": "1120 mm",
+   "height": "760 mm",
+   "electricKw": "12 kW",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "classicjoess",
+  "name": "KAMANDO JOE - Classic Joe - Stand Alone - Stainless Steel Bands & Hinges - Red Only - KJ23NRSH",
+  "brand": "Kamado Joe",
+  "mpn": "KJ23NBS",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CLASSICJOESS",
+  "known": {
+   "width": "1181 mm",
+   "depth": "711 mm",
+   "height": "1219 mm",
+   "weight": "85 kg",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "memt18029",
+  "name": "Hallco MEMT18029 Medium Conveyor Toaster",
+  "brand": "Hallco",
+  "mpn": "MEMT18029",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MEMT18029",
+  "known": {
+   "throughput": "400 Slices per Hour",
+   "electricKw": "0.9 kW",
+   "amps": "13 A",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "bb1250n",
+  "name": "Blizzard BB1250N 1250mm Wide Neutral Display",
+  "brand": null,
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BB1250N",
+  "known": {
+   "mobility": "true",
+   "width": "1250 mm",
+   "depth": "800 mm",
+   "height": "1300 mm",
+   "weight": "140 kg",
+   "amps": "13 A",
+   "warranty": "2 years",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "jn",
+  "name": "Igloo Ambient Counter Top Glass Display Cabinet",
+  "brand": "Igloo",
+  "mpn": "JN",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_JN",
+  "known": {
+   "width": "1210 mm",
+   "depth": "430 mm",
+   "height": "390 mm",
+   "warranty": "2 years",
+   "finish": "silver"
+  }
+ },
+ {
+  "id": "glncube",
+  "name": "Igloo Gastroline Cube Ambient Patisserie Serveover Counter",
+  "brand": "Igloo",
+  "mpn": "Gastroline Cube",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GLNCUBE",
+  "known": {
+   "width": "610 mm",
+   "depth": "835 mm",
+   "height": "1270 mm",
+   "warranty": "2 years",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "hz508",
+  "name": "Buffalo HZ508 Slimline Food Warming Tray GN 1/1",
+  "brand": "Buffalo",
+  "mpn": "HZ508",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HZ508",
+  "known": {
+   "gnCapacity": "1/1 Gastronorm",
+   "weight": "3.67 kg",
+   "voltage": "240V",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "hz509",
+  "name": "Buffalo HZ509 Slimline Food Warming Tray GN 2/1",
+  "brand": "Buffalo",
+  "mpn": "HZ509",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HZ509",
+  "known": {
+   "gnCapacity": "2/1 Gastronorm",
+   "weight": "6.65 kg",
+   "voltage": "240V",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "gloray",
+  "name": "Hatco Glo-Ray Buffet Warmers",
+  "brand": "Hatco",
+  "mpn": "Glo-Ray",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GLORAY",
+  "known": {
+   "width": "638 mm",
+   "depth": "572 mm",
+   "height": "451 mm",
+   "electricKw": "1 kW",
+   "phase": "single",
+   "plug": "Plug Supplied"
+  }
+ }
+]

@@ -1,0 +1,261 @@
+[
+ {
+  "id": "dc319n",
+  "name": "Buffalo DC319-N Single Tank Twin Basket Gas Fryer",
+  "brand": "Buffalo",
+  "mpn": "DC319-N",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DC319N",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "18 litres",
+   "fuel": "gas",
+   "baskets": "2",
+   "thermostat": "110° to 190°C",
+   "width": "400 mm",
+   "depth": "730 mm",
+   "height": "940 mm",
+   "weight": "47 kg",
+   "gasKw": "26.4 kW",
+   "gasConnection": "3/4\" gas hose required",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "gf40",
+  "name": "Frymaster GF40 22 Lire Gas Fryer",
+  "brand": "Frymaster",
+  "mpn": "GF40",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF40",
+  "known": {
+   "oilCapacity": "25 litres",
+   "fuel": "gas",
+   "coldZone": "true",
+   "drainValve": "IPS ball-type drain valve",
+   "width": "397 mm",
+   "depth": "784 mm",
+   "height": "1172 mm",
+   "weight": "59 kg",
+   "gasKw": "35.8 kW",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "bluesealgt45",
+  "name": "Blue Seal GT45 Single Tank, Manual Control Gas Fryer",
+  "brand": "Blue Seal",
+  "mpn": "GT45",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BLUESEALGT45",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "20 litres",
+   "chipOutput": "31 kg/hr",
+   "filtration": "true",
+   "fuel": "gas",
+   "baskets": "2",
+   "thermostat": "145 – 195°C",
+   "drainValve": "drain valve",
+   "width": "450 mm",
+   "depth": "812 mm",
+   "height": "915 mm",
+   "weight": "81 kg",
+   "electricKw": "12.5 kW",
+   "gasKw": "25 kW",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "sg18s",
+  "name": "Pitco SG18S Single Tank Gas Fryer",
+  "brand": "Pitco",
+  "mpn": "SG18S",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SG18S",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "40 litres",
+   "chipOutput": "54 kg/hr",
+   "fuel": "gas",
+   "thermostat": "93 - 190°C",
+   "drainValve": "full port drain valve",
+   "computerControl": "digital",
+   "width": "498 mm",
+   "depth": "864 mm",
+   "height": "1198 mm",
+   "gasKw": "40 kW",
+   "amps": "3 A",
+   "warranty": "1 year",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "bluesealgt60",
+  "name": "Blue Seal GT60 Single Tank, Manual Control Gas Fryer",
+  "brand": "Blue Seal",
+  "mpn": "GT60",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BLUESEALGT60",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "31 litres",
+   "chipOutput": "31 kg/hr",
+   "filtration": "true",
+   "fuel": "gas",
+   "baskets": "2",
+   "thermostat": "145 – 195°C",
+   "drainValve": "drain valve",
+   "width": "600 mm",
+   "depth": "812 mm",
+   "height": "915 mm",
+   "weight": "95 kg",
+   "electricKw": "12.5 kW",
+   "gasKw": "25 kW",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "pdgf",
+  "name": "Parry GDF Gas Double Pedestal Fryer - 2 x 12 Litre Tanks",
+  "brand": "Parry",
+  "mpn": "GDF/P",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PDGF",
+  "known": {
+   "oilCapacity": "12 litres",
+   "chipOutput": "56 kg/hr",
+   "fuel": "gas",
+   "drainValve": "Drain tap behind door",
+   "width": "600 mm",
+   "depth": "690 mm",
+   "height": "940 mm",
+   "weight": "112 kg",
+   "gasConnection": "½ inch BSP male inlet gas connection",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "fkmtc",
+  "name": "BKI FKM-TC 34Kg Electric Pressure Fryer with Filtration",
+  "brand": "BKI",
+  "mpn": "FKM-TC",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FKMTC",
+  "known": {
+   "filtration": "true",
+   "fuel": "electric",
+   "coldZone": "true",
+   "width": "616 mm",
+   "depth": "965 mm",
+   "height": "1257 mm",
+   "weight": "174.6 kg",
+   "electricKw": "15.6 kW",
+   "amps": "22.8 A",
+   "voltage": "400V, 50Hz",
+   "phase": "three",
+   "hardWired": "true",
+   "finish": "white"
+  }
+ },
+ {
+  "id": "ck8015",
+  "name": "Cater-Cook CK8015 Single Contact Grill - Ribbed Top & Flat Bottom",
+  "brand": "Cater-Cook",
+  "mpn": "CK8015",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK8015",
+  "known": {
+   "plate": "ribbed",
+   "fuel": "electric",
+   "tempRange": "50 - 300°C",
+   "width": "320 mm",
+   "depth": "320 mm",
+   "height": "200 mm",
+   "weight": "16 kg",
+   "electricKw": "2.2 kW",
+   "voltage": "230V",
+   "plug": "13A plug",
+   "warranty": "2 years",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "ck8011",
+  "name": "Cater-Cook CK8011 Single Contact Grill - Ribbed Top & Bottom",
+  "brand": "Cater-Cook",
+  "mpn": "CK8011",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK8011",
+  "known": {
+   "plate": "ribbed",
+   "fuel": "electric",
+   "tempRange": "50-300°C",
+   "width": "320 mm",
+   "depth": "320 mm",
+   "height": "200 mm",
+   "weight": "16 kg",
+   "electricKw": "2.2 kW",
+   "voltage": "230V",
+   "plug": "13A plug",
+   "warranty": "1 year",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "brscg2",
+  "name": "Blizzard BRSCG2 Commercial Double Contact Grill - Flat Bottom, Ribbed Top",
+  "brand": "Blizzard",
+  "mpn": "BRSCG2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BRSCG2",
+  "known": {
+   "plate": "ribbed",
+   "thermostat": "true",
+   "tempRange": "50°C to 300°C",
+   "width": "570 mm",
+   "depth": "395 mm",
+   "height": "210 mm",
+   "weight": "28 kg",
+   "amps": "13 A",
+   "plug": "plug supplied",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "sirmanpd",
+  "name": "Sirman PD Electric Contact Grill",
+  "brand": "Sirman",
+  "mpn": "SIRMANPD",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SIRMANPD",
+  "known": {
+   "plate": "ribbed",
+   "fuel": "electric",
+   "radiant": "ceramic",
+   "thermostat": "true",
+   "width": "515 mm",
+   "depth": "435 mm",
+   "height": "235 mm",
+   "electricKw": "3 kW",
+   "phase": "single",
+   "plug": "plug supplied",
+   "warranty": "1 year",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "ges20",
+  "name": "Roller Grill GES20 Liege Waffle Iron",
+  "brand": "Roller Grill",
+  "mpn": "GES20",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GES20",
+  "known": {
+   "plate": "cast iron",
+   "thermostat": "true",
+   "width": "305 mm",
+   "depth": "440 mm",
+   "height": "230 mm",
+   "weight": "19 kg",
+   "electricKw": "1.5 kW",
+   "plug": "Plug Supplied",
+   "warranty": "2 years"
+  }
+ }
+]

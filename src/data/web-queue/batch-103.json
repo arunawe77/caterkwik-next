@@ -1,0 +1,205 @@
+[
+ {
+  "id": "gf074",
+  "name": "GF074 APS Float White Melamine Tray GN 1/1",
+  "brand": "APS",
+  "mpn": "GF074",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF074",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "heatType": "dry",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Shades",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "gd100",
+  "name": "GD100 White 1/1 GN Rectangular Buffet Tray",
+  "brand": "APS",
+  "mpn": "GD100",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GD100",
+  "known": {
+   "gnCapacity": "1/1 GN",
+   "heatType": "dry",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Shades",
+   "finish": "white"
+  }
+ },
+ {
+  "id": "gf075",
+  "name": "GF075 APS Float Black Melamine Tray GN 1/1",
+  "brand": "APS",
+  "mpn": "GF075",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF075",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "heatType": "dry",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Shades",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "6075979",
+  "name": "Rational 60.75.979- Kit of 4 Deep Frying Portion Baskets with Portion Frame",
+  "brand": "Rational",
+  "mpn": "60.75.979",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_6075979",
+  "known": {
+   "volume": "3.3 litres",
+   "width": "383 mm",
+   "depth": "449 mm",
+   "height": "275 mm",
+   "weight": "3.4 kg",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "archwayg2wg",
+  "name": "Archway G2W/G Gas Wet Well Bain Marie - 3 x 1/3 Gastronorm Containers",
+  "brand": "Archway",
+  "mpn": "G2W/G",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAYG2WG",
+  "known": {
+   "gnCapacity": "3 x 1/3 Gastronorm",
+   "heatType": "wet",
+   "wells": "3",
+   "width": "385 mm",
+   "depth": "630 mm",
+   "height": "350 mm",
+   "weight": "17 kg",
+   "gasConnection": "1/2\" Gas Hose Needed",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "archwayg3wg",
+  "name": "Archway G3W/G Gas Wet Well Bain Marie - 6 x 1/3 Gastronorm Containers",
+  "brand": "Archway",
+  "mpn": "G3WG",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAYG3WG",
+  "known": {
+   "gnCapacity": "6 x 1/3 Gastronorm",
+   "heatType": "wet",
+   "wells": "6",
+   "width": "710 mm",
+   "depth": "630 mm",
+   "height": "350 mm",
+   "weight": "25 kg",
+   "gasConnection": "1/2\" Gas Hose Needed",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "archway6pwg",
+  "name": "Archway 6PW/G Gas Wet Well Bain Marie - 6 x 4.5ltr Round Pots",
+  "brand": "Archway",
+  "mpn": "6PWG",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAY6PWG",
+  "known": {
+   "heatType": "wet",
+   "volume": "4.5 litres",
+   "width": "710 mm",
+   "depth": "630 mm",
+   "height": "350 mm",
+   "weight": "25 kg",
+   "gasConnection": "1/2\" Gas Hose Needed",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "gm819",
+  "name": "Rowlett GM819 Heat & Hold Soup Kettle 10 Litres",
+  "brand": "Rowlett",
+  "mpn": "GM819",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GM819",
+  "known": {
+   "heatType": "dry",
+   "volume": "10 litres",
+   "tempRange": "40°C to 90°C",
+   "width": "375 mm",
+   "voltage": "240 V",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ih35w",
+  "name": "Sirman IH 35 WOK Countertop Induction Wok",
+  "brand": "Sirman",
+  "mpn": "IH-35W",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_IH35W",
+  "known": {
+   "fuel": "induction",
+   "width": "340 mm",
+   "depth": "445 mm",
+   "height": "110 mm",
+   "weight": "7.3 kg",
+   "electricKw": "3.5 kW",
+   "amps": "13 A",
+   "voltage": "230V, 50HZ",
+   "plug": "plug supplied"
+  }
+ },
+ {
+  "id": "7855n11090803",
+  "name": "Ozti 7855N11090803 Boiling Pan Indirect Gas 250 Lt Rectangular",
+  "brand": "Ozti",
+  "mpn": "7855.N1.10908.03",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_7855N11090803",
+  "known": {
+   "fuel": "gas",
+   "heating": "indirect",
+   "tap": "true",
+   "width": "1000 mm",
+   "depth": "900 mm",
+   "height": "900 mm",
+   "voltage": "240V",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "okteid150",
+  "name": "Ozti - Automatic Electric Tilting Kettle - 150L",
+  "brand": "Ozti",
+  "mpn": "OKTEID150",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_OKTEID150",
+  "known": {
+   "volume": "150 litres",
+   "fuel": "electric",
+   "heating": "indirect",
+   "tilting": "true",
+   "width": "1928 mm",
+   "depth": "1650 mm",
+   "height": "1087 mm",
+   "weight": "250 kg",
+   "gasConnection": "¾\" inlet connection",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "bsg593",
+  "name": "Blue Seal Evolution G593-LS Gas Chargrill",
+  "brand": "Blue Seal",
+  "mpn": "G593",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BSG593",
+  "known": {
+   "fuel": "gas",
+   "width": "450 mm",
+   "depth": "812 mm",
+   "height": "1085 mm",
+   "weight": "133 kg",
+   "gasKw": "14.4 kW",
+   "gasConnection": "3/4\" BSP gas hose",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ }
+]

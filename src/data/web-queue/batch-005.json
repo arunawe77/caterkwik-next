@@ -1,0 +1,116 @@
+[
+ {
+  "id": "cb900",
+  "name": "Vogue CB900 Non-Stick Induction Frypan 240mm",
+  "brand": "Vogue",
+  "mpn": "CB900",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CB900",
+  "known": {
+   "fuel": "induction"
+  }
+ },
+ {
+  "id": "j719",
+  "name": "J719 Vogue Stainless Steel Spaghetti Basket",
+  "brand": "Vogue",
+  "mpn": "J719",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_J719",
+  "known": {
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "f008",
+  "name": "F008 Tempered Pizza Pan 8mm x 305mm",
+  "brand": "Vogue",
+  "mpn": "F008",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_F008",
+  "known": {
+   "pizzaSize": "12\""
+  }
+ },
+ {
+  "id": "f009",
+  "name": "F009 Tempered Pizza Pan 8mm x 355mm",
+  "brand": "Vogue",
+  "mpn": "F009",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_F009",
+  "known": {
+   "pizzaSize": "14\""
+  }
+ },
+ {
+  "id": "f004",
+  "name": "F004 Tempered Pizza Pan 15mm x 228mm",
+  "brand": "Non Branded",
+  "mpn": "F004",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_F004",
+  "known": {
+   "pizzaSize": "9\""
+  }
+ },
+ {
+  "id": "f005",
+  "name": "F005 Tempered Pizza Pan 15mm x 254mm",
+  "brand": "Non Branded",
+  "mpn": "F005",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_F005",
+  "known": {
+   "pizzaSize": "10\""
+  }
+ },
+ {
+  "id": "f006",
+  "name": "F006 Tempered Pizza Pan 15mm x 305mm",
+  "brand": "Non Branded",
+  "mpn": "F006",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_F006",
+  "known": {
+   "pizzaSize": "12\""
+  }
+ },
+ {
+  "id": "dghtraygws1",
+  "name": "Alphin Pans 655mm x 450mm White Dough Tray",
+  "brand": "Alphin Pans",
+  "mpn": "DGH.TRAY.GWS1",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DGHTRAYGWS1",
+  "known": {
+   "finish": "white"
+  }
+ },
+ {
+  "id": "ge211",
+  "name": "GE211 Pizza Oven Brush Handle",
+  "brand": "Vogue",
+  "mpn": "GE211",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GE211",
+  "known": {}
+ },
+ {
+  "id": "ge204",
+  "name": "GE204 Pizza Oven Brush",
+  "brand": "Vogue",
+  "mpn": "GE204",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GE204",
+  "known": {}
+ },
+ {
+  "id": "cb667",
+  "name": "CB667 APS Frames Maple Wood Riser",
+  "brand": "APS",
+  "mpn": "CB667",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CB667",
+  "known": {}
+ },
+ {
+  "id": "gc943",
+  "name": "GC943 APS Frames Polyratten 1/1 GN Basket with Frame",
+  "brand": "APS",
+  "mpn": "GC943",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GC943",
+  "known": {
+   "gnCapacity": "1/1 GN"
+  }
+ }
+]

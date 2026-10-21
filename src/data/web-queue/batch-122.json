@@ -1,0 +1,229 @@
+[
+ {
+  "id": "i9085",
+  "name": "Falcon F900 i9085 Induction Boiling Top - 4 x 5kW",
+  "brand": "Falcon",
+  "mpn": "i9085",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_I9085",
+  "known": {
+   "fuel": "induction",
+   "width": "800 mm",
+   "depth": "900 mm",
+   "height": "350 mm",
+   "electricKw": "20 kW",
+   "amps": "32 A",
+   "plug": "32A",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "psf400e",
+  "name": "Roller Grill PSF400E Cast Iron Griddle",
+  "brand": "Roller Grill",
+  "mpn": "PSF400E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PSF400E",
+  "known": {
+   "plate": "cast iron",
+   "tempRange": "40 - 300°C",
+   "width": "400 mm",
+   "depth": "475 mm",
+   "height": "230 mm",
+   "weight": "22 kg",
+   "electricKw": "2 kW",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "pg4",
+  "name": "Parry PG4 Electric Griddle",
+  "brand": "Parry",
+  "mpn": "NPG4",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PG4",
+  "known": {
+   "plate": "mild steel",
+   "fuel": "electric",
+   "thermostat": "true",
+   "tempRange": "50 - 300°C",
+   "width": "450 mm",
+   "depth": "600 mm",
+   "height": "355 mm",
+   "weight": "38 kg",
+   "electricKw": "3 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "pg6",
+  "name": "Parry PG6 Electric Griddle",
+  "brand": "Parry",
+  "mpn": "PG6",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PG6",
+  "known": {
+   "plate": "mild steel",
+   "fuel": "electric",
+   "thermostat": "true",
+   "tempRange": "50 - 300°C",
+   "width": "600 mm",
+   "depth": "600 mm",
+   "height": "355 mm",
+   "weight": "45 kg",
+   "electricKw": "3 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "sharpr23am",
+  "name": "Sharp R23AM Extra Heavy Duty 1900W Commercial Microwave",
+  "brand": "Sharp",
+  "mpn": "R-23AM",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SHARPR23AM",
+  "known": {
+   "timer": "Timer",
+   "microwaveOutput": "1900 W",
+   "width": "510 mm",
+   "depth": "470 mm",
+   "height": "335 mm",
+   "weight": "33 kg",
+   "electricKw": "2.9 kW",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "fs316",
+  "name": "Samsung FS316 1850W Commercial Digital Microwave 26Ltr",
+  "brand": "Samsung",
+  "mpn": "FS316",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FS316",
+  "known": {
+   "gnCapacity": "2/3GN",
+   "microwaveOutput": "1850 W",
+   "width": "464 mm",
+   "depth": "557 mm",
+   "height": "368 mm",
+   "weight": "32 kg",
+   "voltage": "240V",
+   "warranty": "3 years",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "5120047",
+  "name": "Sammic MO-1817S 1800W 17 Litre 'Scan & Go' Commercial Microwave",
+  "brand": "Sammic",
+  "mpn": "MO-1817S",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_5120047",
+  "known": {
+   "timer": "Timer can be set from 1 - 60 minutes",
+   "width": "420 mm",
+   "depth": "560 mm",
+   "height": "341 mm",
+   "weight": "30 kg",
+   "electricKw": "3 kW",
+   "voltage": "230V, 50Hz",
+   "plug": "Plug Supplied",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "cpg726",
+  "name": "Giorik CPG726 Gas Pasta Boiler - 2/3GN",
+  "brand": "Giorik",
+  "mpn": "CPG726",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CPG726",
+  "known": {
+   "volume": "23 litres",
+   "fuel": "gas",
+   "tap": "true",
+   "width": "400 mm",
+   "depth": "700 mm",
+   "height": "860 mm",
+   "electricKw": "10 kW",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cpg926",
+  "name": "Giorik CPG926 Gas Pasta Boiler - 1/1GN",
+  "brand": "Giorik",
+  "mpn": "CPG926",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CPG926",
+  "known": {
+   "volume": "40 litres",
+   "fuel": "gas",
+   "tap": "true",
+   "width": "400 mm",
+   "depth": "900 mm",
+   "height": "860 mm",
+   "electricKw": "15 kW",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cpg746",
+  "name": "Giorik CPG746 Gas Pasta Boiler - 2/3GN",
+  "brand": "Giorik",
+  "mpn": "CPG746",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CPG746",
+  "known": {
+   "volume": "23 litres",
+   "fuel": "gas",
+   "tap": "true",
+   "width": "800 mm",
+   "depth": "700 mm",
+   "height": "860 mm",
+   "gasKw": "20 kW",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cpg946",
+  "name": "Giorik CPG946 Gas Pasta Boiler - 1/1GN",
+  "brand": "Giorik",
+  "mpn": "CPG946",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CPG946",
+  "known": {
+   "volume": "40 litres",
+   "fuel": "gas",
+   "tap": "true",
+   "width": "800 mm",
+   "depth": "900 mm",
+   "height": "860 mm",
+   "gasKw": "30 kW",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "p15041",
+  "name": "Pujadas P15.041 6 Slot Toaster",
+  "brand": "Pujadas",
+  "mpn": "P15.041",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_P15041",
+  "known": {
+   "timer": "Timer function",
+   "plates": "6",
+   "width": "460 mm",
+   "depth": "210 mm",
+   "height": "230 mm",
+   "electricKw": "2.5 kW",
+   "voltage": "230v, 50hz",
+   "plug": "plug supplied",
+   "finish": "stainless steel construction"
+  }
+ }
+]

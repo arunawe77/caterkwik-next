@@ -1,0 +1,112 @@
+# Checks every push and pull request. A push to main that passes is deployed to production.
+#
+# Secrets (Settings > Secrets and variables > Actions): DEPLOY_HOST, DEPLOY_USER, DEPLOY_SSH_KEY, DEPLOY_KNOWN_HOSTS.
+# The server is prepared once with deploy/server-setup.sh. Run "Actions > CI and deploy > Run workflow" to redeploy
+# by hand, optionally with the catalogue media sync (copies product images to the media storage and relinks them).
+name: CI and deploy
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+    inputs:
+      sync_media:
+        description: "After deploying, copy catalogue images to the media storage and relink them"
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: ${{ github.ref != 'refs/heads/main' }}
+
+jobs:
+  verify:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Type check
+        run: npx tsc --noEmit
+      - name: Lint
+        run: npm run lint
+      - name: Tests (real Postgres)
+        run: npm test
+      - name: Build
+        run: npm run build
+
+  image:
+    # The production image must build too: it is what the server builds.
+    runs-on: ubuntu-24.04
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: docker/setup-buildx-action@v3
+      - uses: docker/build-push-action@v6
+        with:
+          context: .
+          push: false
+          cache-from: type=gha
+          cache-to: type=gha,mode=max
+
+  deploy:
+    needs: [verify, image]
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    environment: production
+    concurrency:
+      group: deploy-production
+      cancel-in-progress: false
+    env:
+      APP_DIR: /opt/caterkwick/caterkwik-next
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: SSH setup
+        run: |
+          install -m 700 -d ~/.ssh
+          printf '%s\n' "${{ secrets.DEPLOY_SSH_KEY }}" > ~/.ssh/deploy_key
+          chmod 600 ~/.ssh/deploy_key
+          printf '%s\n' "${{ secrets.DEPLOY_KNOWN_HOSTS }}" > ~/.ssh/known_hosts
+          cat > ~/.ssh/config <<CFG
+          Host prod
+            HostName ${{ secrets.DEPLOY_HOST }}
+            User ${{ secrets.DEPLOY_USER }}
+            IdentityFile ~/.ssh/deploy_key
+            IdentitiesOnly yes
+            StrictHostKeyChecking yes
+            ServerAliveInterval 30
+          CFG
+
+      - name: Upload the release
+        # .env, runtime data and build output on the server are never touched.
+        run: |
+          rsync -az --delete \
+            --exclude='.git' --exclude='.github' --exclude='node_modules' --exclude='.next' --exclude='.env' \
+            --exclude='.pgdata' --exclude='coverage' --exclude='mirror-failures.txt' --exclude='docker-compose.override.yml' --exclude='*.log' \
+            ./ "prod:${APP_DIR}/"
+
+      - name: Back up the database, build, restart (rolls back if unhealthy)
+        run: ssh prod "cd ${APP_DIR} && ./deploy/pre-release-backup.sh && ./deploy/release.sh"
+
+      - name: Media sync
+        if: ${{ github.event_name == 'workflow_dispatch' && inputs.sync_media }}
+        run: ssh prod "cd ${APP_DIR} && ./deploy/media-sync.sh"
+
+      - name: Smoke test the public site
+        run: |
+          for i in 1 2 3 4 5 6; do
+            if curl -fsS "http://${{ secrets.DEPLOY_HOST }}/api/health?db=1" ; then echo; exit 0; fi
+            sleep 5
+          done
+          echo "the public site did not answer its health check" >&2
+          exit 1

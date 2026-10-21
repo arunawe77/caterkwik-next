@@ -1,0 +1,200 @@
+[
+ {
+  "id": "bt1sce240",
+  "name": "Bradley Original Smoker",
+  "brand": "Bradley",
+  "mpn": "Original",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BT1SCE240",
+  "known": {
+   "width": "430 mm",
+   "depth": "370 mm",
+   "height": "800 mm",
+   "weight": "27 kg",
+   "electricKw": "0.61 kW",
+   "amps": "2.5 A",
+   "voltage": "240V, 50Hz",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "classicjoecart",
+  "name": "KAMADO JOE - Classic II - Ceramic Grill with Cart & Side Shelves - Red Only - KJ23RH",
+  "brand": "Kamado Joe",
+  "mpn": "KJ23R",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CLASSICJOECART",
+  "known": {
+   "width": "1181 mm",
+   "depth": "711 mm",
+   "height": "1219 mm",
+   "weight": "85 kg",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ft1",
+  "name": "Fortius FT1 Conveyor Toaster.",
+  "brand": "Fortius",
+  "mpn": "FT1",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FT1",
+  "known": {
+   "throughput": "300 slices per hour",
+   "width": "368 mm",
+   "depth": "418 mm",
+   "height": "387 mm",
+   "electricKw": "2.4 kW",
+   "warranty": "1 year",
+   "finish": "Stainless Steel Finish"
+  }
+ },
+ {
+  "id": "dct2i",
+  "name": "Dualit DCT2i Conveyor Toaster (80210)",
+  "brand": "Dualit",
+  "mpn": "80210",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DCT2I",
+  "known": {
+   "throughput": "560 slices per hour",
+   "width": "439 mm",
+   "depth": "429 mm",
+   "height": "413 mm",
+   "weight": "14 kg",
+   "electricKw": "2.7 kW",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "memt18061",
+  "name": "Hallco MEMT18061 Conveyor Toaster",
+  "brand": "Hallco",
+  "mpn": "MEMT18061",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MEMT18061",
+  "known": {
+   "throughput": "475 slices per hour",
+   "width": "460 mm",
+   "depth": "410 mm",
+   "height": "360 mm",
+   "electricKw": "2.8 kW",
+   "amps": "13 A",
+   "plug": "13A - plug",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "princebun",
+  "name": "Prince Castle 297-T9FGB Vertical Contact Bun Toaster - 9 Second",
+  "brand": "Prince Castle",
+  "mpn": "297-T9FGB",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PRINCEBUN",
+  "known": {
+   "thermostat": "thermostat allow precise toasting",
+   "width": "635 mm",
+   "depth": "211 mm",
+   "height": "668 mm",
+   "electricKw": "1.7 kW",
+   "voltage": "230V",
+   "warranty": "1 year",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "ctdetoaster",
+  "name": "Prince Castle CTDE-W-CE Double Vertical Contact Toaster",
+  "brand": "Prince Castle",
+  "mpn": "CTDE-W-CE",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CTDETOASTER",
+  "known": {
+   "amps": "13.5 A",
+   "voltage": "240V",
+   "phase": "single",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "hx499",
+  "name": "Rowlett HX499 Double Slice Conveyor Toaster",
+  "brand": "Rowlett",
+  "mpn": "HX499",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HX499",
+  "known": {
+   "width": "400 mm",
+   "depth": "585 mm",
+   "height": "470 mm",
+   "weight": "29.9 kg",
+   "electricKw": "2.48 kW",
+   "voltage": "240V",
+   "warranty": "2 years",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "tp10",
+  "name": "Sammic TP-100 Toasting Grill",
+  "brand": "Sammic",
+  "mpn": "TP-10",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_TP10",
+  "known": {
+   "fuel": "electric",
+   "width": "525 mm",
+   "depth": "305 mm",
+   "height": "325 mm",
+   "weight": "8.2 kg",
+   "electricKw": "2 kW",
+   "voltage": "230 V",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "cj533",
+  "name": "Buffalo CJ533 Double Round Belgian Waffle Maker",
+  "brand": "Buffalo",
+  "mpn": "CJ533",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CJ533",
+  "known": {
+   "throughput": "60 waffles per hour",
+   "timer": "Timers for consistent results",
+   "width": "500 mm",
+   "depth": "290 mm",
+   "height": "198 mm",
+   "weight": "9.8 kg",
+   "electricKw": "2 kW",
+   "amps": "8.7 A",
+   "voltage": "240V",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "fwm1b",
+  "name": "Hatco - Flip Waffle Maker - FWM-1B",
+  "brand": "Hatco",
+  "mpn": "FWM-1B",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FWM1B",
+  "known": {
+   "timer": "timer, temperature and status information, wh",
+   "thermostat": "thermostatic control and a programmable",
+   "width": "294 mm",
+   "depth": "579 mm",
+   "height": "294 mm",
+   "weight": "12 kg",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "gc36d",
+  "name": "Lincat GC36D Glass Display Case",
+  "brand": "Lincat",
+  "mpn": "GC36D",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GC36D",
+  "known": {
+   "width": "600 mm",
+   "depth": "350 mm",
+   "height": "490 mm",
+   "weight": "30 kg",
+   "finish": "stainless steel"
+  }
+ }
+]

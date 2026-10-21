@@ -1,0 +1,213 @@
+[
+ {
+  "id": "e20p",
+  "name": "E20P",
+  "brand": "CB",
+  "mpn": "E20P",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "electric",
+   "width": "880 mm",
+   "depth": "450 mm",
+   "height": "1250 mm",
+   "electricKw": "10.7 kW",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "e30p",
+  "name": "E30P",
+  "brand": "CB",
+  "mpn": "E30P",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "electric",
+   "width": "880 mm",
+   "depth": "450 mm",
+   "height": "1250 mm",
+   "electricKw": "10.7 kW",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "e36p",
+  "name": "E36P",
+  "brand": "CB",
+  "mpn": "E36P",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "electric",
+   "castors": "castors",
+   "width": "1270 mm",
+   "depth": "500 mm",
+   "height": "1950 mm",
+   "electricKw": "18.7 kW",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "e48p",
+  "name": "E48P",
+  "brand": "CB",
+  "mpn": "E48P",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "electric",
+   "castors": "castors",
+   "width": "1270 mm",
+   "depth": "500 mm",
+   "height": "2030 mm",
+   "electricKw": "24 kW",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "je999",
+  "name": "JE999",
+  "brand": "Rowlett",
+  "mpn": "JE999",
+  "caterkwikUrl": null,
+  "known": {
+   "tempRange": "20-260°C",
+   "door": "glass door improves visibility",
+   "timer": "timer is simple to learn, helping new team me",
+   "width": "515 mm",
+   "weight": "29 kg",
+   "voltage": "240 V",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "jd457",
+  "name": "JD457",
+  "brand": "Buffalo",
+  "mpn": "JD457",
+  "caterkwikUrl": null,
+  "known": {
+   "door": "glass door and bright internal",
+   "width": "460 mm",
+   "depth": "610 mm",
+   "height": "525 mm",
+   "weight": "36 kg",
+   "voltage": "230V"
+  }
+ },
+ {
+  "id": "rbg30",
+  "name": "RBG 30",
+  "brand": "Roller Grill",
+  "mpn": "RBG 30",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "gas",
+   "width": "1345 mm",
+   "depth": "480 mm",
+   "height": "1285 mm",
+   "electricKw": "38 kW",
+   "voltage": "240V",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "charcoaltandoor",
+  "name": "Size 1",
+  "brand": "Shahi Tandoori Oven",
+  "mpn": "Size 1",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "charcoal",
+   "castors": "castors",
+   "width": "600 mm",
+   "depth": "700 mm",
+   "height": "920 mm",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "sf003gb",
+  "name": "SF003",
+  "brand": "Spidocook",
+  "mpn": "SF003",
+  "caterkwikUrl": null,
+  "known": {
+   "trays": "0 x587x472",
+   "trayPitch": "70 mm",
+   "tempRange": "30 ° C - 260 ° C",
+   "humidity": "true",
+   "door": "glass door and the high",
+   "width": "480 mm",
+   "depth": "523 mm",
+   "height": "402 mm",
+   "weight": "16 kg",
+   "electricKw": "2.9 kW",
+   "voltage": "240 V",
+   "warranty": "1 year",
+   "finish": "BLACK"
+  }
+ },
+ {
+  "id": "lpv6421d",
+  "name": "LPV6841D",
+  "brand": "Giorik",
+  "mpn": "LPV6841D",
+  "caterkwikUrl": null,
+  "known": {
+   "width": "600 mm",
+   "electricKw": "8 kW",
+   "voltage": "230V",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "lmd9",
+  "name": "LMD9",
+  "brand": "Lincat",
+  "mpn": "LMD9",
+  "caterkwikUrl": null,
+  "known": {
+   "trays": "2 x 1/1 GN per shelf",
+   "gnCapacity": "2 x 1/1 GN",
+   "tempRange": "150 to 265°C",
+   "width": "900 mm",
+   "depth": "700 mm",
+   "height": "1630 mm",
+   "weight": "275 kg",
+   "electricKw": "16 kW",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "lm09",
+  "name": "LMO9",
+  "brand": "Lincat",
+  "mpn": "LMO9",
+  "caterkwikUrl": null,
+  "known": {
+   "trays": "2 x 1/1 GN per shelf",
+   "gnCapacity": "2 x 1/1 GN",
+   "tempRange": "150 to 265°C",
+   "width": "900 mm",
+   "depth": "700 mm",
+   "height": "880 mm",
+   "weight": "158 kg",
+   "electricKw": "8 kW",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ }
+]

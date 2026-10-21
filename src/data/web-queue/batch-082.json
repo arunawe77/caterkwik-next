@@ -1,0 +1,201 @@
+[
+ {
+  "id": "fd033",
+  "name": "JM Posner FD033 Double Bottle Warmer",
+  "brand": "JM Posner",
+  "mpn": "FD033",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FD033",
+  "known": {
+   "width": "250 mm",
+   "depth": "220 mm",
+   "height": "200 mm",
+   "weight": "3.8 kg",
+   "voltage": "230V",
+   "warranty": "1 year",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "83714",
+  "name": "Server Heated Dispenser with Ladle",
+  "brand": "Server",
+  "mpn": "83714",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_83714",
+  "known": {
+   "volume": "2.8 litres",
+   "width": "227 mm",
+   "depth": "384 mm",
+   "height": "392 mm",
+   "electricKw": "0.5 kW",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "83697",
+  "name": "Server 83697 Heated Pump Dispenser",
+  "brand": "Server",
+  "mpn": "83697",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_83697",
+  "known": {
+   "volume": "2.8 litres",
+   "width": "227 mm",
+   "depth": "394 mm",
+   "height": "392 mm",
+   "electricKw": "0.5 kW",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "gxih23",
+  "name": "Chefsrange GXIH2-3 SNACK 50 Counter Top 2 Ring Induction Hob - 2 x 3kW Power",
+  "brand": "Eurocatering",
+  "mpn": "GXIH2-3",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GXIH23",
+  "known": {
+   "fuel": "induction",
+   "zones": "2",
+   "width": "800 mm",
+   "depth": "510 mm",
+   "height": "180 mm",
+   "electricKw": "3 kW"
+  }
+ },
+ {
+  "id": "6954703",
+  "name": "Vollrath Double Countertop Induction Hob - 6954703",
+  "brand": "Vollrath",
+  "mpn": "6954703",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_6954703",
+  "known": {
+   "fuel": "induction",
+   "width": "330 mm",
+   "depth": "686 mm",
+   "height": "127 mm",
+   "electricKw": "3.8 kW",
+   "warranty": "2 years",
+   "finish": "stainless steel casing"
+  }
+ },
+ {
+  "id": "gv870el",
+  "name": "Arris GV870EL Counter Top Electric Chargrill With Water Tray",
+  "brand": "Arris",
+  "mpn": "GV870EL",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GV870EL",
+  "known": {
+   "fuel": "electric",
+   "thermostat": "true",
+   "width": "800 mm",
+   "depth": "700 mm",
+   "height": "315 mm",
+   "electricKw": "10.4 kW",
+   "voltage": "415v",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "tf77",
+  "name": "Valentine TF Twin Tank Electric Fryers",
+  "brand": "Valentine",
+  "mpn": "TF77",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_TF77",
+  "known": {
+   "tanks": "2",
+   "fuel": "electric",
+   "drainValve": "Drain valve Pan pressed fr",
+   "width": "560 mm",
+   "depth": "415 mm",
+   "height": "265 mm",
+   "electricKw": "3 kW",
+   "amps": "13 A",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "j382",
+  "name": "Frypowder (Pack of 72) - J382",
+  "brand": "Frypowder",
+  "mpn": "J382",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_J382",
+  "known": {
+   "tanks": "1",
+   "filtration": "true",
+   "fuel": "electric",
+   "computerControl": "computer",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "memt16053x",
+  "name": "Hallco MEMT16053XNS Double Flat Contact Grill",
+  "brand": "Hallco",
+  "mpn": "MEMT16053XNS",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MEMT16053X",
+  "known": {
+   "thermostat": "true",
+   "width": "630 mm",
+   "depth": "380 mm",
+   "height": "460 mm",
+   "electricKw": "3.6 kW",
+   "plug": "13A plug",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "sp020pgb",
+  "name": "Spidocook SP020P Spidoglass Double Smooth Contact Grill - Manual Control",
+  "brand": "Spidocook",
+  "mpn": "SP020P",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SP020PGB",
+  "known": {
+   "plate": "smooth",
+   "radiant": "ceramic",
+   "width": "250 mm",
+   "depth": "458 mm",
+   "height": "176 mm",
+   "weight": "17 kg",
+   "electricKw": "3 kW",
+   "voltage": "240V",
+   "warranty": "1 year",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "mh9",
+  "name": "Moffat Catering Mobile Hot Cupboard MH9",
+  "brand": "Moffat",
+  "mpn": "MH9",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MH9",
+  "known": {
+   "mobility": "true",
+   "weight": "52 kg",
+   "electricKw": "1.5 kW",
+   "amps": "13 A",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "upcs140",
+  "name": "Cambro Top Loading S-Series Camcarriers",
+  "brand": "Cambro",
+  "mpn": "UPCS Camcarriers",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_UPCS140",
+  "known": {
+   "gnCapacity": "1/1 GN",
+   "mobility": "true",
+   "width": "640 mm",
+   "depth": "435 mm",
+   "height": "220 mm",
+   "warranty": "1 year"
+  }
+ }
+]

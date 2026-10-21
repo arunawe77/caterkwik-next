@@ -1,0 +1,204 @@
+[
+ {
+  "id": "ck7111",
+  "name": "Cater-Cook CK7111 Hot Dog Warmer with 4 Hot Dog Roll Warming Spikes",
+  "brand": "Cater-Cook",
+  "mpn": "CK7111",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK7111",
+  "known": {
+   "width": "520 mm",
+   "depth": "320 mm",
+   "height": "380 mm",
+   "electricKw": "0.8 kW",
+   "amps": "2.6 A",
+   "voltage": "240V",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "parryambientcupboards",
+  "name": "Parry Ambient Flat Top Storage Cupboards",
+  "brand": "Parry",
+  "mpn": "AMB12",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PARRYAMBIENTCUPBOARDS",
+  "known": {
+   "plateCapacity": "360",
+   "mobility": "true",
+   "width": "1200 mm",
+   "depth": "650 mm",
+   "height": "900 mm",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "parryambientpassthroughcupboards",
+  "name": "Parry Ambient Flat Top Passthrough Storage Cupboards",
+  "brand": "Parry",
+  "mpn": "AMB12P",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PARRYAMBIENTPASSTHROUGHCUPBOARDS",
+  "known": {
+   "plateCapacity": "360",
+   "mobility": "true",
+   "width": "1200 mm",
+   "depth": "650 mm",
+   "height": "900 mm",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ct3571ph",
+  "name": "Menumaster CT357-1PH XpressChef Xpress IQ High-Speed Oven MRX Single Phase",
+  "brand": "Menumaster",
+  "mpn": "CT357",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CT3571PH",
+  "known": {
+   "tempRange": "95° to 270°C",
+   "width": "356 mm",
+   "depth": "312 mm",
+   "height": "577 mm",
+   "weight": "60 kg",
+   "voltage": "240V",
+   "phase": "single",
+   "hardWired": "true",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "cnh28",
+  "name": "Carter-Hoffman Crisp 'n' Hold Fried Food Station - CNH28",
+  "brand": "Carter-Hoffman",
+  "mpn": "CNH28",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CNH28",
+  "known": {
+   "bulbs": "heat lamps and enclosed holding cabinet",
+   "width": "714 mm",
+   "depth": "737 mm",
+   "height": "527 mm",
+   "weight": "44 kg",
+   "electricKw": "3 kW",
+   "amps": "16 A",
+   "voltage": "230v, 50Hz",
+   "phase": "single",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "ch116",
+  "name": "Olympia CH116 Insulated Swirl Black Jug 0.5Ltr",
+  "brand": "Olympia",
+  "mpn": "CH116",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CH116",
+  "known": {
+   "heatType": "dry",
+   "volume": "0.5 litres",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Shades",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "ch117",
+  "name": "Olympia CH117 Insulated Swirl Black Jug 1.2Ltr",
+  "brand": "Olympia",
+  "mpn": "CH117",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CH117",
+  "known": {
+   "heatType": "dry",
+   "volume": "1.2 litres",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Shades",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "gr60g",
+  "name": "Roller Grill GR60G 600mm 3 Burner Gas Kebab Grill",
+  "brand": "Roller Grill",
+  "mpn": "GR60G",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GR60G",
+  "known": {
+   "fuel": "gas",
+   "capacityKg": "25 kg",
+   "width": "580 mm",
+   "depth": "660 mm",
+   "height": "870 mm",
+   "weight": "31 kg",
+   "gasConnection": "½ Inch Gas Hose",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "gr80g",
+  "name": "Roller Grill GR80G 800mm 4 Burner Gas Kebab Grill",
+  "brand": "Roller Grill",
+  "mpn": "GR80G",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GR80G",
+  "known": {
+   "fuel": "gas",
+   "capacityKg": "40 kg",
+   "width": "580 mm",
+   "depth": "660 mm",
+   "height": "1045 mm",
+   "weight": "35 kg",
+   "gasConnection": "½ Inch Gas Hose",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "sej22000",
+  "name": "TG - Stainless Steel 50 Cups 14Ltr Rice Warmer SEJ22000",
+  "brand": "Thunder Group",
+  "mpn": "SEJ22000",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SEJ22000",
+  "known": {
+   "volume": "14 litres",
+   "width": "393 mm",
+   "depth": "393 mm",
+   "height": "387 mm",
+   "voltage": "240V",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "sw7200",
+  "name": "Roband SW7200 Rice Cooker",
+  "brand": "Roband",
+  "mpn": "SW7200",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SW7200",
+  "known": {
+   "volume": "7.2 litres",
+   "depth": "530 mm",
+   "height": "360 mm",
+   "electricKw": "2.3 kW",
+   "amps": "13 A",
+   "voltage": "230V, 50HZ",
+   "plug": "plug supplied",
+   "warranty": "1 year",
+   "finish": "stainless steel body"
+  }
+ },
+ {
+  "id": "sw10000",
+  "name": "Roband SW10000 Rice Cooker",
+  "brand": "Roband",
+  "mpn": "SW10000",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SW10000",
+  "known": {
+   "volume": "10 litres",
+   "depth": "370 mm",
+   "height": "360 mm",
+   "electricKw": "1.85 kW",
+   "amps": "13 A",
+   "voltage": "230V, 50HZ",
+   "plug": "Plug supplied",
+   "warranty": "1 year",
+   "finish": "stainless steel body"
+  }
+ }
+]

@@ -1,0 +1,133 @@
+[
+ {
+  "id": "cc311",
+  "name": "Olympia GJ556 Cast Iron Round Sizzle Platter, 220mm",
+  "brand": "Olympia",
+  "mpn": "GJ556",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CC311",
+  "known": {
+   "fuel": "induction"
+  }
+ },
+ {
+  "id": "dn903",
+  "name": "De Buyer Mineral B Black Iron Crepe Pan 240mm - DN903",
+  "brand": "De Buyer",
+  "mpn": "DN903",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DN903",
+  "known": {
+   "fuel": "induction",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "pldb182603pp",
+  "name": "Thunder Group PLDB182603PP Pizza Dough Box",
+  "brand": "Thunder Group",
+  "mpn": "PLDB182603PP",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PLDB182603PP",
+  "known": {
+   "width": "660 mm",
+   "depth": "457 mm",
+   "height": "76 mm"
+  }
+ },
+ {
+  "id": "pldb182606pp",
+  "name": "Thunder Group PLDB182606PP Pizza Dough Box",
+  "brand": "Thunder Group",
+  "mpn": "PLDB182606PP",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PLDB182606PP",
+  "known": {
+   "width": "660 mm",
+   "depth": "457 mm",
+   "height": "152 mm"
+  }
+ },
+ {
+  "id": "pujadaspizzapanrack",
+  "name": "Pujadas Pizza Pan Rack",
+  "brand": "Pujadas",
+  "mpn": "977015",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PUJADASPIZZAPANRACK",
+  "known": {
+   "width": "300 mm",
+   "depth": "300 mm",
+   "height": "700 mm",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "cc407",
+  "name": "Hygiplas CC407 Pizza Wheel Red 4\"",
+  "brand": "Hygiplas",
+  "mpn": "CC407",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CC407",
+  "known": {
+   "pizzaSize": "4\"",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "d396",
+  "name": "Vogue D396 Coloured Pizza Wheel",
+  "brand": "Vogue",
+  "mpn": "D396",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_D396",
+  "known": {
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cs850",
+  "name": "Vogue CS850 5 Wheel Dough Cutter",
+  "brand": "Vogue",
+  "mpn": "CS850",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CS850",
+  "known": {
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cs398",
+  "name": "Vogue CS398 5 Wheel Dough Cutter",
+  "brand": "Vogue",
+  "mpn": "CS850",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CS398",
+  "known": {
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "d390",
+  "name": "Vogue D390 Pizza Cutter",
+  "brand": "Vogue",
+  "mpn": "D390",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_D390",
+  "known": {
+   "width": "520 mm",
+   "depth": "1 mm",
+   "height": "125 mm"
+  }
+ },
+ {
+  "id": "fd088",
+  "name": "JM Posner Liquid Milk Hazelnut Chocolate Mix 6kg - FD088",
+  "brand": "JM POSNER",
+  "mpn": "FD088",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FD088",
+  "known": {
+   "weight": "6 kg"
+  }
+ },
+ {
+  "id": "fd087",
+  "name": "JM Posner Liquid Milk Chocolate Mix 6kg - FD087",
+  "brand": "JM POSNER",
+  "mpn": "FD087",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FD087",
+  "known": {
+   "weight": "6 kg"
+  }
+ }
+]

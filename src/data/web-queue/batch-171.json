@@ -1,0 +1,251 @@
+[
+ {
+  "id": "profi88",
+  "name": "FriFri Profi+ 8+8 Twin Tank Counter Top Electric Fryer",
+  "brand": "FriFri",
+  "mpn": "Profi+ 8+8",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PROFI88",
+  "known": {
+   "tanks": "2",
+   "fuel": "electric",
+   "thermostat": "150 to 190°C",
+   "computerControl": "electronic",
+   "width": "720 mm",
+   "depth": "475 mm",
+   "height": "456 mm",
+   "electricKw": "6.9 kW",
+   "amps": "13 A",
+   "voltage": "400V",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "sl211l31n0",
+  "name": "FriFri Super Easy 211 9 Litre Single Tank Fryer",
+  "brand": "FriFri",
+  "mpn": "211",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SL211L31N0",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "9 litres",
+   "filtration": "true",
+   "thermostat": "90 - 195°C",
+   "computerControl": "thermostatic control",
+   "width": "200 mm",
+   "depth": "650 mm",
+   "height": "990 mm",
+   "weight": "32.8 kg",
+   "electricKw": "7.5 kW",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "sl211l31g0",
+  "name": "FriFri Super Easy 211 9 Litre Single Tank Fryer with Filtration",
+  "brand": "FriFri",
+  "mpn": "SL211",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SL211L31G0",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "9 litres",
+   "filtration": "true",
+   "thermostat": "90 - 195°C",
+   "computerControl": "thermostatic control",
+   "width": "200 mm",
+   "depth": "650 mm",
+   "height": "990 mm",
+   "weight": "32.8 kg",
+   "electricKw": "7.5 kW",
+   "phase": "single",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "391340",
+  "name": "Electrolux Professional 900XP 23 Litre Single Tank Electric Programmable Fryer with Filtration - 391340",
+  "brand": "Electrolux",
+  "mpn": "391340",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_391340",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "23 litres",
+   "fuel": "electric",
+   "thermostat": "105°C to 185°C",
+   "width": "400 mm",
+   "depth": "730 mm",
+   "height": "850 mm",
+   "weight": "86 kg",
+   "electricKw": "18 kW",
+   "voltage": "400V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "pdpf9",
+  "name": "Parry NPDPF9 Twin Tank Electric Pedestal Fryer",
+  "brand": "Parry",
+  "mpn": "PDPF9",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PDPF9",
+  "known": {
+   "tanks": "2",
+   "oilCapacity": "9 litres",
+   "chipOutput": "42 kg/hr",
+   "fuel": "electric",
+   "drainValve": "Drain tap at front",
+   "computerControl": "thermostatic control",
+   "width": "600 mm",
+   "depth": "600 mm",
+   "height": "1065 mm",
+   "weight": "34 kg",
+   "electricKw": "9 kW",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "cu601",
+  "name": "Buffalo CU601 Bistro Contact Grill",
+  "brand": "Buffalo",
+  "mpn": "CU601",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CU601",
+  "known": {
+   "plate": "cast iron",
+   "width": "290 mm",
+   "depth": "395 mm",
+   "height": "210 mm",
+   "weight": "14.4 kg",
+   "electricKw": "1.45 kW",
+   "amps": "6.3 A",
+   "voltage": "240V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "dy995",
+  "name": "Buffalo DY995 Bistro Large Ribbed Contact Grill",
+  "brand": "Buffalo",
+  "mpn": "DY995",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DY995",
+  "known": {
+   "plate": "ribbed",
+   "width": "380 mm",
+   "depth": "395 mm",
+   "height": "210 mm",
+   "weight": "20 kg",
+   "electricKw": "2.2 kW",
+   "amps": "9.5 A",
+   "voltage": "230V, 50Hz",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cu602",
+  "name": "Buffalo CU602 Bistro Large Ribbed Contact Grill",
+  "brand": "Buffalo",
+  "mpn": "CU602",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CU602",
+  "known": {
+   "plate": "ribbed",
+   "width": "380 mm",
+   "depth": "395 mm",
+   "height": "210 mm",
+   "weight": "20 kg",
+   "electricKw": "2.2 kW",
+   "amps": "9.6 A",
+   "voltage": "240V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cu603",
+  "name": "Buffalo CU603 Bistro Large Contact Grill",
+  "brand": "Buffalo",
+  "mpn": "CU603",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CU603",
+  "known": {
+   "plate": "cast iron",
+   "width": "380 mm",
+   "depth": "395 mm",
+   "height": "210 mm",
+   "weight": "19.6 kg",
+   "electricKw": "2.2 kW",
+   "amps": "9.6 A",
+   "voltage": "240V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cu605",
+  "name": "Buffalo CU605 Bistro Double Contact Grill",
+  "brand": "Buffalo",
+  "mpn": "CU605",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CU605",
+  "known": {
+   "plate": "cast iron",
+   "width": "550 mm",
+   "depth": "395 mm",
+   "height": "210 mm",
+   "weight": "28.5 kg",
+   "electricKw": "2.9 kW",
+   "amps": "12.6 A",
+   "voltage": "240V",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "cu604",
+  "name": "Buffalo CU604 Bistro Double Ribbed Contact Grill",
+  "brand": "Buffalo",
+  "mpn": "CU604",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CU604",
+  "known": {
+   "plate": "ribbed",
+   "width": "550 mm",
+   "depth": "395 mm",
+   "height": "210 mm",
+   "weight": "28 kg",
+   "electricKw": "2.9 kW",
+   "amps": "12.6 A",
+   "voltage": "240V",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "brscg1",
+  "name": "Blizzard BRSCG1 1800W Single Contact Grill Bottom Smooth",
+  "brand": "Blizzard",
+  "mpn": "BRSCG1",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BRSCG1",
+  "known": {
+   "plate": "smooth",
+   "thermostat": "true",
+   "width": "310 mm",
+   "depth": "395 mm",
+   "height": "210 mm",
+   "weight": "16 kg",
+   "electricKw": "1.8 kW",
+   "amps": "13 A",
+   "plug": "Plug Supplied",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ }
+]

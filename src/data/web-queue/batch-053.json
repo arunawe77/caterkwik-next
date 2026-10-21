@@ -1,0 +1,141 @@
+[
+ {
+  "id": "plws042wt",
+  "name": "Thunder Group PLWS042WT White Double Wall Insulated Beverage Server",
+  "brand": "Thunder Group",
+  "mpn": "PLWS042WT",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PLWS042WT",
+  "known": {
+   "finish": "White"
+  }
+ },
+ {
+  "id": "plws064bk",
+  "name": "Thunder Group PLWS064BK Black Double Wall Insulated Beverage Server",
+  "brand": "Thunder Group",
+  "mpn": "PLWS064BK",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PLWS064BK",
+  "known": {
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "plws064wt",
+  "name": "Thunder Group PLWS064WT White Double Wall Insulated Beverage Server",
+  "brand": "Thunder Group",
+  "mpn": "PLWS064WT",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PLWS064WT",
+  "known": {
+   "finish": "White"
+  }
+ },
+ {
+  "id": "pkcs",
+  "name": "King Edward Pizza King Prep Unit",
+  "brand": "King Edward",
+  "mpn": "PKCS",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PKCS",
+  "known": {
+   "gnCapacity": "1/4 GN",
+   "width": "625 mm",
+   "depth": "260 mm",
+   "height": "255 mm",
+   "weight": "10 kg"
+  }
+ },
+ {
+  "id": "cdr1",
+  "name": "Craven Coffee Dispense Racks",
+  "brand": "Craven",
+  "mpn": "CDR1",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CDR1",
+  "known": {
+   "volume": "1.9 litres",
+   "width": "494 mm",
+   "depth": "454 mm",
+   "height": "242 mm",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "marta13n",
+  "name": "Igloo Marta Ambient Patisserie Serve Over Counter",
+  "brand": "Igloo",
+  "mpn": "MartaN",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MARTA13N",
+  "known": {
+   "volume": "440 litres",
+   "width": "1380 mm",
+   "depth": "865 mm",
+   "height": "1360 mm",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "s299",
+  "name": "Milan 1/1GN Chafing Set S299 (4 Pack) - 4 x 9 Litre",
+  "brand": "Olympia",
+  "mpn": "S299",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_S299",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "volume": "9 litres",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cb730",
+  "name": "CB730 Olympia Square Electric Chafer",
+  "brand": "Olympia",
+  "mpn": "CB730",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CB730",
+  "known": {
+   "volume": "6 litres",
+   "electricKw": "0.28 kW",
+   "voltage": "220v, 50Hz",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "gf990",
+  "name": "GF990 Olympia 2 Tier Slate Afternoon Tea Stand",
+  "brand": "Olympia",
+  "mpn": "GF990",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF990",
+  "known": {
+   "shelves": "2"
+  }
+ },
+ {
+  "id": "dk394",
+  "name": "Fiesta Green DK394 Biodegradable Bamboo Paddle Skewers 150mm (Pack of 100)",
+  "brand": "Fiesta Green",
+  "mpn": "DK394",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DK394",
+  "known": {}
+ },
+ {
+  "id": "gao201",
+  "name": "Grill Guru Extended Side Table",
+  "brand": "Grill Guru",
+  "mpn": "GAO201",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GAO201",
+  "known": {}
+ },
+ {
+  "id": "cl272",
+  "name": "JM Posner Electric Crepe Maker - CL272",
+  "brand": "JM Posner",
+  "mpn": "CL272",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CL272",
+  "known": {
+   "fuel": "electric",
+   "thermostat": "60°C -300°C",
+   "weight": "20 kg",
+   "voltage": "230V",
+   "plug": "Plug Supplied",
+   "finish": "Stainless Steel"
+  }
+ }
+]

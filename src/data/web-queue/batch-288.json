@@ -1,0 +1,63 @@
+[
+ {
+  "id": "electrolux3710066burnerdualfueloven",
+  "name": "371006",
+  "brand": "Electrolux",
+  "mpn": "371006",
+  "caterkwikUrl": null,
+  "known": {
+   "burners": "6",
+   "fuel": "dual fuel",
+   "burnerKw": "10 kW",
+   "ovenSize": "W 540 x D 650 x H 300mm",
+   "gnCapacity": "2/1GN",
+   "ovenType": "static",
+   "griddle": "Griddle meat, fish and vegetables at",
+   "ignition": "flame failure",
+   "castors": "adjustable feet",
+   "width": "1200 mm",
+   "depth": "730 mm",
+   "height": "850 mm",
+   "weight": "120 kg",
+   "electricKw": "6 kW",
+   "gasKw": "33 kW",
+   "voltage": "400V, 50Hz",
+   "phase": "three",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ge506d",
+  "name": "GE506D",
+  "brand": "Blue Seal",
+  "mpn": "GE506D",
+  "caterkwikUrl": null,
+  "known": {
+   "burners": "6",
+   "fuel": "dual fuel",
+   "burnerKw": "7 kW",
+   "ovenSize": "W665 x D590 x H385mm",
+   "ovenType": "static",
+   "griddle": "900mm griddle",
+   "ignition": "flame failure",
+   "castors": "rear rollers",
+   "door": "Drop down door",
+   "racking": "Rack Positions",
+   "width": "900 mm",
+   "depth": "812 mm",
+   "height": "915 mm",
+   "weight": "220 kg",
+   "electricKw": "6.5 kW",
+   "gasKw": "42 kW",
+   "amps": "27 A",
+   "voltage": "240V",
+   "phase": "three",
+   "hardWired": "true",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "Stainless steel exterior"
+  }
+ }
+]

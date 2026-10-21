@@ -1,0 +1,196 @@
+[
+ {
+  "id": "db197",
+  "name": "Buffalo Heated Multideck Merchandiser 900mm - DB197",
+  "brand": "Buffalo",
+  "mpn": "DB197",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DB197",
+  "known": {
+   "mobility": "true",
+   "width": "950 mm",
+   "depth": "670 mm",
+   "height": "1950 mm",
+   "weight": "175 kg",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "gkkchwc8",
+  "name": "KK Cooking 8 Series Chicken Warmer - GKKCHWC8",
+  "brand": "KK Cooking",
+  "mpn": "GKKCHWC8",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GKKCHWC8",
+  "known": {
+   "width": "2435 mm",
+   "depth": "760 mm",
+   "height": "835 mm",
+   "weight": "250 kg",
+   "electricKw": "9.5 kW",
+   "amps": "63 A",
+   "voltage": "230V, 50Hz",
+   "phase": "single",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "zenith4char",
+  "name": "Fir Tree Zenith 4 Stainless Steel Foldable Charcoal Barbecue",
+  "brand": "Fir Tree",
+  "mpn": "Zenith 4 Charcoal",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ZENITH4CHAR",
+  "known": {
+   "cookingWidth": "830 mm",
+   "fuel": "charcoal",
+   "width": "760 mm",
+   "depth": "480 mm",
+   "height": "830 mm",
+   "weight": "30 kg",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "mcb30",
+  "name": "Crown Verity - Compact Gas Barbecue - MCB30",
+  "brand": "Crown Verity",
+  "mpn": "MCB30",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MCB30",
+  "known": {
+   "fuel": "gas",
+   "width": "965 mm",
+   "depth": "771 mm",
+   "height": "915 mm",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "mcb36",
+  "name": "Crown Verity - Mobile Gas Barbecue - MCB36",
+  "brand": "Crown Verity",
+  "mpn": "MCB36",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MCB36",
+  "known": {
+   "fuel": "gas",
+   "width": "1118 mm",
+   "depth": "711 mm",
+   "height": "915 mm",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "mcb48",
+  "name": "Crown Verity - Mobile Gas Barbecue - MCB48",
+  "brand": "Crown Verity",
+  "mpn": "MCB48",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MCB48",
+  "known": {
+   "fuel": "gas",
+   "width": "1422 mm",
+   "depth": "711 mm",
+   "height": "915 mm",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "mcb60",
+  "name": "Crown Verity - Large Mobile Gas Barbecue - MCB60",
+  "brand": "Crown Varity",
+  "mpn": "MCB60",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MCB60",
+  "known": {
+   "fuel": "gas",
+   "width": "1422 mm",
+   "depth": "711 mm",
+   "height": "915 mm",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "mcb72",
+  "name": "Crown Verity - Extra Large Mobile Gas Barbecue - MCB72",
+  "brand": "Crown Varity",
+  "mpn": "MCB72",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MCB72",
+  "known": {
+   "fuel": "gas",
+   "width": "2057 mm",
+   "depth": "711 mm",
+   "height": "915 mm",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "lfs691",
+  "name": "Lifestyle Verona Alfresco Gas Pizza Oven - LFS691",
+  "brand": "Lifestyle",
+  "mpn": "LFS691",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LFS691",
+  "known": {
+   "fuel": "gas",
+   "burners": "4",
+   "radiant": "infrared",
+   "weight": "69 kg",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "rm100",
+  "name": "Mibrasa RM100 Robata Beast Charcoal Grill",
+  "brand": "Mibrasa",
+  "mpn": "RM100",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_RM100",
+  "known": {
+   "fuel": "charcoal",
+   "width": "1127 mm",
+   "depth": "788 mm",
+   "height": "797 mm",
+   "weight": "84 kg",
+   "electricKw": "4.5 kW",
+   "finish": "Stainless Steel Construction"
+  }
+ },
+ {
+  "id": "391640",
+  "name": "Electrolux Professional 900XP 2 Eco Burner Gas Boiling Top - 391640",
+  "brand": "Electrolux",
+  "mpn": "391640",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_391640",
+  "known": {
+   "fuel": "gas",
+   "width": "400 mm",
+   "depth": "930 mm",
+   "height": "250 mm",
+   "weight": "38 kg",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "c6c",
+  "name": "Blue Seal C6C Cobra Series 2 Burner/300mm Griddle Cooktop",
+  "brand": "Blue Seal",
+  "mpn": "C6C",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_C6C",
+  "known": {
+   "fuel": "gas",
+   "width": "600 mm",
+   "depth": "800 mm",
+   "height": "915 mm",
+   "weight": "72 kg",
+   "electricKw": "5.5 kW",
+   "gasKw": "16.5 kW",
+   "lpgKw": "15.5 kW",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "Stainless steel finish"
+  }
+ }
+]

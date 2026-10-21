@@ -1,0 +1,180 @@
+[
+ {
+  "id": "piecabinetpc2",
+  "name": "Moffat Pie Cabinet PC2",
+  "brand": "Moffat",
+  "mpn": "PC2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PIECABINETPC2",
+  "known": {
+   "weight": "40 kg",
+   "amps": "13 A",
+   "voltage": "230v 50Hz",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "grcwm",
+  "name": "Hatco GRCMW Glo-Ray Curved Merchandising Warmers",
+  "brand": "Hatco",
+  "mpn": "GRCMW",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GRCWM",
+  "known": {
+   "width": "562 mm",
+   "depth": "546 mm",
+   "height": "505 mm",
+   "electricKw": "0.67 kW",
+   "voltage": "240V",
+   "plug": "plug supplied"
+  }
+ },
+ {
+  "id": "archwayhd5",
+  "name": "Archway HD5 Electric Heated Chicken Display 5 Pans/2 Tier",
+  "brand": "Archway",
+  "mpn": "HD5",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAYHD5",
+  "known": {
+   "wells": "5",
+   "shelves": "2",
+   "width": "1520 mm",
+   "depth": "755 mm",
+   "height": "830 mm",
+   "weight": "123 kg",
+   "electricKw": "4.62 kW",
+   "amps": "20 A",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "lfs687",
+  "name": "Lifestyle Cuba Gas Grill BBQ LFS687",
+  "brand": "Lifestyle",
+  "mpn": "LFS687",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LFS687",
+  "known": {
+   "fuel": "gas",
+   "burners": "2",
+   "weight": "17 kg",
+   "electricKw": "8.7 kW",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "fs490",
+  "name": "Enders from Lifestyle Kansas II Pro 4 Turbo BBQ",
+  "brand": "Lifestyle",
+  "mpn": "FS490",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FS490",
+  "known": {
+   "plate": "cast iron",
+   "width": "821 mm",
+   "depth": "680 mm",
+   "height": "531 mm",
+   "weight": "57 kg",
+   "electricKw": "15.3 kW",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "lfs300",
+  "name": "Lifestyle Dragon Egg Charcoal Barbecue - LFS300",
+  "brand": "LIFESTYLE",
+  "mpn": "LFS300",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LFS300",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "charcoal",
+   "width": "125.5 mm",
+   "depth": "74.2 mm",
+   "height": "120.8 mm"
+  }
+ },
+ {
+  "id": "lfs682",
+  "name": "Lifestyle Premium 5 Burner Hooded BBQ Cover",
+  "brand": "Lifestyle",
+  "mpn": "LFS682",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LFS682",
+  "known": {
+   "fuel": "gas",
+   "burners": "5",
+   "width": "157 mm",
+   "depth": "69 mm",
+   "height": "125 mm"
+  }
+ },
+ {
+  "id": "cg140",
+  "name": "Sammic CG-140 Gas Crepe Machine",
+  "brand": "Sammic",
+  "mpn": "CG140",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CG140",
+  "known": {
+   "fuel": "gas",
+   "width": "425 mm",
+   "depth": "505 mm",
+   "height": "145 mm",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "l236",
+  "name": "Matfer Bourgeat Tradition 200mm Sauté Pan - 10231-01",
+  "brand": "Matfer Bourgeat",
+  "mpn": "10231-01",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_L236",
+  "known": {
+   "volume": "1.8 litres",
+   "fuel": "induction",
+   "width": "213 mm",
+   "depth": "386 mm",
+   "height": "83 mm"
+  }
+ },
+ {
+  "id": "p269",
+  "name": "Matfer Bourgeat 5.4 Litre Tradition Casserole Pan - 10223-01",
+  "brand": "Matfer Bourgeat",
+  "mpn": "10223-01",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_P269",
+  "known": {
+   "volume": "5.4 litres",
+   "fuel": "induction",
+   "width": "256 mm",
+   "depth": "318 mm",
+   "height": "129 mm",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "l237",
+  "name": "Matfer Bourgeat Tradition 240mm Sauté Pan - 10231-02",
+  "brand": "Matfer Bourgeat",
+  "mpn": "10231-02",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_L237",
+  "known": {
+   "volume": "3 litres",
+   "fuel": "induction",
+   "width": "255 mm",
+   "depth": "470 mm",
+   "height": "101 mm"
+  }
+ },
+ {
+  "id": "l238",
+  "name": "Matfer Bourgeat Tradition 280mm Sauté Pan - 10231-03",
+  "brand": "Matfer Bourgeat",
+  "mpn": "10231-03",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_L238",
+  "known": {
+   "volume": "4.7 litres",
+   "fuel": "induction",
+   "width": "300 mm",
+   "depth": "546 mm",
+   "height": "226 mm"
+  }
+ }
+]

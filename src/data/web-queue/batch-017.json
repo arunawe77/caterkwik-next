@@ -1,0 +1,129 @@
+[
+ {
+  "id": "gc936",
+  "name": "GC936 APS Frames 2.5Ltr Stainless Steel Bowl",
+  "brand": "APS",
+  "mpn": "GC936",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GC936",
+  "known": {
+   "volume": "2.5 litres",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "gl617",
+  "name": "GL617 APS Organic Display Bowl Black 1 Ltr",
+  "brand": "APS",
+  "mpn": "GL617",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GL617",
+  "known": {
+   "volume": "1 litres",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "gl608",
+  "name": "GL608 APS Granite Effect Melamine Bowl 1.5Ltr",
+  "brand": "APS",
+  "mpn": "GL608",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GL608",
+  "known": {
+   "volume": "1.5 litres"
+  }
+ },
+ {
+  "id": "gl618",
+  "name": "GL618 APS Organic Display Bowl Black 3.5 Ltr",
+  "brand": "APS",
+  "mpn": "GL618",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GL618",
+  "known": {
+   "volume": "3.5 litres",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "gl609",
+  "name": "GL609 APS Granite Effect Melamine Bowl 3.8Ltr",
+  "brand": "APS",
+  "mpn": "GL609",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GL609",
+  "known": {
+   "volume": "3.8 litres"
+  }
+ },
+ {
+  "id": "f760",
+  "name": "F760 Wicker Metal Frame Basket 1/1 GN",
+  "brand": "Olympia",
+  "mpn": "F760",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_F760",
+  "known": {
+   "gnCapacity": "1/1 GN"
+  }
+ },
+ {
+  "id": "dp134",
+  "name": "DP134 Dalebrook 600ml Chunky Crock",
+  "brand": "Dalebrook",
+  "mpn": "DP134",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DP134",
+  "known": {
+   "volume": "0.6 litres"
+  }
+ },
+ {
+  "id": "cn387",
+  "name": "CN387 Dalebrook 1.5Ltr Chunky Crock",
+  "brand": "Dalebrook",
+  "mpn": "CN387",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CN387",
+  "known": {
+   "volume": "1.5 litres"
+  }
+ },
+ {
+  "id": "dl154",
+  "name": "DL154 Dalebrook 2Ltr Chunky Crock",
+  "brand": "Dalebrook",
+  "mpn": "DL154",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DL154",
+  "known": {
+   "volume": "2 litres"
+  }
+ },
+ {
+  "id": "dl153",
+  "name": "DL153 Dalebrook 3.2Ltr Chunky Crock",
+  "brand": "Dalebrook",
+  "mpn": "DL153",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DL153",
+  "known": {
+   "volume": "3.2 litres"
+  }
+ },
+ {
+  "id": "gk859",
+  "name": "GK859 APS Casual Dressing Pot Melamine White 1Ltr",
+  "brand": "APS",
+  "mpn": "GK859",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GK859",
+  "known": {
+   "volume": "1 litres",
+   "finish": "White"
+  }
+ },
+ {
+  "id": "hcscmg10",
+  "name": "Chefmate by Hobart - 10 Grid Gas Combi Oven - HCSCMG10",
+  "brand": "Hobart",
+  "mpn": "HCSCMG10",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HCSCMG10",
+  "known": {
+   "width": "890 mm",
+   "depth": "790 mm",
+   "height": "980 mm",
+   "voltage": "230V"
+  }
+ }
+]

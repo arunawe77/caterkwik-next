@@ -1,0 +1,204 @@
+[
+ {
+  "id": "k5",
+  "name": "K5",
+  "brand": "North",
+  "mpn": "K5",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "gas",
+   "width": "1320 mm",
+   "depth": "410 mm",
+   "height": "1260 mm",
+   "gasKw": "24.8 kW",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "g506a",
+  "name": "G506A",
+  "brand": "Blue Seal",
+  "mpn": "G506A",
+  "caterkwikUrl": null,
+  "known": {
+   "plate": "smooth",
+   "fuel": "gas",
+   "splashback": "true",
+   "width": "900 mm",
+   "depth": "812 mm",
+   "height": "915 mm",
+   "weight": "215 kg",
+   "electricKw": "7 kW",
+   "gasKw": "27 kW",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "mugp1gcr76",
+  "name": "MU-GP1GC-R76",
+  "brand": "Roaster",
+  "mpn": "MU-GP1GC-R76",
+  "caterkwikUrl": null,
+  "known": {
+   "ovenCavities": "2",
+   "fuel": "charcoal",
+   "width": "1785 mm",
+   "depth": "825 mm",
+   "height": "1645 mm",
+   "weight": "595 kg",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "mugp2gcr56",
+  "name": "MU-GP2GC-R56",
+  "brand": "Roaster",
+  "mpn": "MU-GP2GC-R56",
+  "caterkwikUrl": null,
+  "known": {
+   "ovenCavities": "2",
+   "fuel": "charcoal",
+   "width": "1985 mm",
+   "depth": "825 mm",
+   "height": "1645 mm",
+   "weight": "587 kg",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "mugp2gcr76",
+  "name": "MU-GP2GC-R76",
+  "brand": "Roaster",
+  "mpn": "MU-GP2GC-R76",
+  "caterkwikUrl": null,
+  "known": {
+   "ovenCavities": "2",
+   "fuel": "charcoal",
+   "width": "1785 mm",
+   "depth": "825 mm",
+   "height": "1645 mm",
+   "weight": "595 kg",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "hmb75",
+  "name": "HMB75",
+  "brand": "Mibrasa",
+  "mpn": "HMB75",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "charcoal",
+   "width": "735 mm",
+   "depth": "700 mm",
+   "height": "1025 mm",
+   "electricKw": "3.5 kW",
+   "finish": "BLACK"
+  }
+ },
+ {
+  "id": "hmb110",
+  "name": "HMB110",
+  "brand": "Mibrasa",
+  "mpn": "HMB110",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "charcoal",
+   "width": "955 mm",
+   "depth": "700 mm",
+   "height": "1115 mm",
+   "electricKw": "5 kW",
+   "finish": "BLACK"
+  }
+ },
+ {
+  "id": "cr5l",
+  "name": "CR5L",
+  "brand": "Moffat",
+  "mpn": "CR5L",
+  "caterkwikUrl": null,
+  "known": {
+   "trays": "2 shelves included",
+   "trayPitch": "71 mm",
+   "humidity": "true",
+   "timer": "timer",
+   "weight": "40 kg",
+   "electricKw": "2.8 kW",
+   "amps": "13 A",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "icvg",
+  "name": "ICVG-1",
+  "brand": "Imperial",
+  "mpn": "ICVG-1",
+  "caterkwikUrl": null,
+  "known": {
+   "tempRange": "66°C to 260°C",
+   "timer": "timer",
+   "width": "965 mm",
+   "depth": "1054 mm",
+   "height": "1524 mm",
+   "weight": "236 kg",
+   "warranty": "1 year",
+   "finish": "Stainless steel exterior"
+  }
+ },
+ {
+  "id": "ir6e",
+  "name": "IR-6-E",
+  "brand": "Imperial",
+  "mpn": "IR-6-E",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "electric",
+   "zones": "6",
+   "width": "914 mm",
+   "depth": "733 mm",
+   "height": "1435 mm",
+   "weight": "274 kg",
+   "electricKw": "5.3 kW",
+   "voltage": "480 v",
+   "phase": "three",
+   "warranty": "1 year",
+   "finish": "stainless steel exterior"
+  }
+ },
+ {
+  "id": "d100ksilc",
+  "name": "D100K - Silicone",
+  "brand": "AS Term",
+  "mpn": "D100K - Silicone",
+  "caterkwikUrl": null,
+  "known": {
+   "pizzaSize": "12\"",
+   "fuel": "wood",
+   "width": "1450 mm",
+   "depth": "1670 mm",
+   "height": "2050 mm",
+   "weight": "1100 kg",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "d120ksilc",
+  "name": "D120K-Silicone",
+  "brand": "AS Term",
+  "mpn": "D120K-Silicone",
+  "caterkwikUrl": null,
+  "known": {
+   "pizzaSize": "12\"",
+   "pizzasPerHour": "105",
+   "fuel": "wood",
+   "width": "1710 mm",
+   "depth": "1900 mm",
+   "height": "2050 mm",
+   "weight": "1500 kg"
+  }
+ }
+]

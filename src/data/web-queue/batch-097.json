@@ -1,0 +1,195 @@
+[
+ {
+  "id": "cn6",
+  "name": "Lincat Silverlink 600 CN6 Ambient Pedestal",
+  "brand": "Lincat",
+  "mpn": "CN6",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CN6",
+  "known": {
+   "fuel": "gas",
+   "width": "600 mm",
+   "depth": "567 mm",
+   "height": "650 mm",
+   "weight": "28 kg",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "cc6",
+  "name": "Lincat Silverlink 600 CC6 Ambient Pedestal",
+  "brand": "Lincat",
+  "mpn": "CC6",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CC6",
+  "known": {
+   "fuel": "gas",
+   "width": "600 mm",
+   "depth": "600 mm",
+   "height": "650 mm",
+   "weight": "33 kg",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "cc4",
+  "name": "Lincat Silverlink 600 CC4 Ambient Pedestal",
+  "brand": "Lincat",
+  "mpn": "CC4",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CC4",
+  "known": {
+   "fuel": "gas",
+   "width": "450 mm",
+   "depth": "600 mm",
+   "height": "650 mm",
+   "weight": "26 kg",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "cn7",
+  "name": "Lincat Silverlink 600 CN7 Ambient Pedestal",
+  "brand": "Lincat",
+  "mpn": "CN7",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CN7",
+  "known": {
+   "fuel": "gas",
+   "width": "750 mm",
+   "depth": "567 mm",
+   "height": "650 mm",
+   "weight": "33 kg",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "cc7",
+  "name": "Lincat Silverlink 600 CC7 Ambient Pedestal",
+  "brand": "Lincat",
+  "mpn": "CC7",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CC7",
+  "known": {
+   "fuel": "gas",
+   "width": "750 mm",
+   "depth": "600 mm",
+   "height": "650 mm",
+   "weight": "39 kg",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "ecg500",
+  "name": "Chefs Range ECG500 Gas Pressure Fryer with Filtration – Mechanical Controls",
+  "brand": "Chefs Range",
+  "mpn": "ECG500",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ECG500",
+  "known": {
+   "filtration": "true",
+   "fuel": "gas",
+   "width": "460 mm",
+   "depth": "960 mm",
+   "height": "1230 mm",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "ges40",
+  "name": "Roller Grill GES40 Single Ice Cream Waffle Iron - Cris Cross Pattern",
+  "brand": "Roller Grill",
+  "mpn": "GES40",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GES40",
+  "known": {
+   "plate": "cast iron",
+   "thermostat": "true",
+   "width": "305 mm",
+   "weight": "22 kg",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ges80",
+  "name": "Roller Grill GES80 Single Four Piece Hot Dog Stick Waffle Iron - 4 Stick",
+  "brand": "Roller Grill",
+  "mpn": "GES80",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GES80",
+  "known": {
+   "plate": "cast iron",
+   "thermostat": "true",
+   "weight": "22 kg",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ghd1",
+  "name": "Moffat GHD1 Catering Heated Drawer Unit",
+  "brand": "Moffat",
+  "mpn": "GHD1",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GHD1",
+  "known": {
+   "wells": "3",
+   "tempRange": "30 to 120°C",
+   "weight": "25 kg",
+   "electricKw": "0.9 kW",
+   "amps": "13 A",
+   "phase": "single",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "ghd2",
+  "name": "Moffat GHD2 Catering Heated Drawer Unit",
+  "brand": "Moffat",
+  "mpn": "GHD2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GHD2",
+  "known": {
+   "wells": "6",
+   "tempRange": "30 to 120°C",
+   "weight": "35 kg",
+   "electricKw": "1.5 kW",
+   "amps": "13 A",
+   "phase": "single",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "ghd3",
+  "name": "Moffat GHD3 Catering Heated Drawer Unit",
+  "brand": "Moffat",
+  "mpn": "GHD3",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GHD3",
+  "known": {
+   "wells": "7",
+   "tempRange": "30 to 120°C",
+   "weight": "40 kg",
+   "electricKw": "1.5 kW",
+   "amps": "13 A",
+   "phase": "single",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "df626",
+  "name": "Buffalo Infrared Food Warmer DF626",
+  "brand": "Buffalo",
+  "mpn": "DF626",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DF626",
+  "known": {
+   "gnCapacity": "1/1gn",
+   "mobility": "true",
+   "bulbs": "infrared lamps",
+   "width": "350 mm",
+   "depth": "430 mm",
+   "height": "800 mm",
+   "voltage": "240V",
+   "finish": "white"
+  }
+ }
+]

@@ -1,0 +1,218 @@
+[
+ {
+  "id": "rctwm2b",
+  "name": "Hatco - Dual Rectangular Waffle Maker - RCTWM-1B",
+  "brand": "Hatco",
+  "mpn": "RCTWM-2B",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_RCTWM2B",
+  "known": {
+   "timer": "timer, temperature and status information, wh",
+   "width": "498 mm",
+   "depth": "366 mm",
+   "height": "203 mm",
+   "electricKw": "1.8 kW",
+   "amps": "8 A",
+   "voltage": "240V",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "gc36",
+  "name": "Lincat GC36 Glass Display Case",
+  "brand": "Lincat",
+  "mpn": "GC36",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GC36",
+  "known": {
+   "width": "600 mm",
+   "depth": "350 mm",
+   "height": "490 mm",
+   "weight": "26 kg",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "gc39",
+  "name": "Lincat GC39 Glass Display",
+  "brand": "Lincat",
+  "mpn": "GC39",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GC39",
+  "known": {
+   "width": "900 mm",
+   "depth": "350 mm",
+   "height": "490 mm",
+   "weight": "38 kg",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "gc46d",
+  "name": "Lincat GC46D Glass Display",
+  "brand": "Lincat",
+  "mpn": "GC46D",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GC46D",
+  "known": {
+   "width": "600 mm",
+   "depth": "350 mm",
+   "height": "645 mm",
+   "weight": "38 kg",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "lincathb1",
+  "name": "Lincat HB1 Heated Display Base",
+  "brand": "Lincat",
+  "mpn": "HB1",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LINCATHB1",
+  "known": {
+   "gnCapacity": "1 x 1/1GN",
+   "wells": "1",
+   "width": "381 mm",
+   "depth": "531 mm",
+   "height": "115 mm",
+   "weight": "8 kg",
+   "electricKw": "0.5 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "lincathb2",
+  "name": "Lincat HB2 Heated Display Base",
+  "brand": "Lincat",
+  "mpn": "HB2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LINCATHB2",
+  "known": {
+   "gnCapacity": "2 x 1/1GN",
+   "wells": "2",
+   "width": "754 mm",
+   "depth": "531 mm",
+   "height": "115 mm",
+   "weight": "12 kg",
+   "electricKw": "1 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "lincathb3",
+  "name": "Lincat HB3 Heated Display Base",
+  "brand": "Lincat",
+  "mpn": "HB3",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LINCATHB3",
+  "known": {
+   "gnCapacity": "3 x 1/1GN",
+   "wells": "3",
+   "width": "1094 mm",
+   "depth": "531 mm",
+   "height": "115 mm",
+   "weight": "16 kg",
+   "electricKw": "1.4 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "lincathb4",
+  "name": "Lincat HB4 Heated Display Base",
+  "brand": "Lincat",
+  "mpn": "HB4",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LINCATHB4",
+  "known": {
+   "gnCapacity": "4 x 1/1GN",
+   "wells": "4",
+   "width": "1434 mm",
+   "depth": "531 mm",
+   "height": "115 mm",
+   "weight": "21 kg",
+   "electricKw": "1.75 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "qld1",
+  "name": "Parry QLD1 Electric Quartz 1 Lamp Display Unit",
+  "brand": "Parry",
+  "mpn": "QLD1",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_QLD1",
+  "known": {
+   "bulbs": "heat lamps which supply both illuminati",
+   "width": "725 mm",
+   "depth": "535 mm",
+   "height": "580 mm",
+   "weight": "15.5 kg",
+   "electricKw": "0.9 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "hfmv",
+  "name": "King Edward Prestige Hot Food Merchandiser - HFMV",
+  "brand": "King Edward",
+  "mpn": "HFMV",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HFMV",
+  "known": {
+   "tempRange": "30 - 110°C",
+   "width": "515 mm",
+   "depth": "533 mm",
+   "height": "640 mm",
+   "weight": "39 kg",
+   "electricKw": "1.438 kW",
+   "amps": "13 A",
+   "voltage": "240V, 50Hz",
+   "plug": "plug supplied",
+   "warranty": "1 year",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "deluxemasterchef",
+  "name": "Fir Tree Masterchef Deluxe Stainless Steel Propane Gas Barbecue - 3 Burners",
+  "brand": "Fir Tree",
+  "mpn": "MASTERCHEF DELUXE",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DELUXEMASTERCHEF",
+  "known": {
+   "cookingWidth": "1000 mm",
+   "fuel": "gas",
+   "burners": "3",
+   "width": "1000 mm",
+   "depth": "610 mm",
+   "height": "850 mm",
+   "weight": "52 kg",
+   "electricKw": "15 kW",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "masterchefpopular",
+  "name": "Fir Tree Masterchef Popular Gas Barbecue Griddle - 3 Burners",
+  "brand": "Fir Tree",
+  "mpn": "Masterchef Popular",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MASTERCHEFPOPULAR",
+  "known": {
+   "cookingWidth": "850 mm",
+   "fuel": "gas",
+   "burners": "3",
+   "width": "1000 mm",
+   "depth": "610 mm",
+   "height": "850 mm",
+   "weight": "49 kg",
+   "electricKw": "15 kW",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ }
+]

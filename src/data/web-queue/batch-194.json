@@ -1,0 +1,229 @@
+[
+ {
+  "id": "da233",
+  "name": "Rowlett DA233 Double Contact Grill Flat and Half Ribbed Plates",
+  "brand": "Rowlett",
+  "mpn": "DA233",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DA233",
+  "known": {
+   "plate": "half ribbed",
+   "fuel": "electric",
+   "tempRange": "50°C to 220°C",
+   "width": "740 mm",
+   "weight": "31 kg",
+   "electricKw": "2.88 kW",
+   "voltage": "230 V",
+   "warranty": "2 years",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "ck8111",
+  "name": "Cater-Cook CK8111 Large Single Contact Grill - Ribbed top & bottom",
+  "brand": "Cater-Cook",
+  "mpn": "CK8111",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK8111",
+  "known": {
+   "plate": "ribbed",
+   "tempRange": "50-300°C",
+   "width": "440 mm",
+   "depth": "310 mm",
+   "height": "200 mm",
+   "weight": "21.5 kg",
+   "electricKw": "2.8 kW",
+   "voltage": "230V",
+   "plug": "13A plug",
+   "warranty": "1 year",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "rollergrillcs2e",
+  "name": "Roller Grill CS2E Hot Dog Warmer with 2 Baguette Spikes",
+  "brand": "Roller Grill",
+  "mpn": "CS2E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ROLLERGRILLCS2E",
+  "known": {
+   "width": "260 mm",
+   "depth": "220 mm",
+   "height": "400 mm",
+   "weight": "9 kg",
+   "electricKw": "0.65 kW",
+   "amps": "13 A",
+   "voltage": "230V",
+   "plug": "13A, 650W, Plug",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "hddi",
+  "name": "APW Wyott X*pert Holding Drawers",
+  "brand": null,
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HDDI",
+  "known": {
+   "tempRange": "27°-104°C",
+   "width": "705 mm",
+   "depth": "533 mm",
+   "height": "856 mm",
+   "electricKw": "0.45 kW",
+   "amps": "3.8 A",
+   "voltage": "120V",
+   "warranty": "2 years",
+   "finish": "Stainless Steel construction"
+  }
+ },
+ {
+  "id": "connex12",
+  "name": "Merrychef ConneX 12 Accelerated High Speed Oven Standard Power 13A",
+  "brand": "Merrychef",
+  "mpn": "ConneX 12",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CONNEX12",
+  "known": {
+   "width": "356 mm",
+   "depth": "641 mm",
+   "height": "619 mm",
+   "weight": "50 kg",
+   "electricKw": "2.99 kW",
+   "amps": "13 A",
+   "voltage": "230V, 50Hz",
+   "phase": "single",
+   "plug": "13A plug",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "connex1232",
+  "name": "Merrychef ConneX 12 Accelerated High Speed Oven High Power Single-Phase 32A",
+  "brand": "Merrychef",
+  "mpn": "ConneX 12",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CONNEX1232",
+  "known": {
+   "width": "356 mm",
+   "depth": "641 mm",
+   "height": "619 mm",
+   "weight": "50 kg",
+   "electricKw": "6 kW",
+   "amps": "32 A",
+   "voltage": "230V, 50Hz",
+   "phase": "single",
+   "plug": "32A supply",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "airo",
+  "name": "Lincat Air O Commercial Air Fryer - Available Now",
+  "brand": "Lincat",
+  "mpn": "Air O",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_AIRO",
+  "known": {
+   "gnCapacity": "2/3gn",
+   "width": "474 mm",
+   "depth": "528 mm",
+   "height": "619 mm",
+   "weight": "57 kg",
+   "electricKw": "2.8 kW",
+   "amps": "12.17 A",
+   "voltage": "230V",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "oracleboosted",
+  "name": "Lainox Oracle Boosted High Speed Oven",
+  "brand": "Lainox",
+  "mpn": "Oracle Boosted",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ORACLEBOOSTED",
+  "known": {
+   "tempRange": "100°C to 300°C",
+   "maxTemp": "300 °C",
+   "humidity": "true",
+   "width": "465 mm",
+   "depth": "609 mm",
+   "height": "630 mm",
+   "electricKw": "6 kW",
+   "amps": "26 A",
+   "voltage": "230 V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cm479",
+  "name": "Menumaster CM479 Pop Up Door Microwave MOC5241",
+  "brand": "Menumaster",
+  "mpn": "CM479",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CM479",
+  "known": {
+   "timer": "timer",
+   "weight": "32 kg",
+   "electricKw": "3.1 kW",
+   "amps": "14.9 A",
+   "voltage": "230 V, 50 Hz",
+   "phase": "single",
+   "plug": "16 A single phase",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "grah",
+  "name": "Hatco GRAH Glo-Ray® Aluminium Strip Heater",
+  "brand": "Hatco",
+  "mpn": "GRAH-",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GRAH",
+  "known": {
+   "depth": "153 mm",
+   "height": "64 mm",
+   "electricKw": "1.1 kW",
+   "amps": "12.2 A",
+   "voltage": "240v",
+   "phase": "single",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "cs100s",
+  "name": "Alto-Shaam CS-100/S / CS-200/S Carving Station",
+  "brand": "Alto-Shaam",
+  "mpn": "CS-100/S / CS-200/S",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CS100S",
+  "known": {
+   "bulbs": "heat lamps, Alto-Shaam’s Heated Carving",
+   "width": "466 mm",
+   "depth": "648 mm",
+   "height": "787 mm",
+   "electricKw": "0.5 kW",
+   "amps": "15 A",
+   "voltage": "120V",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "bl100h1",
+  "name": "Victor Banquetline 100 Holding Cabinet 28 x 1/1 GN - BL100H1",
+  "brand": "Victor",
+  "mpn": "BL100H1",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BL100H1",
+  "known": {
+   "gnCapacity": "28 x 1/1 GN",
+   "wells": "28",
+   "shelves": "4",
+   "mobility": "true",
+   "electricKw": "1.5 kW",
+   "amps": "6.3 A",
+   "voltage": "220V / 240V",
+   "phase": "single",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ }
+]

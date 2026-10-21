@@ -1,0 +1,180 @@
+[
+ {
+  "id": "archwaybw8",
+  "name": "Archway BW8 Electric Food Warming Drawers",
+  "brand": "Archway",
+  "mpn": "BW8",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAYBW8",
+  "known": {
+   "width": "635 mm",
+   "depth": "565 mm",
+   "height": "490 mm",
+   "weight": "49 kg",
+   "electricKw": "1 kW",
+   "amps": "4.2 A",
+   "voltage": "230V, 50HZ",
+   "plug": "plug supplied",
+   "warranty": "3 years"
+  }
+ },
+ {
+  "id": "gklgknife",
+  "name": "KK Cooking Electric Kebab Knife - GKLGKNIFE",
+  "brand": "KK Cooking",
+  "mpn": "GKLGKNIFE",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GKLGKNIFE",
+  "known": {
+   "fuel": "electric",
+   "amps": "13 A",
+   "plug": "Plug supplied",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "lin1164",
+  "name": "Lincoln Impinger 2 Electric Express Conveyor Pizza Oven - LIN1164",
+  "brand": "LINCOLN",
+  "mpn": "LIN1164",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LIN1164",
+  "known": {
+   "decks": "3",
+   "pizzaSize": "18”",
+   "fuel": "electric",
+   "width": "1442 mm",
+   "depth": "991 mm",
+   "height": "1067 mm",
+   "amps": "15 A",
+   "phase": "three",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "tq405",
+  "name": "Hatco TQ-405 Toast-Quick Conveyor Toaster",
+  "brand": "Hatco",
+  "mpn": "TQ-405",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_TQ405",
+  "known": {
+   "throughput": "840 slices per hour",
+   "width": "368 mm",
+   "depth": "451 mm",
+   "height": "378 mm",
+   "weight": "21 kg",
+   "electricKw": "2.2 kW",
+   "voltage": "240 V",
+   "phase": "single",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "fd468",
+  "name": "Waring Commercial Single Belgian Waffle Maker - FD468",
+  "brand": "WARING",
+  "mpn": "FD468",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FD468",
+  "known": {
+   "fuel": "electric",
+   "weight": "6 kg",
+   "voltage": "240V",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "dk079",
+  "name": "Waring Bubble Waffle Maker - DK079",
+  "brand": "WARING",
+  "mpn": "DK079",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DK079",
+  "known": {
+   "weight": "6 kg",
+   "voltage": "240V",
+   "warranty": "1 year",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "fc337",
+  "name": "JM Posner FC337 Multi Waffle Maker",
+  "brand": "JM Posner",
+  "mpn": "FC337",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FC337",
+  "known": {
+   "width": "539 mm",
+   "weight": "13 kg",
+   "voltage": "230 V",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "ccs2",
+  "name": "King Edward Classic Cold Server",
+  "brand": "King Edward",
+  "mpn": "Cold Server",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CCS2",
+  "known": {
+   "gnCapacity": "3 x 1/3GN",
+   "wells": "3",
+   "width": "335 mm",
+   "depth": "540 mm",
+   "height": "125 mm",
+   "weight": "10 kg"
+  }
+ },
+ {
+  "id": "k409",
+  "name": "Milan K409 1/1GN Chafing Set - 9 Litre Capacity",
+  "brand": "Olympia",
+  "mpn": "K409",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_K409",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "volume": "9 litres",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cm266",
+  "name": "CM266 Olympia Electric Chafing Dish - 13.5 Litre Capacity",
+  "brand": "Olympia",
+  "mpn": "CM266",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CM266",
+  "known": {
+   "heatType": "wet",
+   "volume": "13.5 litres",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "archwayhd1",
+  "name": "Archway HD1 Electric Heated Chicken Display 1 Pan",
+  "brand": "Archway",
+  "mpn": "HD1",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAYHD1",
+  "known": {
+   "wells": "1",
+   "width": "606 mm",
+   "depth": "755 mm",
+   "height": "507 mm",
+   "weight": "40 kg",
+   "electricKw": "1.57 kW",
+   "amps": "7 A",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ba0017c",
+  "name": "Lifestyle 17″ Kettle Charcoal BBQ - BA0017C",
+  "brand": null,
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BA0017C",
+  "known": {
+   "fuel": "charcoal",
+   "depth": "44 mm",
+   "height": "57 mm"
+  }
+ }
+]

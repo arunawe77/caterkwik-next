@@ -1,0 +1,247 @@
+[
+ {
+  "id": "sa804",
+  "name": "Buffalo SA804 600 Series Freestanding Electric Pasta Cooker",
+  "brand": "Buffalo",
+  "mpn": "SA804",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SA804",
+  "known": {
+   "volume": "15 litres",
+   "fuel": "electric",
+   "heating": "bain marie",
+   "zones": "2",
+   "tap": "true",
+   "width": "400 mm",
+   "depth": "600 mm",
+   "height": "850 mm",
+   "weight": "26.8 kg",
+   "electricKw": "3.4 kW",
+   "phase": "single",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "buffalodm868",
+  "name": "Buffalo DM868 Portable Sous Vide",
+  "brand": "Buffalo",
+  "mpn": "DM868",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BUFFALODM868",
+  "known": {
+   "timer": "timer",
+   "width": "145 mm",
+   "depth": "130 mm",
+   "height": "320 mm",
+   "weight": "1.8 kg",
+   "electricKw": "1.5 kW",
+   "amps": "6.5 A",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "svv",
+  "name": "Instanta SV12 & SV18 - Culinaire Sous Vide Machine",
+  "brand": "Instanta",
+  "mpn": "SV",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SVV",
+  "known": {
+   "timer": "timer (hours, minutes)",
+   "width": "282 mm",
+   "depth": "386 mm",
+   "height": "325 mm",
+   "amps": "10 A",
+   "voltage": "230 V",
+   "phase": "single",
+   "warranty": "2 years",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "burcotssl14",
+  "name": "Burco TSSL14 Chrome 4 Slot Toaster",
+  "brand": "Burco",
+  "mpn": "TSSL14 - 444441581",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BURCOTSSL14",
+  "known": {
+   "timer": "timer control to select preferred shade of to",
+   "plates": "4",
+   "width": "370 mm",
+   "depth": "210 mm",
+   "height": "225 mm",
+   "weight": "5 kg",
+   "electricKw": "2.4 kW",
+   "plug": "plug supplied",
+   "warranty": "3 years",
+   "finish": "Chrome"
+  }
+ },
+ {
+  "id": "922722",
+  "name": "Electrolux Professional Odour Reduction Hood for Stacked Combi Ovens 6 1/1GN on either a 6 or 10 1/1GN Combi Ovens (Electric only) - 922722",
+  "brand": "Electrolux",
+  "mpn": "922722",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922722",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "width": "875 mm",
+   "depth": "1070 mm",
+   "height": "472 mm",
+   "weight": "96 kg",
+   "electricKw": "0.82 kW",
+   "voltage": "230 V",
+   "phase": "single",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ft691",
+  "name": "Buffalo FT691 Bain Marie with Pans",
+  "brand": "Buffalo",
+  "mpn": "FT691",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FT691",
+  "known": {
+   "gnCapacity": "2x 1/3gn",
+   "heatType": "wet",
+   "wells": "2",
+   "volume": "21 litres",
+   "tempRange": "30° to 90°C",
+   "width": "645 mm",
+   "depth": "432 mm",
+   "height": "327 mm",
+   "weight": "10.5 kg",
+   "electricKw": "1.3 kW",
+   "amps": "5.2 A",
+   "voltage": "240V",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "1885",
+  "name": "Parry 1885 Electric Wet Bain Marie 3kW",
+  "brand": "parry",
+  "mpn": "1885",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_1885",
+  "known": {
+   "gnCapacity": "1 x 1/1 Gastronorm",
+   "heatType": "wet",
+   "wells": "3",
+   "tempRange": "30–80°C",
+   "width": "545 mm",
+   "depth": "350 mm",
+   "height": "300 mm",
+   "weight": "13 kg",
+   "electricKw": "3 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "1985",
+  "name": "Parry 1985 Electric Double Wet Well Bain Marie 3kW",
+  "brand": "parry",
+  "mpn": "1985",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_1985",
+  "known": {
+   "gnCapacity": "6 x 1/3GN",
+   "heatType": "wet",
+   "wells": "6",
+   "tempRange": "30 - 85°C",
+   "width": "660 mm",
+   "depth": "560 mm",
+   "height": "300 mm",
+   "weight": "16 kg",
+   "electricKw": "3 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "1987",
+  "name": "Parry 1987 Electric Wet Bain Marie 3kW",
+  "brand": "Parry",
+  "mpn": "1987",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_1987",
+  "known": {
+   "gnCapacity": "6 x 1/3GN",
+   "heatType": "wet",
+   "wells": "6",
+   "tempRange": "30–80°C",
+   "width": "1090 mm",
+   "depth": "350 mm",
+   "height": "275 mm",
+   "weight": "16 kg",
+   "electricKw": "3 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "e3407",
+  "name": "Falcon Dominator Plus E3407 Wet Heat Counter-Top Bain Marie",
+  "brand": "Falcon",
+  "mpn": "E3407",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_E3407",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "heatType": "wet",
+   "mobility": "true",
+   "tempRange": "70-90°C",
+   "width": "400 mm",
+   "depth": "786 mm",
+   "height": "455 mm",
+   "weight": "26 kg",
+   "electricKw": "1.5 kW",
+   "amps": "13 A",
+   "voltage": "230V",
+   "plug": "13A Supply (Plug",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "pwb4",
+  "name": "Parry NPWB4 4 Pot Stainless Steel Bain Marie",
+  "brand": "parry",
+  "mpn": "NPWB4",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PWB4",
+  "known": {
+   "heatType": "wet",
+   "wells": "4",
+   "volume": "4 litres",
+   "mobility": "true",
+   "width": "450 mm",
+   "depth": "600 mm",
+   "height": "360 mm",
+   "weight": "20 kg",
+   "electricKw": "3 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "59508dw03",
+  "name": "Vollrath 1/1 Mirage Induction Drop-In Buffet Warmer - 59508DW03",
+  "brand": "Vollrath",
+  "mpn": "59508DW03",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_59508DW03",
+  "known": {
+   "gnCapacity": "1/1 GN",
+   "width": "584 mm",
+   "depth": "406 mm",
+   "height": "978 mm",
+   "electricKw": "0.375 kW",
+   "amps": "1.3 A",
+   "voltage": "230V, 50HZ",
+   "plug": "PLUG SUPPLIED",
+   "warranty": "1 year",
+   "finish": "Black"
+  }
+ }
+]

@@ -1,0 +1,193 @@
+[
+ {
+  "id": "upc800",
+  "name": "Cambro UPC800 Insulated Ultra Camcart - 12 x 1/1 GN",
+  "brand": "Cambro",
+  "mpn": "UPC800",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_UPC800",
+  "known": {
+   "gnCapacity": "12 x 1/1 GN",
+   "wells": "12",
+   "width": "520 mm",
+   "depth": "690 mm",
+   "height": "1370 mm"
+  }
+ },
+ {
+  "id": "37560ruk",
+  "name": "Hamilton Beach 37560R-UK Commercial 60 Cup Rice Cooker/Warmer",
+  "brand": "HAMILTON BEACH",
+  "mpn": "37560R-UK",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_37560RUK",
+  "known": {
+   "volume": "14 litres",
+   "width": "460 mm",
+   "depth": "460 mm",
+   "height": "390 mm",
+   "weight": "11.5 kg",
+   "warranty": "1 year",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "37540uk",
+  "name": "Hamilton Beach 37540-UK Commercial 40 Cup Rice Cooker/Warmer",
+  "brand": "HAMILTON BEACH",
+  "mpn": "37540-UK",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_37540UK",
+  "known": {
+   "volume": "9 litres",
+   "width": "410 mm",
+   "depth": "410 mm",
+   "height": "335 mm",
+   "weight": "7 kg",
+   "warranty": "1 year",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "itnr2mini",
+  "name": "Inotech ITNR2 Mini Seduction Gas Chicken Rotisserie - \"Wall of Flame\"",
+  "brand": null,
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ITNR2MINI",
+  "known": {
+   "fuel": "gas",
+   "plates": "4",
+   "width": "870 mm",
+   "depth": "530 mm",
+   "height": "722 mm",
+   "voltage": "230v",
+   "warranty": "2 years",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "vr230105",
+  "name": "Vollrath Conveyor Sandwich Oven 267mm - S02-230105",
+  "brand": "Vollrath",
+  "mpn": "S02-230105",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_VR230105",
+  "known": {
+   "width": "409 mm",
+   "depth": "338 mm",
+   "height": "318 mm",
+   "electricKw": "2.8 kW",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "vr230145",
+  "name": "Vollrath Conveyor Sandwich Oven 368mm - S02-230145",
+  "brand": "Vollrath",
+  "mpn": "S02-230145",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_VR230145",
+  "known": {
+   "width": "511 mm",
+   "depth": "389 mm",
+   "height": "318 mm",
+   "electricKw": "3.6 kW",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "dct3",
+  "name": "Dualit DCT3 Conveyor Toaster",
+  "brand": "Dualit",
+  "mpn": "DCT3",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DCT3",
+  "known": {
+   "throughput": "500 slices per hour",
+   "width": "470 mm",
+   "depth": "640 mm",
+   "height": "400 mm",
+   "weight": "24 kg",
+   "electricKw": "4.1 kW",
+   "voltage": "230V",
+   "hardWired": "true",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "da228",
+  "name": "Rowlett Three Conveyor Toaster 1500RT - DA228",
+  "brand": "Rowlett",
+  "mpn": "DA228",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DA228",
+  "known": {
+   "throughput": "1200 Slices Per Hour",
+   "width": "580 mm",
+   "depth": "480 mm",
+   "height": "620 mm",
+   "electricKw": "7 kW",
+   "hardWired": "true",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "ch575",
+  "name": "Waring CH575 Commercial Single Waffle Cone Maker",
+  "brand": "Waring",
+  "mpn": "CH575",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CH575",
+  "known": {
+   "width": "267 mm",
+   "depth": "431 mm",
+   "height": "219 mm",
+   "weight": "6.03 kg",
+   "electricKw": "1.2 kW",
+   "voltage": "240V"
+  }
+ },
+ {
+  "id": "wm2",
+  "name": "Fracino Multi Cooking Gas Waffle Maker - WM2",
+  "brand": "Fracino",
+  "mpn": "WM2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_WM2",
+  "known": {
+   "fuel": "gas",
+   "width": "570 mm",
+   "depth": "453 mm",
+   "height": "393 mm",
+   "weight": "38 kg"
+  }
+ },
+ {
+  "id": "db009",
+  "name": "DB009 Cake Stand S/Steel With Three Acrylic Plates",
+  "brand": "Artis",
+  "mpn": "DB009",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DB009",
+  "known": {
+   "heatType": "dry",
+   "shelves": "3",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Shades",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "archwayhd2",
+  "name": "Archway HD2 Electric Heated Chicken Display 2 Pans",
+  "brand": "Archway",
+  "mpn": "HD2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAYHD2",
+  "known": {
+   "wells": "2",
+   "width": "1064 mm",
+   "depth": "755 mm",
+   "height": "507 mm",
+   "weight": "64 kg",
+   "electricKw": "2.84 kW",
+   "amps": "14.5 A",
+   "phase": "single",
+   "hardWired": "true",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ }
+]

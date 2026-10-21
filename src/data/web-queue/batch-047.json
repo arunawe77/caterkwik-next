@@ -1,0 +1,136 @@
+[
+ {
+  "id": "cb793",
+  "name": "CB793 Roll Top Cool Display Tray",
+  "brand": "APS",
+  "mpn": "CB793",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CB793",
+  "known": {
+   "width": "440 mm",
+   "depth": "320 mm",
+   "height": "205 mm",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "cb794",
+  "name": "CB794 Double Decker Roll Top Cool Display Trays",
+  "brand": "APS",
+  "mpn": "CB794",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CB794",
+  "known": {
+   "width": "440 mm",
+   "depth": "320 mm",
+   "height": "440 mm",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "t758",
+  "name": "T758 APS Cooling Tray 1/1 GN",
+  "brand": "APS",
+  "mpn": "T758",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_T758",
+  "known": {
+   "gnCapacity": "1/1 GN",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "gf155",
+  "name": "GF155 APS Pure Melamine Serving Plate",
+  "brand": "APS",
+  "mpn": "GF155",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF155",
+  "known": {}
+ },
+ {
+  "id": "cd715",
+  "name": "CD715 Olympia Whiteware 2/4 Two Fourths Size Gastronorm",
+  "brand": "Olympia",
+  "mpn": "CD715",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CD715",
+  "known": {
+   "gnCapacity": "2/4GN",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ce836",
+  "name": "CE836 Emile Henry Ceramic Gastronorm ½",
+  "brand": "Emile Henry",
+  "mpn": "CE836",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CE836",
+  "known": {
+   "gnCapacity": "1/2GN",
+   "volume": "3.1 litres"
+  }
+ },
+ {
+  "id": "cd714",
+  "name": "CD714 Olympia Whiteware 1/1 Full Size Gastronorm",
+  "brand": "Olympia",
+  "mpn": "CD714",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CD714",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ce801",
+  "name": "CE801 Emile Henry Ceramic Gastronorm 1/1",
+  "brand": "Emile Henry",
+  "mpn": "CE801",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CE801",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "volume": "6.4 litres"
+  }
+ },
+ {
+  "id": "cb798",
+  "name": "CB798 2 Tier Multi Rack",
+  "brand": "APS",
+  "mpn": "CB798",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CB798",
+  "known": {
+   "volume": "1 litres",
+   "shelves": "2",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cb799",
+  "name": "CB799 3 Tier Multi Rack",
+  "brand": "APS",
+  "mpn": "CB799",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CB799",
+  "known": {
+   "volume": "1 litres",
+   "shelves": "3",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "gg108t",
+  "name": "Grill Guru Core Thermometer",
+  "brand": "Grill Guru",
+  "mpn": "GG108T",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GG108T",
+  "known": {}
+ },
+ {
+  "id": "lfs680cover",
+  "name": "Lifestyle Bahama Island Barbeque Cover",
+  "brand": "LIFESTYLE",
+  "mpn": "LFS680COVER",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LFS680COVER",
+  "known": {
+   "fuel": "gas",
+   "width": "227 mm",
+   "depth": "85 mm",
+   "height": "120 mm"
+  }
+ }
+]

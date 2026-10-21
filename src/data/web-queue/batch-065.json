@@ -1,0 +1,166 @@
+[
+ {
+  "id": "itlr406080",
+  "name": "Inotech Legend ITLR40/60/80 \"Wall of flame\" 4/6/8 Spit Rotisserie",
+  "brand": null,
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ITLR406080",
+  "known": {
+   "fuel": "gas",
+   "plates": "8",
+   "voltage": "230v",
+   "warranty": "2 years",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "tp20",
+  "name": "Sammic TP-200 Toasting Grill",
+  "brand": "Sammic",
+  "mpn": "TP-20",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_TP20",
+  "known": {
+   "fuel": "electric",
+   "width": "525 mm",
+   "depth": "305 mm",
+   "height": "445 mm",
+   "weight": "10.4 kg",
+   "voltage": "230 V",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "ft037",
+  "name": "Olympia 1/1 GN Induction Chafer - FT037",
+  "brand": "Olympia",
+  "mpn": "FT037",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FT037",
+  "known": {
+   "gnCapacity": "1/1 GN",
+   "weight": "7.48 kg",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "j811",
+  "name": "Vogue J811 Heavy Duty Cake Cooling Tray 64 x 41cm",
+  "brand": "Vogue",
+  "mpn": "J811",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_J811",
+  "known": {
+   "width": "64 mm",
+   "weight": "10.4 kg",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "c6h75",
+  "name": "Lincat C6H/75 650 Curved Front Heated Food Merchandiser",
+  "brand": "Lincat",
+  "mpn": "C6H/75B",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_C6H75",
+  "known": {
+   "width": "750 mm",
+   "depth": "650 mm",
+   "height": "755 mm",
+   "weight": "70 kg",
+   "electricKw": "1.52 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "silver finish"
+  }
+ },
+ {
+  "id": "ba0022a",
+  "name": "Lifestyle 22″ Kettle Charcoal BBQ - BA0022A",
+  "brand": "LIFESTYLE",
+  "mpn": "BA0022A",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BA0022A",
+  "known": {
+   "fuel": "charcoal",
+   "depth": "57 mm",
+   "height": "80 mm"
+  }
+ },
+ {
+  "id": "fs695",
+  "name": "Lifestyle Adena MGO Fire Pit FS695",
+  "brand": "Lifestyle",
+  "mpn": "FS695",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FS695",
+  "known": {
+   "plate": "chrome",
+   "weight": "8.8 kg",
+   "finish": "Chrome"
+  }
+ },
+ {
+  "id": "ck0438",
+  "name": "Fimar ck0438 CRP 350mm Electric Crepe Machine",
+  "brand": "Fimar",
+  "mpn": "CRP",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK0438",
+  "known": {
+   "fuel": "electric",
+   "width": "350 mm",
+   "depth": "370 mm",
+   "height": "120 mm",
+   "weight": "12 kg",
+   "electricKw": "2 kW",
+   "plug": "plug supplied",
+   "warranty": "1 year",
+   "finish": "Stainless steel body"
+  }
+ },
+ {
+  "id": "cc310",
+  "name": "Olympia CC310 Cast Iron 280mm Oval Sizzler With Wooden Stand",
+  "brand": "Olympia",
+  "mpn": "CC310",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CC310",
+  "known": {
+   "fuel": "induction",
+   "width": "230 mm",
+   "weight": "1.87 kg"
+  }
+ },
+ {
+  "id": "m945",
+  "name": "Vogue M945 Stainless steel saucepan 5Ltr",
+  "brand": "Vogue",
+  "mpn": "M945",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_M945",
+  "known": {
+   "volume": "5 litres",
+   "fuel": "induction",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "1022610",
+  "name": "Matfer Bourgeat Tradition Frying pan - 10226-02",
+  "brand": "matfer",
+  "mpn": "10226",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_1022610",
+  "known": {
+   "fuel": "induction",
+   "warranty": "1 year",
+   "finish": "stainless steel body"
+  }
+ },
+ {
+  "id": "cp929",
+  "name": "CP929 Caterlite 4 Slot Stainless Steel Toaster",
+  "brand": "Caterlite",
+  "mpn": "CP929",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CP929",
+  "known": {
+   "plates": "4",
+   "weight": "4.5 kg",
+   "electricKw": "1.8 kW",
+   "voltage": "240V",
+   "finish": "stainless steel"
+  }
+ }
+]

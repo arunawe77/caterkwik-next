@@ -1,0 +1,216 @@
+[
+ {
+  "id": "hja20",
+  "name": "HJA20",
+  "brand": "Josper",
+  "mpn": "HJA20",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "charcoal",
+   "width": "830 mm",
+   "depth": "650 mm",
+   "height": "940 mm",
+   "electricKw": "7.5 kW"
+  }
+ },
+ {
+  "id": "ir6g24",
+  "name": "IR-6-G24",
+  "brand": "Imperial",
+  "mpn": "IR-6-G24",
+  "caterkwikUrl": null,
+  "known": {
+   "burners": "6",
+   "fuel": "gas",
+   "griddle": "610mm Griddle",
+   "ignition": "pilot",
+   "width": "1524 mm",
+   "depth": "800 mm",
+   "height": "1435 mm",
+   "weight": "480 kg",
+   "gasKw": "81 kW",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "jd349",
+  "name": "JD349",
+  "brand": "Buffalo",
+  "mpn": "JD349",
+  "caterkwikUrl": null,
+  "known": {
+   "trays": "4 x 2/3GN Pans",
+   "gnCapacity": "4 x 2/3GN",
+   "tempRange": "50°C to 250°C",
+   "door": "Glass Door",
+   "timer": "Timer",
+   "width": "690 mm",
+   "weight": "43 kg",
+   "voltage": "240 V",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cr8m",
+  "name": "CR8PM16",
+  "brand": "Moffat",
+  "mpn": "CR8PM16",
+  "caterkwikUrl": null,
+  "known": {
+   "trays": "2 shelves included",
+   "trayPitch": "71 mm",
+   "humidity": "true",
+   "timer": "timer",
+   "weight": "125 kg",
+   "electricKw": "5.7 kW",
+   "amps": "16 A",
+   "phase": "three",
+   "plug": "16A, 3PH",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "cr10l",
+  "name": "CR10L13",
+  "brand": "Moffat",
+  "mpn": "CR10L13",
+  "caterkwikUrl": null,
+  "known": {
+   "trays": "2 shelves included",
+   "trayPitch": "71 mm",
+   "humidity": "true",
+   "timer": "timer",
+   "weight": "125 kg",
+   "electricKw": "5.7 kW",
+   "amps": "16 A",
+   "phase": "three",
+   "plug": "13A plug",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "cr20l",
+  "name": "CR20L16",
+  "brand": "Moffat",
+  "mpn": "CR20L16",
+  "caterkwikUrl": null,
+  "known": {
+   "trays": "6 shelves included",
+   "trayPitch": "71 mm",
+   "humidity": "true",
+   "timer": "timer",
+   "weight": "140 kg",
+   "electricKw": "9 kW",
+   "amps": "16 A",
+   "phase": "three",
+   "plug": "16A, 3PH",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "efx105gv7",
+  "name": "EFX105GV7",
+  "brand": "Tecnoinox",
+  "mpn": "EFX105GV7",
+  "caterkwikUrl": null,
+  "known": {
+   "burners": "6",
+   "ovenCavities": "1",
+   "fuel": "gas",
+   "ovenType": "convection",
+   "ignition": "pilot",
+   "width": "1050 mm",
+   "depth": "700 mm",
+   "height": "860 mm",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "fc34cn",
+  "name": "FC340CN",
+  "brand": "Roller Grill",
+  "mpn": "FC340CN",
+  "caterkwikUrl": null,
+  "known": {
+   "humidity": "true",
+   "timer": "timer; internal light; 250'C thermostat, rear",
+   "lowTemp": "true",
+   "width": "550 mm",
+   "depth": "490 mm",
+   "height": "330 mm",
+   "weight": "40 kg",
+   "electricKw": "2.5 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "black finish"
+  }
+ },
+ {
+  "id": "rbg12",
+  "name": "RBG120",
+  "brand": "Roller Grill",
+  "mpn": "RBG120",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "gas",
+   "width": "800 mm",
+   "depth": "350 mm",
+   "height": "955 mm",
+   "weight": "40 kg",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "d120vk",
+  "name": "D120VK-Silicone",
+  "brand": "AS Term",
+  "mpn": "D120VK-Silicone",
+  "caterkwikUrl": null,
+  "known": {
+   "pizzaSize": "12\"",
+   "fuel": "wood",
+   "width": "1960 mm",
+   "depth": "2150 mm",
+   "height": "2050 mm",
+   "weight": "2150 kg",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "hmbmini",
+  "name": "HBM Mini",
+  "brand": "Mibrasa",
+  "mpn": "HBM Mini",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "charcoal",
+   "width": "735 mm",
+   "depth": "490 mm",
+   "height": "895 mm",
+   "electricKw": "2 kW",
+   "finish": "BLACK"
+  }
+ },
+ {
+  "id": "hmbminiplus",
+  "name": "HMBMINIPLUS",
+  "brand": "Mibrasa",
+  "mpn": "HMBMINIPLUS",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "charcoal",
+   "width": "735 mm",
+   "depth": "510 mm",
+   "height": "1025 mm",
+   "electricKw": "2 kW",
+   "finish": "BLACK"
+  }
+ }
+]

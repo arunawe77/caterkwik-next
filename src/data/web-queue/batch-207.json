@@ -1,0 +1,237 @@
+[
+ {
+  "id": "ct540",
+  "name": "Roller Grill CT540 Conveyor Toaster",
+  "brand": "Roller Grill",
+  "mpn": "CT540",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CT540",
+  "known": {
+   "throughput": "540 slices per hour",
+   "width": "455 mm",
+   "depth": "530 mm",
+   "height": "345 mm",
+   "weight": "21 kg",
+   "electricKw": "2.3 kW",
+   "phase": "single",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "ct10",
+  "name": "Lincat CT1 Conveyor Toaster",
+  "brand": "Lincat",
+  "mpn": "CT1",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CT10",
+  "known": {
+   "fuel": "electric",
+   "width": "410 mm",
+   "depth": "668 mm",
+   "height": "398 mm",
+   "weight": "23 kg",
+   "electricKw": "2.4 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "tm310",
+  "name": "Hatco - Toast-Max Conveyor Toaster - TM3-10",
+  "brand": "Hatco",
+  "mpn": "TM3-10",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_TM310",
+  "known": {
+   "fuel": "electric",
+   "volume": "3.785 litres",
+   "throughput": "280 slices per hour",
+   "timer": "timer or remote",
+   "width": "368 mm",
+   "depth": "535 mm",
+   "height": "412 mm",
+   "weight": "19 kg",
+   "electricKw": "2.2 kW",
+   "amps": "9.5 A",
+   "voltage": "240v",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "st33",
+  "name": "Sammic ST-33 Conveyor Toaster",
+  "brand": "Sammic",
+  "mpn": "ST-33",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ST33",
+  "known": {
+   "throughput": "900 slices per hour",
+   "width": "500 mm",
+   "depth": "460 mm",
+   "height": "500 mm",
+   "weight": "22.1 kg",
+   "electricKw": "2.8 kW",
+   "voltage": "230V",
+   "phase": "single",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "m952fc",
+  "name": "APW Wyott M-95-2-FC Radiant Bun Toaster",
+  "brand": "APW Wyott",
+  "mpn": "M-95-2-FC",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_M952FC",
+  "known": {
+   "thermostat": "Thermostatic Temperature Control",
+   "width": "534 mm",
+   "depth": "407 mm",
+   "height": "712 mm",
+   "weight": "44 kg",
+   "electricKw": "2.8 kW",
+   "amps": "13 A",
+   "voltage": "240V",
+   "warranty": "2 years",
+   "finish": "stainless steel body"
+  }
+ },
+ {
+  "id": "ges23",
+  "name": "Roller Grill GES23 Single Corn Waffle Machine",
+  "brand": "Roller Grill",
+  "mpn": "GES23",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GES23",
+  "known": {
+   "throughput": "96 waffles per hour",
+   "timer": "timer and option of display support for corn",
+   "thermostat": "thermostat",
+   "width": "305 mm",
+   "depth": "440 mm",
+   "height": "230 mm",
+   "weight": "19 kg",
+   "electricKw": "1.5 kW",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ged10",
+  "name": "Roller Grill GED10 Brussels Waffle Iron",
+  "brand": "Roller Grill",
+  "mpn": "GED10",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GED10",
+  "known": {
+   "fuel": "electric",
+   "thermostat": "thermostat",
+   "width": "550 mm",
+   "depth": "440 mm",
+   "height": "230 mm",
+   "weight": "38 kg",
+   "electricKw": "3 kW",
+   "amps": "13 A",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "gb3cold",
+  "name": "Blizzard GB COLD Commercial Chilled Buffet Display / Salad Bar",
+  "brand": "BLIZZARD",
+  "mpn": "GB-COLD",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GB3COLD",
+  "known": {
+   "gnCapacity": "3x 1/1GN",
+   "wells": "3",
+   "mobility": "true",
+   "width": "2180 mm",
+   "depth": "900 mm",
+   "height": "1320 mm",
+   "electricKw": "1.02 kW",
+   "amps": "13 A",
+   "warranty": "2 years",
+   "finish": "stainless steel exterior"
+  }
+ },
+ {
+  "id": "cinderscavalier",
+  "name": "Cinders SG80 Classic Cavalier Folding Professional Barbecue - CK9180",
+  "brand": "Cinders",
+  "mpn": "SG80",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CINDERSCAVALIER",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "gas",
+   "width": "1120 mm",
+   "depth": "660 mm",
+   "height": "215 mm",
+   "weight": "26 kg",
+   "electricKw": "10 kW",
+   "gasKw": "20 kW",
+   "warranty": "2 years",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "cinderscaterer",
+  "name": "Cinders TG160 Classic Caterer Folding Professional Barbecue",
+  "brand": "Cinders",
+  "mpn": "TG160",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CINDERSCATERER",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "gas",
+   "width": "2080 mm",
+   "depth": "660 mm",
+   "height": "190 mm",
+   "weight": "47 kg",
+   "electricKw": "20 kW",
+   "gasKw": "20 kW",
+   "warranty": "2 years",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "ck3401",
+  "name": "Cater-Cook Heavy Duty 1 Burner LPG Gas Griddle - W400 - CK3401",
+  "brand": "Cater-Cook",
+  "mpn": "CK3401",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK3401",
+  "known": {
+   "fuel": "gas",
+   "burners": "1",
+   "width": "400 mm",
+   "depth": "470 mm",
+   "height": "250 mm",
+   "weight": "16 kg",
+   "electricKw": "3.1 kW",
+   "gasConnection": "½\" Inlet connection",
+   "warranty": "1 year",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "cu471",
+  "name": "Buffalo CU471 600 Series 4 Ring Electric Hob",
+  "brand": "Buffalo",
+  "mpn": "CU471",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CU471",
+  "known": {
+   "volume": "15 litres",
+   "fuel": "electric",
+   "heating": "bain marie",
+   "zones": "4",
+   "tap": "true",
+   "width": "600 mm",
+   "depth": "600 mm",
+   "height": "240 mm",
+   "weight": "11.5 kg",
+   "electricKw": "7000 kW",
+   "amps": "30 A",
+   "voltage": "400V",
+   "hardWired": "true",
+   "finish": "STAINLESS STEEL"
+  }
+ }
+]

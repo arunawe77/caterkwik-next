@@ -1,0 +1,365 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// Money is stored as whole pence, so nothing is ever rounded twice.
+// Products are not in the database: they come from the scrape in src/data, and an order
+// keeps a snapshot of what it was sold for.
+
+enum Role {
+  CUSTOMER
+  ADMIN
+}
+
+model User {
+  id           String          @id @default(cuid())
+  email        String          @unique
+  name         String
+  passwordHash String
+  role         Role            @default(CUSTOMER)
+  createdAt    DateTime        @default(now())
+  sessions     Session[]
+  resets       PasswordReset[]
+  orders       Order[]
+  enquiries    Enquiry[]
+}
+
+// The id is the SHA-256 of the cookie value, so a leaked table cannot be replayed as a login.
+model Session {
+  id        String   @id
+  userId    String
+  expiresAt DateTime
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+}
+
+model PasswordReset {
+  id        String    @id @default(cuid())
+  userId    String
+  tokenHash String    @unique
+  expiresAt DateTime
+  usedAt    DateTime?
+  user      User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+enum EnquiryKind {
+  QUOTE
+  CALLBACK
+  GENERAL
+}
+
+enum EnquiryStatus {
+  NEW
+  IN_PROGRESS
+  DONE
+}
+
+model Enquiry {
+  id          String        @id @default(cuid())
+  kind        EnquiryKind
+  status      EnquiryStatus @default(NEW)
+  name        String
+  email       String
+  phone       String?
+  company     String?
+  message     String
+  productId   String?
+  productName String?
+  notes       String?
+  userId      String?
+  user        User?         @relation(fields: [userId], references: [id], onDelete: SetNull)
+  createdAt   DateTime      @default(now())
+
+  @@index([status, createdAt])
+}
+
+enum OrderStatus {
+  AWAITING_PAYMENT
+  PAID
+  PROCESSING
+  SHIPPED
+  COMPLETED
+  CANCELLED
+}
+
+model Order {
+  id              String      @id @default(cuid())
+  number          Int         @unique @default(autoincrement())
+  status          OrderStatus @default(AWAITING_PAYMENT)
+  email           String
+  name            String
+  phone           String
+  company         String?
+  addressLine1    String
+  addressLine2    String?
+  city            String
+  postcode        String
+  notes           String?
+  subtotalExPence Int
+  totalIncPence   Int
+  stripeSessionId String?     @unique
+  paidAt          DateTime?
+  trackingNote    String?
+  userId          String?
+  user            User?       @relation(fields: [userId], references: [id], onDelete: SetNull)
+  lines           OrderLine[]
+  createdAt       DateTime    @default(now())
+  updatedAt       DateTime    @updatedAt
+
+  @@index([email])
+  @@index([status, createdAt])
+}
+
+model OrderLine {
+  id           String @id @default(cuid())
+  orderId      String
+  productId    String
+  name         String
+  unitExPence  Int
+  unitIncPence Int
+  qty          Int
+  order        Order  @relation(fields: [orderId], references: [id], onDelete: Cascade)
+
+  @@index([orderId])
+}
+
+// Redirects staff add in the admin, on top of the 442 built from the scrape.
+model CustomRedirect {
+  id        String   @id @default(cuid())
+  fromPath  String   @unique
+  toPath    String
+  createdAt DateTime @default(now())
+}
+
+// A Stripe event is acted on once, however many times Stripe delivers it.
+model WebhookEvent {
+  id          String   @id
+  processedAt DateTime @default(now())
+}
+
+// ---- Catalogue (managed in the admin) --------------------------------------------------
+// Seeded once from src/data/scrape.json, then the database is the source of truth.
+// Money is whole pence; null means "not published", never a guess.
+
+enum Availability {
+  IN_STOCK
+  POA
+  DISCONTINUED
+}
+
+// Only ACTIVE products appear on the storefront.
+enum ProductStatus {
+  DRAFT
+  ACTIVE
+  ARCHIVED
+}
+
+model Category {
+  slug      String    @id
+  label     String
+  audience  String    @default("")
+  cooking   String[]
+  supply    String[]
+  covers    String[]
+  sortOrder Int       @default(0)
+  parentSlug String?
+  section   String?
+  path      String?
+  sourceUrl String?   @unique
+  image       String? // banner shown at the top of the category page
+  description String? // the introduction under it: the words the old page ranked on
+  products  Product[]
+}
+
+model Product {
+  id               String            @id // the URL segment; never changes
+  token            String?           @unique // Caterkwik's legacy reference, the redirect join
+  name             String
+  brand            String?
+  categorySlug     String
+  category         Category          @relation(fields: [categorySlug], references: [slug])
+  alsoIn           String[]
+  image            String
+  priceExPence     Int?
+  priceIncPence    Int?
+  wasExPence       Int?
+  leaseWeekPence   Int?
+  availability     Availability      @default(IN_STOCK)
+  status           ProductStatus     @default(ACTIVE)
+  webExclusive     Boolean           @default(false)
+  legacyUrl        String?
+  spec             Json?
+  description      String?
+  seoTitle         String?
+  seoDescription   String?
+  stockQty         Int?
+  createdAt        DateTime          @default(now())
+  updatedAt        DateTime          @updatedAt
+  competitorPrices CompetitorPrice[]
+  detail           ProductDetail?
+
+  @@index([categorySlug, status])
+  @@index([status])
+}
+
+enum ChangeSource {
+  STAFF
+  AI
+}
+
+// Every admin change, by staff or by the assistant, with the before and after so it can be undone.
+model AuditLog {
+  id        String       @id @default(cuid())
+  createdAt DateTime     @default(now())
+  actorId   String?
+  actorName String
+  source    ChangeSource
+  action    String
+  entity    String
+  entityId  String
+  summary   String
+  before    Json?
+  after     Json?
+  undoneAt  DateTime?
+
+  @@index([createdAt])
+  @@index([entity, entityId])
+}
+
+enum PendingStatus {
+  PENDING
+  APPLIED
+  REJECTED
+}
+
+// A destructive change the assistant proposed. Only a staff click on the confirm button can apply it;
+// the model has no way to confirm its own request.
+model PendingAction {
+  id        String        @id @default(cuid())
+  userId    String
+  tool      String
+  input     Json
+  summary   String
+  status    PendingStatus @default(PENDING)
+  expiresAt DateTime
+  createdAt DateTime      @default(now())
+
+  @@index([userId, status])
+}
+
+// ---- Competitors ------------------------------------------------------------------------
+// The sites we compare against. Their prices are recorded by staff from the public product page:
+// every one of these sites blocks automated requests, so nothing here is scraped.
+// Money is whole pence; null means "not recorded", never a guess.
+
+model Competitor {
+  id        String            @id // slug, e.g. "nisbets"
+  name      String
+  domain    String
+  url       String // shop front, used for the "visit" link
+  notes     String?
+  active    Boolean           @default(true)
+  sortOrder Int               @default(0)
+  createdAt DateTime          @default(now())
+  prices    CompetitorPrice[]
+}
+
+// The latest price a competitor shows for one of our products.
+model CompetitorPrice {
+  id            String               @id @default(cuid())
+  productId     String
+  competitorId  String
+  url           String? // their product page
+  theirName     String? // what they call it
+  priceExPence  Int?
+  priceIncPence Int?
+  inStock       Boolean?
+  note          String?
+  checkedAt     DateTime             @default(now())
+  checkedBy     String?
+  product       Product              @relation(fields: [productId], references: [id], onDelete: Cascade)
+  competitor    Competitor           @relation(fields: [competitorId], references: [id], onDelete: Cascade)
+  history       CompetitorPriceLog[]
+
+  @@unique([productId, competitorId])
+  @@index([competitorId])
+}
+
+// Every price entered, so movement over time can be seen.
+model CompetitorPriceLog {
+  id                String          @id @default(cuid())
+  competitorPriceId String
+  priceExPence      Int?
+  priceIncPence     Int?
+  inStock           Boolean?
+  ourExPence        Int? // our own ex VAT price at the time
+  checkedAt         DateTime        @default(now())
+  checkedBy         String?
+  entry             CompetitorPrice @relation(fields: [competitorPriceId], references: [id], onDelete: Cascade)
+
+  @@index([competitorPriceId, checkedAt])
+}
+
+// ---- Spreadsheet imports ------------------------------------------------------------------
+// Products arrive from the Caterkwik crawl workbooks (admin > Import). Everything on the product
+// page that has no column of its own lives in ProductDetail, so the catalogue stays light.
+
+model ProductDetail {
+  productId        String   @id
+  product          Product  @relation(fields: [productId], references: [id], onDelete: Cascade)
+  mpn              String?
+  gtin             String?
+  condition        String?
+  subTitle         String?
+  productType      String?
+  shortDescription String?
+  section          String?
+  sections         String[]
+  categoryPaths    String[]
+  images           Json?
+  documents        Json?
+  options          Json?
+  leasePlans       Json?
+  accessories      Json?
+  alsoBought       Json?
+  reviews          Json?
+  videos           Json?
+  attributes       Json?
+  dataFlags        String[]
+  sourceFile       String?
+  importedAt       DateTime @default(now())
+}
+
+enum ImportStatus {
+  QUEUED
+  RUNNING
+  DONE
+  FAILED
+}
+
+// One analysis or import of an uploaded workbook. The file stays on disk so a checked file can be imported
+// without uploading it again.
+model ImportRun {
+  id         String       @id @default(cuid())
+  createdAt  DateTime     @default(now())
+  finishedAt DateTime?
+  actorName  String
+  fileName   String
+  filePath   String
+  dryRun     Boolean      @default(true)
+  options    Json
+  status     ImportStatus @default(QUEUED)
+  phase      String       @default("Waiting")
+  done       Int          @default(0)
+  total      Int          @default(0)
+  result     Json?
+  error      String?
+
+  @@index([createdAt])
+}

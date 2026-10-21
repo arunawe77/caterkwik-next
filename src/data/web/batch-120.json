@@ -1,0 +1,987 @@
+[
+ {
+  "id": "g160ksilc",
+  "found": false,
+  "sources": [],
+  "facts": [],
+  "notes": "Not verified. archiexpo.com catalogue pages for AS Term G160K returned HTTP 403 and no other third-party page for this exact silicone-design code could be opened. Unread search snippets suggested 13 pizzas of 30 cm, 195 pizzas/h, 36 kW thermal, 3/4in gas, 230V/50Hz, 2100x2350x2050 mm, 2150 kg; confirm against the AS Term catalogue."
+ },
+ {
+  "id": "g140k",
+  "found": false,
+  "sources": [],
+  "facts": [],
+  "notes": "Not verified. archiexpo.com pages for AS Term G140K returned HTTP 403 and no other page could be opened. Unread search snippets suggested 10 pizzas of 30 cm, 150 pizzas/h, 30 kW thermal, 3/4in gas, 230V/50Hz, 1800 kg; confirm against the AS Term catalogue. Only Caterkwik's own category page was readable."
+ },
+ {
+  "id": "g160k",
+  "found": false,
+  "sources": [],
+  "facts": [],
+  "notes": "Not verified. archiexpo.com pages for AS Term G160K returned HTTP 403 and no other page could be opened. Unread search snippets suggested 13 pizzas of 30 cm, 195 pizzas/h, 36 kW, 3/4in gas, 230V/50Hz; confirm against the AS Term catalogue."
+ },
+ {
+  "id": "btds76ce",
+  "found": true,
+  "sources": [
+   {
+    "kind": "retailer",
+    "url": "https://www.vanhattemhoreca.nl/bradley-4-rack-digital-food-smoker-btds76ce-dk711-60774/",
+    "title": "Bradley 4 Rack Digital Food Smoker BTDS76CE - Van Hattem Horeca",
+    "read": "2026-10-12"
+   },
+   {
+    "kind": "retailer",
+    "url": "https://tuckerbbq.com.au/products/bradley-digital-4-rack-smoker",
+    "title": "Bradley Digital 4 Rack Smoker - Tucker BBQ",
+    "read": "2026-10-12"
+   }
+  ],
+  "summary": "A bench-top electric food smoker with four removable racks, digital control of temperature, time and smoke, and an automatic bisquette feed that lets it run for several hours unattended. Suited to small kitchens, delis and pubs wanting to smoke meat, fish, cheese and vegetables without a full-size smokehouse.",
+  "highlights": [
+   {
+    "text": "Digital timer and temperature display; modular automatic smoke generator with timer allows up to 8 hours of smoking.",
+    "source": 0
+   },
+   {
+    "text": "Digital controls for temperature, time and smoke; cooking element controllable up to 160 C.",
+    "source": 1
+   }
+  ],
+  "facts": [
+   {
+    "label": "Racks",
+    "value": "4 wire shelves, 330w x 254d mm each",
+    "source": 0,
+    "key": "grid"
+   },
+   {
+    "label": "Dimensions",
+    "value": "80(h) x 43(b) x 37(d) cm",
+    "source": 0,
+    "key": "dimensions"
+   },
+   {
+    "label": "Interior dimensions",
+    "value": "648(h) x 381(w) x 292(d) mm",
+    "source": 0,
+    "key": "ovenInterior"
+   },
+   {
+    "label": "Useable smoking height",
+    "value": "495 mm above drip tray",
+    "source": 0,
+    "section": "Capacity"
+   },
+   {
+    "label": "Material",
+    "value": "Stainless steel",
+    "source": 0,
+    "key": "material"
+   },
+   {
+    "label": "Colour",
+    "value": "Silver",
+    "source": 0,
+    "key": "colour"
+   },
+   {
+    "label": "Weight",
+    "value": 18,
+    "source": 0,
+    "key": "weight",
+    "unit": "kg"
+   },
+   {
+    "label": "Cooking element",
+    "value": "500 W",
+    "source": 0,
+    "key": "elementKw"
+   },
+   {
+    "label": "Bisquette burner",
+    "value": "120 W",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "Heat-up time",
+    "value": "15 minutes",
+    "source": 0,
+    "key": "heatUp"
+   },
+   {
+    "label": "Cooking surface",
+    "value": "1452 cm2",
+    "source": 0,
+    "key": "cookingArea"
+   },
+   {
+    "label": "Country of origin",
+    "value": "United Kingdom",
+    "source": 0,
+    "key": "origin"
+   },
+   {
+    "label": "EAN",
+    "value": "689796990308",
+    "source": 0,
+    "key": "gtin"
+   },
+   {
+    "label": "Warranty",
+    "value": "1 year",
+    "source": 0,
+    "key": "warranty"
+   },
+   {
+    "label": "Interior construction",
+    "value": "Polished stainless steel",
+    "source": 1,
+    "key": "interior"
+   },
+   {
+    "label": "Exterior construction",
+    "value": "Powder epoxy steel",
+    "source": 1,
+    "key": "exterior"
+   },
+   {
+    "label": "Internal cooking volume",
+    "value": "2288 cubic inches",
+    "source": 1,
+    "key": "capacity"
+   },
+   {
+    "label": "Cooking element",
+    "value": "500 W",
+    "source": 1,
+    "key": "elementKw"
+   },
+   {
+    "label": "Smoking element",
+    "value": "125 W",
+    "source": 1,
+    "section": "Electrical"
+   },
+   {
+    "label": "Maximum temperature",
+    "value": 160,
+    "source": 1,
+    "key": "tempMax",
+    "unit": "°C"
+   },
+   {
+    "label": "Minimum temperature",
+    "value": "approx. 35-40 C, subject to ambient conditions",
+    "source": 1,
+    "key": "tempMin"
+   },
+   {
+    "label": "Racks",
+    "value": "4 adjustable racks, 279 mm x 330 mm cooking space each",
+    "source": 1,
+    "key": "grid"
+   },
+   {
+    "label": "Exterior dimensions",
+    "value": "430 mm W x 360 mm D x 700 mm H",
+    "source": 1,
+    "section": "Dimensions"
+   },
+   {
+    "label": "Interior dimensions",
+    "value": "400 mm W x 300 mm D x 600 mm H",
+    "source": 1,
+    "key": "ovenInterior"
+   },
+   {
+    "label": "Smoking area",
+    "value": "480 mm useable above drip tray",
+    "source": 1,
+    "section": "Capacity"
+   },
+   {
+    "label": "Power model",
+    "value": "240 Volt model, 2 amps (Australian variant; SKU also written BTDS76CEEU)",
+    "source": 1,
+    "key": "voltage"
+   },
+   {
+    "label": "Warranty",
+    "value": "12 months from original purchase",
+    "source": 1,
+    "key": "warranty"
+   }
+  ],
+  "included": [
+   "User guide",
+   "Recipe booklet",
+   "Rectangular tray and drip bowl"
+  ],
+  "notes": "Retailers disagree on size: NL page 80x43x37 cm (interior 648x381x292 mm), AU page 700 H x 430 W x 360 D (interior 600x400x300 mm); Caterkwik states 465x360x790 and 108 L, neither seen. The AU page is a 240 V Australian variant, treat as secondary. Included items are from the AU page only. Check against Bradley/UK distributor datasheet."
+ },
+ {
+  "id": "mecda2",
+  "found": true,
+  "sources": [
+   {
+    "kind": "retailer",
+    "url": "https://www.appliancesdirect.co.uk/p/mec-d-a-2/mercury-commercial-double-slice-conveyor-toaster",
+    "title": "Mercury MEC-D-A-2 Commercial Double Slice Conveyor Toaster - Appliances Direct",
+    "read": "2026-10-12"
+   }
+  ],
+  "summary": "A compact two-slice-wide commercial conveyor toaster with independently adjustable top and bottom heat and variable belt speed. It can take bread and thicker items such as bagels, and suits cafes, hotel breakfast service and canteens needing steady toast output from a 13 A socket.",
+  "highlights": [
+   {
+    "text": "Dual-width track for two slices side by side; 300 slices per hour.",
+    "source": 0
+   },
+   {
+    "text": "Top and bottom heating elements adjustable independently; variable conveyor speed.",
+    "source": 0
+   },
+   {
+    "text": "Front or rear discharge, eco energy saving mode, cool-touch insulated exterior.",
+    "source": 0
+   }
+  ],
+  "facts": [
+   {
+    "label": "Throughput",
+    "value": "300 slices per hour",
+    "source": 0,
+    "key": "output"
+   },
+   {
+    "label": "Power consumption",
+    "value": 2400,
+    "source": 0,
+    "unit": "W",
+    "key": "electricKw"
+   },
+   {
+    "label": "Power supply",
+    "value": "230V ~ 50Hz",
+    "source": 0,
+    "key": "voltage"
+   },
+   {
+    "label": "Fuse size",
+    "value": 13,
+    "source": 0,
+    "key": "amps",
+    "unit": "A"
+   },
+   {
+    "label": "Connection",
+    "value": "Fitted 13A plug (UK 3-pin)",
+    "source": 0,
+    "key": "plug"
+   },
+   {
+    "label": "Width",
+    "value": 37,
+    "source": 0,
+    "key": "width",
+    "unit": "cm"
+   },
+   {
+    "label": "Depth",
+    "value": 75,
+    "source": 0,
+    "key": "depth",
+    "unit": "cm"
+   },
+   {
+    "label": "Height",
+    "value": 41,
+    "source": 0,
+    "key": "height",
+    "unit": "cm"
+   },
+   {
+    "label": "Weight",
+    "value": 16.8,
+    "source": 0,
+    "key": "weight",
+    "unit": "kg"
+   },
+   {
+    "label": "Aperture width",
+    "value": 260,
+    "source": 0,
+    "unit": "mm",
+    "section": "Dimensions"
+   },
+   {
+    "label": "Aperture height",
+    "value": 70,
+    "source": 0,
+    "unit": "mm",
+    "section": "Dimensions"
+   },
+   {
+    "label": "Maximum product thickness",
+    "value": "55 mm (bagels)",
+    "source": 0,
+    "section": "Capacity"
+   },
+   {
+    "label": "Construction",
+    "value": "304 stainless steel",
+    "source": 0,
+    "key": "material"
+   },
+   {
+    "label": "Feet",
+    "value": "Adjustable anti-slip legs",
+    "source": 0,
+    "key": "legs"
+   },
+   {
+    "label": "Warranty",
+    "value": "1 year manufacturer's parts warranty (full parts and labour)",
+    "source": 0,
+    "key": "warranty"
+   },
+   {
+    "label": "Colour",
+    "value": "Stainless steel",
+    "source": 0,
+    "key": "colour"
+   }
+  ],
+  "included": [
+   "Bread guide",
+   "Removable crumb tray"
+  ],
+  "notes": "Single source read (Appliances Direct); manufacturer page and manual not reachable. Power recorded as 2400 W with unit W, dimensions in cm, as the source gives them."
+ },
+ {
+  "id": "297t14pfgb",
+  "found": false,
+  "sources": [],
+  "facts": [],
+  "notes": "Could not open any page for the exact 297-T14FGB. catering-appliance.com (listed there as 297-T14PFGB) returned 403, and the only readable mention was an Easy Equipment 297-T9FGB page saying the T14FGB has identical spec to the 9-second model, which is not reliable. Unread search snippets suggest 1380 buns/h, 230V, 1.7 kW, 13 A plug, 30 kg, 658x648x219 mm; Caterkwik states 635 mm width. Human to check, including whether T14FGB and T14PFGB are the same item."
+ },
+ {
+  "id": "ct917",
+  "found": true,
+  "sources": [
+   {
+    "kind": "retailer",
+    "url": "https://www.advantage-catering-equipment.co.uk/products/nisbets-essentials-toaster-grill",
+    "title": "Nisbets Essentials Toaster Grill CT917 - Advantage Catering Equipment",
+    "read": "2026-10-12"
+   },
+   {
+    "kind": "retailer",
+    "url": "https://www.easyequipment.com/nisbets-essentials-quartz-toaster-grill-ct917-5646.html",
+    "title": "Nisbets Essentials Quartz Toaster Grill CT917 - Easy Equipment",
+    "read": "2026-10-12"
+   }
+  ],
+  "summary": "A compact electric salamander-style toaster grill that heats from above and below with six quartz tubes, controlled by a dial timer and dial thermostat. It suits cafes, small kitchens and pubs for toasting, grilling and finishing dishes on a 13 A plug.",
+  "highlights": [
+   {
+    "text": "Six quartz heating tubes give simultaneous top and bottom heat.",
+    "source": 0
+   },
+   {
+    "text": "Three top and three bottom quartz tubes; manual dial temperature and timer.",
+    "source": 1
+   },
+   {
+    "text": "Removable shelf with handle and integrated side vents.",
+    "source": 1
+   }
+  ],
+  "facts": [
+   {
+    "label": "Colour",
+    "value": "Silver",
+    "source": 0,
+    "key": "colour"
+   },
+   {
+    "label": "Dimensions",
+    "value": "275(H) x 440(W) x 280(D)mm",
+    "source": 0,
+    "key": "dimensions"
+   },
+   {
+    "label": "Material",
+    "value": "Stainless Steel",
+    "source": 0,
+    "key": "material"
+   },
+   {
+    "label": "Power band",
+    "value": "1.1 to 3kW",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "Weight",
+    "value": 7,
+    "source": 0,
+    "key": "weight",
+    "unit": "kg"
+   },
+   {
+    "label": "Warranty",
+    "value": "1 Year",
+    "source": 0,
+    "key": "warranty"
+   },
+   {
+    "label": "Power",
+    "value": "2.1kW (13A Plug - Single Phase)",
+    "source": 1,
+    "key": "electricKw"
+   },
+   {
+    "label": "Dimensions",
+    "value": "275mm (H) x 440mm (W) x 280mm (D)",
+    "source": 1,
+    "key": "dimensions"
+   },
+   {
+    "label": "Weight",
+    "value": 9.17,
+    "source": 1,
+    "key": "weight",
+    "unit": "kg"
+   },
+   {
+    "label": "Heating elements",
+    "value": "6 Quartz Tubes (3 Top, 3 Bottom)",
+    "source": 1,
+    "key": "heatingMethod"
+   },
+   {
+    "label": "Controls",
+    "value": "Manual Dial Temperature & Timer",
+    "source": 1,
+    "key": "controls"
+   },
+   {
+    "label": "Replacement parts",
+    "value": "AJ262 control knob, AK014 timer, AK015 position switch, AK016 quartz tube, AK017 rubber feet (x4)",
+    "source": 1,
+    "key": "spares"
+   }
+  ],
+  "included": [
+   "Removable grill rack with handle"
+  ],
+  "images": [
+   {
+    "url": "https://www.advantage-catering-equipment.co.uk/cdn/shop/products/f52561e7e73ab1ae2316b16897c9d4aa_480x480.jpg?v=1692641215",
+    "alt": "Nisbets Essentials toaster grill CT917",
+    "source": 0
+   }
+  ],
+  "documents": [
+   {
+    "label": "CT917 user manual (Caterkwik copy)",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/CT917_user_manual_ct917.pdf",
+    "kind": "manual"
+   }
+  ],
+  "notes": "Weight conflict: 7 kg (Advantage) vs 9.17 kg (Easy Equipment, possibly shipping weight). The user manual PDF was opened but gave no readable text. Caterkwik's 230V not seen on either page."
+ },
+ {
+  "id": "sbhot",
+  "found": true,
+  "sources": [
+   {
+    "kind": "retailer",
+    "url": "https://fridgeland.co.uk/artikcold-sbhot-4",
+    "title": "Artikcold SBHOT 4 - Fridgeland",
+    "read": "2026-10-12"
+   }
+  ],
+  "summary": "A mobile heated self-service buffet counter with a lit canopy and granite servery top, holding four 1/1 gastronorm pans. It suits canteens, hotels and function rooms needing a castor-mounted hot food display; the SBHOT 4 is the 1550 mm model.",
+  "highlights": [
+   {
+    "text": "Rosa Parino granite servery top with lit canopy and wood-effect finish.",
+    "source": 0
+   },
+   {
+    "text": "Castors fitted; capacity for 4 x 1/1 gastronorm pans (sold separately).",
+    "source": 0
+   }
+  ],
+  "facts": [
+   {
+    "label": "Height",
+    "value": 135,
+    "source": 0,
+    "key": "height",
+    "unit": "cm"
+   },
+   {
+    "label": "Width",
+    "value": 155,
+    "source": 0,
+    "key": "width",
+    "unit": "cm"
+   },
+   {
+    "label": "Depth",
+    "value": 90,
+    "source": 0,
+    "key": "depth",
+    "unit": "cm"
+   },
+   {
+    "label": "Temperature range",
+    "value": "30 deg C to +60 deg C",
+    "source": 0,
+    "key": "tempRange"
+   },
+   {
+    "label": "Power supply",
+    "value": "13 amp plug",
+    "source": 0,
+    "key": "plug"
+   },
+   {
+    "label": "Capacity",
+    "value": "4 x 1/1 gastronorm pans (sold separately)",
+    "source": 0,
+    "key": "gnCapacity"
+   },
+   {
+    "label": "Ambient conditions",
+    "value": "25 deg C / 60% RH",
+    "source": 0,
+    "key": "ambient"
+   },
+   {
+    "label": "Finish",
+    "value": "Wood effect",
+    "source": 0,
+    "key": "finish"
+   },
+   {
+    "label": "Legs / castors",
+    "value": "Castors fitted",
+    "source": 0,
+    "key": "legs"
+   }
+  ],
+  "notes": "Source is the SBHOT 4 page (1550 wide), matching Caterkwik's dimensions; SBHOT 6 is 2200 wide. Temperature range as printed looks odd; no wattage, voltage or weight on the page read, so Caterkwik's 1.25 kW / 220V are unverified. Product is discontinued."
+ },
+ {
+  "id": "parrymfbu",
+  "found": false,
+  "sources": [],
+  "facts": [],
+  "notes": "Only Caterkwik's own page was readable for the CTBU (W1000 x D400 x H240 mm incl. handles, 6 x 1/3 GN 100 mm deep, 20 kg, 3 kW, 85 C thermostat, discontinued); no independent source found. Parry 1985 pages seen are a different unit (660x560x300, 16 kg)."
+ },
+ {
+  "id": "1995s",
+  "found": true,
+  "sources": [
+   {
+    "kind": "retailer",
+    "url": "https://www.advantage-catering-equipment.co.uk/products/parry-1995s-small-electric-nacho-popcorn-warmer-cabinet",
+    "title": "Parry 1995S Small Electric Nacho & Popcorn Warmer Cabinet - Advantage Catering Equipment",
+    "read": "2026-10-12"
+   },
+   {
+    "kind": "retailer",
+    "url": "https://www.easyequipment.com/parry-1995s-small-nacho-popcorn-warmer.html",
+    "title": "Parry 1995S Commercial Nacho Warmer - Easy Equipment",
+    "read": "2026-10-12"
+   }
+  ],
+  "summary": "A small freestanding countertop warming cabinet with a heated base and an overhead lamp, for holding popcorn, nachos and similar dry snacks at serving temperature for impulse sales. It plugs into a normal socket and is not intended to heat food from cold or to hold wet items like cheese sauce.",
+  "highlights": [
+   {
+    "text": "Heated base and internal lighting with simple on/off switch; serving hatch and removable top for refilling.",
+    "source": 1
+   },
+   {
+    "text": "Holding cabinet only: food must already be at serving temperature.",
+    "source": 0
+   }
+  ],
+  "facts": [
+   {
+    "label": "External width",
+    "value": 285,
+    "source": 0,
+    "key": "width",
+    "unit": "mm"
+   },
+   {
+    "label": "External depth",
+    "value": 297,
+    "source": 0,
+    "key": "depth",
+    "unit": "mm"
+   },
+   {
+    "label": "External height",
+    "value": 505,
+    "source": 0,
+    "key": "height",
+    "unit": "mm"
+   },
+   {
+    "label": "Power rating",
+    "value": 0.5,
+    "source": 0,
+    "key": "electricKw",
+    "unit": "kW"
+   },
+   {
+    "label": "Weight",
+    "value": 12,
+    "source": 0,
+    "key": "weight",
+    "unit": "kg"
+   },
+   {
+    "label": "Construction",
+    "value": "Stainless steel and toughened safety glass",
+    "source": 0,
+    "key": "material"
+   },
+   {
+    "label": "Plug",
+    "value": "Moulded plug (may alternatively be connected to a fused spur)",
+    "source": 0,
+    "key": "plug"
+   },
+   {
+    "label": "Capacity",
+    "value": 25,
+    "source": 1,
+    "key": "capacityL",
+    "unit": "litres"
+   },
+   {
+    "label": "Weight",
+    "value": 11,
+    "source": 1,
+    "key": "weight",
+    "unit": "kg"
+   },
+   {
+    "label": "Power supply",
+    "value": "13 amp plug fitted",
+    "source": 1,
+    "key": "plug"
+   },
+   {
+    "label": "Voltage",
+    "value": "230V",
+    "source": 1,
+    "key": "voltage"
+   },
+   {
+    "label": "Colour",
+    "value": "Silver",
+    "source": 1,
+    "key": "colour"
+   },
+   {
+    "label": "Operating temperature",
+    "value": "approximately 60-70 C",
+    "source": 1,
+    "key": "tempRange"
+   },
+   {
+    "label": "Heating element",
+    "value": "Silent, no fan noise",
+    "source": 1,
+    "key": "heatingMethod"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://www.advantage-catering-equipment.co.uk/cdn/shop/products/Parry_1995S_Small_Electric_Nacho_Popcorn_Warmer_Cabinet_480x480.jpg?v=1599362358",
+    "alt": "Parry 1995S nacho and popcorn warmer cabinet",
+    "source": 0
+   }
+  ],
+  "documents": [
+   {
+    "label": "Parry 1995 Small Electric Warmer Cabinet Specifications",
+    "url": "https://cdn.shopify.com/s/files/1/1753/9017/files/Parry_1995_Small_Electric_Warmer_Cabinet_Specifications.pdf?459095144825762475",
+    "kind": "datasheet"
+   }
+  ],
+  "notes": "Weight conflict: 12 kg (Advantage) vs 11 kg (Easy Equipment). 0.5 kW is from Advantage; unread search snippets mentioned about 55-57 W, so check the Parry datasheet for the true rating."
+ },
+ {
+  "id": "sch785",
+  "found": true,
+  "sources": [
+   {
+    "kind": "manufacturer",
+    "url": "https://www.lincat.co.uk/?p=2181",
+    "title": "Seal Counter-top Heated Food Display Showcase SCH785 - Lincat",
+    "read": "2026-10-12"
+   }
+  ],
+  "summary": "A Lincat Seal countertop heated showcase with thermostatic control, digital display and a humidity feature to stop food drying out. The SCH785 is 785 mm wide and takes 2 1/1 gastronorm containers, for cafes, delis and counters displaying hot food.",
+  "highlights": [
+   {
+    "text": "Fully adjustable precise thermostatic control with digital display.",
+    "source": 0
+   },
+   {
+    "text": "Humidity feature prevents food drying out; minimum food holding temperature 72 C.",
+    "source": 0
+   }
+  ],
+  "facts": [
+   {
+    "label": "Width",
+    "value": 785,
+    "source": 0,
+    "key": "width",
+    "unit": "mm"
+   },
+   {
+    "label": "Height",
+    "value": 665,
+    "source": 0,
+    "key": "height",
+    "unit": "mm"
+   },
+   {
+    "label": "Depth",
+    "value": 750,
+    "source": 0,
+    "key": "depth",
+    "unit": "mm"
+   },
+   {
+    "label": "Product weight",
+    "value": 53,
+    "source": 0,
+    "key": "weight",
+    "unit": "kg"
+   },
+   {
+    "label": "Ship weight",
+    "value": 58.3,
+    "source": 0,
+    "key": "grossWeight",
+    "unit": "kg"
+   },
+   {
+    "label": "Power",
+    "value": 1.55,
+    "source": 0,
+    "key": "electricKw",
+    "unit": "kW"
+   },
+   {
+    "label": "Voltage",
+    "value": "230V single phase",
+    "source": 0,
+    "key": "voltage"
+   },
+   {
+    "label": "Maximum temperature",
+    "value": 95,
+    "source": 0,
+    "key": "tempMax",
+    "unit": "°C"
+   },
+   {
+    "label": "Minimum food holding temperature",
+    "value": 72,
+    "source": 0,
+    "key": "tempMin",
+    "unit": "°C"
+   },
+   {
+    "label": "Gastronorm capacity",
+    "value": "2 x GN1/1",
+    "source": 0,
+    "key": "gnCapacity"
+   },
+   {
+    "label": "Controls",
+    "value": "Electronic with digital display",
+    "source": 0,
+    "key": "controls"
+   },
+   {
+    "label": "Heated base",
+    "value": "1",
+    "source": 0,
+    "section": "Controls & features"
+   },
+   {
+    "label": "EAN",
+    "value": "5056105104407",
+    "source": 0,
+    "key": "gtin"
+   },
+   {
+    "label": "Installation",
+    "value": "Countertop",
+    "source": 0,
+    "key": "freestanding"
+   },
+   {
+    "label": "Water / drain",
+    "value": "No water line or drain required; drip pan not included",
+    "source": 0,
+    "key": "drain"
+   },
+   {
+    "label": "Optional add-on",
+    "value": [
+     "BP785 base plate"
+    ],
+    "source": 0,
+    "key": "options"
+   }
+  ],
+  "notes": "Lincat lists 53 kg product weight (ship weight 58.3 kg); Caterkwik states 72 kg, which looks wrong. Spec sheet, manual and CAD files exist on the Lincat page but their URLs were not captured. Only one source read."
+ },
+ {
+  "id": "sch1085",
+  "found": true,
+  "sources": [
+   {
+    "kind": "manufacturer",
+    "url": "https://www.lincat.co.uk/?p=2180",
+    "title": "Seal Counter-top Heated Food Display Showcase SCH1085 - Lincat",
+    "read": "2026-10-12"
+   }
+  ],
+  "summary": "A Lincat Seal countertop heated showcase with thermostatic control, digital display and a humidity feature to stop food drying out. The SCH1085 is 1085 mm wide and takes 3 1/1 gastronorm containers, for cafes, delis and counters displaying hot food.",
+  "highlights": [
+   {
+    "text": "Fully adjustable precise thermostatic control with digital display.",
+    "source": 0
+   },
+   {
+    "text": "Humidity feature prevents food drying out; minimum food holding temperature 72 C.",
+    "source": 0
+   }
+  ],
+  "facts": [
+   {
+    "label": "Width",
+    "value": 1085,
+    "source": 0,
+    "key": "width",
+    "unit": "mm"
+   },
+   {
+    "label": "Height",
+    "value": 665,
+    "source": 0,
+    "key": "height",
+    "unit": "mm"
+   },
+   {
+    "label": "Depth",
+    "value": 750,
+    "source": 0,
+    "key": "depth",
+    "unit": "mm"
+   },
+   {
+    "label": "Product weight",
+    "value": 68,
+    "source": 0,
+    "key": "weight",
+    "unit": "kg"
+   },
+   {
+    "label": "Ship weight",
+    "value": 74.8,
+    "source": 0,
+    "key": "grossWeight",
+    "unit": "kg"
+   },
+   {
+    "label": "Power",
+    "value": 2.05,
+    "source": 0,
+    "key": "electricKw",
+    "unit": "kW"
+   },
+   {
+    "label": "Voltage",
+    "value": "230V single phase",
+    "source": 0,
+    "key": "voltage"
+   },
+   {
+    "label": "Maximum temperature",
+    "value": 95,
+    "source": 0,
+    "key": "tempMax",
+    "unit": "°C"
+   },
+   {
+    "label": "Minimum food holding temperature",
+    "value": 72,
+    "source": 0,
+    "key": "tempMin",
+    "unit": "°C"
+   },
+   {
+    "label": "Gastronorm capacity",
+    "value": "3 x GN1/1",
+    "source": 0,
+    "key": "gnCapacity"
+   },
+   {
+    "label": "Controls",
+    "value": "Electronic with digital display",
+    "source": 0,
+    "key": "controls"
+   },
+   {
+    "label": "Heated base",
+    "value": "1",
+    "source": 0,
+    "section": "Controls & features"
+   },
+   {
+    "label": "EAN",
+    "value": "5056105104391",
+    "source": 0,
+    "key": "gtin"
+   },
+   {
+    "label": "Installation",
+    "value": "Countertop",
+    "source": 0,
+    "key": "freestanding"
+   },
+   {
+    "label": "Water / drain",
+    "value": "No water line or drain required; drip pan not included",
+    "source": 0,
+    "key": "drain"
+   },
+   {
+    "label": "Optional add-on",
+    "value": [
+     "BP1085 base plate"
+    ],
+    "source": 0,
+    "key": "options"
+   }
+  ],
+  "notes": "Lincat lists 68 kg product weight (ship weight 74.8 kg); Caterkwik states 92 kg, which looks wrong. Spec sheet, manual and CAD files exist on the Lincat page but their URLs were not captured. Only one source read."
+ }
+]

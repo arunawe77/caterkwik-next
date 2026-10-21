@@ -1,0 +1,233 @@
+[
+ {
+  "id": "g3478",
+  "name": "Falcon Dominator Plus G3478 Gas Atmospheric Steamer - 6 x 1/1 GNs",
+  "brand": "Falcon",
+  "mpn": "G3478",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G3478",
+  "known": {
+   "trays": "6 x 1/1 GNs",
+   "gnCapacity": "6 x 1/1 GN",
+   "humidity": "true",
+   "width": "600 mm",
+   "depth": "840 mm",
+   "height": "1590 mm",
+   "electricKw": "12.1 kW",
+   "gasKw": "12.1 kW",
+   "gasConnection": "1/2\" BSP",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "lbm",
+  "name": "Lincat Lynx 400 LBM Dry Heat Bain Marie",
+  "brand": "Lincat",
+  "mpn": "LBM",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LBM",
+  "known": {
+   "heatType": "dry",
+   "width": "285 mm",
+   "depth": "400 mm",
+   "height": "196 mm",
+   "weight": "10 kg",
+   "electricKw": "0.25 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "bm6",
+  "name": "Lincat Silverlink 600 BM6 / BM6A / BM6B / BM6C Dry Heat Bain Maries",
+  "brand": "Lincat",
+  "mpn": "BM6",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BM6",
+  "known": {
+   "heatType": "dry",
+   "width": "600 mm",
+   "depth": "600 mm",
+   "height": "290 mm",
+   "electricKw": "0.75 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "jb983",
+  "name": "Buffalo JB983 Mobile Bain Marie Trolley 2x 1/1GN",
+  "brand": "Buffalo",
+  "mpn": "JB983",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_JB983",
+  "known": {
+   "gnCapacity": "2x 1/1GN",
+   "heatType": "dry",
+   "wells": "1",
+   "mobility": "true",
+   "width": "835 mm",
+   "depth": "750 mm",
+   "height": "855 mm",
+   "weight": "29.3 kg",
+   "electricKw": "0.5 kW",
+   "voltage": "240V",
+   "finish": "stainless steel body"
+  }
+ },
+ {
+  "id": "jb984",
+  "name": "Buffalo JB984 Mobile Bain Marie Trolley 3x 1/1GN",
+  "brand": "Buffalo",
+  "mpn": "JB984",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_JB984",
+  "known": {
+   "gnCapacity": "3x 1/1GN",
+   "heatType": "dry",
+   "wells": "1",
+   "mobility": "true",
+   "width": "1190 mm",
+   "depth": "750 mm",
+   "height": "855 mm",
+   "weight": "38.6 kg",
+   "electricKw": "0.75 kW",
+   "voltage": "240V",
+   "finish": "stainless steel body"
+  }
+ },
+ {
+  "id": "ft693",
+  "name": "Buffalo Bain Marie - FT693",
+  "brand": "Buffalo",
+  "mpn": "FT693",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FT693",
+  "known": {
+   "gnCapacity": "1/1 gastronorm",
+   "volume": "21 litres",
+   "tempRange": "30° to 90°C",
+   "width": "645 mm",
+   "depth": "432 mm",
+   "height": "327 mm",
+   "weight": "8 kg",
+   "voltage": "240V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ft694",
+  "name": "Buffalo Bain Marie with Taps without Pans - FT694",
+  "brand": "Buffalo",
+  "mpn": "FT694",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FT694",
+  "known": {
+   "gnCapacity": "1/1 gastronorm",
+   "volume": "21 litres",
+   "tempRange": "30° to 90°C",
+   "width": "645 mm",
+   "depth": "432 mm",
+   "height": "327 mm",
+   "weight": "8.5 kg",
+   "voltage": "240V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ft692",
+  "name": "Buffalo Bain Marie with Taps and Pans - FT692",
+  "brand": "Buffalo",
+  "mpn": "FT692",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FT692",
+  "known": {
+   "gnCapacity": "2 x 1/6gn",
+   "wells": "2",
+   "volume": "21 litres",
+   "tempRange": "30° to 90°C",
+   "width": "645 mm",
+   "depth": "432 mm",
+   "height": "327 mm",
+   "weight": "10.8 kg",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "bm6w",
+  "name": "Lincat Silverlink 600 BM6W / BM6AW / BM6BW / BM6CW Wet Heat Bain Maries",
+  "brand": "Lincat",
+  "mpn": "BM6W",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BM6W",
+  "known": {
+   "heatType": "wet",
+   "width": "600 mm",
+   "depth": "600 mm",
+   "height": "290 mm",
+   "electricKw": "2 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "hz267",
+  "name": "Buffalo HZ267 600 Series Freestanding Bain Marie",
+  "brand": "Buffalo",
+  "mpn": "HZ267",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HZ267",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "heatType": "wet",
+   "volume": "15 litres",
+   "width": "400 mm",
+   "depth": "600 mm",
+   "height": "850 mm",
+   "weight": "24.3 kg",
+   "electricKw": "1.5 kW",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "bm7w",
+  "name": "Lincat Silverlink 600 BM7W Wet Heat Bain Marie",
+  "brand": "Lincat",
+  "mpn": "BM7W",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BM7W",
+  "known": {
+   "heatType": "wet",
+   "mobility": "true",
+   "width": "750 mm",
+   "depth": "600 mm",
+   "height": "290 mm",
+   "weight": "18.26 kg",
+   "electricKw": "2 kW",
+   "voltage": "230 v",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "SILVER"
+  }
+ },
+ {
+  "id": "mbv67",
+  "name": "Inomak MBV67 Countertop Bain Marie 2 x 1/1GN",
+  "brand": "Inomak",
+  "mpn": "MBV67",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MBV67",
+  "known": {
+   "gnCapacity": "2 x 1/1GN",
+   "heatType": "wet",
+   "wells": "2",
+   "bulbs": "halogen lamps",
+   "width": "460 mm",
+   "depth": "630 mm",
+   "height": "710 mm",
+   "weight": "54 kg",
+   "electricKw": "2.26 kW",
+   "warranty": "1 year",
+   "finish": "stainless steel construction"
+  }
+ }
+]

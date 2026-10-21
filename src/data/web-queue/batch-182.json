@@ -1,0 +1,253 @@
+[
+ {
+  "id": "gf150fryer",
+  "name": "Chefsrange GF150 5 Burner Single Tank Gas Fryer - 35 Litres",
+  "brand": "Chefsrange",
+  "mpn": "GF150",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF150FRYER",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "35 litres",
+   "fuel": "gas",
+   "coldZone": "true",
+   "width": "534 mm",
+   "depth": "767 mm",
+   "height": "900 mm",
+   "weight": "78 kg",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ce35c",
+  "name": "Pitco 35C Single Tank, Twin Basket 18 Litre Gas Fryer",
+  "brand": "Pitco",
+  "mpn": "35C",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CE35C",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "18 litres",
+   "fuel": "gas",
+   "width": "384 mm",
+   "depth": "769 mm",
+   "height": "1201 mm",
+   "weight": "74 kg",
+   "gasKw": "26.3 kW",
+   "amps": "3 A",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "g3860",
+  "name": "Falcon Dominator Plus G3860 Single Pan Gas Fryer - 24L",
+  "brand": "Falcon",
+  "mpn": "G3860",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G3860",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "24 litres",
+   "chipOutput": "54 kg/hr",
+   "fuel": "gas",
+   "thermostat": "140 - 190°C",
+   "drainValve": "Large diameter drain valve",
+   "width": "600 mm",
+   "depth": "770 mm",
+   "height": "890 mm",
+   "gasKw": "32.5 kW",
+   "gasConnection": "3/4\" Gas hose required",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "gt60e",
+  "name": "Blue Seal GT60E Single Tank, Electronic Control Gas Fryer",
+  "brand": "Blue Seal",
+  "mpn": "GT60E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GT60E",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "31 litres",
+   "chipOutput": "31 kg/hr",
+   "fuel": "gas",
+   "baskets": "2",
+   "drainValve": "drain valve",
+   "computerControl": "electronic",
+   "width": "600 mm",
+   "depth": "812 mm",
+   "height": "915 mm",
+   "weight": "95 kg",
+   "electricKw": "12.5 kW",
+   "gasKw": "25 kW",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "nygf400",
+  "name": "Hobart Bonnet Optimum 18 Litre Single Tank Electric Fryer on Closed Cupboard",
+  "brand": "Hobart",
+  "mpn": "B1O7FR18BE-40",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_NYGF400",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "18 litres",
+   "fuel": "electric",
+   "coldZone": "true",
+   "computerControl": "electronic",
+   "width": "400 mm",
+   "depth": "730 mm",
+   "height": "900 mm",
+   "electricKw": "15 kW",
+   "amps": "37.5 A",
+   "voltage": "400V, 50Hz",
+   "phase": "three",
+   "hardWired": "true",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "vf35",
+  "name": "Pitco VF35 Single Tank, Twin Basket Gas Fryer 18L",
+  "brand": "Pitco",
+  "mpn": "VF35",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_VF35",
+  "known": {
+   "tanks": "1",
+   "fuel": "gas",
+   "thermostat": "93-190C",
+   "drainValve": "NPT drain valve",
+   "width": "397 mm",
+   "depth": "813 mm",
+   "height": "1197 mm",
+   "gasKw": "20.5 kW",
+   "amps": "3 A",
+   "gasConnection": "3/4\" NPT GAS CONNECTION",
+   "warranty": "1 year",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "ck8310",
+  "name": "Cater-Cook CK8310 23 Litre Single Tank, Twin Basket 4 Tube Commercial NAT Gas Fryer. 120,000 BTUs. - OUT OF STOCK",
+  "brand": "Cater-Cook-Fryer",
+  "mpn": "CK8310",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK8310",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "23 litres",
+   "fuel": "gas",
+   "width": "394 mm",
+   "depth": "762 mm",
+   "height": "1140 mm",
+   "weight": "110 kg",
+   "electricKw": "9 kW",
+   "hardWired": "true",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "gf120t",
+  "name": "Chefsrange GF120T 4 Burner Twin Tank Slimline Gas Fryer - 20 Litres",
+  "brand": "Chefsrange",
+  "mpn": "GF120T",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF120T",
+  "known": {
+   "tanks": "2",
+   "oilCapacity": "10 litres",
+   "fuel": "gas",
+   "coldZone": "true",
+   "width": "395 mm",
+   "depth": "767 mm",
+   "height": "900 mm",
+   "weight": "78 kg",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "g1848x",
+  "name": "Falcon Chieftain G1848X Twin Pan, Twin Basket Fryer - 2 x 15 Litre Tanks",
+  "brand": "Falcon",
+  "mpn": "G1848X",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G1848X",
+  "known": {
+   "tanks": "2",
+   "oilCapacity": "15 litres",
+   "chipOutput": "64 kg/hr",
+   "fuel": "gas",
+   "width": "600 mm",
+   "depth": "850 mm",
+   "height": "900 mm",
+   "weight": "116 kg",
+   "gasConnection": "1/2\"BSP Gashose required (terminati",
+   "warranty": "2 years",
+   "finish": "stainless steel finish"
+  }
+ },
+ {
+  "id": "fc386",
+  "name": "Buffalo Double Half Ribbed Contact Grill – FC386",
+  "brand": "Buffalo",
+  "mpn": "FC386",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FC386",
+  "known": {
+   "plate": "half ribbed",
+   "width": "550 mm",
+   "depth": "395 mm",
+   "height": "395 mm",
+   "weight": "30 kg",
+   "electricKw": "2.9 kW",
+   "amps": "12.6 A",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "fc385",
+  "name": "Buffalo FC385 Double Ribbed Top Contact Grill",
+  "brand": "Buffalo",
+  "mpn": "FC385",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FC385",
+  "known": {
+   "plate": "ribbed",
+   "width": "550 mm",
+   "depth": "395 mm",
+   "height": "210 mm",
+   "weight": "26.5 kg",
+   "electricKw": "2.9 kW",
+   "amps": "12.6 A",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "stainless steel body"
+  }
+ },
+ {
+  "id": "memt16001x",
+  "name": "Hallco MEMT16001XNS Single Ribbed Top Flat Bottom Contact Grill",
+  "brand": "Hallco",
+  "mpn": "MEMT16001XNS",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MEMT16001X",
+  "known": {
+   "plate": "ribbed",
+   "fuel": "gas",
+   "radiant": "ceramic",
+   "thermostat": "true",
+   "tempRange": "60-240°C",
+   "width": "310 mm",
+   "depth": "380 mm",
+   "height": "460 mm",
+   "weight": "18 kg",
+   "electricKw": "1.8 kW",
+   "amps": "13 A",
+   "plug": "plug supplied",
+   "warranty": "1 year",
+   "finish": "STAINLESS STEEL"
+  }
+ }
+]

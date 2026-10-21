@@ -1,0 +1,200 @@
+[
+ {
+  "id": "2bg",
+  "name": "Archway 2BG 2 Burner Gas Griddle",
+  "brand": "Archway",
+  "mpn": "2BG",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_2BG",
+  "known": {
+   "fuel": "gas",
+   "burners": "2",
+   "width": "700 mm",
+   "depth": "660 mm",
+   "height": "340 mm",
+   "weight": "57 kg",
+   "lpgKw": "5.6 kW",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "mw10t",
+  "name": "Maestrowave MW10T Touch Controlled Microwave - 1000W",
+  "brand": "Maestrowave",
+  "mpn": "MW10T",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MW10T",
+  "known": {
+   "microwaveOutput": "1000 W",
+   "width": "520 mm",
+   "depth": "465 mm",
+   "height": "320 mm",
+   "electricKw": "1 kW",
+   "plug": "13A Plug",
+   "warranty": "1 year",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "k790",
+  "name": "Matfer Bourgeat Excellence 5.4 Litre Casserole Pan - 10184-01",
+  "brand": "Bourgeat",
+  "mpn": "10184-01",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_K790",
+  "known": {
+   "volume": "5.4 litres",
+   "fuel": "induction",
+   "heating": "bain marie",
+   "tilting": "true",
+   "tap": "true",
+   "weight": "1.87 kg",
+   "warranty": "10 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "k792",
+  "name": "Bourgeat Excellence 12.8 Litre Casserole Pan - 10184-03",
+  "brand": "Bourgeat",
+  "mpn": "10184-03",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_K792",
+  "known": {
+   "volume": "12.8 litres",
+   "fuel": "induction",
+   "heating": "bain marie",
+   "tilting": "true",
+   "tap": "true",
+   "weight": "3.47 kg",
+   "warranty": "10 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "k793",
+  "name": "Bourgeat Excellence 18.3 Litre Casserole Pan - 10184-04",
+  "brand": "Bourgeat",
+  "mpn": "10184-04",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_K793",
+  "known": {
+   "volume": "18.3 litres",
+   "fuel": "induction",
+   "heating": "bain marie",
+   "tilting": "true",
+   "tap": "true",
+   "weight": "5.14 kg",
+   "warranty": "10 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "k794",
+  "name": "Bourgeat Excellence 25 Litre Casserole Pan - 10184-05",
+  "brand": "Bourgeat",
+  "mpn": "10184-05",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_K794",
+  "known": {
+   "volume": "25 litres",
+   "fuel": "induction",
+   "heating": "bain marie",
+   "tilting": "true",
+   "tap": "true",
+   "weight": "6.28 kg",
+   "warranty": "10 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "lcp6813d",
+  "name": "Giorik LCP6813D Drop In Electric Pasta Cooker",
+  "brand": "Giorik",
+  "mpn": "LCP6813D",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LCP6813D",
+  "known": {
+   "fuel": "electric",
+   "tap": "true",
+   "width": "600 mm",
+   "electricKw": "5.3 kW",
+   "voltage": "415V",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "hw917",
+  "name": "Rowlett Esprit HW917 6 Slot Toaster Jet Black with Duraheat Elements & Sandwich Cage",
+  "brand": "Rowlett",
+  "mpn": "HW917",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HW917",
+  "known": {
+   "timer": "timer, you'll always be able to achieve the r",
+   "plates": "6",
+   "width": "508 mm",
+   "weight": "8.1 kg",
+   "voltage": "240 V",
+   "warranty": "3 years",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "hw915",
+  "name": "Rowlett Esprit HW915 6 Slot Toaster with Sandwich Cages and Extra Duraheat Elements Chrome",
+  "brand": "Rowlett",
+  "mpn": "HW915",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HW915",
+  "known": {
+   "timer": "timer helps achieve consistent results",
+   "plates": "6",
+   "width": "508 mm",
+   "weight": "8.1 kg",
+   "voltage": "240 V",
+   "warranty": "3 years",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "gf076",
+  "name": "GF076 APS Float White Melamine Tray GN ½",
+  "brand": "APS",
+  "mpn": "GF076",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF076",
+  "known": {
+   "gnCapacity": "1/2GN",
+   "heatType": "dry",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Shades",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "gf077",
+  "name": "GF077 APS Float Black Melamine Tray GN ½",
+  "brand": "APS",
+  "mpn": "GF077",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF077",
+  "known": {
+   "gnCapacity": "1/2GN",
+   "heatType": "dry",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Shades",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "gd101",
+  "name": "GD101 White ½ GN Rectangular Buffet Tray",
+  "brand": "APS",
+  "mpn": "GD101",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GD101",
+  "known": {
+   "gnCapacity": "1/2GN",
+   "heatType": "dry",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Shades",
+   "finish": "white"
+  }
+ }
+]

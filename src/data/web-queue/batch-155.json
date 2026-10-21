@@ -1,0 +1,224 @@
+[
+ {
+  "id": "cb50a",
+  "name": "Valera AB50A Drop-In Induction Hob",
+  "brand": "Valera",
+  "mpn": "AB50A",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CB50A",
+  "known": {
+   "fuel": "induction",
+   "width": "400 mm",
+   "depth": "400 mm",
+   "height": "190 mm",
+   "electricKw": "5 kW",
+   "amps": "8 A",
+   "voltage": "415V",
+   "hardWired": "true",
+   "warranty": "3 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "fb864",
+  "name": "Buffalo Programmable Commercial Microwave Oven 34ltr 1800W – FB864",
+  "brand": "Buffalo",
+  "mpn": "FB864",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FB864",
+  "known": {
+   "width": "528 mm",
+   "depth": "574 mm",
+   "height": "368 mm",
+   "weight": "32.3 kg",
+   "electricKw": "3 kW",
+   "voltage": "240V",
+   "warranty": "2 years",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "fb865",
+  "name": "Buffalo Programmable Compact Microwave Oven 17ltr 1800W – FB865",
+  "brand": "Buffalo",
+  "mpn": "FB865",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FB865",
+  "known": {
+   "width": "420 mm",
+   "depth": "563 mm",
+   "height": "340 mm",
+   "weight": "31.5 kg",
+   "electricKw": "3 kW",
+   "voltage": "240V",
+   "warranty": "2 years",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "g3203",
+  "name": "Falcon Dominator Plus G3203 Gas Pasta Boiler",
+  "brand": "Falcon",
+  "mpn": "G3203",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G3203",
+  "known": {
+   "fuel": "gas",
+   "basket": "3",
+   "width": "300 mm",
+   "depth": "770 mm",
+   "height": "890 mm",
+   "electricKw": "18.2 kW",
+   "gasConnection": "1/2\" BSP Inlet",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "cu630",
+  "name": "Buffalo CU630 8Ltr Pasta Cooker",
+  "brand": "Buffalo",
+  "mpn": "CU630",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CU630",
+  "known": {
+   "volume": "8 litres",
+   "tap": "true",
+   "width": "280 mm",
+   "depth": "450 mm",
+   "height": "300 mm",
+   "weight": "10 kg",
+   "electricKw": "2.9 kW",
+   "voltage": "240V",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "cpe726",
+  "name": "Giorik CPE726 Electric Pasta Boiler - 2/3GN",
+  "brand": "Giorik",
+  "mpn": "CPE726",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CPE726",
+  "known": {
+   "volume": "26 litres",
+   "fuel": "electric",
+   "tap": "true",
+   "width": "400 mm",
+   "depth": "700 mm",
+   "height": "860 mm",
+   "electricKw": "6 kW",
+   "amps": "26 A",
+   "voltage": "230V",
+   "phase": "single",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cj373",
+  "name": "Buffalo CJ373 16\" Firestone Pizza Oven",
+  "brand": "Buffalo",
+  "mpn": "CJ373",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CJ373",
+  "known": {
+   "pizzaSize": "16\"",
+   "stone": "stone",
+   "width": "630 mm",
+   "depth": "510 mm",
+   "height": "280 mm",
+   "weight": "22.6 kg",
+   "electricKw": "2.4 kW",
+   "voltage": "240V",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "augusto9",
+  "name": "Zanolli Augusto 9 Dome Pizza Oven",
+  "brand": "Zanolli",
+  "mpn": "Augusto9",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_AUGUSTO9",
+  "known": {
+   "pizzaSize": "12 inch pizzas",
+   "fuel": "electric",
+   "width": "1910 mm",
+   "depth": "2180 mm",
+   "height": "2120 mm",
+   "weight": "530 kg",
+   "electricKw": "19.2 kW",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "e9640",
+  "name": "Falcon F900 E9640 Sous Vide Water Bath",
+  "brand": "Falcon",
+  "mpn": "E9640",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_E9640",
+  "known": {
+   "timer": "timer and alarm included",
+   "width": "400 mm",
+   "depth": "900 mm",
+   "height": "900 mm",
+   "weight": "80 kg",
+   "electricKw": "2 kW",
+   "amps": "13 A",
+   "voltage": "230V",
+   "phase": "single",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ch188",
+  "name": "Rowlett CH188 Esprit 6 Slot Toaster Traffic Red with 2x Additional Elements & Sandwich Cage",
+  "brand": "Rowlett",
+  "mpn": "CH188",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CH188",
+  "known": {
+   "fuel": "electric",
+   "timer": "timer, you'll always be able to achieve the r",
+   "plates": "6",
+   "width": "508 mm",
+   "weight": "8.1 kg",
+   "electricKw": "2.6 kW",
+   "voltage": "230 V",
+   "warranty": "3 years",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "6074666",
+  "name": "Rational 60.74.666 Colander for iVario 2-XS & 2-S",
+  "brand": "Rational",
+  "mpn": "60.74.666",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_6074666",
+  "known": {
+   "tilting": "true",
+   "width": "370 mm",
+   "depth": "15 mm",
+   "height": "156 mm",
+   "weight": "0.4 kg",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "922728",
+  "name": "Electrolux Professional Exhaust Hood with Fan for 6 & 10 1/1GN Combi Ovens - 922728",
+  "brand": "Electrolux",
+  "mpn": "922728",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922728",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "width": "875 mm",
+   "depth": "1070 mm",
+   "height": "450 mm",
+   "weight": "65 kg",
+   "electricKw": "0.47 kW",
+   "amps": "13 A",
+   "voltage": "230 V",
+   "phase": "single",
+   "plug": "Plug supplied",
+   "finish": "stainless steel"
+  }
+ }
+]

@@ -1,0 +1,151 @@
+[
+ {
+  "id": "925002",
+  "name": "Electrolux Professional 1/1GN 60mm GastroNorm Non-stick U-pans with Coating - 925002",
+  "brand": "Electrolux",
+  "mpn": "925002",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_925002",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "steam": "boiler",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "922713",
+  "name": "Electrolux Professional GastroNorm 1/1GN Mesh Grilling Plate - 922713",
+  "brand": "Electrolux",
+  "mpn": "922713",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922713",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "steam": "boiler",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "925008",
+  "name": "Electrolux Professional GastroNorm Potato Baker - 925008",
+  "brand": "Electrolux",
+  "mpn": "925008",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_925008",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "steam": "boiler",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "922652",
+  "name": "Electrolux Professional GastroNorm 1/1GN Flat, Non-stick Perforated U-Pan - 922652",
+  "brand": "Electrolux",
+  "mpn": "922652",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922652",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "steam": "boiler",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "922239",
+  "name": "Electrolux Professional Combi Oven 1/1 GN Frying Baskets, Pair - 922239",
+  "brand": "Electrolux",
+  "mpn": "922239",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922239",
+  "known": {
+   "gnCapacity": "1/1 GN",
+   "steam": "boiler",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "922651",
+  "name": "Electrolux Professional GastroNorm 1/1GN 20mm Deep, Non-stick Perforated U-Pan - 922651",
+  "brand": "Electrolux",
+  "mpn": "922651",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922651",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "steam": "boiler",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "922338",
+  "name": "Electrolux Professional Volcano Smoker for Skyline Combi's and Crosswise Convection ovens - 922338",
+  "brand": "Electrolux",
+  "mpn": "922338",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922338",
+  "known": {
+   "width": "220 mm",
+   "depth": "220 mm",
+   "height": "85 mm"
+  }
+ },
+ {
+  "id": "922746",
+  "name": "Electrolux Professional GastroNorm 1/1GN 100mm Deep Tray - 922746",
+  "brand": "Electrolux",
+  "mpn": "922746",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922746",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "steam": "boiler",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "922776",
+  "name": "Electrolux Professional Condensation Breaker for Skyline Combi ovens - 922776",
+  "brand": "Electrolux",
+  "mpn": "922776",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922776",
+  "known": {
+   "steam": "boiler",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "ck0114",
+  "name": "Cater-Kwik 2\" Inch Universal Waste Installation Kit for Combi Ovens - CK0114",
+  "brand": "Cater-Kwik",
+  "mpn": "CK0114",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK0114",
+  "known": {
+   "steam": "boiler",
+   "gasConnection": "2 Inch connections",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "rcthw1",
+  "name": "Hatco Rectangular Heated Well",
+  "brand": "Hatco",
+  "mpn": "RCTHW-1",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_RCTHW1",
+  "known": {
+   "width": "368 mm",
+   "depth": "582 mm",
+   "height": "283 mm",
+   "weight": "10 kg",
+   "electricKw": "3 kW",
+   "voltage": "240V",
+   "phase": "single"
+  }
+ },
+ {
+  "id": "fd032",
+  "name": "JM Posner FD032 Single Bottle Warmer",
+  "brand": "JM Posner",
+  "mpn": "FD032",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FD032",
+  "known": {
+   "width": "150 mm",
+   "weight": "2.5 kg",
+   "voltage": "230 V",
+   "warranty": "1 year",
+   "finish": "Stainless steel construction"
+  }
+ }
+]

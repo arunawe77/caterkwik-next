@@ -1,0 +1,130 @@
+[
+ {
+  "id": "alptcs011",
+  "name": "TG - 11\" 279mm Coupe Style Pizza Tray",
+  "brand": "Thunder Group",
+  "mpn": "ALPTCS011",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ALPTCS011",
+  "known": {
+   "pizzaSize": "11\""
+  }
+ },
+ {
+  "id": "alptcs012",
+  "name": "TG - 12\" 305mm Coupe Style Pizza Tray",
+  "brand": "Thunder Group",
+  "mpn": "ALPTCS012",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ALPTCS012",
+  "known": {
+   "pizzaSize": "12\""
+  }
+ },
+ {
+  "id": "sltwpc004",
+  "name": "TG - 102mm / 4\" Pizza Cutter, Plastic Handle",
+  "brand": "Thunder Group",
+  "mpn": "SLTWPC004",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SLTWPC004",
+  "known": {
+   "pizzaSize": "4\" Pizza",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "db60407148",
+  "name": "Cambro Dough Box - DB60407148",
+  "brand": "Cambro",
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DB60407148",
+  "known": {
+   "width": "400 mm",
+   "depth": "600 mm",
+   "height": "70 mm"
+  }
+ },
+ {
+  "id": "spbg",
+  "name": "Super Pizza Wipe Clean Delivery Bag",
+  "brand": "Super Pizza",
+  "mpn": "PBPOLB",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SPBG",
+  "known": {
+   "width": "500 mm",
+   "depth": "530 mm",
+   "height": "200 mm"
+  }
+ },
+ {
+  "id": "cb668",
+  "name": "CB668 APS Frames Dark Wood Ice Box",
+  "brand": "APS",
+  "mpn": "CB668",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CB668",
+  "known": {
+   "width": "530 mm",
+   "depth": "325 mm",
+   "height": "125 mm",
+   "weight": "6 kg"
+  }
+ },
+ {
+  "id": "gf096",
+  "name": "GF096 APS Float White Square Bowl 7in",
+  "brand": "APS",
+  "mpn": "GF096",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF096",
+  "known": {
+   "volume": "1.5 litres"
+  }
+ },
+ {
+  "id": "gf097",
+  "name": "GF097 APS Float Black Square Bowl 7in",
+  "brand": "APS",
+  "mpn": "GF097",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF097",
+  "known": {
+   "volume": "1.5 litres"
+  }
+ },
+ {
+  "id": "gf088",
+  "name": "GF088 APS Float White Round Bowl 8in",
+  "brand": "APS",
+  "mpn": "GF088",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF088",
+  "known": {
+   "volume": "2 litres"
+  }
+ },
+ {
+  "id": "gf089",
+  "name": "GF089 APS Float Black Round Bowl 8in",
+  "brand": "APS",
+  "mpn": "GF089",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF089",
+  "known": {
+   "volume": "2 litres"
+  }
+ },
+ {
+  "id": "gf137",
+  "name": "GF137 APS Pure Melamine Black Square Bowl 190mm",
+  "brand": "APS",
+  "mpn": "GF137",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF137",
+  "known": {
+   "volume": "1.5 litres"
+  }
+ },
+ {
+  "id": "gf136",
+  "name": "GF136 APS Pure Melamine White Square Bowl 190mm",
+  "brand": "APS",
+  "mpn": "GF136",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF136",
+  "known": {
+   "volume": "1.5 litres"
+  }
+ }
+]

@@ -1,0 +1,206 @@
+[
+ {
+  "id": "k2",
+  "name": "K2",
+  "brand": "North",
+  "mpn": "K2",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "gas",
+   "width": "1320 mm",
+   "depth": "460 mm",
+   "height": "680 mm",
+   "gasKw": "6 kW",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "k3",
+  "name": "K3",
+  "brand": "North",
+  "mpn": "K3",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "gas",
+   "width": "1320 mm",
+   "depth": "460 mm",
+   "height": "880 mm",
+   "gasKw": "12 kW",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "g8p",
+  "name": "G8P",
+  "brand": "CB",
+  "mpn": "G8P",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "gas",
+   "width": "880 mm",
+   "depth": "430 mm",
+   "height": "530 mm",
+   "electricKw": "9 kW",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "g12p",
+  "name": "G12P",
+  "brand": "CB",
+  "mpn": "G12P",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "gas",
+   "width": "900 mm",
+   "depth": "510 mm",
+   "height": "780 mm",
+   "electricKw": "9 kW",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "g20p",
+  "name": "G20P",
+  "brand": "CB",
+  "mpn": "G20P",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "gas",
+   "width": "900 mm",
+   "depth": "510 mm",
+   "height": "780 mm",
+   "electricKw": "9 kW",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "k9",
+  "name": "K9",
+  "brand": "North",
+  "mpn": "K9",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "gas",
+   "width": "1320 mm",
+   "depth": "560 mm",
+   "height": "1255 mm",
+   "gasKw": "24 kW",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "g36p",
+  "name": "G36P",
+  "brand": "CB",
+  "mpn": "G36P",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "gas",
+   "width": "1270 mm",
+   "depth": "500 mm",
+   "height": "2030 mm",
+   "electricKw": "47 kW",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "g48p",
+  "name": "G48P",
+  "brand": "CB",
+  "mpn": "G48P",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "gas",
+   "width": "1270 mm",
+   "depth": "500 mm",
+   "height": "2030 mm",
+   "electricKw": "47 kW",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "og8001rhd",
+  "name": "OG8001/RHD",
+  "brand": "Lincat",
+  "mpn": "OG8001/RHD",
+  "caterkwikUrl": null,
+  "known": {
+   "burners": "4",
+   "fuel": "gas",
+   "ignition": "flame failure",
+   "width": "600 mm",
+   "depth": "800 mm",
+   "height": "900 mm",
+   "gasKw": "36.8 kW",
+   "gasConnection": "1/2 Inch Gas Hose Required",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "dfg50",
+  "name": "DFG50",
+  "brand": "Blodgett",
+  "mpn": "DFG50",
+  "caterkwikUrl": null,
+  "known": {
+   "tempRange": "93 - 260°C",
+   "width": "768 mm",
+   "depth": "638 mm",
+   "height": "764 mm",
+   "weight": "152 kg",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "e6p",
+  "name": "E6P",
+  "brand": "CB",
+  "mpn": "E6P",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "electric",
+   "width": "700 mm",
+   "depth": "360 mm",
+   "height": "450 mm",
+   "electricKw": "2.8 kW",
+   "amps": "13 A",
+   "plug": "plug supplied",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "e15p",
+  "name": "E15P",
+  "brand": "CB",
+  "mpn": "E15P",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "electric",
+   "width": "705 mm",
+   "depth": "450 mm",
+   "height": "1250 mm",
+   "electricKw": "8.3 kW",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years"
+  }
+ }
+]

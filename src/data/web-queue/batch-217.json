@@ -1,0 +1,258 @@
+[
+ {
+  "id": "electrolux3710142plateelectricboilingtop",
+  "name": "Electrolux 700XP 2 Plate Electric Boiling Top - 371014",
+  "brand": "Electrolux",
+  "mpn": "371014",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ELECTROLUX3710142PLATEELECTRICBOILINGTOP",
+  "known": {
+   "fuel": "electric",
+   "zones": "2",
+   "width": "400 mm",
+   "depth": "730 mm",
+   "height": "250 mm",
+   "weight": "20 kg",
+   "electricKw": "5.2 kW",
+   "voltage": "400V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "electrolux3710154plateelectricboilingtop",
+  "name": "Electrolux Professional 700XP 4 Plate Electric Boiling Top - 371015",
+  "brand": "Electrolux",
+  "mpn": "371015",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ELECTROLUX3710154PLATEELECTRICBOILINGTOP",
+  "known": {
+   "fuel": "electric",
+   "zones": "4",
+   "width": "800 mm",
+   "depth": "730 mm",
+   "height": "250 mm",
+   "weight": "40 kg",
+   "electricKw": "10.4 kW",
+   "voltage": "400V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "electrolux3910392plateelectricboilingtop",
+  "name": "Electrolux Professional 900XP 2 Plate Electric Boiling Top - 391039",
+  "brand": "Electrolux",
+  "mpn": "391039",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ELECTROLUX3910392PLATEELECTRICBOILINGTOP",
+  "known": {
+   "fuel": "electric",
+   "zones": "2",
+   "width": "400 mm",
+   "depth": "930 mm",
+   "height": "250 mm",
+   "weight": "35 kg",
+   "electricKw": "8 kW",
+   "voltage": "400V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "oe8012",
+  "name": "Lincat Opus 800 OE8012 4 Hot plate Electric Boiling Top",
+  "brand": "Lincat",
+  "mpn": "DM513",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_OE8012",
+  "known": {
+   "fuel": "electric",
+   "heating": "bain marie",
+   "zones": "4",
+   "width": "600 mm",
+   "weight": "49 kg",
+   "electricKw": "10.4 kW",
+   "voltage": "400V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "electrolux3910404plateelectricboilingtop",
+  "name": "Electrolux Professional 900XP 4 Plate Electric Boiling Top - 391040",
+  "brand": "Electrolux",
+  "mpn": "391040",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ELECTROLUX3910404PLATEELECTRICBOILINGTOP",
+  "known": {
+   "fuel": "electric",
+   "zones": "4",
+   "width": "800 mm",
+   "depth": "930 mm",
+   "height": "250 mm",
+   "weight": "72 kg",
+   "electricKw": "16 kW",
+   "voltage": "400V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "electrolux3910012hobgasboilingtop",
+  "name": "Electrolux Professional 900XP 2 Hob Gas Boiling Top - 391001",
+  "brand": "Electrolux",
+  "mpn": "391001",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ELECTROLUX3910012HOBGASBOILINGTOP",
+  "known": {
+   "fuel": "gas",
+   "heating": "direct",
+   "zones": "2",
+   "width": "400 mm",
+   "depth": "930 mm",
+   "height": "250 mm",
+   "weight": "43 kg",
+   "electricKw": "10 kW",
+   "gasKw": "20 kW",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "electrolux3710014hobgasboilingtop",
+  "name": "Electrolux Professional 700XP 4 Hob Gas Boiling Top - 371001",
+  "brand": "Electrolux",
+  "mpn": "371001",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ELECTROLUX3710014HOBGASBOILINGTOP",
+  "known": {
+   "fuel": "gas",
+   "heating": "direct",
+   "zones": "4",
+   "width": "800 mm",
+   "depth": "730 mm",
+   "height": "250 mm",
+   "weight": "38 kg",
+   "electricKw": "5.5 kW",
+   "gasKw": "22 kW",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "gs4gas",
+  "name": "Lincat Silverlink 600 GS4 Gas Griddle",
+  "brand": "Lincat",
+  "mpn": "GS4/N",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GS4GAS",
+  "known": {
+   "cookingWidth": "12 mm",
+   "plate": "smooth",
+   "fuel": "gas",
+   "thermostat": "true",
+   "width": "450 mm",
+   "depth": "600 mm",
+   "height": "415 mm",
+   "weight": "43 kg",
+   "electricKw": "4.9 kW",
+   "voltage": "230V",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "gs7gas",
+  "name": "Lincat Silverlink 600 GS7 Gas Griddle",
+  "brand": "Lincat",
+  "mpn": "GS7/N",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GS7GAS",
+  "known": {
+   "cookingWidth": "12 mm",
+   "plate": "smooth",
+   "fuel": "gas",
+   "thermostat": "true",
+   "width": "750 mm",
+   "depth": "650 mm",
+   "height": "415 mm",
+   "weight": "67 kg",
+   "lpgKw": "7.5 kW",
+   "voltage": "230V",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "gs7rgas",
+  "name": "Lincat Silverlink 600 GS7R Gas Griddle",
+  "brand": "Lincat",
+  "mpn": "GS7R/N",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GS7RGAS",
+  "known": {
+   "cookingWidth": "12 mm",
+   "plate": "ribbed",
+   "fuel": "gas",
+   "thermostat": "true",
+   "width": "750 mm",
+   "depth": "600 mm",
+   "height": "415 mm",
+   "weight": "67 kg",
+   "lpgKw": "7.5 kW",
+   "voltage": "230V",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "ck3400",
+  "name": "Cater-Cook Heavy Duty 1 Burner NAT Gas Griddle - W400 - CK3400",
+  "brand": "Cater-Cook",
+  "mpn": "CK3400",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK3400",
+  "known": {
+   "fuel": "gas",
+   "burners": "1",
+   "width": "400 mm",
+   "depth": "470 mm",
+   "height": "250 mm",
+   "weight": "16 kg",
+   "electricKw": "3.1 kW",
+   "gasKw": "3.1 kW",
+   "gasConnection": "½\" Inlet connection",
+   "warranty": "1 year",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "i91104c",
+  "name": "Falcon F900 i91104C Fan-Assisted Induction Range",
+  "brand": "Falcon",
+  "mpn": "i91104C",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_I91104C",
+  "known": {
+   "volume": "1 litres",
+   "fuel": "induction",
+   "heating": "direct",
+   "tilting": "true",
+   "basket": "6",
+   "width": "1000 mm",
+   "depth": "900 mm",
+   "height": "900 mm",
+   "electricKw": "20.5 kW",
+   "amps": "32 A",
+   "voltage": "400V",
+   "plug": "32A",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ }
+]

@@ -1,0 +1,194 @@
+[
+ {
+  "id": "sej50000",
+  "name": "TG - 30 Cup 8.5Ltr Rice Warmer / Cooker SEJ50000",
+  "brand": "Thunder Group",
+  "mpn": "SEJ50000",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SEJ50000",
+  "known": {
+   "volume": "8.5 litres",
+   "width": "430 mm",
+   "depth": "430 mm",
+   "height": "355 mm",
+   "voltage": "110V",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "ps3240g",
+  "name": "Middleby Marshall PS3240G Countertop Gas Conveyor Oven - 33.5\" Wide",
+  "brand": "Middleby Marshall",
+  "mpn": "PS3240G",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PS3240G",
+  "known": {
+   "pizzaSize": "5\"",
+   "fuel": "gas",
+   "width": "1943 mm",
+   "depth": "1524 mm",
+   "height": "1197 mm",
+   "weight": "499 kg",
+   "gasKw": "12 kW",
+   "warranty": "3 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "767sk",
+  "name": "Alto-Shaam Manual Smoker",
+  "brand": "Alto-Shaam",
+  "mpn": "767-SK",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_767SK",
+  "known": {
+   "fuel": "wood",
+   "timer": "timer offers a choice of mild, medium, or hea",
+   "width": "653 mm",
+   "depth": "805 mm",
+   "height": "851 mm",
+   "electricKw": "2.8 kW",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "bigjoe",
+  "name": "KAMADO JOE - Big Joe - Ceramic Grill with Cart & Side Shelves - Red Only- BJ24RH",
+  "brand": "Kamado Joe",
+  "mpn": "BJ24RH",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BIGJOE",
+  "known": {
+   "thermostat": "82°C - 399°C",
+   "width": "1270 mm",
+   "depth": "790 mm",
+   "height": "1370 mm",
+   "weight": "113 kg",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "dk229",
+  "name": "Buffalo DK229 Bubble Waffle Maker",
+  "brand": "Buffalo",
+  "mpn": "DK229",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DK229",
+  "known": {
+   "throughput": "30 waffles an hour",
+   "timer": "timer gives you control to get light, fluffy",
+   "thermostat": "50-250°C",
+   "width": "275 mm",
+   "depth": "540 mm",
+   "height": "225 mm",
+   "weight": "6.5 kg",
+   "voltage": "230V"
+  }
+ },
+ {
+  "id": "c6a75",
+  "name": "Lincat C6A/75 650 Curved Front Ambient Food Merchandiser",
+  "brand": "Lincat",
+  "mpn": "C6A/75",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_C6A75",
+  "known": {
+   "width": "750 mm",
+   "depth": "650 mm",
+   "height": "755 mm",
+   "weight": "57 kg",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "silver finish"
+  }
+ },
+ {
+  "id": "c6a100",
+  "name": "Lincat C6A/100 650 Curved Front Ambient Food Merchandiser",
+  "brand": "Lincat",
+  "mpn": "C6A/100",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_C6A100",
+  "known": {
+   "width": "1000 mm",
+   "depth": "650 mm",
+   "height": "755 mm",
+   "weight": "70 kg",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "silver finish"
+  }
+ },
+ {
+  "id": "janw",
+  "name": "Igloo Jamaica Wood Ambient Patisserie Serveover Counter",
+  "brand": "Igloo",
+  "mpn": "JANW",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_JANW",
+  "known": {
+   "width": "680 mm",
+   "depth": "865 mm",
+   "height": "1320 mm",
+   "electricKw": "0.6 kW",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "jan",
+  "name": "Igloo Jamaica Stainless Steel Ambient Patisserie Serveover Counter",
+  "brand": "Igloo",
+  "mpn": "JAN",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_JAN",
+  "known": {
+   "width": "600 mm",
+   "depth": "810 mm",
+   "height": "1350 mm",
+   "electricKw": "0.6 kW",
+   "warranty": "2 years",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "jant",
+  "name": "Igloo Jamaica Trend Ambient Patisserie Serveover Counter",
+  "brand": "Igloo",
+  "mpn": "JANT",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_JANT",
+  "known": {
+   "width": "680 mm",
+   "depth": "870 mm",
+   "height": "1370 mm",
+   "electricKw": "0.6 kW",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "dcsb400r241",
+  "name": "Hatco DCSB400-R24-1 Decorative Carving Station",
+  "brand": null,
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DCSB400R241",
+  "known": {
+   "weight": "32 kg",
+   "electricKw": "0.6 kW",
+   "voltage": "230V",
+   "phase": "single",
+   "plug": "plug supplied"
+  }
+ },
+ {
+  "id": "cb806",
+  "name": "CB806 2 Tier Basket Counter Display ½ GN",
+  "brand": "APS",
+  "mpn": "CB806",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CB806",
+  "known": {
+   "gnCapacity": "1/2GN",
+   "heatType": "dry",
+   "shelves": "2",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Shades",
+   "finish": "Chrome"
+  }
+ }
+]

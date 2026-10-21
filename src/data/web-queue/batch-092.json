@@ -1,0 +1,202 @@
+[
+ {
+  "id": "g514d",
+  "name": "Blue Seal G514D 4 Burner Cooktop - Natural Gas",
+  "brand": "Blue Seal",
+  "mpn": "G514D - NAT",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G514D",
+  "known": {
+   "fuel": "gas",
+   "width": "600 mm",
+   "depth": "812 mm",
+   "height": "315 mm",
+   "electricKw": "7 kW",
+   "gasKw": "28 kW",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "1 year",
+   "finish": "stainless steel finish"
+  }
+ },
+ {
+  "id": "cg240",
+  "name": "Sammic CG-240 Gas Crepe Machine - 5130522",
+  "brand": "Sammic",
+  "mpn": "CG240",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CG240",
+  "known": {
+   "fuel": "gas",
+   "width": "835 mm",
+   "depth": "505 mm",
+   "height": "145 mm",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "1bg",
+  "name": "Archway 1BG 1 Burner Gas Griddle",
+  "brand": "Archway",
+  "mpn": "1BG",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_1BG",
+  "known": {
+   "fuel": "gas",
+   "burners": "1",
+   "width": "445 mm",
+   "depth": "660 mm",
+   "height": "340 mm",
+   "lpgKw": "2.8 kW",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "multigriddle",
+  "name": "Fracino Multi Cooking Gas Griddle - MULTI-GRIDDLE",
+  "brand": "Fracino",
+  "mpn": "MULTI-GRIDDLE",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MULTIGRIDDLE",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "gas",
+   "width": "570 mm",
+   "depth": "453 mm",
+   "height": "393 mm",
+   "weight": "38 kg"
+  }
+ },
+ {
+  "id": "3bg",
+  "name": "Archway 3BG 3 Burner Gas Griddle",
+  "brand": "Archway",
+  "mpn": "3BG",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_3BG",
+  "known": {
+   "fuel": "gas",
+   "burners": "3",
+   "width": "950 mm",
+   "depth": "660 mm",
+   "height": "340 mm",
+   "lpgKw": "8.4 kW",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "imperialisb36",
+  "name": "Imperial Pro-Series ISB-36 Gas Salamander Grill",
+  "brand": "Imperial",
+  "mpn": "ISB-36",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_IMPERIALISB36",
+  "known": {
+   "fuel": "gas",
+   "radiant": "infra-red",
+   "width": "914 mm",
+   "depth": "451 mm",
+   "height": "483 mm",
+   "weight": "95 kg",
+   "gasKw": "10 kW",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "gxih43b",
+  "name": "Chefsrange GHIH4-3B 80 Line Floorstanding 4 Ring Induction Hob - 4 x 3kW Power",
+  "brand": "Chefsrange",
+  "mpn": "GXIH4-3B",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GXIH43B",
+  "known": {
+   "fuel": "induction",
+   "zones": "4",
+   "width": "700 mm",
+   "depth": "800 mm",
+   "height": "850 mm",
+   "electricKw": "3 kW",
+   "amps": "13 A"
+  }
+ },
+ {
+  "id": "ed15g",
+  "name": "Garland ED Series Stainless Steel Countertop Electric Griddle",
+  "brand": "Garland",
+  "mpn": "ED-15G",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ED15G",
+  "known": {
+   "fuel": "electric",
+   "width": "380 mm",
+   "depth": "610 mm",
+   "height": "349 mm",
+   "electricKw": "3.4 kW",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "dj610",
+  "name": "Essentials Flatbed Microwave 21Ltr 750W - DJ610",
+  "brand": "Essentials",
+  "mpn": "DJ610",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DJ610",
+  "known": {
+   "microwaveOutput": "750 W",
+   "width": "492 mm",
+   "depth": "368 mm",
+   "height": "298 mm",
+   "weight": "13.4 kg",
+   "voltage": "230V"
+  }
+ },
+ {
+  "id": "ind25di",
+  "name": "Sirman IND-25DI Drop-In Induction Hob",
+  "brand": "Sirman",
+  "mpn": "IND-25DI",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_IND25DI",
+  "known": {
+   "fuel": "induction",
+   "width": "322 mm",
+   "depth": "500 mm",
+   "height": "115 mm",
+   "weight": "11 kg",
+   "electricKw": "3.5 kW",
+   "amps": "13 A",
+   "voltage": "230V, 50HZ"
+  }
+ },
+ {
+  "id": "t149",
+  "name": "Vogue Casserole Pan 4.5Ltr - T149",
+  "brand": "vogue",
+  "mpn": "T149",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_T149",
+  "known": {
+   "volume": "4.5 litres",
+   "fuel": "induction",
+   "heating": "bain marie",
+   "tilting": "true",
+   "tap": "true",
+   "weight": "1.67 kg",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "m941",
+  "name": "Vogue Stainless Steel Stew pan - Various Sizes",
+  "brand": "Vogue",
+  "mpn": "M941",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_M941",
+  "known": {
+   "volume": "9.5 litres",
+   "fuel": "induction",
+   "heating": "bain marie",
+   "tilting": "true",
+   "tap": "true",
+   "weight": "2.6 kg",
+   "finish": "stainless steel"
+  }
+ }
+]

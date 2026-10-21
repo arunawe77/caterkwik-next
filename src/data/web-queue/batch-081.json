@@ -1,0 +1,171 @@
+[
+ {
+  "id": "fs151",
+  "name": "DeLonghi Scolpito Toaster Black - FS151",
+  "brand": "DELONGHI",
+  "mpn": "FS151",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FS151",
+  "known": {
+   "plates": "4",
+   "weight": "2 kg",
+   "voltage": "240V",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "fs150",
+  "name": "DeLonghi Scolpito Toaster Blue - FS150",
+  "brand": "DELONGHI",
+  "mpn": "FS149",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FS150",
+  "known": {
+   "plates": "4",
+   "weight": "2 kg",
+   "voltage": "240V",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "ck0089",
+  "name": "Cater-Cook Commercial 6 Slot Toaster - CK0089",
+  "brand": "Cater-Cook",
+  "mpn": "CK0089",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK0089",
+  "known": {
+   "timer": "timer",
+   "plates": "6",
+   "weight": "16 kg",
+   "electricKw": "2.5 kW",
+   "warranty": "2 years",
+   "finish": "stainless steel finish"
+  }
+ },
+ {
+  "id": "gh394",
+  "name": "GH394 APS Breadstation Cutting Board",
+  "brand": "APS",
+  "mpn": "GH394",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GH394",
+  "known": {
+   "heatType": "dry",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Shades",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "gh393",
+  "name": "GH393 APS Breadstation Tray",
+  "brand": "APS",
+  "mpn": "GH393",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GH393",
+  "known": {
+   "heatType": "dry",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Shades",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "922620",
+  "name": "Electrolux Professional Stacking Kit for 6 x 1/1GN on 6 or 10 1/1GN Electric Skyline Combi Ovens - 922620",
+  "brand": "Electrolux",
+  "mpn": "922620",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922620",
+  "known": {
+   "gnCapacity": "6 x 1/1GN",
+   "width": "867 mm",
+   "depth": "895 mm",
+   "height": "120 mm",
+   "weight": "50 kg"
+  }
+ },
+ {
+  "id": "922621",
+  "name": "Electrolux Professional Stacking Kit for 6 x 2/1GN on 6 or 10 2/1GN Electric Skyline Combi Ovens - 922621",
+  "brand": "Electrolux",
+  "mpn": "922621",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922621",
+  "known": {
+   "gnCapacity": "6 x 2/1GN",
+   "width": "1090 mm",
+   "depth": "1092 mm",
+   "height": "120 mm",
+   "weight": "53 kg"
+  }
+ },
+ {
+  "id": "922086",
+  "name": "Electrolux Professional ½ GN Grid for 4 Whole Chickens - 922086",
+  "brand": "Electrolux",
+  "mpn": "922086",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922086",
+  "known": {
+   "gnCapacity": "1/2 GN",
+   "width": "265 mm",
+   "depth": "325 mm",
+   "height": "140 mm",
+   "weight": "1.4 kg"
+  }
+ },
+ {
+  "id": "922266",
+  "name": "Electrolux Professional 1/1 GN Grid for 8 Whole Chickens - 922266",
+  "brand": "Electrolux",
+  "mpn": "922266",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922266",
+  "known": {
+   "gnCapacity": "1/1 GN",
+   "width": "325 mm",
+   "depth": "530 mm",
+   "height": "152 mm",
+   "weight": "1.4 kg"
+  }
+ },
+ {
+  "id": "922348",
+  "name": "Electrolux Professional Multipurpose Hook - 922348",
+  "brand": "Electrolux",
+  "mpn": "922348",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922348",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "steam": "boiler",
+   "weight": "15 kg",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "rhw1",
+  "name": "Hatco RHW-1 Freestanding Round Heated Well",
+  "brand": "Hatco",
+  "mpn": "RHW-1",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_RHW1",
+  "known": {
+   "volume": "10 litres",
+   "width": "359 mm",
+   "depth": "329 mm",
+   "height": "355 mm",
+   "weight": "10 kg",
+   "voltage": "240V",
+   "phase": "single",
+   "plug": "plug supplied"
+  }
+ },
+ {
+  "id": "mbm3w",
+  "name": "Hallco MBM3W 3 x 1/3 GN Wet Heat Bain Marie",
+  "brand": "Hallco",
+  "mpn": "MBM3W",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MBM3W",
+  "known": {
+   "gnCapacity": "3 x 1/3 GN",
+   "heatType": "wet",
+   "wells": "3",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ }
+]

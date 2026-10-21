@@ -1,0 +1,259 @@
+[
+ {
+  "id": "edge30g",
+  "name": "Edge E1830 Nat Gas Conveyor Oven",
+  "brand": "Edge",
+  "mpn": "EDGE30",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_EDGE30G",
+  "known": {
+   "decks": "3",
+   "pizzaSize": "18inch",
+   "chamber": "CHAMBER • 40\" LONG BAKING CHAMBER",
+   "fuel": "gas",
+   "width": "1664 mm",
+   "depth": "1054 mm",
+   "height": "1118 mm",
+   "weight": "285 kg",
+   "electricKw": "19.1 kW",
+   "amps": "13 A",
+   "voltage": "240v",
+   "warranty": "2 years",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "tsa",
+  "name": "Italforni TSA Tunnel Stone Electric Conveyor Pizza Oven",
+  "brand": "Italforni",
+  "mpn": "TSA",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_TSA",
+  "known": {
+   "decks": "1",
+   "pizzaSize": "12 Inch Pizza",
+   "maxTemp": "450 °C",
+   "fuel": "electric",
+   "width": "1650 mm",
+   "depth": "980 mm",
+   "height": "410 mm",
+   "weight": "200 kg",
+   "electricKw": "9.5 kW",
+   "voltage": "400V",
+   "phase": "three",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "tsb",
+  "name": "Italforni TSB Tunnel Stone Electric Conveyor Pizza Oven",
+  "brand": "Italforni",
+  "mpn": "TSB",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_TSB",
+  "known": {
+   "decks": "1",
+   "pizzaSize": "12 Inch Pizza",
+   "maxTemp": "450 °C",
+   "fuel": "electric",
+   "width": "2060 mm",
+   "depth": "1120 mm",
+   "height": "410 mm",
+   "weight": "308 kg",
+   "electricKw": "21.5 kW",
+   "voltage": "400V",
+   "phase": "three",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "tsc",
+  "name": "Italforni TSC Tunnel Stone Electric Conveyor Pizza Oven",
+  "brand": "Italforni",
+  "mpn": "TSC",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_TSC",
+  "known": {
+   "decks": "1",
+   "pizzaSize": "12 Inch Pizza",
+   "maxTemp": "450 °C",
+   "fuel": "electric",
+   "width": "2420 mm",
+   "depth": "1320 mm",
+   "height": "410 mm",
+   "weight": "420 kg",
+   "electricKw": "35 kW",
+   "voltage": "400V",
+   "phase": "three",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "egc2",
+  "name": "Italforni EGC-2 Heavy Duty Twin Deck Gas Fired Pizza Oven",
+  "brand": "Italforni",
+  "mpn": "EGC2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_EGC2",
+  "known": {
+   "decks": "2",
+   "pizzaSize": "12inch pizzas",
+   "stone": "refractory",
+   "maxTemp": "450 °C",
+   "fuel": "gas",
+   "width": "1600 mm",
+   "depth": "1420 mm",
+   "height": "1040 mm",
+   "weight": "560 kg",
+   "gasKw": "56 kW",
+   "voltage": "230V",
+   "phase": "single",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "vesuvio",
+  "name": "Sirman Vesuvio 70 x 70cm Single Deck Electric Pizza Oven",
+  "brand": "Sirman",
+  "mpn": "Vesuvio",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_VESUVIO",
+  "known": {
+   "decks": "1",
+   "pizzaSize": "70cm",
+   "chamber": "deck & 1 for chamber",
+   "stone": "Stone",
+   "fuel": "electric",
+   "width": "995 mm",
+   "depth": "900 mm",
+   "height": "395 mm",
+   "electricKw": "5.9 kW",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "italfornifast50",
+  "name": "Italforni Fast 50 Twin Deck Electric Pizza Oven - 8 x 9\" Pizzas",
+  "brand": "Italforni",
+  "mpn": "Fast 50",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ITALFORNIFAST50",
+  "known": {
+   "decks": "2",
+   "pizzaSize": "9\" Pizzas",
+   "stone": "Refractory",
+   "fuel": "electric",
+   "width": "780 mm",
+   "depth": "630 mm",
+   "height": "570 mm",
+   "weight": "60 kg",
+   "electricKw": "6 kW",
+   "amps": "26 A",
+   "voltage": "230V",
+   "phase": "single",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "po1145",
+  "name": "Sammic PO-1+1/45 2 Chamber Pizza Oven",
+  "brand": "Sammic",
+  "mpn": "PO-1+1/45",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PO1145",
+  "known": {
+   "pizzaSize": "45cm pizza",
+   "chamber": "chambers. 1+1 pizza, Ø 45 cm",
+   "fuel": "electric",
+   "width": "970 mm",
+   "depth": "770 mm",
+   "height": "640 mm",
+   "weight": "85 kg",
+   "electricKw": "8 kW",
+   "voltage": "400V",
+   "phase": "three",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "es62",
+  "name": "Italforni ES6-2 Wide Twin Deck Heavy Duty Electric Pizza Oven - 16 x 12\" Pizzas",
+  "brand": "Italforni",
+  "mpn": "ES6-2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ES62",
+  "known": {
+   "decks": "2",
+   "pizzaSize": "12\" Pizzas",
+   "chamber": "DECK 17 123 63 40 162 96 200/165 400/3/50-60 8,",
+   "stone": "Refractory",
+   "fuel": "electric",
+   "width": "1620 mm",
+   "depth": "960 mm",
+   "height": "400 mm",
+   "weight": "200 kg",
+   "electricKw": "8.5 kW",
+   "voltage": "415V",
+   "phase": "three",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "es122",
+  "name": "Italforni ES12-2 Wide Twin Deck Heavy Duty Electric Pizza Oven - 24 x 12\" Pizzas",
+  "brand": "Italforni",
+  "mpn": "ES12-2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ES122",
+  "known": {
+   "decks": "2",
+   "pizzaSize": "12\" Pizzas",
+   "chamber": "DECK 17 123 93 40 162 126 260/220 400/3/50-60 1",
+   "stone": "Refractory",
+   "fuel": "electric",
+   "width": "1620 mm",
+   "depth": "1260 mm",
+   "height": "400 mm",
+   "weight": "260 kg",
+   "electricKw": "12.5 kW",
+   "voltage": "400V",
+   "phase": "three",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "vct1000",
+  "name": "Antunes - Vertical Contact Toaster - VCT-1000 (9210712)",
+  "brand": "Antunes",
+  "mpn": "9210712",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_VCT1000",
+  "known": {
+   "thermostat": "thermostat for adjusting the quality of",
+   "width": "540 mm",
+   "depth": "387 mm",
+   "height": "616 mm",
+   "weight": "38 kg",
+   "amps": "15 A",
+   "voltage": "240V",
+   "warranty": "1 year",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "ges75",
+  "name": "Roller Grill GES75 Round Waffle Maker",
+  "brand": "Roller Grill",
+  "mpn": "GES75",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GES75",
+  "known": {
+   "thermostat": "thermostat",
+   "width": "305 mm",
+   "depth": "440 mm",
+   "height": "230 mm",
+   "weight": "22 kg",
+   "electricKw": "1.5 kW",
+   "amps": "13 A",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ }
+]

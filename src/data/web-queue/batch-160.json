@@ -1,0 +1,230 @@
+[
+ {
+  "id": "cu965",
+  "name": "Buffalo CU965 Cast Iron Countertop Griddle 1.8kW",
+  "brand": "Buffalo",
+  "mpn": "CU965",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CU965",
+  "known": {
+   "plate": "cast iron",
+   "width": "430 mm",
+   "depth": "320 mm",
+   "height": "203 mm",
+   "weight": "17.5 kg",
+   "electricKw": "1.8 kW",
+   "amps": "7.8 A",
+   "voltage": "240V",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "da396",
+  "name": "Nisbets Essentials DA396 Contact Grill Ribbed Top",
+  "brand": "Essentials",
+  "mpn": "DA396",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DA396",
+  "known": {
+   "plate": "ribbed",
+   "width": "310 mm",
+   "depth": "360 mm",
+   "height": "360 mm",
+   "weight": "16 kg",
+   "electricKw": "1.8 kW",
+   "amps": "7.8 A",
+   "voltage": "230V",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "dy996",
+  "name": "Buffalo Bistro Contact Grill - DY996",
+  "brand": "Buffalo",
+  "mpn": "DY996",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DY996",
+  "known": {
+   "plate": "cast iron",
+   "width": "290 mm",
+   "depth": "395 mm",
+   "height": "210 mm",
+   "weight": "14.4 kg",
+   "electricKw": "1.5 kW",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "stainless steel body"
+  }
+ },
+ {
+  "id": "cu600",
+  "name": "Buffalo CU600 Bistro Ribbed Contact Grill",
+  "brand": "Buffalo",
+  "mpn": "CU600",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CU600",
+  "known": {
+   "plate": "ribbed",
+   "width": "290 mm",
+   "depth": "395 mm",
+   "height": "210 mm",
+   "weight": "14 kg",
+   "electricKw": "1.45 kW",
+   "amps": "6.3 A",
+   "voltage": "240V",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "dy993",
+  "name": "Buffalo Bistro Ribbed Contact Grill - DY993",
+  "brand": "Buffalo",
+  "mpn": "DY993",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DY993",
+  "known": {
+   "plate": "ribbed",
+   "width": "290 mm",
+   "depth": "395 mm",
+   "height": "210 mm",
+   "weight": "14 kg",
+   "electricKw": "1.5 kW",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "stainless steel body"
+  }
+ },
+ {
+  "id": "dy998",
+  "name": "Buffalo DY998 Bistro Double Contact Grill",
+  "brand": "Buffalo",
+  "mpn": "DY998",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DY998",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "electric",
+   "width": "550 mm",
+   "depth": "395 mm",
+   "height": "210 mm",
+   "weight": "28.5 kg",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "brrcg1",
+  "name": "Blizzard BRRCG1 Commercial Single Contact Grill - Ribbed Top & Bottom",
+  "brand": "Blizzard",
+  "mpn": "BRRCG1",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BRRCG1",
+  "known": {
+   "plate": "ribbed",
+   "thermostat": "true",
+   "tempRange": "50°C to 300°C",
+   "width": "310 mm",
+   "depth": "395 mm",
+   "height": "210 mm",
+   "weight": "16 kg",
+   "electricKw": "1.8 kW",
+   "amps": "13 A",
+   "voltage": "240v",
+   "plug": "13A - plug",
+   "warranty": "1 year",
+   "finish": "Stainless Steel Construction"
+  }
+ },
+ {
+  "id": "cb20",
+  "name": "Roller Grill CB20 Hot Dog Bun Warming Cabinet",
+  "brand": "Roller Grill",
+  "mpn": "CB20",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CB20",
+  "known": {
+   "width": "545 mm",
+   "depth": "460 mm",
+   "height": "220 mm",
+   "weight": "17 kg",
+   "electricKw": "0.65 kW",
+   "plug": "Plug Supplied",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "fwdg",
+  "name": "Lincat FWDG Food Warming Drawers",
+  "brand": "Lincat",
+  "mpn": "FWDG",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FWDG",
+  "known": {
+   "gnCapacity": "2 x 1/1 GN",
+   "wells": "2",
+   "tempRange": "64 - 70°C",
+   "width": "620 mm",
+   "depth": "585 mm",
+   "height": "485 mm",
+   "weight": "46 kg",
+   "electricKw": "1.5 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "c2lu",
+  "name": "Parry C2LU Electric Carvery Servery Lamp Unit",
+  "brand": "Parry",
+  "mpn": "C2LU",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_C2LU",
+  "known": {
+   "bulbs": "heat lamps",
+   "width": "825 mm",
+   "depth": "505 mm",
+   "height": "737 mm",
+   "weight": "18 kg",
+   "electricKw": "1 kW",
+   "amps": "13 A",
+   "voltage": "240V",
+   "plug": "13A - Plug",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "c4lu",
+  "name": "Parry C4LU Electric Carvery Servery Lamp Unit",
+  "brand": "Parry",
+  "mpn": "C4LU",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_C4LU",
+  "known": {
+   "bulbs": "Infra-red bulbs",
+   "width": "1505 mm",
+   "depth": "505 mm",
+   "height": "737 mm",
+   "weight": "28 kg",
+   "electricKw": "2 kW",
+   "amps": "13 A",
+   "voltage": "240V",
+   "plug": "13A - Plug",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "bl200h4",
+  "name": "Victor Banquetline 200 Holding Cabinet 56 x 1/1 GN - 4 Door - BL200H4",
+  "brand": "Victor",
+  "mpn": "BL200H4",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BL200H4",
+  "known": {
+   "gnCapacity": "56 x 1/1 GN",
+   "wells": "56",
+   "shelves": "8",
+   "doors": "4",
+   "mobility": "true",
+   "electricKw": "3 kW",
+   "amps": "12.5 A",
+   "voltage": "220V/240V",
+   "phase": "single",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ }
+]

@@ -1,0 +1,233 @@
+[
+ {
+  "id": "cu609",
+  "name": "Buffalo CU609 Extra Large Contact Grill Ribbed & Flat Plate",
+  "brand": "Buffalo",
+  "mpn": "CU609",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CU609",
+  "known": {
+   "plate": "ribbed",
+   "tempRange": "50°C to 300°C",
+   "width": "430 mm",
+   "depth": "310 mm",
+   "height": "200 mm",
+   "electricKw": "2.5 kW",
+   "voltage": "240V",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "mepldarr",
+  "name": "Mercury Double Countertop Ribbed Grill - MEP-L-DARR",
+  "brand": "Mercury",
+  "mpn": "MEP-L-DARR",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MEPLDARR",
+  "known": {
+   "plate": "ribbed",
+   "thermostat": "true",
+   "width": "540 mm",
+   "depth": "395 mm",
+   "height": "210 mm",
+   "weight": "30 kg",
+   "electricKw": "2.9 kW",
+   "voltage": "230V, 50HZ",
+   "plug": "Plug Supplied",
+   "warranty": "1 year",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "mepldatrr",
+  "name": "Mercury Double Countertop Ribbed Grill with Digital Timer - MEP-L-DATRR",
+  "brand": "Mercury",
+  "mpn": "MEP-L-DATRR",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MEPLDATRR",
+  "known": {
+   "plate": "ribbed",
+   "thermostat": "true",
+   "width": "540 mm",
+   "depth": "395 mm",
+   "height": "210 mm",
+   "weight": "30 kg",
+   "electricKw": "2.9 kW",
+   "voltage": "230V, 50HZ",
+   "plug": "Plug Supplied",
+   "warranty": "1 year",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "mepldatff",
+  "name": "Mercury Double Countertop Flat Grill with Digital Timer - MEP-L-DATFF",
+  "brand": "Mercury",
+  "mpn": "MEP-L-DATFF",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MEPLDATFF",
+  "known": {
+   "plate": "cast iron",
+   "thermostat": "true",
+   "width": "540 mm",
+   "depth": "395 mm",
+   "height": "210 mm",
+   "weight": "30 kg",
+   "electricKw": "2.9 kW",
+   "voltage": "230V, 50HZ",
+   "plug": "Plug Supplied",
+   "warranty": "1 year",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "fc383",
+  "name": "Buffalo FC383 Double Ribbed Contact Grill",
+  "brand": "Buffalo",
+  "mpn": "FC383",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FC383",
+  "known": {
+   "plate": "ribbed",
+   "fuel": "electric",
+   "width": "550 mm",
+   "depth": "395 mm",
+   "height": "210 mm",
+   "weight": "27 kg",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "stainless steel body"
+  }
+ },
+ {
+  "id": "sp015pgb",
+  "name": "Spidocook SP015P Spidoglass Medium Smooth Contact Grill - Manual Control",
+  "brand": "Spidocook",
+  "mpn": "SP015P",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SP015PGB",
+  "known": {
+   "plate": "smooth",
+   "fuel": "electric",
+   "radiant": "ceramic",
+   "width": "400 mm",
+   "depth": "457 mm",
+   "height": "182 mm",
+   "weight": "16 kg",
+   "electricKw": "3 kW",
+   "voltage": "230 V",
+   "warranty": "1 year",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "gsa610e",
+  "name": "Roband GSA610E Grill Station with Electronic Timer",
+  "brand": "Roband",
+  "mpn": "GSA610E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GSA610E",
+  "known": {
+   "plate": "ribbed",
+   "thermostat": "true",
+   "width": "435 mm",
+   "depth": "490 mm",
+   "height": "248 mm",
+   "weight": "16.5 kg",
+   "electricKw": "2.2 kW",
+   "amps": "13 A",
+   "voltage": "230V, 50Hz",
+   "plug": "Plug Supplied",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "fsa2",
+  "name": "Parry FLEXI-SERVE FS-A Ambient Cupboard with Plain Top",
+  "brand": "Parry",
+  "mpn": "Flexi-Serve",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FSA2",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "mobility": "true",
+   "width": "860 mm",
+   "depth": "700 mm",
+   "height": "900 mm",
+   "amps": "13 A",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "fsaw",
+  "name": "Parry FLEXI-SERVE FS-AW Ambient Cupboard with Chilled Well",
+  "brand": "Parry",
+  "mpn": "Flexi-Serve",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FSAW",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "mobility": "true",
+   "width": "860 mm",
+   "depth": "700 mm",
+   "height": "900 mm",
+   "amps": "13 A",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "bm20ms",
+  "name": "Victor BM20MS Bain Marie Top, Mobile Hot Cupboard",
+  "brand": "Victor",
+  "mpn": "BM20MS",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BM20MS",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "mobility": "true",
+   "width": "945 mm",
+   "depth": "670 mm",
+   "height": "900 mm",
+   "electricKw": "1.9 kW",
+   "amps": "7.9 A",
+   "voltage": "220V/240V",
+   "phase": "single",
+   "plug": "13A plug",
+   "warranty": "2 years",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "bm40ms",
+  "name": "Victor BM40MS Bain Marie Top, Mobile Hot Cupboard",
+  "brand": "Victor",
+  "mpn": "BM40MS",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BM40MS",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "mobility": "true",
+   "width": "1600 mm",
+   "depth": "670 mm",
+   "height": "900 mm",
+   "electricKw": "2.4 kW",
+   "amps": "10 A",
+   "voltage": "220V/240V",
+   "phase": "single",
+   "plug": "13A plug",
+   "warranty": "2 years",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "ckf1500hc",
+  "name": "Cater-Fabs CKF1500HC Stainless Steel Mobile Hot Cupboard",
+  "brand": "Cater-Fabs",
+  "mpn": "CKF1500HC",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CKF1500HC",
+  "known": {
+   "mobility": "true",
+   "tempRange": "30° to 85°C",
+   "width": "1500 mm",
+   "depth": "650 mm",
+   "height": "900 mm",
+   "weight": "130 kg",
+   "electricKw": "2 kW",
+   "amps": "8.7 A",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ }
+]

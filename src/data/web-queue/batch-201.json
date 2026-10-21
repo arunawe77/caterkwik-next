@@ -1,0 +1,256 @@
+[
+ {
+  "id": "sli3w",
+  "name": "Lincat Silverlink 600 SLI3W Wok Induction Hob",
+  "brand": "Lincat",
+  "mpn": "SLI3W",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SLI3W",
+  "known": {
+   "fuel": "induction",
+   "heating": "direct",
+   "zones": "1",
+   "width": "450 mm",
+   "depth": "600 mm",
+   "height": "265 mm",
+   "weight": "16.6 kg",
+   "electricKw": "2.4 kW",
+   "amps": "13 A",
+   "voltage": "230V",
+   "phase": "single",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "ih42",
+  "name": "Lincat IH42 Tabletop Induction Hob",
+  "brand": "Lincat",
+  "mpn": "IH42",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_IH42",
+  "known": {
+   "fuel": "induction",
+   "zones": "4",
+   "width": "600 mm",
+   "depth": "654 mm",
+   "height": "115 mm",
+   "weight": "21.5 kg",
+   "electricKw": "6 kW",
+   "amps": "13 A",
+   "voltage": "230V",
+   "phase": "single",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ck70086",
+  "name": "Ozti 100 Litre CK70086 900 Series Manual Tilt Gas Bratt Pan",
+  "brand": "Ozti",
+  "mpn": "CK70086",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK70086",
+  "known": {
+   "volume": "100 litres",
+   "fuel": "gas",
+   "tilting": "true",
+   "tap": "true",
+   "width": "1000 mm",
+   "depth": "900 mm",
+   "height": "850 mm",
+   "electricKw": "0.015 kW",
+   "gasKw": "24 kW",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "oe8415",
+  "name": "Lincat Opus 800 OE8415 Electric Counter-top Chargrill",
+  "brand": null,
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_OE8415",
+  "known": {
+   "cookingWidth": "500 mm",
+   "plate": "cast iron",
+   "fuel": "electric",
+   "splashback": "true",
+   "width": "600 mm",
+   "depth": "800 mm",
+   "height": "700 mm",
+   "weight": "62 kg",
+   "electricKw": "7.2 kW",
+   "voltage": "240V",
+   "phase": "single",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "e3925",
+  "name": "Falcon Dominator Plus E3925 Electric Chargrill",
+  "brand": "Falcon",
+  "mpn": "E3925",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_E3925",
+  "known": {
+   "cookingWidth": "730 mm",
+   "fuel": "electric",
+   "tempRange": "70° - 400°C",
+   "width": "900 mm",
+   "depth": "785 mm",
+   "height": "530 mm",
+   "electricKw": "13.44 kW",
+   "amps": "32 A",
+   "voltage": "400V",
+   "phase": "three",
+   "plug": "32A(3 Phase)",
+   "hardWired": "true",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "st600e",
+  "name": "Synergy Grill Trilogy ST600E Variable Heat Electric Chargrill",
+  "brand": "Synergy Grill",
+  "mpn": "ST600E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ST600E",
+  "known": {
+   "cookingWidth": "380 mm",
+   "fuel": "electric",
+   "weight": "105 kg",
+   "electricKw": "6.7 kW",
+   "amps": "16 A",
+   "voltage": "400 V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "Stainless Steel Construction"
+  }
+ },
+ {
+  "id": "st900e",
+  "name": "Synergy Grill Trilogy ST900E Variable Heat Electric Chargrill",
+  "brand": "Synergy Grill",
+  "mpn": "ST900E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ST900E",
+  "known": {
+   "cookingWidth": "380 mm",
+   "fuel": "electric",
+   "weight": "150 kg",
+   "electricKw": "10 kW",
+   "amps": "16 A",
+   "voltage": "400 V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "Stainless Steel Construction"
+  }
+ },
+ {
+  "id": "iabr24",
+  "name": "Imperial 22' Char-Rock Chargrill - EBA-2223",
+  "brand": "Imperial",
+  "mpn": "EBA-2223",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_IABR24",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "gas",
+   "radiant": "char-rock",
+   "width": "558 mm",
+   "depth": "584 mm",
+   "height": "355 mm",
+   "weight": "64 kg",
+   "electricKw": "21 kW",
+   "gasKw": "21 kW",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "iabr36",
+  "name": "Imperial 32' Char-Rock Chargrill - EBA-3223",
+  "brand": "Imperial",
+  "mpn": "EBA-3223",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_IABR36",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "gas",
+   "radiant": "char-rock",
+   "width": "813 mm",
+   "depth": "584 mm",
+   "height": "355 mm",
+   "weight": "95 kg",
+   "electricKw": "31 kW",
+   "gasKw": "31 kW",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "g9490",
+  "name": "Falcon F900 G9490 Gas Chargrill",
+  "brand": "Falcon",
+  "mpn": "G9490",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G9490",
+  "known": {
+   "cookingWidth": "800 mm",
+   "plate": "cast iron",
+   "fuel": "gas",
+   "burners": "1",
+   "radiant": "infra-red",
+   "thermostat": "true",
+   "tempRange": "80 - 300°C",
+   "width": "900 mm",
+   "depth": "900 mm",
+   "height": "350 mm",
+   "electricKw": "25.2 kW",
+   "gasKw": "25.2 kW",
+   "gasConnection": "3/4\" BSP Gashose is required",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "g94120",
+  "name": "Falcon F900 G94120 Gas Chargrill",
+  "brand": "Falcon",
+  "mpn": "G94120",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G94120",
+  "known": {
+   "cookingWidth": "800 mm",
+   "plate": "cast iron",
+   "fuel": "gas",
+   "burners": "1",
+   "radiant": "infra-red",
+   "thermostat": "true",
+   "tempRange": "80 - 300°C",
+   "width": "1200 mm",
+   "depth": "900 mm",
+   "height": "350 mm",
+   "electricKw": "33.6 kW",
+   "gasKw": "33.6 kW",
+   "gasConnection": "3/4\" BSP gas hose required",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "lcs",
+  "name": "Lincat Lynx 400 LCS Electric Chip Scuttle",
+  "brand": "Lincat",
+  "mpn": "LCS",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LCS",
+  "known": {
+   "fuel": "electric",
+   "width": "285 mm",
+   "depth": "400 mm",
+   "height": "237 mm",
+   "weight": "11 kg",
+   "electricKw": "0.25 kW",
+   "phase": "single",
+   "plug": "plug supplied",
+   "hardWired": "true",
+   "warranty": "2 years"
+  }
+ }
+]

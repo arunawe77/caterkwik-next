@@ -1,0 +1,154 @@
+[
+ {
+  "id": "slop024",
+  "name": "Thunder Group SLOP024 24\" Oval Platter",
+  "brand": "Thunder Group",
+  "mpn": "SLOP024",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SLOP024",
+  "known": {
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "slop026",
+  "name": "Thunder Group SLOP026 26\" Oval Platter",
+  "brand": "Thunder Group",
+  "mpn": "SLOP026",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SLOP026",
+  "known": {
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "922625",
+  "name": "Electrolux Professional Stacking Kit for 6 x 2/1GN on 10 x 2/1GN Gas Skyline Combi Ovens - 922625",
+  "brand": "Electrolux",
+  "mpn": "922625",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922625",
+  "known": {
+   "gnCapacity": "6 x 2/1GN",
+   "width": "1090 mm",
+   "weight": "58.6 kg"
+  }
+ },
+ {
+  "id": "922694",
+  "name": "Electrolux Professional 10 1/1GN Reinforced Mobile Tray Rack - 922694",
+  "brand": "Electrolux",
+  "mpn": "922694",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922694",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "width": "391 mm",
+   "depth": "508 mm",
+   "height": "727 mm",
+   "weight": "8 kg"
+  }
+ },
+ {
+  "id": "gv819el",
+  "name": "Arris GV819EL Electric Chargrill With Plumbed In Water Tray System",
+  "brand": "Arris",
+  "mpn": "GV819EL",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GV819EL",
+  "known": {
+   "fuel": "electric",
+   "electricKw": "15.6 kW",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "rog1",
+  "name": "Grelhaco ROG1\"Rotativas\" Gas chargrill with 6 rotating spits",
+  "brand": null,
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ROG1",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "gas",
+   "amps": "13 A",
+   "voltage": "230v",
+   "gasConnection": "1\"Rotativas\" Gas chargrill with 6 ro",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "rog2",
+  "name": "Grelhaco ROG2-102 \"Rotativas\" Gas chargrill with 2 tier, 10 rotating spits",
+  "brand": "Grelhaco",
+  "mpn": "ROG2-102",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ROG2",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "gas",
+   "amps": "13 A",
+   "voltage": "230v",
+   "gasConnection": "2 \"Rotativas\" Gas chargrill with 2 ti",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "xwh16",
+  "name": "Inomak XWH16 Quartz Heated Box",
+  "brand": "Inomak",
+  "mpn": "XWH16",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_XWH16",
+  "known": {
+   "width": "1450 mm",
+   "depth": "120 mm",
+   "height": "50 mm",
+   "electricKw": "0.75 kW",
+   "amps": "13 A",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "xwh19",
+  "name": "Inomak XWH19 Quartz Heated Box",
+  "brand": "Inomak",
+  "mpn": "XWH19",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_XWH19",
+  "known": {
+   "width": "1750 mm",
+   "depth": "120 mm",
+   "height": "50 mm",
+   "electricKw": "0.9 kW",
+   "amps": "13 A",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "plws020bk",
+  "name": "Thunder Group PLWS020BK Black Double Wall Insulated Beverage Server",
+  "brand": "Thunder Group",
+  "mpn": "PLWS020BK",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PLWS020BK",
+  "known": {
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "plws020wt",
+  "name": "Thunder Group PLWS020WT White Double Wall Insulated Beverage Server",
+  "brand": "Thunder Group",
+  "mpn": "PLWS020WT",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PLWS020WT",
+  "known": {
+   "finish": "White"
+  }
+ },
+ {
+  "id": "plws042bk",
+  "name": "Thunder Group PLWS042BK Black Double Wall Insulated Beverage Server",
+  "brand": "Thunder Group",
+  "mpn": "PLWS042BK",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PLWS042BK",
+  "known": {
+   "finish": "Black"
+  }
+ }
+]

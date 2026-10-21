@@ -1,0 +1,237 @@
+[
+ {
+  "id": "lincatp8b4",
+  "name": "Lincat Panther P8B4 / P8B4PT Bain Marie Top Mobile Hot Cupboards",
+  "brand": "Lincat",
+  "mpn": "P8B4",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LINCATP8B4",
+  "known": {
+   "gnCapacity": "4 x 1/1 GN",
+   "heatType": "dry",
+   "wells": "4",
+   "mobility": "true",
+   "width": "1450 mm",
+   "depth": "800 mm",
+   "height": "900 mm",
+   "electricKw": "4.9 kW",
+   "amps": "21.5 A",
+   "voltage": "230V",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "parry1888",
+  "name": "Parry 1888 Mobile Hot Cupboard",
+  "brand": "Parry",
+  "mpn": "1888",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PARRY1888",
+  "known": {
+   "mobility": "true",
+   "tempRange": "30° To 80°C",
+   "width": "845 mm",
+   "depth": "625 mm",
+   "height": "970 mm",
+   "weight": "71 kg",
+   "electricKw": "2 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "msf15",
+  "name": "Parry MSF15 Mobile Flat Top Servery",
+  "brand": "Parry",
+  "mpn": "MSF15",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MSF15",
+  "known": {
+   "plateCapacity": "350",
+   "mobility": "true",
+   "tempRange": "30 - 85°C",
+   "width": "1590 mm",
+   "depth": "675 mm",
+   "height": "905 mm",
+   "electricKw": "2 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "msf18",
+  "name": "Parry MSF18 Mobile Flat Top Servery",
+  "brand": "Parry",
+  "mpn": "MSF18",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MSF18",
+  "known": {
+   "plateCapacity": "420",
+   "mobility": "true",
+   "tempRange": "30 - 85°C",
+   "width": "1890 mm",
+   "depth": "675 mm",
+   "height": "905 mm",
+   "electricKw": "2 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "gp451",
+  "name": "Buffalo GP451 Single Door Plate Warmer",
+  "brand": "Buffalo",
+  "mpn": "GP451",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GP451",
+  "known": {
+   "plateCapacity": "60",
+   "shelves": "3",
+   "doors": "Single",
+   "tempRange": "35°C to 85°C",
+   "width": "400 mm",
+   "depth": "600 mm",
+   "height": "850 mm",
+   "weight": "21.4 kg",
+   "electricKw": "0.5 kW",
+   "voltage": "240V",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "gp452",
+  "name": "Buffalo GP452 Double Door Plate Warmer",
+  "brand": "Buffalo",
+  "mpn": "GP452",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GP452",
+  "known": {
+   "plateCapacity": "120",
+   "shelves": "3",
+   "doors": "Double",
+   "tempRange": "35°C to 85°C",
+   "width": "600 mm",
+   "depth": "600 mm",
+   "height": "850 mm",
+   "weight": "27.1 kg",
+   "electricKw": "1 kW",
+   "voltage": "240V",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ph2",
+  "name": "Falcon Vario-Therm PH2 Double Heated Plate Dispenser",
+  "brand": "Falcon",
+  "mpn": "PH2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PH2",
+  "known": {
+   "plateCapacity": "120",
+   "mobility": "true",
+   "width": "485 mm",
+   "depth": "800 mm",
+   "height": "900 mm",
+   "electricKw": "0.8 kW",
+   "amps": "3.5 A",
+   "voltage": "230V",
+   "plug": "Plug Supplied",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "i4e",
+  "name": "EasyCut I4E Integrated Electric Kebab Machine",
+  "brand": "Easy-Cut",
+  "mpn": "I4E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_I4E",
+  "known": {
+   "fuel": "electric",
+   "capacityKg": "70 kg",
+   "width": "515 mm",
+   "depth": "669 mm",
+   "height": "1093 mm",
+   "weight": "39 kg",
+   "electricKw": "6.4 kW",
+   "phase": "three",
+   "warranty": "1 year",
+   "finish": "Stainless Steel Body"
+  }
+ },
+ {
+  "id": "i4gb",
+  "name": "EasyCut I4GB Basic 4 Burner Gas Kebab Machine",
+  "brand": "Easy-Cut",
+  "mpn": "I4GB",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_I4GB",
+  "known": {
+   "fuel": "gas",
+   "capacityKg": "70 kg",
+   "width": "515 mm",
+   "depth": "669 mm",
+   "height": "1093 mm",
+   "weight": "39 kg",
+   "electricKw": "1328 kW",
+   "voltage": "230V",
+   "warranty": "1 year",
+   "finish": "Stainless Steel Body"
+  }
+ },
+ {
+  "id": "i5g",
+  "name": "EasyCut I5G 5 Burner Integrated Gas Kebab Machine N/LPG UKCA/CE",
+  "brand": "Easy-Cut",
+  "mpn": "I5G",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_I5G",
+  "known": {
+   "fuel": "gas",
+   "capacityKg": "100 kg",
+   "width": "515 mm",
+   "depth": "669 mm",
+   "height": "1210 mm",
+   "weight": "44 kg",
+   "electricKw": "16.6 kW",
+   "voltage": "230 V",
+   "warranty": "1 year",
+   "finish": "Stainless Steel Body"
+  }
+ },
+ {
+  "id": "gklg151",
+  "name": "KK Cooking 4 Burner Gas Doner Kebab Grill - KLG151",
+  "brand": "KK Cooking",
+  "mpn": "KLG151",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GKLG151",
+  "known": {
+   "fuel": "gas",
+   "capacityKg": "60 kg",
+   "width": "550 mm",
+   "depth": "715 mm",
+   "height": "1065 mm",
+   "weight": "40 kg",
+   "electricKw": "13 kW",
+   "voltage": "230v 50Hz",
+   "gasConnection": "1/2\" Gas Connection",
+   "warranty": "1 year",
+   "finish": "Stainless Steel Body"
+  }
+ },
+ {
+  "id": "i3gdouble",
+  "name": "EasyCut I3G Integrated Double 3+3 Gas Kebab Machine N/LPG",
+  "brand": "Easy-Cut",
+  "mpn": "I3GDOUBLE",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_I3GDOUBLE",
+  "known": {
+   "fuel": "gas",
+   "plates": "2",
+   "width": "822 mm",
+   "depth": "639 mm",
+   "height": "1090 mm",
+   "weight": "60 kg",
+   "electricKw": "19.92 kW",
+   "voltage": "230 V",
+   "warranty": "1 year",
+   "finish": "Stainless Steel Body"
+  }
+ }
+]

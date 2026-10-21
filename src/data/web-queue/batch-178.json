@@ -1,0 +1,230 @@
+[
+ {
+  "id": "vmc1850",
+  "name": "Valera VMC1850 1800W Microwave Oven",
+  "brand": "Valera",
+  "mpn": "VMC 1850",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_VMC1850",
+  "known": {
+   "programs": "10",
+   "microwaveOutput": "1800 W",
+   "width": "420 mm",
+   "depth": "310 mm",
+   "height": "175 mm",
+   "weight": "31.6 kg",
+   "electricKw": "3 kW",
+   "voltage": "240V",
+   "warranty": "3 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "p15040",
+  "name": "Pujadas P15.040 4 Slot Toaster",
+  "brand": "Pujadas",
+  "mpn": "P15.040",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_P15040",
+  "known": {
+   "throughput": "120 slices per hour",
+   "timer": "Timer function",
+   "plates": "4",
+   "width": "370 mm",
+   "depth": "210 mm",
+   "height": "230 mm",
+   "electricKw": "1.8 kW",
+   "voltage": "230v, 50hz",
+   "plug": "plug supplied",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "mbm2",
+  "name": "Hallco MBM2 Twin ¼ GN Dry Heat Bain Marie",
+  "brand": "Hallco",
+  "mpn": "MBM2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MBM2",
+  "known": {
+   "gnCapacity": "2 x 1/4 GN",
+   "heatType": "dry",
+   "wells": "2",
+   "volume": "4.5 litres",
+   "electricKw": "0.25 kW",
+   "amps": "13 A",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "bm4aw",
+  "name": "Lincat Silverlink 600 BM4 / BM4A / BM4B / BM4C Dry Heat Bain Maries",
+  "brand": "Lincat",
+  "mpn": "BM4",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BM4AW",
+  "known": {
+   "gnCapacity": "3 x 1/3 Gastronorm",
+   "heatType": "dry",
+   "volume": "9 litres",
+   "width": "450 mm",
+   "depth": "600 mm",
+   "height": "290 mm",
+   "electricKw": "0.75 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "fu291",
+  "name": "Buffalo FU291 600 Series 4 Pot Bain Marie",
+  "brand": "Buffalo",
+  "mpn": "FU291",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FU291",
+  "known": {
+   "heatType": "wet",
+   "wells": "4",
+   "volume": "4 litres",
+   "tempRange": "30°C to 90°C",
+   "width": "600 mm",
+   "depth": "640 mm",
+   "height": "295 mm",
+   "weight": "17.5 kg",
+   "electricKw": "1.5 kW",
+   "voltage": "240V",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "59502dw03",
+  "name": "Vollrath Mirage Induction Drop-In Buffet Warmer - 59502DW03",
+  "brand": "Vollrath",
+  "mpn": "59502DW03",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_59502DW03",
+  "known": {
+   "width": "406 mm",
+   "depth": "406 mm",
+   "height": "98 mm",
+   "amps": "1.3 A",
+   "voltage": "230v, 50hz",
+   "plug": "Plug Supplied",
+   "warranty": "1 year",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "84990",
+  "name": "Server 84990 Twin Fudge Server with 2 Pumps",
+  "brand": "Server",
+  "mpn": "84990",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_84990",
+  "known": {
+   "volume": "2.8 litres",
+   "tempRange": "38°C to 93°C",
+   "width": "432 mm",
+   "depth": "343 mm",
+   "height": "389 mm",
+   "weight": "9.1 kg",
+   "electricKw": "0.5 kW",
+   "amps": "3 A",
+   "voltage": "230V, 50HZ",
+   "phase": "single",
+   "plug": "Plug Supplied",
+   "warranty": "1 year",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "cp799",
+  "name": "Buffalo CP799 3kW Heavy Duty Induction Hob",
+  "brand": "Buffalo",
+  "mpn": "CP799",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CP799",
+  "known": {
+   "fuel": "induction",
+   "width": "390 mm",
+   "depth": "490 mm",
+   "height": "120 mm",
+   "weight": "7.25 kg",
+   "electricKw": "3 kW",
+   "amps": "13 A",
+   "voltage": "240V",
+   "plug": "13A - plug",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ht766",
+  "name": "Buffalo HT766 Induction Stock Pot Stove 8kW",
+  "brand": "Buffalo",
+  "mpn": "HT766",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HT766",
+  "known": {
+   "fuel": "induction",
+   "width": "556 mm",
+   "depth": "582 mm",
+   "height": "434 mm",
+   "weight": "21.6 kg",
+   "electricKw": "8 kW",
+   "amps": "34 A",
+   "voltage": "420V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "Stainless steel body"
+  }
+ },
+ {
+  "id": "pis30",
+  "name": "Roller Grill PIS 30 Single Induction Plate",
+  "brand": "Roller Grill",
+  "mpn": "PIS30",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PIS30",
+  "known": {
+   "fuel": "induction",
+   "width": "315 mm",
+   "depth": "380 mm",
+   "height": "102 mm",
+   "weight": "6 kg",
+   "electricKw": "3 kW",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "6954303",
+  "name": "Vollrath Single Countertop Induction Hob",
+  "brand": "Vollrath",
+  "mpn": "6954303",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_6954303",
+  "known": {
+   "fuel": "induction",
+   "width": "419 mm",
+   "depth": "327 mm",
+   "height": "102 mm",
+   "electricKw": "2.6 kW",
+   "amps": "23 A",
+   "warranty": "2 years",
+   "finish": "stainless steel casing"
+  }
+ },
+ {
+  "id": "pid30",
+  "name": "Roller Grill PID 30 Double Induction Plate",
+  "brand": "Roller Grill",
+  "mpn": "PID30",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PID30",
+  "known": {
+   "fuel": "induction",
+   "width": "590 mm",
+   "depth": "380 mm",
+   "height": "102 mm",
+   "weight": "11 kg",
+   "electricKw": "3 kW",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ }
+]

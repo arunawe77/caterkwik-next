@@ -1,0 +1,260 @@
+[
+ {
+  "id": "hcp14",
+  "name": "Inomak HCP14 Commercial Hot Cupboard",
+  "brand": "Inomak",
+  "mpn": "HCP14",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HCP14",
+  "known": {
+   "plateCapacity": "850",
+   "mobility": "true",
+   "width": "1400 mm",
+   "depth": "700 mm",
+   "height": "870 mm",
+   "weight": "94 kg",
+   "electricKw": "1.45 kW",
+   "amps": "13 A",
+   "warranty": "1 year",
+   "finish": "stainless steel exterior"
+  }
+ },
+ {
+  "id": "hcp16",
+  "name": "Inomak HCP16 Commercial Hot Cupboard",
+  "brand": "Inomak",
+  "mpn": "HCP16",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HCP16",
+  "known": {
+   "plateCapacity": "1000",
+   "mobility": "true",
+   "width": "1600 mm",
+   "depth": "700 mm",
+   "height": "870 mm",
+   "weight": "112 kg",
+   "electricKw": "1.85 kW",
+   "amps": "13 A",
+   "warranty": "1 year",
+   "finish": "stainless steel exterior"
+  }
+ },
+ {
+  "id": "ecpkk1",
+  "name": "EasyCut Plastic Kebab Knife",
+  "brand": "Easy-Cut",
+  "mpn": "ECPKK1",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ECPKK1",
+  "known": {
+   "throughput": "25kg/hour",
+   "capacityKg": "25 kg",
+   "width": "85 mm",
+   "depth": "85 mm",
+   "height": "220 mm",
+   "weight": "0.8 kg",
+   "amps": "3 A",
+   "voltage": "230V",
+   "warranty": "1 year",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "ps540g",
+  "name": "Middleby Marshall PS540G Countertop Gas Conveyor Oven - 36\"",
+  "brand": "Middleby Marshall",
+  "mpn": "PS540G",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PS540G",
+  "known": {
+   "pizzaSize": "36\"",
+   "fuel": "gas",
+   "width": "2032 mm",
+   "depth": "1537 mm",
+   "height": "1197 mm",
+   "weight": "499 kg",
+   "electricKw": "32.23 kW",
+   "gasKw": "12 kW",
+   "amps": "4.1 A",
+   "voltage": "230V, 50Hz",
+   "phase": "single",
+   "warranty": "3 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "ps2020",
+  "name": "Middleby Marshall PS2020 Countertop 20\" Inch Conveyor Pizza Oven",
+  "brand": "Middleby Marshall",
+  "mpn": "PS2020",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PS2020",
+  "known": {
+   "pizzaSize": "20\"",
+   "chamber": "baking area: 0",
+   "fuel": "electric",
+   "width": "1229 mm",
+   "depth": "909 mm",
+   "height": "453 mm",
+   "weight": "88.5 kg",
+   "electricKw": "13.2 kW",
+   "amps": "32 A",
+   "voltage": "415V, 50Hz",
+   "phase": "three",
+   "plug": "32A",
+   "hardWired": "true"
+  }
+ },
+ {
+  "id": "egb2",
+  "name": "Italforni EGB-2 Heavy Duty Twin Deck Gas Fired Pizza Oven",
+  "brand": "Italforni",
+  "mpn": "EGB2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_EGB2",
+  "known": {
+   "decks": "2",
+   "pizzaSize": "12inch pizzas",
+   "stone": "Refractory",
+   "maxTemp": "450 °C",
+   "fuel": "gas",
+   "width": "960 mm",
+   "depth": "1235 mm",
+   "height": "1040 mm",
+   "weight": "340 kg",
+   "gasKw": "19 kW",
+   "voltage": "230V",
+   "phase": "single",
+   "gasConnection": "1/2\" BSP Gas Hose for Connection",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "italfornitka1",
+  "name": "Italforni TKA1 Single Deck Electric Pizza Oven - 4 x 13\" Pizzas",
+  "brand": "Italforni",
+  "mpn": "TKA1",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ITALFORNITKA1",
+  "known": {
+   "decks": "1",
+   "pizzaSize": "13\" Pizzas",
+   "chamber": "DECK 15 66 66 43 91 84 76 400/3/50-60 4,5 0,5 0",
+   "stone": "Refractory",
+   "maxTemp": "450 °C",
+   "fuel": "electric",
+   "width": "910 mm",
+   "depth": "840 mm",
+   "height": "430 mm",
+   "weight": "76 kg",
+   "electricKw": "4.5 kW",
+   "amps": "20 A",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "po1132",
+  "name": "Sammic PO-1+1/32 2 Chamber Pizza Oven",
+  "brand": "Sammic",
+  "mpn": "PO-1+1/32",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PO1132",
+  "known": {
+   "pizzaSize": "32cm pizzas",
+   "chamber": "chambers. 1+1 pizza, Ø 32 cm",
+   "stone": "stone",
+   "fuel": "electric",
+   "width": "660 mm",
+   "depth": "670 mm",
+   "height": "510 mm",
+   "weight": "34 kg",
+   "electricKw": "3.2 kW",
+   "voltage": "230V",
+   "phase": "single",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "vulcano",
+  "name": "Sirman Vulcano Double Deck Electric Pizza Oven - 8 x 10\" Pizzas",
+  "brand": "Sirman",
+  "mpn": "Vulcano",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_VULCANO",
+  "known": {
+   "decks": "2",
+   "pizzaSize": "10\" Pizzas",
+   "stone": "Refractory",
+   "fuel": "electric",
+   "width": "745 mm",
+   "depth": "695 mm",
+   "height": "490 mm",
+   "electricKw": "6 kW",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "italfornitka2",
+  "name": "Italforni TKA2 Twin Deck Electric Pizza Oven - 8 x 13\" Pizza",
+  "brand": "Italforni",
+  "mpn": "TKA2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ITALFORNITKA2",
+  "known": {
+   "decks": "2",
+   "pizzaSize": "13\" Pizza",
+   "chamber": "DECK 15 + 15 66 66 70 91 84 122 400/3/50-60 9 0",
+   "stone": "Refractory",
+   "maxTemp": "450 °C",
+   "fuel": "electric",
+   "width": "910 mm",
+   "depth": "840 mm",
+   "height": "700 mm",
+   "weight": "120 kg",
+   "electricKw": "9 kW",
+   "voltage": "230V",
+   "phase": "three",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "italfornitkd2",
+  "name": "Italforni TKD2 Twin Deck Electric Pizza Oven - 12 x 13\" Pizzas",
+  "brand": "Italforni",
+  "mpn": "TKD2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ITALFORNITKD2",
+  "known": {
+   "decks": "2",
+   "pizzaSize": "13\" Pizzas",
+   "chamber": "DECK 15 + 15 99 66 70 124 94 165 400/3/50-60 13",
+   "stone": "Refractory",
+   "maxTemp": "450 °C",
+   "fuel": "electric",
+   "width": "1250 mm",
+   "depth": "940 mm",
+   "height": "700 mm",
+   "weight": "165 kg",
+   "electricKw": "13 kW",
+   "amps": "63 A",
+   "voltage": "230v",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "bct2",
+  "name": "Blizzard BCT2 Conveyor Toaster",
+  "brand": "BLIZZARD",
+  "mpn": "BCT2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BCT2",
+  "known": {
+   "throughput": "360 slices per hour",
+   "width": "368 mm",
+   "depth": "418 mm",
+   "height": "387 mm",
+   "weight": "18 kg",
+   "amps": "13 A",
+   "voltage": "240v",
+   "plug": "13A - plug",
+   "warranty": "1 year",
+   "finish": "Stainless Steel construction"
+  }
+ }
+]

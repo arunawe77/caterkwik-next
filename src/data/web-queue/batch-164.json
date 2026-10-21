@@ -1,0 +1,221 @@
+[
+ {
+  "id": "hw920",
+  "name": "Buffalo HW920 Self-Serve Heated Display Unit",
+  "brand": "Buffalo",
+  "mpn": "HW920",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HW920",
+  "known": {
+   "gnCapacity": "1/2 gastronorm",
+   "width": "625 mm",
+   "depth": "457 mm",
+   "height": "650 mm",
+   "weight": "28 kg",
+   "electricKw": "0.56 kW",
+   "amps": "2.4 A",
+   "voltage": "240V",
+   "warranty": "2 years",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "hw927",
+  "name": "Buffalo HW927 Front and Rear Door Heated Merchandiser 96Ltr",
+  "brand": "Buffalo",
+  "mpn": "HW927",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HW927",
+  "known": {
+   "volume": "96 litres",
+   "width": "574.5 mm",
+   "depth": "484 mm",
+   "height": "662.5 mm",
+   "weight": "33.5 kg",
+   "electricKw": "1 kW",
+   "amps": "4.2 A",
+   "voltage": "240V",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "hw925",
+  "name": "Buffalo HW925 Sloped Chute Food Warmer 2 Shelf",
+  "brand": "Buffalo",
+  "mpn": "HW925",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HW925",
+  "known": {
+   "shelves": "2",
+   "width": "600 mm",
+   "depth": "707 mm",
+   "height": "687 mm",
+   "weight": "40 kg",
+   "electricKw": "0.98 kW",
+   "amps": "4.3 A",
+   "voltage": "240V",
+   "warranty": "2 years",
+   "finish": "black finish"
+  }
+ },
+ {
+  "id": "sg80f",
+  "name": "Cinders SG80F Festival Folding Professional Barbecue",
+  "brand": "Cinders",
+  "mpn": "SG80F",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SG80F",
+  "known": {
+   "fuel": "gas",
+   "width": "800 mm",
+   "weight": "26 kg",
+   "electricKw": "8.5 kW",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "pgf800g",
+  "name": "Parry PGF800G LPG Gas Griddle",
+  "brand": "Parry",
+  "mpn": "PGF800G",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PGF800G",
+  "known": {
+   "cookingWidth": "783 mm",
+   "fuel": "gas",
+   "burners": "3",
+   "width": "820 mm",
+   "depth": "510 mm",
+   "height": "235 mm",
+   "weight": "29 kg",
+   "gasKw": "8.25 kW",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "pgg6",
+  "name": "Parry PGG6 Gas Griddle",
+  "brand": "Parry",
+  "mpn": "PGG6",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PGG6",
+  "known": {
+   "fuel": "gas",
+   "thermostat": "true",
+   "width": "600 mm",
+   "depth": "700 mm",
+   "height": "355 mm",
+   "weight": "55 kg",
+   "gasKw": "6 kW",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "spc801",
+  "name": "Sammic SPC-801 Hard Chromium Gas Contact Griddle",
+  "brand": "Sammic",
+  "mpn": "SPC-801",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SPC801",
+  "known": {
+   "cookingWidth": "760 mm",
+   "fuel": "gas",
+   "burners": "3",
+   "splashback": "true",
+   "width": "800 mm",
+   "depth": "507 mm",
+   "height": "234 mm",
+   "weight": "52 kg",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "1871",
+  "name": "Parry N1871 Double Electric Hob Unit 7kw",
+  "brand": "Parry",
+  "mpn": "N1871",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_1871",
+  "known": {
+   "fuel": "electric",
+   "width": "600 mm",
+   "depth": "620 mm",
+   "height": "250 mm",
+   "electricKw": "7 kW",
+   "amps": "30 A",
+   "voltage": "240V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "gmb100",
+  "name": "Mibrasa GMB100 Single Parrilla Open Grill",
+  "brand": "Mibrasa",
+  "mpn": "GMB100",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GMB100",
+  "known": {
+   "fuel": "charcoal",
+   "width": "1127 mm",
+   "depth": "901 mm",
+   "height": "1155 mm",
+   "electricKw": "4.5 kW",
+   "amps": "925 A"
+  }
+ },
+ {
+  "id": "gmb130",
+  "name": "Mibrasa GMB130 Double Parrilla Open Charcoal Grill",
+  "brand": null,
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GMB130",
+  "known": {
+   "fuel": "charcoal",
+   "width": "1265 mm",
+   "depth": "901 mm",
+   "height": "1155 mm",
+   "electricKw": "4.8 kW",
+   "amps": "788 A"
+  }
+ },
+ {
+  "id": "ag2h",
+  "name": "Parry AG2H 2 Hob Gas Boiling Top",
+  "brand": "Parry",
+  "mpn": "AG2H/P",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_AG2H",
+  "known": {
+   "fuel": "gas",
+   "heating": "direct",
+   "zones": "2",
+   "width": "300 mm",
+   "depth": "655 mm",
+   "height": "205 mm",
+   "weight": "10 kg",
+   "gasKw": "11.1 kW",
+   "gasConnection": "3/4 Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ag4h",
+  "name": "Parry AG4H 4 Hob Gas Boiling Top",
+  "brand": "Parry",
+  "mpn": "AG4H/P",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_AG4H",
+  "known": {
+   "fuel": "gas",
+   "heating": "direct",
+   "zones": "4",
+   "width": "600 mm",
+   "depth": "655 mm",
+   "height": "205 mm",
+   "weight": "16 kg",
+   "gasKw": "22.2 kW",
+   "gasConnection": "3/4 Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ }
+]

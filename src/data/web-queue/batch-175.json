@@ -1,0 +1,246 @@
+[
+ {
+  "id": "ep70",
+  "name": "Zanolli Citizen EP70 Single Deck Electric Pizza Oven - 4 x 13 Inch Pizzas",
+  "brand": "Zanolli",
+  "mpn": "EP70",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_EP70",
+  "known": {
+   "decks": "1",
+   "pizzaSize": "13 Inch Pizzas",
+   "stone": "Refractory",
+   "fuel": "electric",
+   "width": "990 mm",
+   "depth": "990 mm",
+   "height": "350 mm",
+   "weight": "100 kg",
+   "electricKw": "5.6 kW",
+   "voltage": "230V / 400V, 50Hz",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "3 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "t2smc18",
+  "name": "Zanolli Polis Bakery Oven - T2S MC18",
+  "brand": "Zanolli",
+  "mpn": "T2SMC18",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_T2SMC18",
+  "known": {
+   "chamber": "Chamber Dimensiones 650x860x180 mm",
+   "maxTemp": "400 °C",
+   "width": "1210 mm",
+   "depth": "970 mm",
+   "height": "360 mm",
+   "weight": "136 kg",
+   "electricKw": "6.4 kW",
+   "amps": "10.5 A",
+   "voltage": "400 V",
+   "hardWired": "true",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "superpizzapo5050de",
+  "name": "Super Pizza PO5050DE Commercial Twin Deck Electric Pizza Oven - 8 x 9\" Pizzas",
+  "brand": "Super Pizza",
+  "mpn": "PO5050DE",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SUPERPIZZAPO5050DE",
+  "known": {
+   "decks": "2",
+   "pizzaSize": "9\" Pizzas",
+   "fuel": "electric",
+   "width": "800 mm",
+   "depth": "640 mm",
+   "height": "500 mm",
+   "weight": "73 kg",
+   "electricKw": "8 kW",
+   "voltage": "240V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "superpizzapo10268de",
+  "name": "Super Pizza PO10268DETG Twin Deck Electric Pizza Oven with Temperature Gauge - 12 x 13\" Pizzas",
+  "brand": "Super Pizza",
+  "mpn": "PO10268DETG",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SUPERPIZZAPO10268DE",
+  "known": {
+   "decks": "2",
+   "pizzaSize": "13\" Pizzas",
+   "fuel": "electric",
+   "width": "1310 mm",
+   "depth": "780 mm",
+   "height": "760 mm",
+   "weight": "190 kg",
+   "electricKw": "12 kW",
+   "voltage": "240V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "it22",
+  "name": "Ital Forni IT2+2 Twin Door With 4 Cooking Deck - 4 x 20\" Pizza Capacity",
+  "brand": "Ital Forni",
+  "mpn": "IT2+2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_IT22",
+  "known": {
+   "decks": "4",
+   "pizzaSize": "20\" Pizza",
+   "chamber": "Deck - 4 x 20\" Pizza Capacity",
+   "stone": "Refractory",
+   "maxTemp": "450 °C",
+   "fuel": "electric",
+   "width": "660 mm",
+   "depth": "710 mm",
+   "height": "724 mm",
+   "electricKw": "7.2 kW",
+   "amps": "32 A",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "Stainless steel exterior"
+  }
+ },
+ {
+  "id": "citizen99",
+  "name": "Zanolli Citizen 9+9 Electric Double Deck Pizza Oven",
+  "brand": "Zanolli",
+  "mpn": "Citizen 9+9",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CITIZEN99",
+  "known": {
+   "decks": "2",
+   "pizzaSize": "12 Inch Pizzas",
+   "stone": "Refractory",
+   "fuel": "electric",
+   "width": "1420 mm",
+   "depth": "1380 mm",
+   "height": "780 mm",
+   "weight": "315 kg",
+   "electricKw": "22.4 kW",
+   "voltage": "400V, 50Hz",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "3 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "ega2",
+  "name": "Italforni EGA-2 Heavy Duty Twin Deck Gas Pizza Oven - 4 x 12 Inch Pizzas Per Deck",
+  "brand": "Italforni",
+  "mpn": "EGA-2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_EGA2",
+  "known": {
+   "decks": "2",
+   "pizzaSize": "12 Inch Pizzas",
+   "stone": "refractory",
+   "maxTemp": "450 °C",
+   "fuel": "gas",
+   "width": "960 mm",
+   "depth": "1050 mm",
+   "height": "1040 mm",
+   "electricKw": "28 kW",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "seriesgdesigns",
+  "name": "AS Term G100S Gas Fired Static Base Pizza Oven 4 x 12\" Pizza - Black Metal Basic Finish",
+  "brand": "AS Term",
+  "mpn": "G100S",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SERIESGDESIGNS",
+  "known": {
+   "pizzaSize": "12\" Pizza",
+   "fuel": "gas",
+   "width": "1350 mm",
+   "depth": "1610 mm",
+   "height": "1860 mm",
+   "weight": "1250 kg",
+   "voltage": "230V",
+   "warranty": "1 year",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "seriesgrdesignk",
+  "name": "AS Term GR85K-BO Gas Fired Rotating Base Pizza Oven - 4 x 12\" Pizza - Mosaic Design",
+  "brand": "AS Term",
+  "mpn": "GR85K",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SERIESGRDESIGNK",
+  "known": {
+   "pizzaSize": "12\" Pizza",
+   "fuel": "gas",
+   "width": "1450 mm",
+   "depth": "1700 mm",
+   "height": "2050 mm",
+   "weight": "1250 kg",
+   "electricKw": "22 kW",
+   "voltage": "230V",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "seriesgrdesignc",
+  "name": "AS Term GR120C Gas Fired Rotating Base Pizza Ovens 9 x 12\" Pizza - Brick Finish",
+  "brand": "AS Term",
+  "mpn": "GR120C",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SERIESGRDESIGNC",
+  "known": {
+   "pizzaSize": "12\" Pizza",
+   "fuel": "gas",
+   "width": "1580 mm",
+   "depth": "1950 mm",
+   "height": "1860 mm",
+   "weight": "1600 kg",
+   "voltage": "230V",
+   "warranty": "1 year",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "seriesgrdesigns",
+  "name": "AS Term GR120S Gas Fired Rotating Base Pizza Oven 9 x 12\" Pizza - Black Metal Finish With Arc",
+  "brand": "AS Term",
+  "mpn": "GR120S",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SERIESGRDESIGNS",
+  "known": {
+   "pizzaSize": "12\" Pizza",
+   "fuel": "gas",
+   "width": "1580 mm",
+   "depth": "2000 mm",
+   "height": "1860 mm",
+   "weight": "1600 kg",
+   "voltage": "230V",
+   "warranty": "1 year",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "cc020",
+  "name": "Waring CTS1000K Conveyor Toaster - CC020",
+  "brand": "Waring",
+  "mpn": "CC020",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CC020",
+  "known": {
+   "throughput": "1,000 Slices Per Hour",
+   "width": "406 mm",
+   "depth": "470 mm",
+   "height": "356 mm",
+   "weight": "12.9 kg",
+   "electricKw": "2.7 kW",
+   "voltage": "230v",
+   "warranty": "1 year",
+   "finish": "stainless steel construction"
+  }
+ }
+]

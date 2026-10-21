@@ -1,0 +1,260 @@
+[
+ {
+  "id": "gm0311e",
+  "name": "Giorik GM0311E Counter Top Holding Oven",
+  "brand": "Giorik",
+  "mpn": "GM0311E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GM0311E",
+  "known": {
+   "gnCapacity": "3 x 1/1 Gastronorm",
+   "tempRange": "60 To 90°C",
+   "width": "445 mm",
+   "depth": "633 mm",
+   "height": "421 mm",
+   "weight": "25 kg",
+   "electricKw": "0.75 kW",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "gm0511e",
+  "name": "Giorik GM0511E Counter Top Holding Oven",
+  "brand": "Giorik",
+  "mpn": "GM0511E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GM0511E",
+  "known": {
+   "gnCapacity": "5 x 1/1 Gastronorm",
+   "tempRange": "60 To 90°C",
+   "width": "445 mm",
+   "depth": "633 mm",
+   "height": "571 mm",
+   "weight": "31 kg",
+   "electricKw": "1 kW",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "bl30h1r",
+  "name": "Victor Banquetline 30 Holding Cabinet 10 x GN 1/1 - BL30H1-R",
+  "brand": "Victor",
+  "mpn": "BL30H1",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BL30H1R",
+  "known": {
+   "gnCapacity": "2 x 1/1 GN",
+   "wells": "2",
+   "shelves": "3",
+   "mobility": "true",
+   "electricKw": "1.5 kW",
+   "amps": "6.3 A",
+   "voltage": "220V/240V",
+   "phase": "single",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "bl100h2",
+  "name": "Victor Banquetline 100 Holding Cabinet 28 x 1/1 GN - 2 Door - BL100H2",
+  "brand": "Victor",
+  "mpn": "BL100H2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BL100H2",
+  "known": {
+   "gnCapacity": "28 x 1/1 GN",
+   "wells": "28",
+   "shelves": "4",
+   "doors": "2",
+   "mobility": "true",
+   "electricKw": "1.5 kW",
+   "amps": "6.3 A",
+   "voltage": "220V / 240V",
+   "phase": "single",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "1887",
+  "name": "Parry 1887 Mobile Servery - Hot Cupboard With Bain Marie Top",
+  "brand": "Parry",
+  "mpn": "1887",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_1887",
+  "known": {
+   "gnCapacity": "4 x 1/4 Gastronorm",
+   "heatType": "dry",
+   "wells": "3",
+   "volume": "5.75 litres",
+   "mobility": "true",
+   "width": "845 mm",
+   "depth": "625 mm",
+   "height": "975 mm",
+   "weight": "75 kg",
+   "electricKw": "2.2 kW",
+   "amps": "13 A",
+   "voltage": "230V",
+   "plug": "13A - plug",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "parryhotbm",
+  "name": "Parry HOT12BM Bain Marie Topped Mobile Hot Cupboard",
+  "brand": "Parry",
+  "mpn": "HOT12BM",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PARRYHOTBM",
+  "known": {
+   "gnCapacity": "3 x 1/1 GN",
+   "heatType": "dry",
+   "wells": "3",
+   "plateCapacity": "360",
+   "mobility": "true",
+   "width": "1200 mm",
+   "depth": "650 mm",
+   "height": "900 mm",
+   "weight": "79.5 kg",
+   "electricKw": "1.5 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "fc2",
+  "name": "Falcon Vario-Therm 2 Hot Top Mobile Servery Counter With Heated Gantry",
+  "brand": "Falcon",
+  "mpn": "FC2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FC2",
+  "known": {
+   "gnCapacity": "2 x 1/1GN",
+   "wells": "2",
+   "mobility": "true",
+   "tempRange": "30 - 100°C",
+   "width": "830 mm",
+   "depth": "680 mm",
+   "height": "1330 mm",
+   "weight": "101 kg",
+   "electricKw": "2.27 kW",
+   "amps": "13 A",
+   "voltage": "230V",
+   "plug": "13A Plug",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "msb18",
+  "name": "Parry MSB18 Bain Marie Top Mobile Servery",
+  "brand": "Parry",
+  "mpn": "MSB18",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MSB18",
+  "known": {
+   "gnCapacity": "5 x 1/1 GN",
+   "wells": "5",
+   "plateCapacity": "400",
+   "mobility": "true",
+   "tempRange": "30 - 85°C",
+   "width": "1890 mm",
+   "depth": "675 mm",
+   "height": "905 mm",
+   "weight": "115 kg",
+   "electricKw": "6 kW",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "lincatp6b5",
+  "name": "Lincat Panther P6B5 Bain Marie Top Mobile Hot Cupboard",
+  "brand": "Lincat",
+  "mpn": "P6B5",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LINCATP6B5",
+  "known": {
+   "gnCapacity": "5 x 1/1 GN",
+   "heatType": "dry",
+   "wells": "5",
+   "mobility": "true",
+   "bulbs": "heat lamps, which",
+   "width": "1855 mm",
+   "depth": "672 mm",
+   "height": "912 mm",
+   "weight": "136 kg",
+   "electricKw": "5.2 kW",
+   "amps": "22.6 A",
+   "voltage": "230V",
+   "phase": "single",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "fc3",
+  "name": "Falcon Vario-Therm 3 Hot Top Mobile Servery Counter With Heated Gantry",
+  "brand": "Falcon",
+  "mpn": "FC3",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FC3",
+  "known": {
+   "gnCapacity": "3 x 1/1GN",
+   "wells": "3",
+   "mobility": "true",
+   "tempRange": "30 - 100°C",
+   "width": "1160 mm",
+   "depth": "680 mm",
+   "height": "1330 mm",
+   "weight": "128 kg",
+   "electricKw": "2.65 kW",
+   "amps": "13 A",
+   "voltage": "230V",
+   "plug": "13A Plug",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "fc4",
+  "name": "Falcon Vario-Therm 4 Hot Top Mobile Servery Counter With Heated Gantry",
+  "brand": "Falcon",
+  "mpn": "FC4",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FC4",
+  "known": {
+   "gnCapacity": "4 x 1/1GN",
+   "wells": "4",
+   "mobility": "true",
+   "tempRange": "30 - 100°C",
+   "width": "1490 mm",
+   "depth": "680 mm",
+   "height": "1330 mm",
+   "weight": "154 kg",
+   "electricKw": "2.83 kW",
+   "amps": "13 A",
+   "voltage": "230V",
+   "plug": "13A Plug",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "hcp11",
+  "name": "Inomak HCP11 Commercial Hot Cupboard",
+  "brand": "Inomak",
+  "mpn": "HCP11",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HCP11",
+  "known": {
+   "plateCapacity": "695",
+   "mobility": "true",
+   "width": "1100 mm",
+   "depth": "700 mm",
+   "height": "870 mm",
+   "weight": "80 kg",
+   "electricKw": "1.45 kW",
+   "amps": "13 A",
+   "warranty": "1 year",
+   "finish": "stainless steel exterior"
+  }
+ }
+]

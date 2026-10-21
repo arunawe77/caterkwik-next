@@ -1,0 +1,247 @@
+[
+ {
+  "id": "dm903",
+  "name": "Buffalo DM903 Bistro Contact Grill Large Ribbed",
+  "brand": "Buffalo",
+  "mpn": "DM903",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DM903",
+  "known": {
+   "plate": "ribbed",
+   "tempRange": "100 - 300°C",
+   "width": "380 mm",
+   "depth": "390 mm",
+   "height": "210 mm",
+   "weight": "19 kg",
+   "electricKw": "2.2 kW",
+   "amps": "8.7 A",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "oraclehs",
+  "name": "Lainox Oracle High Speed Oven",
+  "brand": "Lainox",
+  "mpn": "ORACLE",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ORACLEHS",
+  "known": {
+   "tempRange": "100°C to 300°C",
+   "maxTemp": "300 °C",
+   "humidity": "true",
+   "width": "465 mm",
+   "depth": "609 mm",
+   "height": "630 mm",
+   "electricKw": "3.6 kW",
+   "amps": "13 A",
+   "voltage": "230 V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "bl50h1s",
+  "name": "Victor Banquetline 50 Slim Holding Cabinet 10 x GN 1/1 - BL50H1S",
+  "brand": "Victor",
+  "mpn": "BL50H1S",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BL50H1S",
+  "known": {
+   "gnCapacity": "10 x 1/1 GN",
+   "wells": "10",
+   "shelves": "4",
+   "mobility": "true",
+   "electricKw": "1.5 kW",
+   "amps": "6.3 A",
+   "voltage": "220V / 240V",
+   "phase": "single",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "bl200h2",
+  "name": "Victor Banquetline 200 Holding Cabinet 56 x 1/1 GN - 2 Door - BL200H2",
+  "brand": "Victor",
+  "mpn": "BL200H2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BL200H2",
+  "known": {
+   "gnCapacity": "56 x 1/1 GN",
+   "wells": "56",
+   "doors": "2",
+   "mobility": "true",
+   "electricKw": "3 kW",
+   "amps": "12.5 A",
+   "voltage": "220V/240V",
+   "phase": "single",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ck8021",
+  "name": "Cater-Cook CK8021 Holding Cabinet - 22 x 1/1 GN - £200 OFF WHILE STOCKS LAST",
+  "brand": "Cater-Cook",
+  "mpn": "CK8021",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK8021",
+  "known": {
+   "gnCapacity": "22 x 1/1 GN",
+   "wells": "22",
+   "mobility": "true",
+   "tempRange": "30 - 85°C",
+   "width": "670 mm",
+   "depth": "940 mm",
+   "height": "1860 mm",
+   "weight": "160 kg",
+   "electricKw": "2.62 kW",
+   "amps": "13 A",
+   "voltage": "230V",
+   "plug": "13A - plug",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "parrymobileservery",
+  "name": "Parry MSB9 Bain Marie Top Mobile Servery",
+  "brand": "PARRY",
+  "mpn": "MSB9",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PARRYMOBILESERVERY",
+  "known": {
+   "gnCapacity": "2 x 1/1 GN",
+   "wells": "2",
+   "plateCapacity": "210",
+   "mobility": "true",
+   "width": "990 mm",
+   "depth": "675 mm",
+   "height": "905 mm",
+   "electricKw": "3 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "msb15",
+  "name": "Parry MSB15 Bain Marie Top Mobile Servery",
+  "brand": "Parry",
+  "mpn": "MSB15",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MSB15",
+  "known": {
+   "gnCapacity": "4 x 1/1 GN",
+   "wells": "4",
+   "plateCapacity": "350",
+   "mobility": "true",
+   "width": "1590 mm",
+   "depth": "675 mm",
+   "height": "905 mm",
+   "electricKw": "2.5 kW",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "lincatp6b3",
+  "name": "Lincat Panther P6B3 Bain Marie Top Mobile Hot Cupboard",
+  "brand": "Lincat",
+  "mpn": "P6B3",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LINCATP6B3",
+  "known": {
+   "gnCapacity": "3 x 1/1 GN",
+   "heatType": "dry",
+   "wells": "3",
+   "mobility": "true",
+   "width": "1205 mm",
+   "depth": "672 mm",
+   "height": "912 mm",
+   "weight": "95 kg",
+   "electricKw": "2.8 kW",
+   "amps": "12.4 A",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "lincatp6b4",
+  "name": "Lincat Panther P6B4 Bain Marie Top Mobile Hot Cupboard",
+  "brand": "Lincat",
+  "mpn": "P6B4",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LINCATP6B4",
+  "known": {
+   "gnCapacity": "4 x 1/1 GN",
+   "heatType": "dry",
+   "wells": "4",
+   "mobility": "true",
+   "width": "1530 mm",
+   "depth": "672 mm",
+   "height": "912 mm",
+   "weight": "116 kg",
+   "electricKw": "4.95 kW",
+   "amps": "21.5 A",
+   "voltage": "230V",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ckf1200hc",
+  "name": "Cater-Fabs CKF1200HC Stainless Steel Mobile Hot Cupboard",
+  "brand": "Cater-Fabs",
+  "mpn": "CKF1200HC",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CKF1200HC",
+  "known": {
+   "mobility": "true",
+   "tempRange": "30° to 85°C",
+   "width": "1200 mm",
+   "depth": "650 mm",
+   "height": "900 mm",
+   "weight": "90 kg",
+   "electricKw": "2 kW",
+   "amps": "8.7 A",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "parryalpha",
+  "name": "Parry HOT12 Mobile Hot Cupboard",
+  "brand": "Parry",
+  "mpn": "HOT12",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PARRYALPHA",
+  "known": {
+   "plateCapacity": "360",
+   "mobility": "true",
+   "width": "1200 mm",
+   "depth": "650 mm",
+   "height": "900 mm",
+   "weight": "79.5 kg",
+   "electricKw": "1.5 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "passthroughhotcupboard",
+  "name": "Parry HOT12P Passthrough Mobile Hot Cupboard",
+  "brand": "Parry",
+  "mpn": "HOT12P",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PASSTHROUGHHOTCUPBOARD",
+  "known": {
+   "plateCapacity": "360",
+   "mobility": "true",
+   "width": "1200 mm",
+   "depth": "650 mm",
+   "height": "900 mm",
+   "weight": "91 kg",
+   "electricKw": "1.5 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ }
+]

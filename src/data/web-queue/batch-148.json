@@ -1,0 +1,203 @@
+[
+ {
+  "id": "hue825",
+  "name": "Roband Infra-Red Fabricator Assemblies",
+  "brand": "Roband",
+  "mpn": "HUE825",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HUE825",
+  "known": {
+   "heatType": "dry",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "heat lamp instructions",
+   "amps": "13 A",
+   "voltage": "240V",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "hq450",
+  "name": "Roband Standard Quartz Heat Lamp Assemblies",
+  "brand": "Roband",
+  "mpn": "HQ450E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HQ450",
+  "known": {
+   "heatType": "dry",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Assemblies",
+   "amps": "13 A",
+   "voltage": "240V",
+   "warranty": "1 year",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "dl750clblack",
+  "name": "Hatco DL-750-CL Decorative Lamp in Bold Black",
+  "brand": "Hatco",
+  "mpn": "DL-750-CL",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DL750CLBLACK",
+  "known": {
+   "bulbs": "HEAT LAMPS",
+   "electricKw": "0.25 kW",
+   "amps": "10 A",
+   "voltage": "120V",
+   "phase": "single",
+   "warranty": "1 year",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "dl725cl",
+  "name": "Hatco DL-725-CL Decorative Lamp in Glossy Grey",
+  "brand": "Hatco",
+  "mpn": "DL-725-CL",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DL725CL",
+  "known": {
+   "bulbs": "HEAT LAMPS",
+   "electricKw": "0.25 kW",
+   "amps": "10 A",
+   "voltage": "120V",
+   "phase": "single",
+   "warranty": "1 year",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "he900l",
+  "name": "Roband Infra-Red Standard Heat lamp Assemblies",
+  "brand": "Roband",
+  "mpn": "HE900",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HE900L",
+  "known": {
+   "heatType": "dry",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat lamp Assemblies",
+   "amps": "13 A",
+   "voltage": "240V",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "dl500cl",
+  "name": "Hatco DL-500-CL Decorative Lamp in Bold Black",
+  "brand": "Hatco",
+  "mpn": "DL-500-CL",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DL500CL",
+  "known": {
+   "bulbs": "HEAT LAMPS",
+   "electricKw": "0.25 kW",
+   "amps": "10 A",
+   "voltage": "120V",
+   "phase": "single",
+   "warranty": "1 year",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "dl500rl",
+  "name": "Hatco DL-500-RL Decorative lamp in Glossy Grey",
+  "brand": "Hatco",
+  "mpn": "DL-500-RL",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DL500RL",
+  "known": {
+   "bulbs": "HEAT LAMPS",
+   "electricKw": "0.25 kW",
+   "amps": "10 A",
+   "voltage": "120V",
+   "phase": "single",
+   "warranty": "1 year",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "dl775rl",
+  "name": "Hatco DL-775-RL Decorative Lamp in Bold Black",
+  "brand": "Hatco",
+  "mpn": "DL-775-RL",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DL775RL",
+  "known": {
+   "bulbs": "HEAT LAMPS",
+   "electricKw": "0.25 kW",
+   "amps": "10 A",
+   "voltage": "120V",
+   "phase": "single",
+   "warranty": "1 year",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "c3lu",
+  "name": "Parry C3LU Electric Carvery Servery Lamp Unit",
+  "brand": "Parry",
+  "mpn": "C3LU",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_C3LU",
+  "known": {
+   "width": "1165 mm",
+   "depth": "505 mm",
+   "height": "737 mm",
+   "weight": "23 kg",
+   "electricKw": "1.3 kW",
+   "amps": "13 A",
+   "voltage": "240V",
+   "plug": "13A - Plug",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "dl750rlnickel",
+  "name": "Hatco DL-750-RL Decorative lamp in Bright Nickel",
+  "brand": "Hatco",
+  "mpn": "DL-750-RL",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DL750RLNICKEL",
+  "known": {
+   "bulbs": "HEAT LAMPS",
+   "electricKw": "0.25 kW",
+   "amps": "10 A",
+   "voltage": "120V",
+   "phase": "single",
+   "warranty": "1 year",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "dl750rlcopper",
+  "name": "Hatco DL-750-RL Decorative lamp in Bright Copper",
+  "brand": "Hatco",
+  "mpn": "DL-750-RL",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DL750RLCOPPER",
+  "known": {
+   "bulbs": "HEAT LAMPS",
+   "electricKw": "0.25 kW",
+   "amps": "10 A",
+   "voltage": "120V",
+   "phase": "single",
+   "warranty": "1 year",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "cs10",
+  "name": "Roband CS10 Carving Station",
+  "brand": "Roband",
+  "mpn": "CS10",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CS10",
+  "known": {
+   "width": "355 mm",
+   "depth": "650 mm",
+   "height": "570 mm",
+   "weight": "18 kg",
+   "electricKw": "1.75 kW",
+   "amps": "7.6 A",
+   "voltage": "230V, 50HZ",
+   "plug": "Plug supplied",
+   "warranty": "1 year",
+   "finish": "Stainless steel construction"
+  }
+ }
+]

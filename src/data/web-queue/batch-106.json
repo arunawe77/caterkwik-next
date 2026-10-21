@@ -1,0 +1,204 @@
+[
+ {
+  "id": "cth97",
+  "name": "Blizzard CTH Heated Countertop Display",
+  "brand": "Blizzard",
+  "mpn": "CTH97 / CTH137",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CTH97",
+  "known": {
+   "width": "460 mm",
+   "depth": "449 mm",
+   "height": "785 mm",
+   "weight": "22 kg",
+   "amps": "13 A",
+   "warranty": "2 years",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "cy557",
+  "name": "Buffalo Heated Multideck Merchandiser 600mm - CY557",
+  "brand": "Buffalo",
+  "mpn": "CY557",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CY557",
+  "known": {
+   "mobility": "true",
+   "width": "650 mm",
+   "depth": "670 mm",
+   "height": "1950 mm",
+   "weight": "155 kg",
+   "voltage": "230V",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "ggb103",
+  "name": "Grill Guru Gas Burner 3",
+  "brand": "Grill Guru",
+  "mpn": "GGB103",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GGB103",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "gas",
+   "radiant": "infrared",
+   "weight": "58.5 kg",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ggb104",
+  "name": "Grill Guru Gas Burner 4",
+  "brand": "Grill Guru",
+  "mpn": "GGB104",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GGB104",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "gas",
+   "radiant": "infrared",
+   "weight": "64.5 kg",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ggb106",
+  "name": "Grill Guru Gas Burner 6",
+  "brand": "Grill Guru",
+  "mpn": "GGB106",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GGB106",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "gas",
+   "radiant": "infrared",
+   "weight": "76 kg",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "e516d",
+  "name": "Blue Seal E516D 6 Element Cooktop",
+  "brand": "Blue Seal",
+  "mpn": "E516D",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_E516D",
+  "known": {
+   "fuel": "electric",
+   "width": "900 mm",
+   "depth": "812 mm",
+   "height": "315 mm",
+   "electricKw": "14.4 kW",
+   "amps": "20 A",
+   "voltage": "415V",
+   "plug": "13A plug",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel finish"
+  }
+ },
+ {
+  "id": "391018",
+  "name": "Electrolux Professional 900XP Gas Solid Top Hob Unit - 391018",
+  "brand": "Electrolux",
+  "mpn": "391018",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_391018",
+  "known": {
+   "fuel": "gas",
+   "width": "800 mm",
+   "depth": "930 mm",
+   "height": "250 mm",
+   "weight": "92 kg",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "g57lpg",
+  "name": "Blue Seal G57 Gas Target Top - LPG",
+  "brand": "Blue Seal",
+  "mpn": "G57 - LPG",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G57LPG",
+  "known": {
+   "fuel": "gas",
+   "width": "900 mm",
+   "depth": "812 mm",
+   "height": "915 mm",
+   "gasKw": "12.5 kW",
+   "amps": "1.8 A",
+   "voltage": "240V, 50hz",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "g512cb",
+  "name": "Blue Seal G512C-B 300mm Gas Griddle Cooktop",
+  "brand": "Blue Seal",
+  "mpn": "G512C-B",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G512CB",
+  "known": {
+   "plate": "smooth",
+   "fuel": "gas",
+   "splashback": "true",
+   "width": "300 mm",
+   "depth": "812 mm",
+   "height": "315 mm",
+   "electricKw": "7 kW",
+   "gasKw": "6 kW",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "Stainless steel exterior"
+  }
+ },
+ {
+  "id": "4bg",
+  "name": "Archway 4BG 4 Burner Gas Griddle",
+  "brand": "Archway",
+  "mpn": "4BG",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_4BG",
+  "known": {
+   "fuel": "gas",
+   "burners": "4",
+   "width": "1250 mm",
+   "depth": "660 mm",
+   "height": "340 mm",
+   "lpgKw": "10.8 kW",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "tep1b070g",
+  "name": "Casta TEP1B/070G Chrome Plated Gas Teppanyaki Griddle",
+  "brand": "Casta",
+  "mpn": "TEP1B/070G",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_TEP1B070G",
+  "known": {
+   "plate": "chrome",
+   "fuel": "gas",
+   "thermostat": "true",
+   "width": "700 mm",
+   "depth": "720 mm",
+   "height": "390 mm",
+   "electricKw": "5.8 kW",
+   "warranty": "2 years",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "tep1b100g",
+  "name": "Casta TEP1B/100G Chrome Plated Gas Teppanyaki Griddle",
+  "brand": "Casta",
+  "mpn": "TEP1B/100G",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_TEP1B100G",
+  "known": {
+   "plate": "chrome",
+   "fuel": "gas",
+   "thermostat": "true",
+   "width": "1000 mm",
+   "depth": "720 mm",
+   "height": "390 mm",
+   "electricKw": "5.8 kW",
+   "warranty": "2 years",
+   "finish": "chrome"
+  }
+ }
+]

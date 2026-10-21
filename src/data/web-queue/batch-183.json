@@ -1,0 +1,243 @@
+[
+ {
+  "id": "fc384",
+  "name": "Buffalo FC384 Double Contact Grill",
+  "brand": "Buffalo",
+  "mpn": "FC384",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FC384",
+  "known": {
+   "plate": "cast iron",
+   "width": "550 mm",
+   "depth": "395 mm",
+   "height": "210 mm",
+   "weight": "28.5 kg",
+   "electricKw": "2.9 kW",
+   "amps": "12.6 A",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "stainless steel body"
+  }
+ },
+ {
+  "id": "cs0e",
+  "name": "Roller Grill CS0E Hot Dog Steamer",
+  "brand": "Roller Grill",
+  "mpn": "CS0E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CS0E",
+  "known": {
+   "fuel": "electric",
+   "capacityKg": "40 kg",
+   "thermostat": "thermostat to max for 15 minutes, then i",
+   "width": "440 mm",
+   "depth": "300 mm",
+   "height": "400 mm",
+   "weight": "7 kg",
+   "electricKw": "0.5 kW",
+   "plug": "Plug Supplied",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "cr853",
+  "name": "Menumaster MXP5221 High Speed Combi Microwave - CR853",
+  "brand": "Menumaster",
+  "mpn": "CR853",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CR853",
+  "known": {
+   "programs": "340",
+   "door": "Drop down door shall open",
+   "microwaveOutput": "2200 W",
+   "width": "638 mm",
+   "depth": "699 mm",
+   "height": "518 mm",
+   "weight": "68 kg",
+   "electricKw": "5.8 kW",
+   "amps": "32 A",
+   "voltage": "240V",
+   "phase": "single",
+   "plug": "32A Single Phase (Hard",
+   "hardWired": "true",
+   "finish": "Stainless steel exterior"
+  }
+ },
+ {
+  "id": "parrybt1",
+  "name": "Parry BT1 Mobile Banqueting Trolley",
+  "brand": "Parry",
+  "mpn": "BT1",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PARRYBT1",
+  "known": {
+   "gnCapacity": "20 x 1/1 gastronorm",
+   "wells": "2",
+   "mobility": "true",
+   "width": "700 mm",
+   "depth": "850 mm",
+   "height": "1635 mm",
+   "weight": "115 kg",
+   "electricKw": "1.5 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "hhb12100t",
+  "name": "Lincat HHB12100T Hot Hold Bins with Timers",
+  "brand": "Lincat",
+  "mpn": "HHB12100T",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HHB12100T",
+  "known": {
+   "gnCapacity": "2 x 1/1gn",
+   "wells": "2",
+   "width": "450 mm",
+   "depth": "640 mm",
+   "height": "375 mm",
+   "weight": "27 kg",
+   "electricKw": "1.8 kW",
+   "amps": "8 A",
+   "voltage": "230V",
+   "phase": "single",
+   "warranty": "2 years",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "p85m12",
+  "name": "Blue Seal Turbofan Prover Holding Cabinet with Humidifier - P85M12",
+  "brand": "Blue Seal",
+  "mpn": "P85M12",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_P85M12",
+  "known": {
+   "mobility": "true",
+   "tempRange": "20° to 40°C",
+   "bulbs": "halogen lamps",
+   "width": "910 mm",
+   "depth": "810 mm",
+   "height": "1129 mm",
+   "weight": "100 kg",
+   "electricKw": "1.9 kW",
+   "amps": "7.9 A",
+   "voltage": "240V",
+   "gasConnection": "3/4\" BSP",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "bt2",
+  "name": "Parry BT2 Double Banqueting Trolley",
+  "brand": null,
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BT2",
+  "known": {
+   "gnCapacity": "40 x 1/1 gastronorm",
+   "wells": "2",
+   "mobility": "true",
+   "width": "1500 mm",
+   "depth": "850 mm",
+   "height": "1635 mm",
+   "weight": "280 kg",
+   "electricKw": "3 kW",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "msb12",
+  "name": "Parry MSB12 Bain Marie Top Mobile Servery",
+  "brand": "Parry",
+  "mpn": "MSB12",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MSB12",
+  "known": {
+   "gnCapacity": "3 x 1/1 GN",
+   "wells": "3",
+   "plateCapacity": "280",
+   "mobility": "true",
+   "width": "1290 mm",
+   "depth": "675 mm",
+   "height": "905 mm",
+   "electricKw": "3 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "hot15bm",
+  "name": "Parry HOT15BM Dry Heat Bain Marie Topped Mobile Hot Cupboard",
+  "brand": "Parry",
+  "mpn": "HOT15BM",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HOT15BM",
+  "known": {
+   "gnCapacity": "4 x 1/1 GN",
+   "heatType": "dry",
+   "wells": "4",
+   "plateCapacity": "450",
+   "mobility": "true",
+   "width": "1500 mm",
+   "depth": "650 mm",
+   "height": "900 mm",
+   "weight": "123 kg",
+   "electricKw": "2.5 kW",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ruhc12",
+  "name": "Parry RUHC12 Roll Under Hot Cupboard - 1200mm",
+  "brand": "Parry",
+  "mpn": "RUHC12",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_RUHC12",
+  "known": {
+   "plateCapacity": "360",
+   "mobility": "true",
+   "width": "1200 mm",
+   "depth": "650 mm",
+   "height": "700 mm",
+   "weight": "69.5 kg",
+   "electricKw": "1.5 kW",
+   "amps": "13 A",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ruhc15",
+  "name": "Parry RUHC15 Roll Under Hot Cupboard - 1500mm",
+  "brand": "Parry",
+  "mpn": "RUHC15",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_RUHC15",
+  "known": {
+   "plateCapacity": "450",
+   "mobility": "true",
+   "width": "1500 mm",
+   "depth": "650 mm",
+   "height": "700 mm",
+   "weight": "113 kg",
+   "electricKw": "2.5 kW",
+   "amps": "13 A",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ruhc18",
+  "name": "Parry RUHC18 Roll Under Hot Cupboard - 1800mm",
+  "brand": "Parry",
+  "mpn": "RUHC18",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_RUHC18",
+  "known": {
+   "plateCapacity": "540",
+   "mobility": "true",
+   "width": "1800 mm",
+   "depth": "650 mm",
+   "height": "700 mm",
+   "weight": "118.5 kg",
+   "electricKw": "3 kW",
+   "amps": "13 A",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ }
+]

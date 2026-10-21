@@ -1,0 +1,257 @@
+[
+ {
+  "id": "hatcoqts1",
+  "name": "Hatco QTS-1 Quick-Therm Electric Adjustable Salamander Grill",
+  "brand": "Hatco",
+  "mpn": "QTS-1",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HATCOQTS1",
+  "known": {
+   "fuel": "electric",
+   "width": "570 mm",
+   "depth": "533 mm",
+   "height": "518 mm",
+   "weight": "58 kg",
+   "electricKw": "4.5 kW",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ht762",
+  "name": "Buffalo HT762 Extra Wide Cast Iron Griddle",
+  "brand": "Buffalo",
+  "mpn": "HT762",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HT762",
+  "known": {
+   "plate": "cast iron",
+   "tempRange": "50°C to 300°C",
+   "width": "615 mm",
+   "depth": "466 mm",
+   "height": "207 mm",
+   "weight": "32.5 kg",
+   "electricKw": "3 kW",
+   "voltage": "240V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ht754",
+  "name": "Buffalo HT754 600 Series Ribbed Electric Griddle 400mm",
+  "brand": "Buffalo",
+  "mpn": "HT754",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HT754",
+  "known": {
+   "cookingWidth": "400 mm",
+   "plate": "ribbed",
+   "fuel": "electric",
+   "tempRange": "50°C to 300°C",
+   "width": "400 mm",
+   "depth": "600 mm",
+   "height": "240 mm",
+   "electricKw": "2.9 kW",
+   "voltage": "230V",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "e514b",
+  "name": "Blue Seal E514B 600mm Electric Griddle Cooktop",
+  "brand": "Blue Seal",
+  "mpn": "E514B",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_E514B",
+  "known": {
+   "cookingWidth": "300 mm",
+   "plate": "smooth",
+   "fuel": "electric",
+   "radiant": "radiant",
+   "thermostat": "true",
+   "tempRange": "50 - 320°C",
+   "splashback": "true",
+   "width": "600 mm",
+   "depth": "812 mm",
+   "height": "315 mm",
+   "electricKw": "6.8 kW",
+   "amps": "28.3 A",
+   "voltage": "240V",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "Stainless steel exterior"
+  }
+ },
+ {
+  "id": "ep516",
+  "name": "Blue Seal EP516 900mm Heavy Duty Electric Griddle",
+  "brand": "Blue Seal",
+  "mpn": "EP516",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_EP516",
+  "known": {
+   "cookingWidth": "900 mm",
+   "plate": "ribbed",
+   "fuel": "electric",
+   "thermostat": "true",
+   "tempRange": "50 - 300°C",
+   "splashback": "true",
+   "width": "900 mm",
+   "depth": "812 mm",
+   "height": "315 mm",
+   "electricKw": "12 kW",
+   "amps": "17 A",
+   "voltage": "415V",
+   "plug": "13A plug",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "ep518",
+  "name": "Blue Seal EP518 1200mm Heavy Duty Electric Griddle",
+  "brand": "Blue Seal",
+  "mpn": "EP518",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_EP518",
+  "known": {
+   "cookingWidth": "1200 mm",
+   "plate": "ribbed",
+   "fuel": "electric",
+   "thermostat": "true",
+   "tempRange": "50 - 300°C",
+   "splashback": "true",
+   "width": "1200 mm",
+   "depth": "812 mm",
+   "height": "315 mm",
+   "electricKw": "16.2 kW",
+   "amps": "25 A",
+   "voltage": "415V",
+   "plug": "13A plug",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "mkec48",
+  "name": "Magikitch'n MKE/C-48 48\" Inch Electric Chrome Griddle",
+  "brand": "Magikitchn",
+  "mpn": "MKE/C-48",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MKEC48",
+  "known": {
+   "plate": "chrome",
+   "fuel": "electric",
+   "thermostat": "true",
+   "tempRange": "95°C- 260°C",
+   "splashback": "true",
+   "width": "1220 mm",
+   "depth": "803 mm",
+   "height": "643 mm",
+   "weight": "280 kg",
+   "electricKw": "22.8 kW",
+   "voltage": "400V, 50Hz",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "mkec60",
+  "name": "Magikitch'n MKE/C-60 60\" Inch Electric Chrome Griddle",
+  "brand": "Magikitchn",
+  "mpn": "MKE/C-60",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MKEC60",
+  "known": {
+   "plate": "chrome",
+   "fuel": "electric",
+   "thermostat": "true",
+   "tempRange": "95°C- 260°C",
+   "splashback": "true",
+   "width": "1520 mm",
+   "depth": "803 mm",
+   "height": "643 mm",
+   "weight": "352 kg",
+   "electricKw": "28.5 kW",
+   "voltage": "400V, 50Hz",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "burcoctgd01",
+  "name": "Burco CTGD01 Electric Griddle",
+  "brand": "Burco",
+  "mpn": "CTGD01",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BURCOCTGD01",
+  "known": {
+   "plate": "smooth",
+   "fuel": "electric",
+   "thermostat": "true",
+   "tempRange": "100°C to 280°C",
+   "width": "600 mm",
+   "depth": "600 mm",
+   "height": "275 mm",
+   "weight": "42.2 kg",
+   "electricKw": "3 kW",
+   "voltage": "240V",
+   "plug": "plug supplied",
+   "warranty": "3 years",
+   "finish": "stainless steel finish"
+  }
+ },
+ {
+  "id": "fb862",
+  "name": "Buffalo FB862 Programmable Commercial Microwave 25ltr 1000W",
+  "brand": "Buffalo",
+  "mpn": "FB862",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FB862",
+  "known": {
+   "width": "511 mm",
+   "depth": "430 mm",
+   "height": "311 mm",
+   "weight": "14.7 kg",
+   "electricKw": "1.55 kW",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "hm1001",
+  "name": "Sammic MO-1000 1000W Commercial Microwave",
+  "brand": "Sammic",
+  "mpn": "MO-1000",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HM1001",
+  "known": {
+   "programs": "10",
+   "timer": "Timer (min-max): 0 - 60mins",
+   "width": "327 mm",
+   "depth": "346 mm",
+   "height": "200 mm",
+   "weight": "14.7 kg",
+   "electricKw": "1.55 kW",
+   "amps": "13 A",
+   "voltage": "230V, 50Hz",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "cb20a",
+  "name": "Valera AB 20A Drop-In Induction Hob",
+  "brand": "Valera",
+  "mpn": "AB20A",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CB20A",
+  "known": {
+   "fuel": "induction",
+   "width": "360 mm",
+   "depth": "380 mm",
+   "height": "178 mm",
+   "weight": "8 kg",
+   "electricKw": "2 kW",
+   "amps": "5 A",
+   "voltage": "230V",
+   "warranty": "3 years",
+   "finish": "Stainless steel"
+  }
+ }
+]

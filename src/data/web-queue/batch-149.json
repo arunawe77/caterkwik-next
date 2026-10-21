@@ -1,0 +1,234 @@
+[
+ {
+  "id": "huq375",
+  "name": "Roband Quartz Heat Lamp Fabricator Assembly - HUQ375E",
+  "brand": "Roband",
+  "mpn": "HUQ375E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HUQ375",
+  "known": {
+   "heatType": "dry",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Fabricator Assembly - HUQ375E",
+   "amps": "13 A",
+   "voltage": "240V",
+   "warranty": "1 year",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "cnh14",
+  "name": "Carter Hoffmann CNH14 Crisp 'n' Hold Fried Food Station",
+  "brand": "Carter-Hoffmann",
+  "mpn": "CNH14",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CNH14",
+  "known": {
+   "bulbs": "heat lamps and enclosed holding cabinet",
+   "width": "362 mm",
+   "depth": "737 mm",
+   "height": "451 mm",
+   "weight": "25 kg",
+   "electricKw": "1.745 kW",
+   "amps": "7.6 A",
+   "voltage": "230v",
+   "phase": "single",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "pf20",
+  "name": "Moffat Bulk Food Hotline Banqueting Trolley PF20",
+  "brand": "Moffat",
+  "mpn": "PF20",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PF20",
+  "known": {
+   "gnCapacity": "1/1 GN",
+   "shelves": "5",
+   "mobility": "true",
+   "weight": "130 kg",
+   "electricKw": "1.9 kW",
+   "amps": "13 A",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "fhc500xm",
+  "name": "Foster FHC540XM 22-112 Heated Holding Cabinet - 540L",
+  "brand": "FOSTER",
+  "mpn": "FHC540XM",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FHC500XM",
+  "known": {
+   "gnCapacity": "1/1 GN",
+   "volume": "540 litres",
+   "shelves": "1",
+   "mobility": "true",
+   "tempRange": "70°C to 85°C",
+   "width": "720 mm",
+   "depth": "900 mm",
+   "height": "1600 mm",
+   "amps": "13 A",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "fshb",
+  "name": "Parry FLEXI-SERVE FS-HB Hot Cupboard with Dry Heat Bain Marie",
+  "brand": "Parry",
+  "mpn": "Flexi-Serve",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FSHB",
+  "known": {
+   "gnCapacity": "1/1 gastronorm",
+   "heatType": "dry",
+   "mobility": "true",
+   "width": "860 mm",
+   "depth": "700 mm",
+   "height": "900 mm",
+   "electricKw": "2.2 kW",
+   "amps": "13 A",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "fshbw",
+  "name": "Parry FLEXI-SERVE FS-HBW Hot Cupboard with Wet Heat Bain Marie",
+  "brand": "Parry",
+  "mpn": "Flexi-Serve",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FSHBW",
+  "known": {
+   "gnCapacity": "1/1 gastronorm",
+   "heatType": "wet",
+   "mobility": "true",
+   "width": "860 mm",
+   "depth": "700 mm",
+   "height": "900 mm",
+   "electricKw": "3.1 kW",
+   "amps": "16 A",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "parrymsfmobileservery",
+  "name": "Parry MSF9 Mobile Flat Top Servery",
+  "brand": "Parry",
+  "mpn": "MSF9",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PARRYMSFMOBILESERVERY",
+  "known": {
+   "plateCapacity": "210",
+   "mobility": "true",
+   "width": "990 mm",
+   "depth": "675 mm",
+   "height": "905 mm",
+   "electricKw": "1.5 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "msf12",
+  "name": "Parry MSF12 Mobile Flat Top Servery",
+  "brand": "Parry",
+  "mpn": "MSF12",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MSF12",
+  "known": {
+   "plateCapacity": "280",
+   "mobility": "true",
+   "width": "1290 mm",
+   "depth": "675 mm",
+   "height": "905 mm",
+   "electricKw": "1.5 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "lincatp6p2",
+  "name": "Lincat Panther P6P2 Mobile Hot Cupboard",
+  "brand": "Lincat",
+  "mpn": "P6P2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LINCATP6P2",
+  "known": {
+   "gnCapacity": "1/1 GN",
+   "mobility": "true",
+   "width": "900 mm",
+   "depth": "670 mm",
+   "height": "900 mm",
+   "weight": "71 kg",
+   "electricKw": "1.5 kW",
+   "amps": "6.5 A",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "lincatp6p3",
+  "name": "Lincat Panther P6P3 Mobile Hot Cupboard",
+  "brand": "Lincat",
+  "mpn": "P6P3",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LINCATP6P3",
+  "known": {
+   "gnCapacity": "1/1 GN",
+   "mobility": "true",
+   "width": "1205 mm",
+   "depth": "670 mm",
+   "height": "900 mm",
+   "weight": "86 kg",
+   "electricKw": "1.5 kW",
+   "amps": "6.5 A",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "lincatplh36",
+  "name": "Lincat PLH36 Single Door Plate Warmer",
+  "brand": "Lincat",
+  "mpn": "PLH36",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LINCATPLH36",
+  "known": {
+   "doors": "Single",
+   "tempRange": "30 – 90°C",
+   "width": "360 mm",
+   "depth": "600 mm",
+   "height": "900 mm",
+   "weight": "32 kg",
+   "electricKw": "0.75 kW",
+   "amps": "3.2 A",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "lincatplh45",
+  "name": "Lincat PLH45 Single Door Plate Warmer",
+  "brand": "Lincat",
+  "mpn": "PLH45",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LINCATPLH45",
+  "known": {
+   "doors": "Single",
+   "tempRange": "30 – 90°C",
+   "width": "450 mm",
+   "depth": "600 mm",
+   "height": "900 mm",
+   "weight": "37 kg",
+   "electricKw": "0.75 kW",
+   "amps": "3.2 A",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "chrome"
+  }
+ }
+]

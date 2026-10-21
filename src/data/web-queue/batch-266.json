@@ -1,0 +1,247 @@
+[
+ {
+  "id": "in512f",
+  "name": "IN512F",
+  "brand": "Blue Seal",
+  "mpn": "IN512F",
+  "caterkwikUrl": null,
+  "known": {
+   "castors": "adjustable feet",
+   "width": "450 mm",
+   "depth": "812 mm",
+   "height": "355 mm",
+   "weight": "88 kg",
+   "electricKw": "10 kW",
+   "amps": "14 A",
+   "voltage": "400V 50Hz",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "in514f",
+  "name": "IN514F",
+  "brand": "Blue Seal",
+  "mpn": "IN514F",
+  "caterkwikUrl": null,
+  "known": {
+   "castors": "adjustable feet",
+   "width": "900 mm",
+   "depth": "812 mm",
+   "height": "355 mm",
+   "weight": "105 kg",
+   "electricKw": "20 kW",
+   "amps": "28 A",
+   "voltage": "400V 50Hz",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "in514fr3",
+  "name": "IN514R3F",
+  "brand": "Blue Seal",
+  "mpn": "IN514R3F",
+  "caterkwikUrl": null,
+  "known": {
+   "castors": "adjustable feet",
+   "width": "900 mm",
+   "depth": "812 mm",
+   "height": "355 mm",
+   "weight": "105 kg",
+   "electricKw": "17 kW",
+   "amps": "24 A",
+   "voltage": "400V 50Hz",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "rbg20",
+  "name": "RBG200",
+  "brand": "Roller Grill",
+  "mpn": "RBG200",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "gas",
+   "castors": "castors",
+   "width": "940 mm",
+   "depth": "445 mm",
+   "height": "1250 mm",
+   "weight": "72 kg",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "d140v",
+  "name": "D140V",
+  "brand": "AS Term",
+  "mpn": "D140V",
+  "caterkwikUrl": null,
+  "known": {
+   "pizzaSize": "12\" Pizza",
+   "fuel": "wood",
+   "width": "2250 mm",
+   "depth": "2160 mm",
+   "height": "1880 mm",
+   "weight": "2100 kg",
+   "warranty": "1 year",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "seriesddesigndv",
+  "name": "D120V",
+  "brand": "AS Term",
+  "mpn": "D120V",
+  "caterkwikUrl": null,
+  "known": {
+   "pizzaSize": "12\" Pizza",
+   "fuel": "wood",
+   "width": "1900 mm",
+   "depth": "2150 mm",
+   "height": "1880 mm",
+   "weight": "1950 kg",
+   "electricKw": "32 kW",
+   "warranty": "1 year",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "seriesddesigndr85k",
+  "name": "DR85K",
+  "brand": "AS Term",
+  "mpn": "DR85K",
+  "caterkwikUrl": null,
+  "known": {
+   "pizzaSize": "12\" Pizza",
+   "pizzasPerHour": "60",
+   "fuel": "wood",
+   "width": "1450 mm",
+   "depth": "1520 mm",
+   "height": "1860 mm",
+   "weight": "950 kg",
+   "voltage": "230V",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "seriesddesigndr",
+  "name": "DR120",
+  "brand": "AS Term",
+  "mpn": "DR120",
+  "caterkwikUrl": null,
+  "known": {
+   "pizzaSize": "12\"",
+   "fuel": "wood",
+   "width": "1900 mm",
+   "depth": "2150 mm",
+   "height": "1880 mm",
+   "weight": "1950 kg",
+   "electricKw": "32 kW",
+   "voltage": "230V",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "g3101castors",
+  "name": "G3101/C",
+  "brand": "Falcon",
+  "mpn": "G3101/C",
+  "caterkwikUrl": null,
+  "known": {
+   "burners": "6",
+   "fuel": "gas",
+   "burnerKw": "5.3 kW",
+   "ovenSize": "W700 x D535 x H430mm",
+   "gnCapacity": "2/1GN oven",
+   "ignition": "piezo",
+   "castors": "castors",
+   "width": "900 mm",
+   "depth": "770 mm",
+   "height": "890 mm",
+   "weight": "114 kg",
+   "gasKw": "38.9 kW",
+   "gasConnection": "3/4 Inch Gas Hose Needed",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "parryg6b",
+  "name": "GB6",
+  "brand": "Parry",
+  "mpn": "GB6",
+  "caterkwikUrl": null,
+  "known": {
+   "burners": "6",
+   "fuel": "gas",
+   "ignition": "flame failure",
+   "castors": "castors",
+   "width": "900 mm",
+   "depth": "790 mm",
+   "height": "970 mm",
+   "weight": "150 kg",
+   "electricKw": "40.1 kW",
+   "gasConnection": "¾ inch BSP male inlet gas connection",
+   "warranty": "2 years",
+   "finish": "vitreous enamel"
+  }
+ },
+ {
+  "id": "gl173",
+  "name": "GL173",
+  "brand": "Thor",
+  "mpn": "GL173",
+  "caterkwikUrl": null,
+  "known": {
+   "burners": "6",
+   "fuel": "gas",
+   "gnCapacity": "2/1 Gastronorm",
+   "ignition": "flame failure",
+   "door": "Drop down door",
+   "width": "915 mm",
+   "depth": "835 mm",
+   "height": "1175 mm",
+   "weight": "170 kg",
+   "electricKw": "54.4 kW",
+   "gasKw": "54.4 kW",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "g528d",
+  "name": "G528D",
+  "brand": "Blue Seal",
+  "mpn": "G528D",
+  "caterkwikUrl": null,
+  "known": {
+   "burners": "8",
+   "fuel": "gas",
+   "burnerKw": "7 kW",
+   "ovenType": "static",
+   "griddle": "900mm griddle",
+   "ignition": "flame failure",
+   "castors": "rear rollers",
+   "door": "Drop down doors",
+   "racking": "4 rack positions",
+   "width": "1200 mm",
+   "depth": "812 mm",
+   "height": "915 mm",
+   "weight": "302 kg",
+   "electricKw": "7 kW",
+   "gasKw": "69.2 kW",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ }
+]

@@ -1,0 +1,192 @@
+[
+ {
+  "id": "k368",
+  "name": "K368 Oval Serving Tray 550mm",
+  "brand": "Olympia",
+  "mpn": "K368",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_K368",
+  "known": {
+   "heatType": "dry",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Shades",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "k369",
+  "name": "K369 Oval Serving Tray 605mm",
+  "brand": "Olympia",
+  "mpn": "K369",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_K369",
+  "known": {
+   "heatType": "dry",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Shades",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "922723",
+  "name": "Electrolux Professional Condensation Hood for 6 & 10 1/1GN Combi Ovens (Electric only) - 922723",
+  "brand": "Electrolux",
+  "mpn": "922723",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922723",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "width": "875 mm",
+   "depth": "1070 mm",
+   "height": "450 mm",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "gn959",
+  "name": "JM Posner GN959 Crepe Serving Station",
+  "brand": "JM Posner",
+  "mpn": "GN959",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GN959",
+  "known": {
+   "gnCapacity": "3 x 1/6 GN",
+   "wells": "3",
+   "volume": "14 litres",
+   "width": "820 mm",
+   "weight": "24.5 kg",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "86341",
+  "name": "Server 86341 IntelliServ 1/3GN Food Warmer",
+  "brand": "Server",
+  "mpn": "86341",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_86341",
+  "known": {
+   "gnCapacity": "1/3GN",
+   "volume": "5.7 litres",
+   "width": "202 mm",
+   "depth": "391 mm",
+   "height": "237 mm",
+   "electricKw": "0.5 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "gxih13",
+  "name": "Chefsrange GXIH1-3 SNACK 50 Counter Top Induction Hob - 3kW",
+  "brand": "Chefsrange",
+  "mpn": "GXIH1-3",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GXIH13",
+  "known": {
+   "fuel": "induction",
+   "width": "420 mm",
+   "depth": "510 mm",
+   "height": "180 mm",
+   "electricKw": "3 kW",
+   "amps": "13 A",
+   "hardWired": "true"
+  }
+ },
+ {
+  "id": "gxih43",
+  "name": "Chefsrange GXIH4-3 80 Line Counter Top 4 Ring Induction Hob - 4 x 3kW",
+  "brand": "Chefsrange",
+  "mpn": "GXIH4-3",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GXIH43",
+  "known": {
+   "fuel": "induction",
+   "zones": "4",
+   "width": "700 mm",
+   "depth": "800 mm",
+   "height": "330 mm",
+   "electricKw": "3 kW",
+   "amps": "13 A"
+  }
+ },
+ {
+  "id": "gxih63",
+  "name": "Chefrange GXIH6-3 80 Line Counter Top 6 Ring Induction Hob - 6 x 3kW Power",
+  "brand": "Chefsrange",
+  "mpn": "GXIH6-3",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GXIH63",
+  "known": {
+   "fuel": "induction",
+   "zones": "6",
+   "width": "1050 mm",
+   "depth": "800 mm",
+   "height": "330 mm",
+   "electricKw": "3 kW",
+   "amps": "13 A"
+  }
+ },
+ {
+  "id": "g594lpg",
+  "name": "Blue Seal Evolution G594 Gas Chargrill - LPG",
+  "brand": "Blue Seal",
+  "mpn": "G594-LPG",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G594LPG",
+  "known": {
+   "fuel": "gas",
+   "width": "600 mm",
+   "depth": "812 mm",
+   "height": "585 mm",
+   "gasConnection": "3/4 Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "gv1209c",
+  "name": "Arris GV1209C Radiant Gas Chicken Chargrill With Water Tray",
+  "brand": "Arris",
+  "mpn": "GV1209C",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GV1209C",
+  "known": {
+   "fuel": "gas",
+   "radiant": "radiant",
+   "electricKw": "39 kW",
+   "gasConnection": "3/4 Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "gcbice",
+  "name": "APW Wyott GCBI-CE Gas Radiant Chargrill",
+  "brand": "APW WYOTT",
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GCBICE",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "gas",
+   "radiant": "radiant",
+   "width": "457 mm",
+   "depth": "679 mm",
+   "height": "397 mm",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "cs4e",
+  "name": "Archway CS4/E Counter-Top Electric Chip Scuttle",
+  "brand": "Archway",
+  "mpn": "CS4/E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CS4E",
+  "known": {
+   "fuel": "electric",
+   "width": "385 mm",
+   "depth": "605 mm",
+   "height": "290 mm",
+   "weight": "11 kg",
+   "electricKw": "0.5 kW",
+   "amps": "2.1 A",
+   "voltage": "230V, 50Hz",
+   "plug": "plug supplied",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ }
+]

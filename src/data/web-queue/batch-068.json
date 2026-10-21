@@ -1,0 +1,199 @@
+[
+ {
+  "id": "fd034",
+  "name": "JM Posner FD034 Triple Bottle Warmer",
+  "brand": "JM Posner",
+  "mpn": "FD034",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FD034",
+  "known": {
+   "width": "400 mm",
+   "weight": "5.3 kg",
+   "voltage": "230 V",
+   "warranty": "1 year",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "fd035",
+  "name": "JM Posner FD035 Quad Bottle Warmer",
+  "brand": "JM Posner",
+  "mpn": "FD035",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FD035",
+  "known": {
+   "width": "250 mm",
+   "weight": "7.6 kg",
+   "voltage": "230 V",
+   "warranty": "1 year",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "fd059",
+  "name": "Buffalo Compact Induction Hob 1000W - FD059",
+  "brand": "BUFFALO",
+  "mpn": "FD059",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FD059",
+  "known": {
+   "fuel": "induction",
+   "weight": "1.7 kg",
+   "voltage": "240V",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "oe8405",
+  "name": "Lincat Opus 800 OE8405 Electric Chargrill",
+  "brand": "Lincat",
+  "mpn": "OE8405",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_OE8405",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "electric",
+   "width": "600 mm",
+   "depth": "800 mm",
+   "height": "415 mm",
+   "weight": "57 kg",
+   "electricKw": "8.4 kW",
+   "phase": "three",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "gv817el",
+  "name": "Arris GV817EL Electric Chargrill With Plumbed In Water Tray System",
+  "brand": "Arris",
+  "mpn": "GV817EL",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GV817EL",
+  "known": {
+   "fuel": "electric",
+   "thermostat": "true",
+   "width": "800 mm",
+   "depth": "700 mm",
+   "height": "850 mm",
+   "electricKw": "10.4 kW",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "gv419el",
+  "name": "Arris GV419EL Electric Chargrill",
+  "brand": "Arris",
+  "mpn": "GV419EL",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GV419EL",
+  "known": {
+   "fuel": "electric",
+   "thermostat": "true",
+   "width": "420 mm",
+   "depth": "900 mm",
+   "height": "850 mm",
+   "electricKw": "7.8 kW",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "gv417elm",
+  "name": "Arris GV417ELM Electric Chargrill With Plumbed In Water Tray System",
+  "brand": "Arris",
+  "mpn": "GV417ELM",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GV417ELM",
+  "known": {
+   "fuel": "electric",
+   "thermostat": "true",
+   "width": "420 mm",
+   "depth": "700 mm",
+   "height": "850 mm",
+   "electricKw": "5.2 kW",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cs735",
+  "name": "Vogue CS735 Stainless Steel Spaghetti Basket 18cm",
+  "brand": "Vogue",
+  "mpn": "CS735",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CS735",
+  "known": {
+   "width": "350 mm",
+   "depth": "180 mm",
+   "height": "245 mm",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "ifs50op",
+  "name": "Imperial IFS-50-OP 27 Litre Single Tank Twin Basket Open Pot Gas Fryer",
+  "brand": "Imperial",
+  "mpn": "IFS-50-OP",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_IFS50OP",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "27 litres",
+   "fuel": "gas",
+   "thermostat": "93°C to 204°C",
+   "drainValve": "Full port drain valve",
+   "width": "394 mm",
+   "depth": "762 mm",
+   "height": "914 mm",
+   "warranty": "1 year",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "sg14sfdfff",
+  "name": "Pitco SG14RS/FD-FFF 3 Vat Gas Fryer with Filter Drawer",
+  "brand": "Pitco",
+  "mpn": "SG14RS/FD-FFF",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SG14SFDFFF",
+  "known": {
+   "oilCapacity": "21 litres",
+   "fuel": "gas",
+   "baskets": "2",
+   "drainValve": "cm Full port drain valve for faster dra",
+   "computerControl": "digital",
+   "width": "1191 mm",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "hd4",
+  "name": "Roller Grill HD4 4 Spike Heating Unit",
+  "brand": "Roller Grill",
+  "mpn": "HD4",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HD4",
+  "known": {
+   "width": "260 mm",
+   "depth": "220 mm",
+   "height": "300 mm",
+   "weight": "4 kg",
+   "electricKw": "0.5 kW",
+   "plug": "Plug Supplied",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "inomakmh",
+  "name": "Inomak Hot Cupboards With Wet Well Bain Marie Top",
+  "brand": "Inomak",
+  "mpn": "MH711",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_INOMAKMH",
+  "known": {
+   "heatType": "wet",
+   "tempRange": "30 - 70°C",
+   "width": "1100 mm",
+   "depth": "700 mm",
+   "height": "870 mm",
+   "electricKw": "3.9 kW",
+   "amps": "20 A",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ }
+]

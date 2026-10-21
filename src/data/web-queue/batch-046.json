@@ -1,0 +1,157 @@
+[
+ {
+  "id": "922637",
+  "name": "Electrolux Professional Plastic Drain Kit For 6 & 10 GN Combi Ovens, Dia=50mm - CKP2637",
+  "brand": "Electrolux",
+  "mpn": "922637",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922637",
+  "known": {
+   "width": "320 mm",
+   "depth": "1050 mm",
+   "height": "80 mm"
+  }
+ },
+ {
+  "id": "p9800",
+  "name": "San Jamar EZ-Chill Pump Boxes",
+  "brand": "San Jamar",
+  "mpn": "P9800",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_P9800",
+  "known": {
+   "width": "178 mm",
+   "depth": "181 mm",
+   "height": "438 mm",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "88750",
+  "name": "Server 2L Single SlimLine Dry Food Dispenser - 88750",
+  "brand": "Server",
+  "mpn": "88750",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_88750",
+  "known": {
+   "volume": "2 litres",
+   "width": "81 mm",
+   "depth": "176 mm",
+   "height": "446 mm",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "88760",
+  "name": "Server 2L Double SlimLine Dry Food Dispenser - 88760",
+  "brand": "Server",
+  "mpn": "88760",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_88760",
+  "known": {
+   "volume": "2 litres",
+   "width": "164 mm",
+   "depth": "176 mm",
+   "height": "446 mm",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "86925",
+  "name": "Server 86925 Squeeze Bottle Warmer",
+  "brand": "Server",
+  "mpn": "86925",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_86925",
+  "known": {
+   "width": "197 mm",
+   "depth": "224 mm",
+   "height": "295 mm",
+   "electricKw": "0.5 kW",
+   "plug": "plug supplied",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "88770",
+  "name": "Server 2L Triple SlimLine Dry Food Dispenser - 88770",
+  "brand": "Server",
+  "mpn": "88770",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_88770",
+  "known": {
+   "volume": "2 litres",
+   "width": "246 mm",
+   "depth": "176 mm",
+   "height": "446 mm",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "88780",
+  "name": "Server 2L Quad Slimline Dry Food Dispenser - 88780",
+  "brand": "Server",
+  "mpn": "88780",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_88780",
+  "known": {
+   "volume": "2 litres",
+   "width": "329 mm",
+   "depth": "176 mm",
+   "height": "446 mm",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "dn814",
+  "name": "Status Linear Halogen Energy saving Bulb R7 230W.",
+  "brand": "Status",
+  "mpn": "DN814 / DN815",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DN814",
+  "known": {
+   "width": "20 mm",
+   "depth": "20 mm",
+   "height": "130 mm",
+   "finish": "white"
+  }
+ },
+ {
+  "id": "memt18012",
+  "name": "Hallco MEMT18012 Small Conveyor Toaster",
+  "brand": "Hallco",
+  "mpn": "MEMT18012",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MEMT18012",
+  "known": {
+   "throughput": "100 slices per hour",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "gd156",
+  "name": "GD156 Olympia ½ GN Induction Chafer",
+  "brand": "Olympia",
+  "mpn": "GD156",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GD156",
+  "known": {
+   "gnCapacity": "1/2GN",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "cb729",
+  "name": "CB729 Olympia Round Electric Chafer",
+  "brand": "Olympia",
+  "mpn": "CB729",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CB729",
+  "known": {
+   "volume": "6 litres",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "gd155",
+  "name": "GD155 Olympia 1/1 GN Induction Chafer",
+  "brand": "Olympia",
+  "mpn": "GD155",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GD155",
+  "known": {
+   "gnCapacity": "1/1 GN",
+   "finish": "Stainless steel"
+  }
+ }
+]

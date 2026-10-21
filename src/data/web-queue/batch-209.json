@@ -1,0 +1,244 @@
+[
+ {
+  "id": "cm1099",
+  "name": "Samsung CM1099 Light Duty Manual Microwave 26Ltr 1100W – CB936",
+  "brand": "Samsung",
+  "mpn": "CM1099",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CM1099",
+  "known": {
+   "timer": "Timer range: up to 35 minutes",
+   "microwaveOutput": "1100 W",
+   "width": "517 mm",
+   "depth": "412 mm",
+   "height": "297 mm",
+   "weight": "17.5 kg",
+   "electricKw": "2.2 kW",
+   "amps": "9.6 A",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "3 years",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "cm1089",
+  "name": "Samsung CM1089 Light Duty Programmable Microwave 26Ltr 1100W – CB937",
+  "brand": "Samsung",
+  "mpn": "CM1089",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CM1089",
+  "known": {
+   "timer": "Timer range: up to 30 minutes",
+   "microwaveOutput": "1100 W",
+   "width": "517 mm",
+   "depth": "412 mm",
+   "height": "297 mm",
+   "weight": "17.5 kg",
+   "electricKw": "1.6 kW",
+   "amps": "7 A",
+   "voltage": "240V",
+   "plug": "plug supplied",
+   "warranty": "3 years",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "ne1878",
+  "name": "Panasonic NE-1878 1800W Commercial Inverter Microwave Oven",
+  "brand": "Panasonic",
+  "mpn": "NE1878",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_NE1878",
+  "known": {
+   "timer": "Timer",
+   "width": "422 mm",
+   "depth": "476 mm",
+   "height": "337 mm",
+   "weight": "17.5 kg",
+   "electricKw": "2.65 kW",
+   "amps": "11.6 A",
+   "voltage": "240V",
+   "phase": "single",
+   "warranty": "3 years"
+  }
+ },
+ {
+  "id": "cu478",
+  "name": "Buffalo CU478 600 Series Electric Pasta Cooker",
+  "brand": "Buffalo",
+  "mpn": "CU478",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CU478",
+  "known": {
+   "volume": "15 litres",
+   "fuel": "electric",
+   "heating": "bain marie",
+   "zones": "2",
+   "tap": "true",
+   "width": "400 mm",
+   "depth": "600 mm",
+   "height": "240 mm",
+   "weight": "14 kg",
+   "electricKw": "3.4 kW",
+   "voltage": "230V",
+   "hardWired": "true",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "po6w",
+  "name": "Sammic PO-6W Single Chamber Elecric Pizza Oven",
+  "brand": "Sammic",
+  "mpn": "PO-6W",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PO6W",
+  "known": {
+   "pizzaSize": "32cm",
+   "chamber": "chamber. With 9kW of total power, the PO-6W is an excel",
+   "fuel": "electric",
+   "width": "1440 mm",
+   "depth": "1060 mm",
+   "height": "550 mm",
+   "weight": "130 kg",
+   "electricKw": "7.2 kW",
+   "voltage": "400V",
+   "phase": "three",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "tkb1",
+  "name": "Italforni TKB1 Single Deck Electric Pizza Oven",
+  "brand": "Italforni",
+  "mpn": "TKB1",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_TKB1",
+  "known": {
+   "decks": "1",
+   "pizzaSize": "13\"",
+   "chamber": "DECK 15 66 99 43 91 117 109 400/3/50-60 6,5 0,5",
+   "stone": "Refractory",
+   "maxTemp": "450 °C",
+   "fuel": "electric",
+   "width": "910 mm",
+   "depth": "1170 mm",
+   "height": "430 mm",
+   "weight": "109 kg",
+   "electricKw": "6.5 kW",
+   "amps": "10 A",
+   "voltage": "400V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "smartvide5",
+  "name": "Sammic Smartvide 5 Sous Vide Cooker",
+  "brand": "Sammic",
+  "mpn": "SmartVide 5",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SMARTVIDE5",
+  "known": {
+   "lowTemp": "true",
+   "width": "116 mm",
+   "depth": "128 mm",
+   "height": "330 mm",
+   "weight": "3.1 kg",
+   "electricKw": "1.6 kW",
+   "amps": "13 A",
+   "voltage": "230V",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "smartvide8",
+  "name": "Sammic Smartvide8 Sous-vide Cooker - 1180008",
+  "brand": "Sammic",
+  "mpn": "Smartvide8",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SMARTVIDE8",
+  "known": {
+   "lowTemp": "true",
+   "width": "124 mm",
+   "depth": "140 mm",
+   "height": "360 mm",
+   "weight": "4.1 kg",
+   "electricKw": "2 kW",
+   "voltage": "230V",
+   "plug": "Plug Supplied",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "smartvide8plus",
+  "name": "Sammic Smartvide 8 Plus Sous-Vide Cooker - 1180141",
+  "brand": "Sammic",
+  "mpn": "SMARTVIDE",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SMARTVIDE8PLUS",
+  "known": {
+   "lowTemp": "true",
+   "width": "124 mm",
+   "depth": "140 mm",
+   "height": "360 mm",
+   "weight": "4.1 kg",
+   "electricKw": "2 kW",
+   "voltage": "230V",
+   "plug": "Plug Supplied",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "fl08d",
+  "name": "Clifton Food Range FL08D 8 Litre Unstirred Digital Bath Sous Vide Machine",
+  "brand": "Clifton",
+  "mpn": "FL08D",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FL08D",
+  "known": {
+   "timer": "timer can be set between 1 minute and 99 hour",
+   "lowTemp": "true",
+   "width": "332 mm",
+   "depth": "270 mm",
+   "height": "290 mm",
+   "electricKw": "0.8 kW",
+   "amps": "13 A",
+   "voltage": "230v",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "fl28d",
+  "name": "Clifton Food Range FL28D 28 Litre Unstirred Digital Bath Sous Vide Machine",
+  "brand": "Clifton",
+  "mpn": "FL28D",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FL28D",
+  "known": {
+   "timer": "timer can be set between 1 minute and 99 hour",
+   "lowTemp": "true",
+   "width": "538 mm",
+   "depth": "332 mm",
+   "height": "290 mm",
+   "electricKw": "1.5 kW",
+   "amps": "13 A",
+   "voltage": "230v",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "svc28",
+  "name": "Sammic SVC-28 - Sous-Vide - Unstirred Digital Bath",
+  "brand": "Sammic",
+  "mpn": "SVC-28",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SVC28",
+  "known": {
+   "timer": "timer can be set between 1 minute and 99 hour",
+   "lowTemp": "true",
+   "width": "300 mm",
+   "depth": "505 mm",
+   "height": "200 mm",
+   "electricKw": "1.9 kW",
+   "amps": "13 A",
+   "voltage": "230V",
+   "warranty": "1 year",
+   "finish": "Stainless steel construction"
+  }
+ }
+]

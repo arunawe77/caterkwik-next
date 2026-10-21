@@ -1,0 +1,162 @@
+[
+ {
+  "id": "m923",
+  "name": "M923 Vogue Stainless Steel Saute Pan 240mm",
+  "brand": "Vogue",
+  "mpn": "M923",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_M923",
+  "known": {
+   "volume": "3.05 litres",
+   "fuel": "induction",
+   "weight": "1.18 kg",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "m940",
+  "name": "Vogue M940 Stainless Steel Stew Pan 7Ltr",
+  "brand": "Vogue",
+  "mpn": "M940",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_M940",
+  "known": {
+   "volume": "7 litres",
+   "fuel": "induction",
+   "weight": "1.86 kg",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "t088",
+  "name": "Vogue T088 Stainless Steel Stew Pan 18.5Ltr.",
+  "brand": "Vogue",
+  "mpn": "T088",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_T088",
+  "known": {
+   "volume": "18.5 litres",
+   "fuel": "induction",
+   "weight": "5.02 kg",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "k791",
+  "name": "Bourgeat Excellence 8.6 Litre Casserole Pan - 10184-02",
+  "brand": "Matfer Bourgeat",
+  "mpn": "10184-02",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_K791",
+  "known": {
+   "volume": "8.6 litres",
+   "fuel": "induction",
+   "weight": "2.63 kg",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "s121",
+  "name": "Vogue S121 Casserole, Stew and Sauté Pan Set (Pack of 5)",
+  "brand": "Vogue",
+  "mpn": "S121",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_S121",
+  "known": {
+   "volume": "9.5 litres",
+   "fuel": "induction",
+   "weight": "7.38 kg",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "pro34ix2ukbp",
+  "name": "Beko Professional PRO34IX2UK-BP Commercial Microwave Oven, 1800W",
+  "brand": "Beko Professional",
+  "mpn": "PRO34IX2UK-BP",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PRO34IX2UKBP",
+  "known": {
+   "microwaveOutput": "1800 W",
+   "width": "574 mm",
+   "depth": "528 mm",
+   "height": "368 mm",
+   "weight": "32 kg",
+   "voltage": "230 V",
+   "warranty": "3 years",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "peelhook",
+  "name": "Pizza Peel Hanger - PEEL.HOOK",
+  "brand": "Alphin Pans",
+  "mpn": "PEEL.HOOK",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PEELHOOK",
+  "known": {
+   "decks": "1",
+   "pizzaSize": "3'",
+   "fuel": "electric",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "340011",
+  "name": "Alphin Pans Wooden Pizza Serving Bats",
+  "brand": "Alphin Pans",
+  "mpn": "340011",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_340011",
+  "known": {
+   "decks": "1",
+   "pizzaSize": "3'",
+   "fuel": "electric",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "ovbrush4010",
+  "name": "Alphin Pans Pizza Oven Brush - OV.BRUSH.4010",
+  "brand": "Alphin Pans",
+  "mpn": "OV.BRUSH.4010",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_OVBRUSH4010",
+  "known": {
+   "decks": "1",
+   "pizzaSize": "10'",
+   "fuel": "electric",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "equacut1209",
+  "name": "Alphin Pans Equacut 12', 9' & 7' Inch Pizza Cutting Guide",
+  "brand": "Alphin Pans",
+  "mpn": "Equacut",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_EQUACUT1209",
+  "known": {
+   "decks": "1",
+   "pizzaSize": "12'",
+   "fuel": "electric",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "apt34",
+  "name": "Super Pizza 1\" Deep Aluminium Thin Crust Pizza Pans",
+  "brand": "Super Pizza",
+  "mpn": "APT34",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_APT34",
+  "known": {
+   "decks": "1",
+   "pizzaSize": "1\"",
+   "fuel": "electric",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "f011",
+  "name": "F011 Pizza Screen 9in",
+  "brand": "Vogue",
+  "mpn": "F011",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_F011",
+  "known": {
+   "decks": "1",
+   "pizzaSize": "9in",
+   "fuel": "electric",
+   "finish": "Black Finish"
+  }
+ }
+]

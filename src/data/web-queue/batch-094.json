@@ -1,0 +1,191 @@
+[
+ {
+  "id": "ck0079",
+  "name": "Cater-Cook Commercial 4 Slot Toaster - CK0079",
+  "brand": "Cater-Cook",
+  "mpn": "CK0079",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK0079",
+  "known": {
+   "timer": "timer",
+   "plates": "4",
+   "weight": "5.5 kg",
+   "electricKw": "1.8 kW",
+   "voltage": "240V",
+   "plug": "Plug Supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel finish"
+  }
+ },
+ {
+  "id": "4ats151",
+  "name": "Rowlett Rutland 4ATS-151 Premier 4 Slot Toaster - DA205",
+  "brand": "Rowlett Rutland",
+  "mpn": "4ATS151",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_4ATS151",
+  "known": {
+   "timer": "timer, neon indicator lamp & rotary slice sel",
+   "plates": "4",
+   "width": "370 mm",
+   "depth": "210 mm",
+   "height": "225 mm",
+   "electricKw": "2.3 kW",
+   "plug": "plug supplied",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "e974",
+  "name": "Dualit 4 Slice Sandwich Toaster Stainless Steel 41036",
+  "brand": "Dualit",
+  "mpn": "E974",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_E974",
+  "known": {
+   "timer": "timer",
+   "weight": "5.54 kg",
+   "electricKw": "2.7 kW",
+   "amps": "11.7 A",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "ch186",
+  "name": "Rowlett Esprit Toaster White 6 Slot w/ Elements & Sandwich Cage - CH186",
+  "brand": "ROWLETT",
+  "mpn": "CH186",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CH186",
+  "known": {
+   "fuel": "electric",
+   "timer": "timer",
+   "plates": "6",
+   "weight": "8.1 kg",
+   "electricKw": "2.6 kW",
+   "voltage": "230V",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "e975",
+  "name": "Dualit 6 Slice Vario Toaster White 60146",
+  "brand": "Dualit",
+  "mpn": "60146",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_E975",
+  "known": {
+   "throughput": "195 slices/hr",
+   "weight": "5.1 kg",
+   "electricKw": "3 kW",
+   "amps": "12.5 A",
+   "voltage": "230V",
+   "warranty": "1 year",
+   "finish": "White"
+  }
+ },
+ {
+  "id": "e972",
+  "name": "Dualit E972 6 Slice Vario Toaster Stainless Steel 60165",
+  "brand": "Dualit",
+  "mpn": "E972",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_E972",
+  "known": {
+   "fuel": "charcoal",
+   "throughput": "195 slices/hr",
+   "weight": "5.1 kg",
+   "electricKw": "3 kW",
+   "amps": "12.5 A",
+   "voltage": "230V",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "ch187",
+  "name": "Rowlett Esprit 6 Slot Toaster Jet Black w/ Elements & Sandwich Cage - CH187",
+  "brand": "ROWLETT",
+  "mpn": "CH187",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CH187",
+  "known": {
+   "fuel": "electric",
+   "timer": "timer",
+   "plates": "6",
+   "weight": "8.1 kg",
+   "electricKw": "2.6 kW",
+   "voltage": "230V",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "gh415",
+  "name": "GH415 APS White 1/4GN Basket Bowl",
+  "brand": "APS",
+  "mpn": "GH415",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GH415",
+  "known": {
+   "gnCapacity": "1/4GN",
+   "heatType": "dry",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Shades",
+   "finish": "white"
+  }
+ },
+ {
+  "id": "gh412",
+  "name": "GH412 APS Red 1/4GN Basket Bowl",
+  "brand": "APS",
+  "mpn": "GH412",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GH412",
+  "known": {
+   "gnCapacity": "1/4GN",
+   "heatType": "dry",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Shades",
+   "finish": "white"
+  }
+ },
+ {
+  "id": "gh397",
+  "name": "GH397 APS 1.5Ltr Balance Bowl",
+  "brand": "APS",
+  "mpn": "GH397",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GH397",
+  "known": {
+   "heatType": "dry",
+   "volume": "1.5 litres",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Shades",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "gh402",
+  "name": "GH402 APS White 1/4GN Cascade Buffet Bowl",
+  "brand": "APS",
+  "mpn": "GH402",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GH402",
+  "known": {
+   "gnCapacity": "1/4GN",
+   "heatType": "dry",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Shades",
+   "finish": "White"
+  }
+ },
+ {
+  "id": "gh398",
+  "name": "GH398 APS 2.5Ltr Balance Bowl",
+  "brand": "APS",
+  "mpn": "GH398",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GH398",
+  "known": {
+   "heatType": "dry",
+   "volume": "2.5 litres",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Shades",
+   "finish": "Black Finish"
+  }
+ }
+]

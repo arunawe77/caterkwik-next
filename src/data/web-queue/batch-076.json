@@ -1,0 +1,185 @@
+[
+ {
+  "id": "ad576",
+  "name": "JM Posner Waffle Mix - AD576",
+  "brand": "JM POSNER",
+  "mpn": "AD576",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_AD576",
+  "known": {
+   "fuel": "induction",
+   "weight": "13.8 kg",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "922709",
+  "name": "Electrolux Professional GastroNorm Spit for Lamb or Suckling Pig - 922709",
+  "brand": "Electrolux",
+  "mpn": "922709",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922709",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "width": "158 mm",
+   "depth": "264 mm",
+   "height": "600 mm"
+  }
+ },
+ {
+  "id": "g596lpg",
+  "name": "Blue Seal G596 900mm Gas Chargrill - LPG",
+  "brand": "Blue Seal",
+  "mpn": "G596 - LPG",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G596LPG",
+  "known": {
+   "fuel": "gas",
+   "splashback": "true",
+   "width": "900 mm",
+   "depth": "812 mm",
+   "height": "915 mm",
+   "weight": "178 kg",
+   "gasKw": "29.3 kW",
+   "gasConnection": "3/4 Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "g598lpg",
+  "name": "Blue Seal G598 Gas Chargrill - LPG",
+  "brand": "Blue Seal",
+  "mpn": "G598-LPG",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G598LPG",
+  "known": {
+   "fuel": "gas",
+   "splashback": "true",
+   "width": "1200 mm",
+   "depth": "812 mm",
+   "height": "915 mm",
+   "weight": "227 kg",
+   "gasKw": "39.1 kW",
+   "gasConnection": "3/4 Inch Gas Hose Needed",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "archwaybt2",
+  "name": "Archway BT2 Electric Automatic Slim Breading Table",
+  "brand": "Archway",
+  "mpn": "BT2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAYBT2",
+  "known": {
+   "fuel": "electric",
+   "width": "1152 mm",
+   "depth": "450 mm",
+   "height": "900 mm",
+   "weight": "52 kg",
+   "electricKw": "0.276 kW",
+   "amps": "1.2 A",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "archwaybt1",
+  "name": "Archway BT1 Electric Automatic Breading Table",
+  "brand": "Archway",
+  "mpn": "BT1",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAYBT1",
+  "known": {
+   "fuel": "electric",
+   "width": "1152 mm",
+   "depth": "764 mm",
+   "height": "900 mm",
+   "weight": "60 kg",
+   "electricKw": "0.276 kW",
+   "amps": "1.2 A",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "fz300941",
+  "name": "Frifri Basket For Eco 4 Fryer - FZ300941",
+  "brand": "FriFri",
+  "mpn": "FZ300941",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FZ300941",
+  "known": {
+   "tanks": "1",
+   "filtration": "true",
+   "fuel": "electric",
+   "computerControl": "computer",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "fz300942",
+  "name": "Frifri Basket For Eco 6 Fryer - FZ300942",
+  "brand": "FriFri",
+  "mpn": "FZ300942",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FZ300942",
+  "known": {
+   "tanks": "1",
+   "filtration": "true",
+   "fuel": "electric",
+   "computerControl": "computer",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "fz101010s",
+  "name": "Frifri Basket For Profi / Frita+ 8 - FZ101010S",
+  "brand": "FriFri",
+  "mpn": "FZ101010S",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FZ101010S",
+  "known": {
+   "tanks": "1",
+   "filtration": "true",
+   "fuel": "electric",
+   "computerControl": "computer",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "fz300716s",
+  "name": "FriFri Basket for FriFri Profi/Frita+ 6/10 and Profi+ 10",
+  "brand": "FriFri",
+  "mpn": "FZ300716/S",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FZ300716S",
+  "known": {
+   "tanks": "1",
+   "filtration": "true",
+   "fuel": "electric",
+   "computerControl": "computer",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "206390",
+  "name": "Electrolux Professional Basket for 9 Litre Fryers - 206390",
+  "brand": "Electrolux",
+  "mpn": "206390",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_206390",
+  "known": {
+   "tanks": "1",
+   "filtration": "true",
+   "fuel": "electric",
+   "computerControl": "computer",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "fz300717s",
+  "name": "Frifri Basket For Profi / Frita+ 9 - FZ300717S",
+  "brand": "FriFri",
+  "mpn": "FZ300717S",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FZ300717S",
+  "known": {
+   "tanks": "1",
+   "filtration": "true",
+   "fuel": "electric",
+   "computerControl": "computer",
+   "finish": "Black Finish"
+  }
+ }
+]

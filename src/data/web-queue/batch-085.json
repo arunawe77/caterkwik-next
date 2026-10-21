@@ -1,0 +1,184 @@
+[
+ {
+  "id": "cc801",
+  "name": "Dualit 2 Slice Lite Toaster Cream 26202",
+  "brand": "Dualit",
+  "mpn": "CC801",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CC801",
+  "known": {
+   "throughput": "60 slices/hr",
+   "weight": "1.7 kg",
+   "electricKw": "1.1 kW",
+   "amps": "4.5 A",
+   "voltage": "230V",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "ch179",
+  "name": "Rowlett Esprit 2 Slot Toaster Jet Black w/ Elements & Sandwich cage - CH179",
+  "brand": "ROWLETT",
+  "mpn": "CH179",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CH179",
+  "known": {
+   "fuel": "electric",
+   "timer": "Timer",
+   "plates": "2",
+   "weight": "4.9 kg",
+   "voltage": "240V",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "ch180",
+  "name": "Rowlett Esprit 2 Slot Toaster Traffic Red w/ Elements & Sandwich cage - CH180",
+  "brand": "ROWLETT",
+  "mpn": "CH180",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CH180",
+  "known": {
+   "fuel": "electric",
+   "timer": "timer",
+   "plates": "2",
+   "weight": "4.9 kg",
+   "voltage": "240V",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "ch174",
+  "name": "Rowlett Regent 4 Slot Toaster Quartz Grey - CH174",
+  "brand": "ROWLETT",
+  "mpn": "CH174",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CH174",
+  "known": {
+   "fuel": "electric",
+   "timer": "timer",
+   "plates": "4",
+   "weight": "7.2 kg",
+   "voltage": "240V",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "hw900",
+  "name": "Rowlett Premier HW900 4 Slot Toaster with Extra DuraHeat Elements",
+  "brand": "Rowlett",
+  "mpn": "HW900",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HW900",
+  "known": {
+   "timer": "timer - up to 5 mins",
+   "plates": "4",
+   "width": "402 mm",
+   "weight": "6.64 kg",
+   "voltage": "240 V",
+   "warranty": "3 years"
+  }
+ },
+ {
+  "id": "4atw131",
+  "name": "Rowlett Rutland 4ATW-131 Regent 4 Slot Toaster - DL277",
+  "brand": "Rowlett Rutland",
+  "mpn": "4ATW131",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_4ATW131",
+  "known": {
+   "timer": "timer, neon indicator lamp & rotary switch sl",
+   "plates": "4",
+   "width": "360 mm",
+   "depth": "210 mm",
+   "height": "255 mm",
+   "electricKw": "1.3 kW",
+   "plug": "plug supplied",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "ch184",
+  "name": "Rowlett Esprit 4 Slot Toaster Traffic Red w/ Elements & Sandwich Cage - CH184",
+  "brand": "ROWLETT",
+  "mpn": "CH184",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CH184",
+  "known": {
+   "fuel": "electric",
+   "timer": "timer",
+   "plates": "4",
+   "weight": "6.65 kg",
+   "voltage": "240V",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "ch183",
+  "name": "Rowlett Esprit 4 Slot Toaster Jet Black w/ Elements & Sandwich Cage - CH183",
+  "brand": "ROWLETT",
+  "mpn": "CH183",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CH183",
+  "known": {
+   "fuel": "electric",
+   "timer": "timer",
+   "plates": "4",
+   "weight": "6.65 kg",
+   "voltage": "240V",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "ch181",
+  "name": "Rowlett Esprit 4 Slot Toaster Chrome w/ Elements & Sandwich Cage - CH181",
+  "brand": null,
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CH181",
+  "known": {
+   "fuel": "electric",
+   "timer": "Timer",
+   "plates": "4",
+   "weight": "6.65 kg",
+   "voltage": "240V",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "ch175",
+  "name": "Rowlett Regent 4 Slot Toaster Traffic Red - CH175",
+  "brand": "ROWLETT",
+  "mpn": "CH175",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CH175",
+  "known": {
+   "fuel": "electric",
+   "timer": "timer",
+   "plates": "4",
+   "weight": "7.2 kg",
+   "voltage": "240V",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "ch182",
+  "name": "Rowlett Esprit 4 Slot Toaster White w/ Elements & Sandwich Cage - CH182",
+  "brand": "ROWLETT",
+  "mpn": "CH183",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CH182",
+  "known": {
+   "fuel": "electric",
+   "timer": "timer",
+   "plates": "4",
+   "weight": "6.65 kg",
+   "voltage": "240V",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "hw906",
+  "name": "Rowlett Regent HW906 6 Slot White Toaster with Duraheat Elements",
+  "brand": null,
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HW906",
+  "known": {
+   "timer": "timer helps achieve consistent results every",
+   "plates": "6",
+   "width": "500 mm",
+   "weight": "7.5 kg",
+   "voltage": "240 V",
+   "finish": "White"
+  }
+ }
+]

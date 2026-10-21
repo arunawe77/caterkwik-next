@@ -1,0 +1,132 @@
+[
+ {
+  "id": "hcscmfg6",
+  "name": "Chefmate by Hobart - 6 Grid Gas Full Touch Combi Oven - HCSCMFG6",
+  "brand": "Hobart",
+  "mpn": "HCSCMFG6",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HCSCMFG6",
+  "known": {
+   "width": "890 mm",
+   "depth": "790 mm",
+   "height": "720 mm",
+   "voltage": "230V"
+  }
+ },
+ {
+  "id": "hcscmfg10",
+  "name": "Chefmate by Hobart - 10 Grid Gas Full Touch Combi Oven - HCSCMFG10",
+  "brand": "Hobart",
+  "mpn": "HCSCMFG10",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HCSCMFG10",
+  "known": {
+   "width": "890 mm",
+   "depth": "790 mm",
+   "height": "980 mm",
+   "voltage": "230V"
+  }
+ },
+ {
+  "id": "chbs020700",
+  "name": "Parry CHBS02700 Fryer Basket",
+  "brand": "Parry",
+  "mpn": "CHBS02700",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CHBS020700",
+  "known": {
+   "width": "225 mm",
+   "depth": "115 mm",
+   "height": "210 mm"
+  }
+ },
+ {
+  "id": "basketpro",
+  "name": "Parry BASKETPRO Fryer Basket",
+  "brand": "Parry",
+  "mpn": "BASKETPRO",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BASKETPRO",
+  "known": {
+   "width": "225 mm",
+   "depth": "115 mm",
+   "height": "300 mm"
+  }
+ },
+ {
+  "id": "ba159",
+  "name": "Lincat Opus 800 / FriFri BA159 Half Fryer Basket",
+  "brand": "Lincat",
+  "mpn": "BA159",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BA159",
+  "known": {
+   "width": "133 mm",
+   "depth": "144 mm",
+   "height": "337 mm"
+  }
+ },
+ {
+  "id": "basketffr",
+  "name": "Parry BASKETFFR Fryer Basket",
+  "brand": "Parry",
+  "mpn": "BASKETFFR",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BASKETFFR",
+  "known": {
+   "width": "225 mm",
+   "depth": "115 mm",
+   "height": "300 mm"
+  }
+ },
+ {
+  "id": "cravenwmbs",
+  "name": "Craven Combi Basket & Tray Wall Mounted Display Unit",
+  "brand": "Craven",
+  "mpn": "WMBS",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CRAVENWMBS",
+  "known": {
+   "width": "400 mm",
+   "finish": "Stainless steel finish"
+  }
+ },
+ {
+  "id": "cb063",
+  "name": "Vienna CB063 Chafing Set - 7.5 Litre Capacity",
+  "brand": "Olympia",
+  "mpn": "CB063",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CB063",
+  "known": {
+   "volume": "7.5 litres",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "gk858",
+  "name": "GK858 APS Pure Round Cake Platter Melamine Black",
+  "brand": "APS",
+  "mpn": "GK858",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GK858",
+  "known": {}
+ },
+ {
+  "id": "dp133",
+  "name": "DP133 Silver Cake Stand",
+  "brand": "Non Branded",
+  "mpn": "DP133",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DP133",
+  "known": {
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "btal",
+  "name": "Bradley Smoker BTAL Alder Bisquette Pack",
+  "brand": "Bradley Smoker",
+  "mpn": "BTAL48",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BTAL",
+  "known": {}
+ },
+ {
+  "id": "btap",
+  "name": "Bradley Smoker BTAP Apple Bisquette Pack",
+  "brand": "Bradley Smoker",
+  "mpn": "BTAP48",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BTAP",
+  "known": {}
+ }
+]

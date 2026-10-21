@@ -1,0 +1,258 @@
+[
+ {
+  "id": "sl311l31n0",
+  "name": "FriFri Super Easy 311 14.5 Litre Single Tank Fryer",
+  "brand": "FriFri",
+  "mpn": "SL311",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SL311L31N0",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "14.5 litres",
+   "filtration": "true",
+   "thermostat": "90 - 195°C",
+   "computerControl": "thermostatic control",
+   "width": "300 mm",
+   "depth": "650 mm",
+   "height": "986 mm",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "sl311h31g0",
+  "name": "FriFri Super Easy 311 14.5 Litre Single Tank Fryer with Filtration",
+  "brand": "FriFri",
+  "mpn": "SL311",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SL311H31G0",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "14.5 litres",
+   "filtration": "true",
+   "thermostat": "90 - 195°C",
+   "computerControl": "thermostatic control",
+   "width": "300 mm",
+   "depth": "650 mm",
+   "height": "986 mm",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "sl412h31n0",
+  "name": "FriFri Super Easy 412 20.5 Litre Single Tank Fryer",
+  "brand": "FriFri",
+  "mpn": "SuperEasy SL412",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SL412H31N0",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "20.5 litres",
+   "filtration": "true",
+   "thermostat": "90 - 195°C",
+   "computerControl": "thermostatic control",
+   "width": "400 mm",
+   "depth": "650 mm",
+   "height": "986 mm",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "sl412h31g0",
+  "name": "FriFri Super Easy 412 20.5 Litre Single Tank Fryer with Filtration",
+  "brand": "FriFri",
+  "mpn": "SuperEasy SL412",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SL412H31G0",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "20.5 litres",
+   "filtration": "true",
+   "thermostat": "90 - 195°C",
+   "computerControl": "thermostatic control",
+   "width": "400 mm",
+   "depth": "650 mm",
+   "height": "986 mm",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "evo250pcomp",
+  "name": "Valentine EVO250 Electric Computer Fryer With Basket Lift and Pumped Filtration - Next Day Delivery Available*",
+  "brand": "Valentine",
+  "mpn": "EVO250PCOMP",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_EVO250PCOMP",
+  "known": {
+   "tanks": "1",
+   "filtration": "true",
+   "fuel": "electric",
+   "baskets": "1",
+   "computerControl": "computer",
+   "width": "250 mm",
+   "depth": "580 mm",
+   "height": "850 mm",
+   "electricKw": "7.5 kW",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "3 years"
+  }
+ },
+ {
+  "id": "pdpf6",
+  "name": "Parry NPDPF6 Twin Tank Electric Fryer",
+  "brand": "Parry",
+  "mpn": "PDPF6",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PDPF6",
+  "known": {
+   "tanks": "2",
+   "oilCapacity": "9 litres",
+   "chipOutput": "28 kg/hr",
+   "fuel": "electric",
+   "baskets": "2",
+   "computerControl": "thermostatic control",
+   "width": "600 mm",
+   "depth": "600 mm",
+   "height": "1065 mm",
+   "weight": "34 kg",
+   "electricKw": "6 kW",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "sl422h32n0",
+  "name": "FriFri Super Easy 422 2 x 9 Litre Twin Tank Fryer",
+  "brand": "FRIFRI",
+  "mpn": "422",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SL422H32N0",
+  "known": {
+   "tanks": "2",
+   "oilCapacity": "9 litres",
+   "filtration": "true",
+   "thermostat": "90 - 195°C",
+   "computerControl": "thermostatic control",
+   "width": "400 mm",
+   "depth": "650 mm",
+   "height": "986 mm",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "sl422l32g0",
+  "name": "FriFri Super Easy 422 2 x 9 Litre Twin Tank Fryer with Filtration",
+  "brand": "FRIFRI",
+  "mpn": "SuperEasy SL422",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SL422L32G0",
+  "known": {
+   "tanks": "2",
+   "oilCapacity": "9 litres",
+   "filtration": "true",
+   "thermostat": "90 - 195°C",
+   "computerControl": "thermostatic control",
+   "width": "400 mm",
+   "depth": "650 mm",
+   "height": "986 mm",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "sl622l32n0",
+  "name": "FriFri Super Easy 622 2 x 14 Litre Twin Tank Fryer",
+  "brand": "FRIFRI",
+  "mpn": "622",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SL622L32N0",
+  "known": {
+   "tanks": "2",
+   "oilCapacity": "14 litres",
+   "filtration": "true",
+   "thermostat": "90 - 195°C",
+   "computerControl": "thermostatic control",
+   "width": "600 mm",
+   "depth": "650 mm",
+   "height": "986 mm",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "sl622h32g0",
+  "name": "FriFri Super Easy 622 2 x 14 Litre Twin Tank Fryer with Filtration",
+  "brand": "FriFri",
+  "mpn": "SuperEasy 622",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SL622H32G0",
+  "known": {
+   "tanks": "2",
+   "oilCapacity": "14 litres",
+   "filtration": "true",
+   "thermostat": "90 - 195°C",
+   "computerControl": "thermostatic control",
+   "width": "600 mm",
+   "depth": "650 mm",
+   "height": "986 mm",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "se14tssstc",
+  "name": "Pitco 11 Litre, Twin Tank, Electric Fryer",
+  "brand": "Pitco",
+  "mpn": "SE14TS-SSTC",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SE14TSSSTC",
+  "known": {
+   "tanks": "2",
+   "oilCapacity": "11 litres",
+   "fuel": "electric",
+   "width": "397 mm",
+   "depth": "865 mm",
+   "height": "1010 mm",
+   "electricKw": "17 kW",
+   "amps": "32 A",
+   "voltage": "400V",
+   "phase": "three",
+   "plug": "32A 3-Phase Supply",
+   "warranty": "10 years",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "sl633h31g0",
+  "name": "FriFri Super Easy 633 3 x 9 Litre Triple Tank Fryer with Filtration",
+  "brand": "FriFri",
+  "mpn": "SuperEasy 633",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SL633H31G0",
+  "known": {
+   "tanks": "3",
+   "oilCapacity": "9 litres",
+   "filtration": "true",
+   "thermostat": "90 - 195°C",
+   "computerControl": "thermostatic control",
+   "width": "600 mm",
+   "depth": "650 mm",
+   "height": "986 mm",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ }
+]

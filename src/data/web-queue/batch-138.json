@@ -1,0 +1,223 @@
+[
+ {
+  "id": "lincatp6p4",
+  "name": "Lincat Panther P6P4 Mobile Hot Cupboard",
+  "brand": "Lincat",
+  "mpn": "P6P4",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LINCATP6P4",
+  "known": {
+   "mobility": "true",
+   "width": "1530 mm",
+   "depth": "670 mm",
+   "height": "900 mm",
+   "weight": "105 kg",
+   "electricKw": "2.5 kW",
+   "amps": "10.9 A",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "lincatp6p5",
+  "name": "Lincat Panther P6P5 Mobile Hot Cupboard",
+  "brand": "Lincat",
+  "mpn": "P6P5",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LINCATP6P5",
+  "known": {
+   "mobility": "true",
+   "width": "1775 mm",
+   "depth": "670 mm",
+   "height": "900 mm",
+   "weight": "124 kg",
+   "electricKw": "2.5 kW",
+   "amps": "10.9 A",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "hc40ms",
+  "name": "Victor HC40MS General Purpose Mobile Hot Cupboard",
+  "brand": "Victor",
+  "mpn": "HC40MS",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HC40MS",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "plateCapacity": "434",
+   "mobility": "true",
+   "width": "1600 mm",
+   "depth": "670 mm",
+   "height": "900 mm",
+   "electricKw": "1.2 kW",
+   "amps": "5 A",
+   "voltage": "220V/240V",
+   "phase": "single",
+   "plug": "13A plug",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "hgbm",
+  "name": "Parry HGBM Heated Bain Marie with Glass",
+  "brand": "Parry",
+  "mpn": "HGBM4/ 5",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HGBM",
+  "known": {
+   "width": "1782 mm",
+   "depth": "685 mm",
+   "height": "1340 mm",
+   "weight": "129 kg",
+   "electricKw": "3.8 kW",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "gr60e",
+  "name": "Roller Grill GR60E 600mm Electric Kebab Grill",
+  "brand": "Roller Grill",
+  "mpn": "GR60E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GR60E",
+  "known": {
+   "fuel": "electric",
+   "width": "580 mm",
+   "depth": "660 mm",
+   "height": "870 mm",
+   "weight": "31 kg",
+   "electricKw": "4.8 kW",
+   "voltage": "415V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "i4g",
+  "name": "EasyCut I4G Integrated Kebab Machine N/LPG CE/UKCA",
+  "brand": "Easy-Cut",
+  "mpn": "I4G",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_I4G",
+  "known": {
+   "fuel": "gas",
+   "capacityKg": "70 kg",
+   "width": "515 mm",
+   "depth": "669 mm",
+   "height": "1093 mm",
+   "weight": "39 kg",
+   "warranty": "1 year",
+   "finish": "Stainless Steel Body"
+  }
+ },
+ {
+  "id": "ag20",
+  "name": "Sammic AG-20 Gyro/Kebab Burner",
+  "brand": "Sammic",
+  "mpn": "AG-20",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_AG20",
+  "known": {
+   "fuel": "gas",
+   "capacityKg": "20 kg",
+   "width": "590 mm",
+   "depth": "530 mm",
+   "height": "870 mm",
+   "weight": "18 kg",
+   "electricKw": "8.1 kW",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "ag30",
+  "name": "Sammic AG-30 Gyro/Kebab Machine",
+  "brand": "Sammic",
+  "mpn": "AG-30",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_AG30",
+  "known": {
+   "fuel": "gas",
+   "capacityKg": "30 kg",
+   "width": "590 mm",
+   "depth": "530 mm",
+   "height": "870 mm",
+   "weight": "21 kg",
+   "electricKw": "10.8 kW",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "ag40",
+  "name": "Sammic AG-40 Gyro/Kebab Grill",
+  "brand": "Sammic",
+  "mpn": "AG-40",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_AG40",
+  "known": {
+   "fuel": "gas",
+   "capacityKg": "35 kg",
+   "width": "590 mm",
+   "depth": "530 mm",
+   "height": "1070 mm",
+   "weight": "30 kg",
+   "electricKw": "10.8 kW",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "buffalock698",
+  "name": "Buffalo CK698 9 Litre Large Rice Cooker",
+  "brand": "Buffalo",
+  "mpn": "CK698",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BUFFALOCK698",
+  "known": {
+   "volume": "9 litres",
+   "width": "480 mm",
+   "depth": "560 mm",
+   "height": "415 mm",
+   "weight": "15.5 kg",
+   "electricKw": "2.85 kW",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "maestrowavemrc5l",
+  "name": "Hallco MRC5L Rice Cooker",
+  "brand": "Hallco",
+  "mpn": "MRC5L",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MAESTROWAVEMRC5L",
+  "known": {
+   "volume": "5 litres",
+   "electricKw": "1.95 kW",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "blodgettbe40",
+  "name": "Blodgett BE40 Electric Conveyor Oven",
+  "brand": "Blodgett",
+  "mpn": "BE40",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BLODGETTBE40",
+  "known": {
+   "pizzaSize": "32\"",
+   "fuel": "electric",
+   "width": "2032 mm",
+   "electricKw": "32 kW",
+   "gasKw": "32.23 kW",
+   "amps": "75 A",
+   "voltage": "208 V",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ }
+]

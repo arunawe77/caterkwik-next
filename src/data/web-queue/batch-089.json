@@ -1,0 +1,205 @@
+[
+ {
+  "id": "cs3e",
+  "name": "Archway CS3/E Table Top Electric Chip Scuttle With Heated Lamp",
+  "brand": "Archway",
+  "mpn": "CS3E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CS3E",
+  "known": {
+   "fuel": "electric",
+   "width": "385 mm",
+   "depth": "605 mm",
+   "height": "640 mm",
+   "weight": "16 kg",
+   "electricKw": "0.8 kW",
+   "amps": "3.3 A",
+   "voltage": "230V, 50Hz",
+   "plug": "plug supplied",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "archwayscuttle",
+  "name": "Archway CS1/E Heated Electric Chip Scuttle With Storage Cupboard",
+  "brand": "Archway",
+  "mpn": "CS1/E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAYSCUTTLE",
+  "known": {
+   "fuel": "electric",
+   "width": "640 mm",
+   "depth": "710 mm",
+   "height": "1560 mm",
+   "weight": "55 kg",
+   "electricKw": "1.35 kW",
+   "amps": "5.7 A",
+   "voltage": "230V, 50Hz",
+   "plug": "plug supplied",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "vmaxchipscuttle",
+  "name": "Valentine VMAX Chip Scuttle",
+  "brand": "Valentine",
+  "mpn": "VMAX",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_VMAXCHIPSCUTTLE",
+  "known": {
+   "oilCapacity": "26 litres",
+   "width": "398 mm",
+   "depth": "600 mm",
+   "height": "265 mm",
+   "weight": "16 kg",
+   "electricKw": "0.85 kW",
+   "amps": "4 A",
+   "voltage": "230V"
+  }
+ },
+ {
+  "id": "cs2e",
+  "name": "Archway CS2/E Heated Electric Chip Scuttle With Storage Cupboard",
+  "brand": "Archway",
+  "mpn": "CS2/E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CS2E",
+  "known": {
+   "fuel": "electric",
+   "width": "740 mm",
+   "depth": "710 mm",
+   "height": "1560 mm",
+   "weight": "70 kg",
+   "electricKw": "1.35 kW",
+   "amps": "5.7 A",
+   "voltage": "230V, 50Hz",
+   "plug": "plug supplied",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "vi003s",
+  "name": "Vizu Heated Server - VI003S",
+  "brand": "VIZU",
+  "mpn": "VI003S",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_VI003S",
+  "known": {
+   "width": "802 mm",
+   "depth": "789 mm",
+   "height": "884 mm",
+   "electricKw": "2.1 kW",
+   "amps": "10 A",
+   "voltage": "230V 50Hz",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "visf",
+  "name": "VIZU Super Fries Chip Scuttle - VISF",
+  "brand": "VIZU",
+  "mpn": "VISF",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_VISF",
+  "known": {
+   "width": "1200 mm",
+   "depth": "705 mm",
+   "height": "1570 mm",
+   "electricKw": "2.5 kW",
+   "amps": "11 A",
+   "voltage": "230V 50Hz",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "kxl",
+  "name": "Kuroma XL Counter Top Pressure Fryer - KXL",
+  "brand": "Kuroma",
+  "mpn": "KXL",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_KXL",
+  "known": {
+   "oilCapacity": "15 litres",
+   "electricKw": "3 kW",
+   "amps": "13 A",
+   "voltage": "230v",
+   "plug": "Plug Supplied",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cm111",
+  "name": "Dualit Caterers Contact Grill- Ribbed Top & Flat Base Plate - CM111",
+  "brand": "DUALIT",
+  "mpn": "CM111",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CM111",
+  "known": {
+   "plate": "ribbed",
+   "tempRange": "50°C to 300°C",
+   "weight": "20 kg",
+   "electricKw": "2.2 kW",
+   "voltage": "240V",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "gh482",
+  "name": "Waring GH482 Single Contact Grill",
+  "brand": "Waring",
+  "mpn": "GH482",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GH482",
+  "known": {
+   "thermostat": "true",
+   "width": "439 mm",
+   "depth": "561 mm",
+   "height": "244 mm",
+   "electricKw": "2.4 kW",
+   "amps": "10.4 A",
+   "voltage": "230V",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "cf230",
+  "name": "Waring CF230 Single Ribbed Panini Grill",
+  "brand": "Waring",
+  "mpn": "CF230",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CF230",
+  "known": {
+   "plate": "ribbed",
+   "width": "292 mm",
+   "depth": "394 mm",
+   "height": "235 mm",
+   "voltage": "230v",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "ck7112",
+  "name": "Cater-Cook CK7112 Hot Dog Warmer",
+  "brand": "Cater-Cook",
+  "mpn": "CK7112",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK7112",
+  "known": {
+   "width": "355 mm",
+   "depth": "340 mm",
+   "height": "425 mm",
+   "weight": "6.1 kg",
+   "electricKw": "0.8 kW",
+   "amps": "1.3 A",
+   "voltage": "240V",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "dl750rl",
+  "name": "Hatco DL-750-RL Decorative lamp in Glossy Grey",
+  "brand": "Hatco",
+  "mpn": "DL-750-RL",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DL750RL",
+  "known": {
+   "warranty": "1 year",
+   "finish": "Black"
+  }
+ }
+]

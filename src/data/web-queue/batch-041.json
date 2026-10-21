@@ -1,0 +1,123 @@
+[
+ {
+  "id": "u809",
+  "name": "U809 Olympia Whiteware ½ Half Size Gastronorm",
+  "brand": "Olympia",
+  "mpn": "U809",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_U809",
+  "known": {
+   "gnCapacity": "1/2GN"
+  }
+ },
+ {
+  "id": "dm155",
+  "name": "DM155 Kristallon Melamine 1/6 Gastronorm Dish 100mm",
+  "brand": "Kristallon",
+  "mpn": "DM155",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DM155",
+  "known": {
+   "gnCapacity": "1/6 Gastronorm"
+  }
+ },
+ {
+  "id": "dm151",
+  "name": "DM151 Kristallon Melamine Wide Rim ¼ Gastronorm Platter 65mm",
+  "brand": "Kristallon",
+  "mpn": "DM151",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DM151",
+  "known": {
+   "gnCapacity": "1/4GN"
+  }
+ },
+ {
+  "id": "dm153",
+  "name": "DM153 Kristallon Melamine ½ Gastronorm Dish 100mm",
+  "brand": "Kristallon",
+  "mpn": "DM153",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DM153",
+  "known": {
+   "gnCapacity": "1/2GN"
+  }
+ },
+ {
+  "id": "cc710",
+  "name": "CC710 Dover Bowl",
+  "brand": "Dalebrook",
+  "mpn": "CC710",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CC710",
+  "known": {
+   "volume": "5 litres"
+  }
+ },
+ {
+  "id": "cc711",
+  "name": "CC711 Melamine Dover Tray",
+  "brand": "Dalebrook",
+  "mpn": "CC711",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CC711",
+  "known": {
+   "volume": "1 litres"
+  }
+ },
+ {
+  "id": "cc701",
+  "name": "CC701 Melamine Gastro Dish",
+  "brand": "Dalebrook",
+  "mpn": "CC701",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CC701",
+  "known": {
+   "gnCapacity": "1/1GN"
+  }
+ },
+ {
+  "id": "cc712",
+  "name": "CC712 Angled Dover Bowl",
+  "brand": "Dalebrook",
+  "mpn": "CC712",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CC712",
+  "known": {
+   "volume": "5 litres"
+  }
+ },
+ {
+  "id": "u807",
+  "name": "U807 Olympia Whiteware 1/1 Full Size Gastronorm",
+  "brand": "Olympia",
+  "mpn": "U807",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_U807",
+  "known": {
+   "gnCapacity": "1/1GN"
+  }
+ },
+ {
+  "id": "cc713",
+  "name": "CC713 Dalebrook Three Tier Stand",
+  "brand": "Dalebrook",
+  "mpn": "CC713",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CC713",
+  "known": {
+   "volume": "5 litres",
+   "finish": "Chrome"
+  }
+ },
+ {
+  "id": "dm152",
+  "name": "DM152 Kristallon Melamine 1/6 Gastronorm Dish 65mm",
+  "brand": "Kristallon",
+  "mpn": "DM152",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DM152",
+  "known": {
+   "gnCapacity": "1/6 Gastronorm"
+  }
+ },
+ {
+  "id": "cd719",
+  "name": "CD719 Olympia Whiteware Gastronorm Lid ½ Size",
+  "brand": "Olympia",
+  "mpn": "CD719",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CD719",
+  "known": {
+   "gnCapacity": "1/2GN"
+  }
+ }
+]

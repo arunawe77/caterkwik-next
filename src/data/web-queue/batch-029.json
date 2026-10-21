@@ -1,0 +1,118 @@
+[
+ {
+  "id": "gf157",
+  "name": "GF157 APS Pure Melamine Rectangular Tray 21in",
+  "brand": "APS",
+  "mpn": "GF157",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF157",
+  "known": {}
+ },
+ {
+  "id": "gk649",
+  "name": "GK649 APS Wood Effect Melamine Tray GN 2/4",
+  "brand": "APS",
+  "mpn": "GK649",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GK649",
+  "known": {}
+ },
+ {
+  "id": "gf112",
+  "name": "GF112 APS Global Rectangular Melamine Tray 295mm",
+  "brand": "APS",
+  "mpn": "GF112",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF112",
+  "known": {}
+ },
+ {
+  "id": "gf111",
+  "name": "GF111 APS Global Square Melamine Tray 360mm",
+  "brand": "APS",
+  "mpn": "GF111",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF111",
+  "known": {}
+ },
+ {
+  "id": "gf152",
+  "name": "GF152 APS Pure White Round Melamine Tray",
+  "brand": "APS",
+  "mpn": "GF152",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF152",
+  "known": {}
+ },
+ {
+  "id": "gf113",
+  "name": "GF113 APS Global Rectangular Melamine Tray 345mm",
+  "brand": "APS",
+  "mpn": "GF113",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF113",
+  "known": {}
+ },
+ {
+  "id": "gk645",
+  "name": "GK645 APS Wood Effect Melamine Tray GN 1/1",
+  "brand": "APS",
+  "mpn": "GK645",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GK645",
+  "known": {}
+ },
+ {
+  "id": "gf174",
+  "name": "GF174 APS Pure Melamine Square Tray 20in",
+  "brand": "APS",
+  "mpn": "GF174",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF174",
+  "known": {}
+ },
+ {
+  "id": "922632",
+  "name": "Electrolux Professional Riser on Feet for Stacked 6 x 1/1GN on 6 x 1/1GN Skyline Combi Ovens - 922632",
+  "brand": "Electrolux",
+  "mpn": "922632",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922632",
+  "known": {
+   "gnCapacity": "6 x 1/1GN",
+   "width": "829 mm",
+   "weight": "8.5 kg",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "922633",
+  "name": "Electrolux Professional Riser on Feet for Stacked 6 x 2/1GN on 6 x 2/1GN Skyline Combi Ovens - 922633",
+  "brand": "Electrolux",
+  "mpn": "922633",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922633",
+  "known": {
+   "gnCapacity": "6 x 2/1GN",
+   "width": "1052 mm",
+   "weight": "12 kg",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "922635",
+  "name": "Electrolux Professional Riser on Castors for Stacked 6 x 1/1GN on 6 x 1/1GN Skyline Combi Ovens - 922635",
+  "brand": "Electrolux",
+  "mpn": "922635",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922635",
+  "known": {
+   "gnCapacity": "6 x 1/1GN",
+   "width": "835 mm",
+   "weight": "19 kg",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "922634",
+  "name": "Electrolux Professional Riser on Castors for Stacked 6 x 2/1GN on 6 x 2/1GN Skyline Combi Ovens - 922634",
+  "brand": "Electrolux",
+  "mpn": "922634",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922634",
+  "known": {
+   "gnCapacity": "6 x 2/1GN",
+   "width": "1058 mm",
+   "weight": "21.3 kg",
+   "finish": "stainless steel"
+  }
+ }
+]

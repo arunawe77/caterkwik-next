@@ -1,0 +1,246 @@
+[
+ {
+  "id": "ja939",
+  "name": "Buffalo JA939 Countertop Gas Chargrill 900mm",
+  "brand": "Buffalo",
+  "mpn": "JA939",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_JA939",
+  "known": {
+   "cookingWidth": "900 mm",
+   "plate": "cast iron",
+   "fuel": "gas",
+   "radiant": "radiant",
+   "width": "904 mm",
+   "depth": "640 mm",
+   "height": "390 mm",
+   "weight": "74 kg",
+   "electricKw": "15 kW",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "parrypgc6",
+  "name": "Parry PGC6 Gas Counter-Top Chargrill",
+  "brand": "Parry",
+  "mpn": "PGC6/P",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PARRYPGC6",
+  "known": {
+   "fuel": "gas",
+   "radiant": "lava rock",
+   "thermostat": "true",
+   "width": "600 mm",
+   "depth": "795 mm",
+   "height": "340 mm",
+   "weight": "40 kg",
+   "gasKw": "10.8 kW",
+   "gasConnection": "½ Inch Gas Hose Required",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "fimarb50",
+  "name": "Fimar B50 Heavy Duty Char Grill",
+  "brand": "Fimar",
+  "mpn": "B50",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FIMARB50",
+  "known": {
+   "cookingWidth": "320 mm",
+   "plate": "cast iron",
+   "fuel": "gas",
+   "burners": "3",
+   "radiant": "lava rock",
+   "width": "490 mm",
+   "depth": "700 mm",
+   "height": "380 mm",
+   "weight": "42 kg",
+   "gasKw": "8.5 kW",
+   "finish": "stainless steel body"
+  }
+ },
+ {
+  "id": "archway2bscl",
+  "name": "Archway 2BS/2BL 2 Burner Classic Charcoal Grill",
+  "brand": "Archway",
+  "mpn": "2BS/2BL CLASSIC",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAY2BSCL",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "charcoal",
+   "burners": "2",
+   "width": "620 mm",
+   "depth": "665 mm",
+   "height": "475 mm",
+   "lpgKw": "13.7 kW",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "3 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "g9440",
+  "name": "Falcon F900 G9440 Gas Chargrill",
+  "brand": "Falcon",
+  "mpn": "G9440",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G9440",
+  "known": {
+   "cookingWidth": "800 mm",
+   "plate": "cast iron",
+   "fuel": "gas",
+   "burners": "1",
+   "radiant": "infra-red",
+   "thermostat": "true",
+   "tempRange": "80 - 300°C",
+   "width": "400 mm",
+   "electricKw": "9.5 kW",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cf382n",
+  "name": "Buffalo Freestanding Gas Chargrill - CF382N",
+  "brand": "BUFFALO",
+  "mpn": "CF382N",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CF382N",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "gas",
+   "radiant": "radiant",
+   "width": "610 mm",
+   "depth": "730 mm",
+   "height": "940 mm",
+   "weight": "72 kg",
+   "electricKw": "7.5 kW",
+   "gasConnection": "3/4\" gas connection",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "spo5l2sd",
+  "name": "Smeg Professional Galileo Combi Oven, 5 x 1/1GN - SPO5L2SD",
+  "brand": "Smeg Professional",
+  "mpn": "SPO5L2SD",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SPO5L2SD",
+  "known": {
+   "gnCapacity": "5 x 1/1GN",
+   "steam": "boiler",
+   "programs": "512",
+   "probe": "true",
+   "connectivity": "USB",
+   "width": "790 mm",
+   "depth": "875 mm",
+   "height": "645 mm",
+   "weight": "98 kg",
+   "electricKw": "8 kW",
+   "amps": "17 A",
+   "voltage": "400V, 50Hz",
+   "phase": "three",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "spo10l2sd",
+  "name": "Smeg Professional Galileo Combi Oven, 10 x 1/1GN - SPO10L2SD",
+  "brand": "Smeg Professional",
+  "mpn": "SPO10L2SD",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SPO10L2SD",
+  "known": {
+   "gnCapacity": "10 x 1/1GN",
+   "steam": "boiler",
+   "programs": "512",
+   "probe": "true",
+   "connectivity": "USB",
+   "width": "790 mm",
+   "depth": "840 mm",
+   "height": "1145 mm",
+   "weight": "140 kg",
+   "electricKw": "8 kW",
+   "amps": "17 A",
+   "voltage": "400V, 50Hz",
+   "phase": "three",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "cu479",
+  "name": "Buffalo CU479 600 Series Chip Scuttle",
+  "brand": "Buffalo",
+  "mpn": "CU479",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CU479",
+  "known": {
+   "oilCapacity": "8 litres",
+   "fuel": "electric",
+   "drainValve": "series mounted drain tap",
+   "width": "400 mm",
+   "depth": "600 mm",
+   "height": "240 mm",
+   "weight": "12 kg",
+   "electricKw": "3.4 kW",
+   "voltage": "230V",
+   "hardWired": "true",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "hz266",
+  "name": "Buffalo HZ266 600 Series Freestanding Chip Scuttle",
+  "brand": "Buffalo",
+  "mpn": "HZ266",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HZ266",
+  "known": {
+   "oilCapacity": "8 litres",
+   "fuel": "electric",
+   "drainValve": "series mounted drain tap",
+   "width": "400 mm",
+   "depth": "600 mm",
+   "height": "850 mm",
+   "weight": "24.8 kg",
+   "electricKw": "1 kW",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cs45e",
+  "name": "Blue Seal CS45E Electric Freestanding Chip Scuttle With Ceramic Heating Element",
+  "brand": "Blue Seal",
+  "mpn": "CS45E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CS45E",
+  "known": {
+   "fuel": "electric",
+   "width": "450 mm",
+   "depth": "812 mm",
+   "height": "1220 mm",
+   "weight": "60 kg",
+   "electricKw": "3 kW",
+   "amps": "13 A",
+   "voltage": "240V",
+   "phase": "single",
+   "warranty": "1 year",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "651105",
+  "name": "FriFri Silofrit Built-In Chip Scuttle - 651105",
+  "brand": "FriFri",
+  "mpn": "651105",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_651105",
+  "known": {
+   "fuel": "electric",
+   "width": "400 mm",
+   "depth": "630 mm",
+   "height": "455 mm",
+   "weight": "10.7 kg",
+   "electricKw": "0.65 kW",
+   "amps": "2.8 A",
+   "voltage": "230V, 50Hz",
+   "plug": "Plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ }
+]

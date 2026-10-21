@@ -1,0 +1,228 @@
+[
+ {
+  "id": "blodgettbg20",
+  "name": "BLODGETTBG20Gas Counter Top Conveyor Oven",
+  "brand": "Blodgett",
+  "mpn": "BG20",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BLODGETTBG20",
+  "known": {
+   "pizzaSize": "18\"",
+   "fuel": "gas",
+   "width": "986 mm",
+   "depth": "1067 mm",
+   "height": "536 mm",
+   "amps": "1.5 A",
+   "voltage": "240 V",
+   "phase": "single",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "blodgettbg36gas",
+  "name": "Blodgett BG36 Gas Conveyor Oven",
+  "brand": "Blodgett",
+  "mpn": "BG36",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BLODGETTBG36GAS",
+  "known": {
+   "pizzaSize": "18\"",
+   "fuel": "gas",
+   "width": "1537 mm",
+   "electricKw": "17 kW",
+   "gasKw": "22 kW",
+   "amps": "47 A",
+   "voltage": "208 V",
+   "phase": "three",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "44",
+  "name": "Fimar FES 4+4 Twin Deck Electric Pizza Oven - AFES4+4",
+  "brand": "Fimar",
+  "mpn": "AFES4+4",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_44",
+  "known": {
+   "decks": "2",
+   "pizzaSize": "12 Inch pizza",
+   "stone": "Refractory",
+   "fuel": "electric",
+   "width": "900 mm",
+   "depth": "785 mm",
+   "height": "750 mm",
+   "weight": "136 kg",
+   "electricKw": "8.4 kW",
+   "voltage": "230V, 50Hz",
+   "phase": "three",
+   "hardWired": "true",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "afes66",
+  "name": "Fimar FES 6+6 Twin Deck Electric Pizza Oven - AFES6+6",
+  "brand": "Fimar",
+  "mpn": "AFES6+6",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_AFES66",
+  "known": {
+   "decks": "2",
+   "pizzaSize": "12 Inch pizza",
+   "stone": "Refractory",
+   "fuel": "electric",
+   "width": "900 mm",
+   "depth": "1080 mm",
+   "height": "750 mm",
+   "weight": "159 kg",
+   "electricKw": "14.4 kW",
+   "voltage": "230V, 50Hz",
+   "phase": "three",
+   "hardWired": "true",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "gr110ksilc",
+  "name": "AS Term GR110K-BO Gas Fired Rotating Base Pizza Oven - 8 x 12\" Pizza - Silicone Design",
+  "brand": "AS Term",
+  "mpn": "GR110KSilc",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GR110KSILC",
+  "known": {
+   "pizzaSize": "12\" Pizza",
+   "fuel": "gas",
+   "width": "1710 mm",
+   "depth": "1900 mm",
+   "height": "2050 mm",
+   "weight": "1400 kg",
+   "electricKw": "26 kW",
+   "voltage": "230V",
+   "gasConnection": "3/4\" Gas Hose",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "gr130ksilc",
+  "name": "AS Term GR130K-BO Gas Fired Rotating Base Pizza Oven - 11 x 12\" Pizza - Silicone Design",
+  "brand": "AS Term",
+  "mpn": "GR130K-Silc",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GR130KSILC",
+  "known": {
+   "pizzaSize": "12\" Pizza",
+   "fuel": "gas",
+   "width": "1910 mm",
+   "depth": "2150 mm",
+   "height": "2050 mm",
+   "weight": "1900 kg",
+   "electricKw": "30 kW",
+   "voltage": "230V",
+   "gasConnection": "3/4\" Gas Hose",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "gr130k",
+  "name": "AS Term GR130K-BO Gas Fired Rotating Base Pizza Oven - 11 x 12\" Pizza - Mosaic Design",
+  "brand": "AS Term",
+  "mpn": "GR130K",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GR130K",
+  "known": {
+   "pizzaSize": "12\" Pizza",
+   "fuel": "gas",
+   "width": "1910 mm",
+   "depth": "2150 mm",
+   "height": "2050 mm",
+   "weight": "1900 kg",
+   "electricKw": "30 kW",
+   "voltage": "230V",
+   "gasConnection": "3/4\" Gas Hose",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "raven",
+  "name": "Bradley Raven Smoker",
+  "brand": "Bradley",
+  "mpn": "BS1120BTCE",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_RAVEN",
+  "known": {
+   "width": "508 mm",
+   "depth": "558 mm",
+   "height": "673 mm",
+   "weight": "29.7 kg",
+   "electricKw": "1.2 kW",
+   "voltage": "230V, 50Hz",
+   "plug": "Plug supplied"
+  }
+ },
+ {
+  "id": "fm2",
+  "name": "Roller Grill FM2 Fish/Meat Smoker",
+  "brand": "Roller Grill",
+  "mpn": "FM2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FM2",
+  "known": {
+   "fuel": "electric",
+   "timer": "timer",
+   "width": "715 mm",
+   "depth": "415 mm",
+   "height": "230 mm",
+   "weight": "12 kg",
+   "electricKw": "0.5 kW",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "da226",
+  "name": "Rowlett Single Slice Conveyor Toaster 1300RT - DA226",
+  "brand": "Rowlett Rutland",
+  "mpn": "DA226",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DA226",
+  "known": {
+   "throughput": "400 slices per hour",
+   "width": "320 mm",
+   "depth": "480 mm",
+   "height": "620 mm",
+   "weight": "30 kg",
+   "electricKw": "3 kW",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cj564",
+  "name": "Buffalo CJ564 Commercial Waffle Maker",
+  "brand": "Buffalo",
+  "mpn": "CJ564",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CJ564",
+  "known": {
+   "throughput": "60 Waffles per hour",
+   "timer": "timer for consistency whilst cooking",
+   "thermostat": "60°C - 300°C",
+   "width": "325 mm",
+   "depth": "400 mm",
+   "height": "245 mm",
+   "weight": "10 kg",
+   "amps": "7 A",
+   "voltage": "240V"
+  }
+ },
+ {
+  "id": "rctwm1b",
+  "name": "Hatco - Single Rectangular Waffle Maker - RCTWM-1B",
+  "brand": "Hatco",
+  "mpn": "RCTWM-1B",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_RCTWM1B",
+  "known": {
+   "timer": "timer, temperature and status information, wh",
+   "width": "244 mm",
+   "depth": "366 mm",
+   "height": "203 mm",
+   "electricKw": "0.9 kW",
+   "amps": "4 A",
+   "voltage": "240v",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ }
+]

@@ -1,0 +1,173 @@
+[
+ {
+  "id": "hwb4qt",
+  "name": "Hatco Drop-In 4 Litre Round Models",
+  "brand": "Hatco",
+  "mpn": "HWB-4QT",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HWB4QT",
+  "known": {
+   "volume": "4 litres",
+   "weight": "4 kg",
+   "electricKw": "0.536 kW",
+   "amps": "2.6 A",
+   "voltage": "208V",
+   "plug": "plug supplied"
+  }
+ },
+ {
+  "id": "apmrmb660",
+  "name": "MagiKitchn APM-RMB-660 Counter Top Charbroiler 60\" (W1520mm)",
+  "brand": "MagiKitchn",
+  "mpn": "APM-RMB-660",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_APMRMB660",
+  "known": {
+   "fuel": "gas",
+   "radiant": "radiant",
+   "weight": "256 kg",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "wg100",
+  "name": "Grelhaco WG100 Charcoal chargrill",
+  "brand": "Grelhaco",
+  "mpn": "WG100",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_WG100",
+  "known": {
+   "fuel": "charcoal",
+   "width": "1000 mm",
+   "depth": "600 mm",
+   "height": "900 mm"
+  }
+ },
+ {
+  "id": "memt16002x",
+  "name": "Hallco MEMT16002XNS Single Flat Non Stick Contact Grill",
+  "brand": "Hallco",
+  "mpn": "MEMT16002X",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MEMT16002X",
+  "known": {
+   "plate": "cast iron",
+   "thermostat": "true",
+   "width": "310 mm",
+   "depth": "380 mm",
+   "height": "460 mm",
+   "electricKw": "1.8 kW",
+   "plug": "plug supplied",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "memt17060",
+  "name": "Hallco MEMT17060 Double Flat Ceramic Electric Panini/Contact Grill",
+  "brand": "Hallco",
+  "mpn": "MEMT17060",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MEMT17060",
+  "known": {
+   "fuel": "electric",
+   "radiant": "ceramic",
+   "thermostat": "true",
+   "width": "640 mm",
+   "depth": "480 mm",
+   "height": "520 mm",
+   "electricKw": "1.6 kW",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "hs4",
+  "name": "Rowlett Rutland HS4 4 Spike Hot Dog Roll Warmer",
+  "brand": "Rowlett Rutland",
+  "mpn": "HS4",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HS4",
+  "known": {
+   "thermostat": "Thermostatically controlled",
+   "width": "230 mm",
+   "depth": "330 mm",
+   "height": "400 mm",
+   "electricKw": "0.26 kW",
+   "plug": "plug supplied",
+   "warranty": "1 year",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "ihexagon",
+  "name": "Rational iHexagon 6-Deck High Speed Combination Oven 6-1/1",
+  "brand": "Rational",
+  "mpn": "iHexagon",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_IHEXAGON",
+  "known": {
+   "gnCapacity": "1/1 gastronorm",
+   "humidity": "true",
+   "width": "966 mm",
+   "weight": "154 kg",
+   "electricKw": "20.1 kW",
+   "amps": "87.4 A",
+   "voltage": "400V"
+  }
+ },
+ {
+  "id": "560163",
+  "name": "Alphin Pans Kebab Catcher - 560163",
+  "brand": "Alphin Pans",
+  "mpn": "560163",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_560163",
+  "known": {
+   "fuel": "induction",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "cfecknh",
+  "name": "Cater-Fabs Stainless Steel Kebab Knife Holder",
+  "brand": "CATER-FABS",
+  "mpn": "CFECKNH",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CFECKNH",
+  "known": {
+   "fuel": "induction",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "bag1",
+  "name": "Washable Delivery Bag PBPOLA",
+  "brand": null,
+  "mpn": "PBPOLA",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BAG1",
+  "known": {
+   "fuel": "induction",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "blodgettbg36",
+  "name": "Blodgett BE36 Electric Conveyor Oven",
+  "brand": "Blodgett",
+  "mpn": "BE36",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BLODGETTBG36",
+  "known": {
+   "pizzaSize": "18\"",
+   "fuel": "electric",
+   "width": "1537 mm",
+   "electricKw": "17 kW",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "kj13rh",
+  "name": "KAMADO JOE - Joe Junior - Red Only - KJ123RH",
+  "brand": "Kamado Joe",
+  "mpn": "KJ123RH",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_KJ13RH",
+  "known": {
+   "fuel": "charcoal",
+   "thermostat": "82°C – 399°C",
+   "finish": "Stainless Steel"
+  }
+ }
+]

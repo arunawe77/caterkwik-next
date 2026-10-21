@@ -1,0 +1,139 @@
+[
+ {
+  "id": "acravrack",
+  "name": "Bradley Smoker Cooking Rack for Raven Smoker - ACRAVRACK",
+  "brand": "Bradley Smoker",
+  "mpn": "ACRAVRACK",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ACRAVRACK",
+  "known": {
+   "fuel": "induction",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "acprocover",
+  "name": "Bradley Smoker Weather Resistant Cover for P10",
+  "brand": "Bradley Smoker",
+  "mpn": "ACPROCOVER",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ACPROCOVER",
+  "known": {
+   "fuel": "induction",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "acpronsmat",
+  "name": "Bradley Smoker Magic Mats - Set of 4 - Suitable for the P10 Professional",
+  "brand": "Bradley Smoker",
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ACPRONSMAT",
+  "known": {
+   "fuel": "induction",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "acravnsmat",
+  "name": "Bradley Smoker Magic Mats (Set of 4) for Raven Smokers - ACRAVNSMAT",
+  "brand": "Bradley Smokers",
+  "mpn": "ACRAVNSMAT",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ACRAVNSMAT",
+  "known": {
+   "fuel": "induction",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "acravcover",
+  "name": "Bradley Smoker Weather Resistant Cover for Raven Smoker - ACRAVCOVER",
+  "brand": "Bradley Smoker",
+  "mpn": "ACRAVCOVER",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ACRAVCOVER",
+  "known": {
+   "fuel": "induction",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "acracku",
+  "name": "Bradley Smoker Set of 2 Stainless Steel Racks",
+  "brand": "Bradley Smoker",
+  "mpn": "ACRACKU",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ACRACKU",
+  "known": {
+   "fuel": "induction",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "btcarvkit",
+  "name": "Bradley Smoker Carving Kit",
+  "brand": "Bradley Smokers",
+  "mpn": "BTCARVKIT",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BTCARVKIT",
+  "known": {
+   "fuel": "induction",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "btcold",
+  "name": "Bradley Smoker Cold Smoke Adaptor",
+  "brand": "Bradley",
+  "mpn": "BTCOLD",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BTCOLD",
+  "known": {
+   "fuel": "induction",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "cy995",
+  "name": "Rowlett CY995/DR061/ DR063/ DR065/ Esprit 2 Slot Toaster",
+  "brand": "Rowlett",
+  "mpn": "CY995",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CY995",
+  "known": {
+   "fuel": "electric",
+   "timer": "timer with ringer for when toast is ready",
+   "plates": "2",
+   "weight": "4.3 kg",
+   "electricKw": "1.1 kW",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "dk846",
+  "name": "JM Posner Finest Belgian Style Waffle Mix - DK846",
+  "brand": "JM POSNER",
+  "mpn": "DK846",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DK846",
+  "known": {
+   "weight": "2.3 kg"
+  }
+ },
+ {
+  "id": "fd089",
+  "name": "JM Posner Liquid White Chocolate Mix 6kg - FD089",
+  "brand": null,
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FD089",
+  "known": {
+   "weight": "6 kg",
+   "finish": "white"
+  }
+ },
+ {
+  "id": "snackplates",
+  "name": "Hatco - Snack System Interchangeable Plates - SNACKPLATES",
+  "brand": "Hatco",
+  "mpn": "SNACKPLATES",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SNACKPLATES",
+  "known": {
+   "fuel": "electric",
+   "finish": "Black Finish"
+  }
+ }
+]

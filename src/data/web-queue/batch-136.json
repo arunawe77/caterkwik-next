@@ -1,0 +1,226 @@
+[
+ {
+  "id": "kkgf150",
+  "name": "KK Cooking GF-150 Single Tank Double Basket Gas Fryer",
+  "brand": "KK Cooking",
+  "mpn": "GF-150",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_KKGF150",
+  "known": {
+   "tanks": "1",
+   "fuel": "gas",
+   "baskets": "2",
+   "width": "534 mm",
+   "weight": "83 kg",
+   "electricKw": "44 kW",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ck8311",
+  "name": "Cater-Cook CK8311 23 Litre Single Tank, Twin Basket 4 Tube Commercial LPG Gas Fryer. 120,000 BTUs. - OUT OF STOCK",
+  "brand": "Cater-Cook-Fryer",
+  "mpn": "CK8311",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK8311",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "23 litres",
+   "fuel": "gas",
+   "width": "394 mm",
+   "depth": "762 mm",
+   "height": "1140 mm",
+   "weight": "110 kg",
+   "electricKw": "9 kW",
+   "hardWired": "true",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ifs2525",
+  "name": "Imperial IFS-2525 14 Litre Double Tank, Double Basket Gas Fryer",
+  "brand": "Imperial",
+  "mpn": "IFS-2525",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_IFS2525",
+  "known": {
+   "tanks": "2",
+   "oilCapacity": "14 litres",
+   "fuel": "gas",
+   "thermostat": "93 - 204°C",
+   "drainValve": "full port drain valve empties frypot",
+   "width": "394 mm",
+   "depth": "762 mm",
+   "height": "914 mm",
+   "weight": "104 kg",
+   "gasKw": "41 kW",
+   "gasConnection": "3/4\" BSP",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "ece800",
+  "name": "Chefs Range ECE800 Electric Pressure Fryer with Filtration",
+  "brand": "Chefs Range",
+  "mpn": "ECE800",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ECE800",
+  "known": {
+   "filtration": "true",
+   "fuel": "electric",
+   "computerControl": "digital",
+   "width": "460 mm",
+   "depth": "960 mm",
+   "height": "1230 mm",
+   "electricKw": "13.5 kW",
+   "amps": "20 A",
+   "voltage": "415V",
+   "plug": "32A supply required",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "dy997",
+  "name": "Buffalo Bistro Large Contact Grill – DY997",
+  "brand": "Buffalo",
+  "mpn": "DY997",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DY997",
+  "known": {
+   "width": "380 mm",
+   "depth": "395 mm",
+   "height": "210 mm",
+   "weight": "19.6 kg",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cu608",
+  "name": "Buffalo CU608 Extra Large Contact Grill Ribbed Plate",
+  "brand": "Buffalo",
+  "mpn": "CU608",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CU608",
+  "known": {
+   "plate": "ribbed",
+   "tempRange": "50°C to 300°C",
+   "width": "420 mm",
+   "depth": "310 mm",
+   "height": "200 mm",
+   "weight": "19.4 kg",
+   "electricKw": "2.5 kW",
+   "voltage": "240V",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "cu610",
+  "name": "Buffalo CU610 Extra Large Contact Grill Double Flat Plate",
+  "brand": "Buffalo",
+  "mpn": "CU610",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CU610",
+  "known": {
+   "plate": "cast iron",
+   "tempRange": "50°C to 300°C",
+   "width": "570 mm",
+   "depth": "310 mm",
+   "height": "200 mm",
+   "weight": "25.3 kg",
+   "electricKw": "3.6 kW",
+   "voltage": "240V",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "dy994",
+  "name": "Buffalo Bistro Double Ribbed Contact Grill – DY994",
+  "brand": "Buffalo",
+  "mpn": "DY994",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DY994",
+  "known": {
+   "plate": "ribbed",
+   "width": "550 mm",
+   "depth": "395 mm",
+   "height": "210 mm",
+   "weight": "28 kg",
+   "voltage": "230V",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "cu612",
+  "name": "Buffalo CU612 Double Contact Grill Flat Base Ribbed Top Plate",
+  "brand": "Buffalo",
+  "mpn": "CU612",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CU612",
+  "known": {
+   "plate": "ribbed",
+   "tempRange": "50°C to 300°C",
+   "width": "570 mm",
+   "depth": "310 mm",
+   "height": "200 mm",
+   "weight": "25.4 kg",
+   "electricKw": "3.6 kW",
+   "voltage": "240V",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "cu611",
+  "name": "Buffalo CU611 Double Contact Grill Ribbed Plates",
+  "brand": "Buffalo",
+  "mpn": "CU611",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CU611",
+  "known": {
+   "plate": "ribbed",
+   "tempRange": "50°C to 300°C",
+   "width": "570 mm",
+   "depth": "310 mm",
+   "height": "200 mm",
+   "weight": "27.9 kg",
+   "electricKw": "3.6 kW",
+   "voltage": "240V",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "brrcg2",
+  "name": "Blizzard BRRCG2 Commercial Double Contact Grill - Ribbed Top & Bottom",
+  "brand": "Blizzard",
+  "mpn": "BRRCG2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BRRCG2",
+  "known": {
+   "plate": "ribbed",
+   "thermostat": "true",
+   "tempRange": "50°C to 300°C",
+   "width": "570 mm",
+   "depth": "395 mm",
+   "height": "210 mm",
+   "weight": "28 kg",
+   "electricKw": "1.8 kW",
+   "amps": "13 A",
+   "plug": "plug supplied",
+   "warranty": "1 year",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "memt16050x",
+  "name": "Hallco MEMT16050XNS Non Stick Double Ribbed Contact Grill",
+  "brand": "Hallco",
+  "mpn": "MEMT16050XNS",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MEMT16050X",
+  "known": {
+   "plate": "ribbed",
+   "thermostat": "true",
+   "width": "630 mm",
+   "depth": "380 mm",
+   "height": "460 mm",
+   "weight": "20 kg",
+   "electricKw": "3.6 kW",
+   "amps": "13 A",
+   "plug": "13A plug",
+   "warranty": "1 year"
+  }
+ }
+]

@@ -1,0 +1,189 @@
+[
+ {
+  "id": "e514d",
+  "name": "Blue Seal E514D 4 Element Cooktop",
+  "brand": "Blue Seal",
+  "mpn": "E514D",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_E514D",
+  "known": {
+   "fuel": "electric",
+   "width": "600 mm",
+   "depth": "812 mm",
+   "height": "315 mm",
+   "electricKw": "9.6 kW",
+   "amps": "20 A",
+   "voltage": "415V",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "stainless steel finish"
+  }
+ },
+ {
+  "id": "e514c",
+  "name": "Blue Seal E514C 2 Element/300mm Griddle Cooktop",
+  "brand": "Blue Seal",
+  "mpn": "E514C",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_E514C",
+  "known": {
+   "fuel": "electric",
+   "width": "600 mm",
+   "depth": "812 mm",
+   "height": "315 mm",
+   "electricKw": "8.2 kW",
+   "amps": "20 A",
+   "voltage": "415V",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "stainless steel finish"
+  }
+ },
+ {
+  "id": "gg740",
+  "name": "Grill Guru Pizza Cutter",
+  "brand": "Grill Guru",
+  "mpn": "GG740",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GG740",
+  "known": {
+   "fuel": "electric",
+   "burners": "4",
+   "radiant": "infrared",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "gg130",
+  "name": "Grill Guru Kamado Compact Drip Pan",
+  "brand": "Grill Guru",
+  "mpn": "GG130",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GG130",
+  "known": {
+   "fuel": "electric",
+   "burners": "4",
+   "radiant": "infrared",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "gg325",
+  "name": "Grill Guru Kamado Medium Drip Pan",
+  "brand": "Grill Guru",
+  "mpn": "gg325",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GG325",
+  "known": {
+   "fuel": "electric",
+   "burners": "4",
+   "radiant": "ceramic",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "gg129d",
+  "name": "Grill Guru Large Kamado Drip Pan",
+  "brand": "Grill Guru",
+  "mpn": "GG129D",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GG129D",
+  "known": {
+   "fuel": "electric",
+   "burners": "4",
+   "radiant": "infrared",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "gg326",
+  "name": "Grill Guru Kamado Drip Pan XL",
+  "brand": "Grill Guru",
+  "mpn": "GG326",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GG326",
+  "known": {
+   "fuel": "electric",
+   "burners": "4",
+   "radiant": "ceramic",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "jd343",
+  "name": "Buffalo JD343 Medium Konro Hibachi Grill",
+  "brand": "Buffalo",
+  "mpn": "JD343",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_JD343",
+  "known": {
+   "radiant": "ceramic",
+   "tempRange": "107°C to 350°C",
+   "width": "465 mm",
+   "depth": "355 mm",
+   "height": "210 mm",
+   "weight": "13 kg",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "c9c",
+  "name": "Blue Seal C9C Cobra Series 4 Burner/300mm Griddle Cooktop",
+  "brand": "Blue Seal",
+  "mpn": "C9C",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_C9C",
+  "known": {
+   "fuel": "gas",
+   "width": "900 mm",
+   "depth": "800 mm",
+   "height": "915 mm",
+   "electricKw": "5.5 kW",
+   "gasKw": "27.5 kW",
+   "lpgKw": "25.5 kW",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "Stainless steel finish"
+  }
+ },
+ {
+  "id": "ce135",
+  "name": "Sammic CE-135 Crepe Machine - 5130512",
+  "brand": "Sammic",
+  "mpn": "CE135",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CE135",
+  "known": {
+   "width": "425 mm",
+   "depth": "505 mm",
+   "height": "145 mm",
+   "voltage": "230 V",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "ce235",
+  "name": "Sammic CE-235 Crepe Machine - 5130527",
+  "brand": "Sammic",
+  "mpn": "CE235",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CE235",
+  "known": {
+   "width": "835 mm",
+   "depth": "505 mm",
+   "height": "145 mm",
+   "voltage": "230 V",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "psf600g",
+  "name": "Roller Grill PSF600G Cast Iron Griddle",
+  "brand": null,
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PSF600G",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "gas",
+   "tempRange": "40 - 300°C",
+   "width": "600 mm",
+   "depth": "475 mm",
+   "height": "230 mm",
+   "weight": "33 kg",
+   "electricKw": "6.4 kW",
+   "warranty": "2 years"
+  }
+ }
+]

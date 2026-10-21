@@ -1,0 +1,142 @@
+[
+ {
+  "id": "cb104",
+  "name": "Krampouz Electric Crepe Maker - CB104",
+  "brand": null,
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CB104",
+  "known": {
+   "fuel": "electric",
+   "weight": "16 kg",
+   "voltage": "230 v",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "10183",
+  "name": "Matfer Bourgeat Elite PRO Frying Pan - 10183",
+  "brand": "Matfer",
+  "mpn": "10183",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_10183",
+  "known": {
+   "volume": "2 litres",
+   "fuel": "induction",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "f013",
+  "name": "F013 Pizza Screen 12in",
+  "brand": "Vogue",
+  "mpn": "F013",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_F013",
+  "known": {
+   "pizzaSize": "12in",
+   "maxTemp": "350 °C"
+  }
+ },
+ {
+  "id": "f012",
+  "name": "F012 Pizza Screen 10in",
+  "brand": "Vogue",
+  "mpn": "F012",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_F012",
+  "known": {
+   "pizzaSize": "10in",
+   "maxTemp": "350 °C"
+  }
+ },
+ {
+  "id": "tbhbcred",
+  "name": "Alphin Pans Nylon Delivery Bag",
+  "brand": "Alphin Pans",
+  "mpn": "TBHBCRED",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_TBHBCRED",
+  "known": {
+   "pizzaSize": "13\""
+  }
+ },
+ {
+  "id": "tbnyl171713",
+  "name": "Alphin Pans Nylon Delivery bag W/Strap",
+  "brand": "Alphin Pans",
+  "mpn": "TBNYL171713",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_TBNYL171713",
+  "known": {
+   "pizzaSize": "17\""
+  }
+ },
+ {
+  "id": "tbhbclarge",
+  "name": "Alphin Pans Nylon Delivery Bag W/Shoulder Strap",
+  "brand": "Alphin Pans",
+  "mpn": "TBHBCLARGE",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_TBHBCLARGE",
+  "known": {
+   "pizzaSize": "20\""
+  }
+ },
+ {
+  "id": "rc01ss",
+  "name": "Alphin Pans Rocker Chopper - RC.01.SS",
+  "brand": "Alphin Pans",
+  "mpn": "RC.01.SS",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_RC01SS",
+  "known": {
+   "pizzaSize": "18 Inch",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "gc908",
+  "name": "GC908 APS Frames Maple Wood 1/1 GN Slotted Cutting Board",
+  "brand": "APS",
+  "mpn": "GC908",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GC908",
+  "known": {
+   "gnCapacity": "1/1 GN",
+   "width": "325 mm",
+   "depth": "530 mm",
+   "height": "24 mm"
+  }
+ },
+ {
+  "id": "gc906",
+  "name": "GC906 APS Frames Maple Wood 1/1 GN Bowl Board",
+  "brand": "APS",
+  "mpn": "GC906",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GC906",
+  "known": {
+   "gnCapacity": "1/1 GN",
+   "width": "325 mm",
+   "depth": "530 mm",
+   "height": "24 mm"
+  }
+ },
+ {
+  "id": "gc920",
+  "name": "GC920 APS Frames Dark Wood Large Square Buffet Bowl Box",
+  "brand": "APS",
+  "mpn": "GC920",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GC920",
+  "known": {
+   "width": "265 mm",
+   "depth": "265 mm",
+   "height": "85 mm",
+   "weight": "2.35 kg"
+  }
+ },
+ {
+  "id": "gc915",
+  "name": "GC915 APS Frames Maple Wood Rectangular Small Bowl Base",
+  "brand": "APS",
+  "mpn": "GC915",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GC915",
+  "known": {
+   "width": "176 mm",
+   "depth": "530 mm",
+   "height": "85 mm",
+   "weight": "2.66 kg"
+  }
+ }
+]

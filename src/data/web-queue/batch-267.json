@@ -1,0 +1,252 @@
+[
+ {
+  "id": "ciboplus",
+  "name": "TCIBOPLUS/B",
+  "brand": "Lincat",
+  "mpn": "TCIBOPLUS/B",
+  "caterkwikUrl": null,
+  "known": {
+   "width": "395 mm",
+   "depth": "665 mm",
+   "height": "640 mm",
+   "weight": "52 kg",
+   "electricKw": "3 kW",
+   "amps": "20 A",
+   "voltage": "230V",
+   "phase": "single",
+   "warranty": "2 years",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "bco1",
+  "name": "BCO1",
+  "brand": "Blizzard",
+  "mpn": "BCO1",
+  "caterkwikUrl": null,
+  "known": {
+   "trays": "4 x 315 x 440mm",
+   "door": "double-glazed door and internal light,",
+   "timer": "Timer",
+   "width": "595 mm",
+   "depth": "594 mm",
+   "height": "585 mm",
+   "weight": "41 kg",
+   "electricKw": "2.67 kW",
+   "amps": "13 A",
+   "warranty": "1 year",
+   "finish": "Stainless Steel construction"
+  }
+ },
+ {
+  "id": "cw863",
+  "name": "CW863",
+  "brand": "Buffalo",
+  "mpn": "CW863",
+  "caterkwikUrl": null,
+  "known": {
+   "gnCapacity": "2/3 GN",
+   "tempRange": "50 - 250°C",
+   "door": "Double-Glazed Door To Reduce Heat Loss",
+   "timer": "Timer Range",
+   "width": "620 mm",
+   "depth": "600 mm",
+   "height": "400 mm",
+   "weight": "30.5 kg",
+   "electricKw": "1.1 kW",
+   "amps": "7 A",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "aliseo23",
+  "name": "Aliseo 2/3",
+  "brand": "Sirman",
+  "mpn": "Aliseo 2/3",
+  "caterkwikUrl": null,
+  "known": {
+   "trays": "4 shelves",
+   "gnCapacity": "1/1 GN",
+   "tempRange": "25°C to 300°C",
+   "timer": "Timer up to 120 minutes",
+   "width": "600 mm",
+   "depth": "570 mm",
+   "height": "515 mm",
+   "electricKw": "2.25 kW",
+   "amps": "3 A",
+   "phase": "three",
+   "plug": "plug supplied",
+   "warranty": "1 year",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "bks",
+  "name": "Bake King Solo",
+  "brand": "King Edward",
+  "mpn": "Bake King Solo",
+  "caterkwikUrl": null,
+  "known": {
+   "gnCapacity": "2/3 GN",
+   "timer": "timer",
+   "width": "510 mm",
+   "depth": "580 mm",
+   "height": "645 mm",
+   "weight": "40 kg",
+   "electricKw": "2.645 kW",
+   "amps": "13 A",
+   "voltage": "230V, 50Hz",
+   "plug": "Plug supplied",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "xefr03hseldv",
+  "name": "XEFR-03HS-ELDV-GB",
+  "brand": "Unox",
+  "mpn": "XEFR-03HS-ELDV-GB",
+  "caterkwikUrl": null,
+  "known": {
+   "trays": "3 Tray - 460 x 330 Trays",
+   "tempRange": "60°C to 260°C",
+   "humidity": "true",
+   "door": "glass door",
+   "width": "600 mm",
+   "depth": "669 mm",
+   "height": "425 mm",
+   "weight": "36 kg",
+   "electricKw": "3 kW",
+   "amps": "13 A",
+   "voltage": "230V, 50Hz",
+   "plug": "Plug supplied"
+  }
+ },
+ {
+  "id": "xefr04hseldvgb",
+  "name": "XEFR-04HS-ELDV-GB",
+  "brand": "Unox",
+  "mpn": "XEFR-04HS-ELDV-GB",
+  "caterkwikUrl": null,
+  "known": {
+   "trays": "4 Tray - 460 x 330 Trays",
+   "tempRange": "60°C to 260°C",
+   "humidity": "true",
+   "door": "glass door",
+   "width": "600 mm",
+   "depth": "669 mm",
+   "height": "500 mm",
+   "weight": "36 kg",
+   "electricKw": "3 kW",
+   "amps": "13 A",
+   "voltage": "230V, 50Hz",
+   "plug": "Plug supplied"
+  }
+ },
+ {
+  "id": "bakeking",
+  "name": "Bake King",
+  "brand": "King Edward",
+  "mpn": "Bake King",
+  "caterkwikUrl": null,
+  "known": {
+   "timer": "timer",
+   "width": "510 mm",
+   "depth": "580 mm",
+   "height": "810 mm",
+   "weight": "42 kg",
+   "electricKw": "2.98 kW",
+   "amps": "13 A",
+   "voltage": "230V, 50Hz",
+   "plug": "plug supplied",
+   "warranty": "1 year",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "blueseale27m2",
+  "name": "E27M2",
+  "brand": "Blue Seal",
+  "mpn": "E27M2",
+  "caterkwikUrl": null,
+  "known": {
+   "trays": "2 tray full size sheet pan oven",
+   "tempRange": "50 - 260°C",
+   "timer": "timer with time up alarm",
+   "width": "810 mm",
+   "depth": "762 mm",
+   "height": "607 mm",
+   "weight": "60.2 kg",
+   "electricKw": "3 kW",
+   "amps": "12 A",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "xefr03hsem",
+  "name": "Bakerlux Shop,Pro Master",
+  "brand": "Unox",
+  "mpn": "Bakerlux Shop,Pro Master",
+  "caterkwikUrl": null,
+  "known": {
+   "trays": "3 x 460 x 300mm Trays",
+   "tempRange": "60°C to 260°C",
+   "humidity": "true",
+   "door": "glass door",
+   "timer": "timer function",
+   "width": "600 mm",
+   "depth": "669 mm",
+   "height": "427 mm",
+   "weight": "36 kg",
+   "electricKw": "3 kW",
+   "voltage": "230V, 50Hz",
+   "plug": "Plug Supplied"
+  }
+ },
+ {
+  "id": "e27d3",
+  "name": "E27D3",
+  "brand": "Blue seal",
+  "mpn": "E27D3",
+  "caterkwikUrl": null,
+  "known": {
+   "trays": "3 x 460 x 660mm full size sheets",
+   "humidity": "true",
+   "programs": "20",
+   "door": "drop down door",
+   "timer": "timer",
+   "width": "810 mm",
+   "depth": "762 mm",
+   "height": "607 mm",
+   "weight": "79.5 kg",
+   "electricKw": "4.5 kW",
+   "warranty": "2 years",
+   "finish": "Vitreous enamel"
+  }
+ },
+ {
+  "id": "xefr04eueldv",
+  "name": "XEFR-04EU-ELDV",
+  "brand": "Unox",
+  "mpn": "XEFR-04EU-ELDV",
+  "caterkwikUrl": null,
+  "known": {
+   "trays": "4 Tray - 600 x 400 Trays",
+   "tempRange": "60°C to 260°C",
+   "humidity": "true",
+   "door": "glass door",
+   "width": "800 mm",
+   "depth": "881 mm",
+   "height": "500 mm",
+   "weight": "57 kg",
+   "electricKw": "6.9 kW",
+   "voltage": "415V, 50Hz",
+   "phase": "three",
+   "hardWired": "true"
+  }
+ }
+]

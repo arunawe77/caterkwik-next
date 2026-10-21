@@ -1,0 +1,123 @@
+[
+ {
+  "id": "cc708",
+  "name": "CC708 2Ltr Dover Bowl",
+  "brand": "Dalebrook",
+  "mpn": "CC708",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CC708",
+  "known": {
+   "volume": "2 litres"
+  }
+ },
+ {
+  "id": "gf099",
+  "name": "GF099 APS Float Black Square Bowl 10in",
+  "brand": "APS",
+  "mpn": "GF099",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF099",
+  "known": {
+   "volume": "4 litres"
+  }
+ },
+ {
+  "id": "gf098",
+  "name": "GF098 APS Float White Square Bowl 10in",
+  "brand": "APS",
+  "mpn": "GF098",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF098",
+  "known": {
+   "volume": "4 litres"
+  }
+ },
+ {
+  "id": "gf139",
+  "name": "GF139 APS Pure Melamine Black Square Bowl 250mm",
+  "brand": "APS",
+  "mpn": "GF139",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF139",
+  "known": {
+   "volume": "3.8 litres"
+  }
+ },
+ {
+  "id": "gf138",
+  "name": "GF138 APS Pure Melamine White Square Bowl 250mm",
+  "brand": "APS",
+  "mpn": "GF138",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF138",
+  "known": {
+   "volume": "3.8 litres"
+  }
+ },
+ {
+  "id": "gk819",
+  "name": "GK819 APS Slate Effect Melamine Bowl",
+  "brand": "APS",
+  "mpn": "GK819",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GK819",
+  "known": {
+   "volume": "3.8 litres"
+  }
+ },
+ {
+  "id": "gh378",
+  "name": "GH378 APS White Counter System 220 x 145 x 90mm",
+  "brand": "APS",
+  "mpn": "GH378",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GH378",
+  "known": {
+   "volume": "1.7 litres",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "cc722",
+  "name": "CC722 Melamine Dressing Pot",
+  "brand": "Dalebrook",
+  "mpn": "CC722",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CC722",
+  "known": {
+   "volume": "1 litres"
+  }
+ },
+ {
+  "id": "y248",
+  "name": "Y248 Carlisle Black Melamine Platter",
+  "brand": "Carlisle",
+  "mpn": "Y248",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_Y248",
+  "known": {
+   "gnCapacity": "1/1GN"
+  }
+ },
+ {
+  "id": "y249",
+  "name": "Y249 Carlisle White Melamine Platter",
+  "brand": "Carlisle",
+  "mpn": "Y249",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_Y249",
+  "known": {
+   "gnCapacity": "1/1GN"
+  }
+ },
+ {
+  "id": "gf127",
+  "name": "GF127 APS Pure Black Melamine Tray GN ¼",
+  "brand": "APS",
+  "mpn": "GF127",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF127",
+  "known": {
+   "gnCapacity": "1/4GN"
+  }
+ },
+ {
+  "id": "gf126",
+  "name": "GF126 APS Pure White Melamine Tray GN ¼",
+  "brand": "APS",
+  "mpn": "GF126",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF126",
+  "known": {
+   "gnCapacity": "1/4GN"
+  }
+ }
+]

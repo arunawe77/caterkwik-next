@@ -1,0 +1,135 @@
+[
+ {
+  "id": "m924",
+  "name": "Vogue Stainless Steel Induction Frying Pan 200mm - M924",
+  "brand": "Vogue",
+  "mpn": "M924",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_M924",
+  "known": {
+   "volume": "1 litres",
+   "fuel": "induction",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "gj557",
+  "name": "Olympia GJ557 Cast Iron Sizzle Platter",
+  "brand": "Olympia",
+  "mpn": "GJ557",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GJ557",
+  "known": {
+   "fuel": "induction",
+   "width": "280 mm",
+   "weight": "1.7 kg"
+  }
+ },
+ {
+  "id": "m943",
+  "name": "M943 Vogue Stainless Steel Saucepan 1.5Ltr",
+  "brand": "Vogue",
+  "mpn": "M943",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_M943",
+  "known": {
+   "volume": "1.5 litres",
+   "fuel": "induction",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "y320",
+  "name": "Vogue Y320 Tri Wall Induction Frying Pan 240mm",
+  "brand": "Vogue",
+  "mpn": "Y719",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_Y320",
+  "known": {
+   "volume": "1.95 litres",
+   "fuel": "induction",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "m942",
+  "name": "Vogue Stainless Steel Stew pan 12.5Ltr - M942",
+  "brand": "Vogue",
+  "mpn": "M942",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_M942",
+  "known": {
+   "volume": "12.5 litres",
+   "fuel": "induction",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "l240",
+  "name": "Matfer Bourgeat Tradition Fry Pan",
+  "brand": "Matfer Bourgeat",
+  "mpn": "10226-02",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_L240",
+  "known": {
+   "fuel": "induction",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "560300",
+  "name": "Alphin Pans Stainless Steel Pasta Basket - 560300",
+  "brand": "Alphin Pans",
+  "mpn": "560300",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_560300",
+  "known": {
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "560301",
+  "name": "Alphin Pans Stainless Steel Pasta Basket - 560301",
+  "brand": "Alphin Pans",
+  "mpn": "560301",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_560301",
+  "known": {
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "wdpb037",
+  "name": "TG - Wood Handle Pizza Oven Brush 940mm",
+  "brand": "Thunder Group",
+  "mpn": "WDPB037",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_WDPB037",
+  "known": {
+   "pizzaSize": "37\"",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "sltwpc002",
+  "name": "TG - 64mm / 2 ½\" Pizza Cutter, Plastic Handle",
+  "brand": "Thunder Group",
+  "mpn": "SLTWPC002",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SLTWPC002",
+  "known": {
+   "pizzaSize": "2\"",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "alptcs008",
+  "name": "TG - 8\" 203mm Coupe Style Pizza Tray",
+  "brand": "Thunder Group",
+  "mpn": "ALPTCS008",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ALPTCS008",
+  "known": {
+   "pizzaSize": "8\""
+  }
+ },
+ {
+  "id": "alptcs009",
+  "name": "TG - 9\" 229mm Coupe Style Pizza Tray / Pan",
+  "brand": "Thunder Group",
+  "mpn": "ALPTCS009",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ALPTCS009",
+  "known": {
+   "pizzaSize": "9\""
+  }
+ }
+]

@@ -1,0 +1,239 @@
+[
+ {
+  "id": "og8401",
+  "name": "Lincat Opus 800 OG8401 Gas Chargrill",
+  "brand": "Lincat",
+  "mpn": "OG8401",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_OG8401",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "gas",
+   "radiant": "infra-red",
+   "width": "600 mm",
+   "depth": "800 mm",
+   "height": "653 mm",
+   "weight": "90 kg",
+   "electricKw": "13.8 kW",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "g594",
+  "name": "Blue Seal Evolution G594 Gas Chargrill - Natural Gas",
+  "brand": "Blue Seal",
+  "mpn": "G594",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G594",
+  "known": {
+   "cookingWidth": "450 mm",
+   "plate": "cast iron",
+   "fuel": "gas",
+   "splashback": "true",
+   "width": "600 mm",
+   "depth": "812 mm",
+   "height": "585 mm",
+   "weight": "99 kg",
+   "electricKw": "9.8 kW",
+   "gasKw": "14.4 kW",
+   "gasConnection": "3/4 Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "irb24",
+  "name": "Imperial 24' Gas Countertop Chargrill - IRB-24",
+  "brand": "Imperial",
+  "mpn": "IRB-24",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_IRB24",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "gas",
+   "radiant": "radiant",
+   "width": "610 mm",
+   "depth": "796 mm",
+   "height": "247 mm",
+   "weight": "118 kg",
+   "gasKw": "4 kW",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "irb36",
+  "name": "Imperial 36' Gas Countertop Chargrill - IRB-36",
+  "brand": "Imperial",
+  "mpn": "IRB-36",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_IRB36",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "gas",
+   "radiant": "radiant",
+   "width": "914 mm",
+   "depth": "796 mm",
+   "height": "247 mm",
+   "weight": "159 kg",
+   "gasKw": "4 kW",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ck110",
+  "name": "Buffalo CK110 Smart Touchscreen Compact Combi Oven 6 x GN 1/1",
+  "brand": null,
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK110",
+  "known": {
+   "gnCapacity": "6 x 1/1 Gastronorm",
+   "autoClean": "true",
+   "probe": "true",
+   "width": "720 mm",
+   "depth": "620 mm",
+   "height": "665 mm",
+   "weight": "70 kg",
+   "electricKw": "7.2 kW",
+   "amps": "31 A",
+   "voltage": "400V",
+   "hardWired": "true",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "fc255",
+  "name": "Buffalo Single Tank Single Basket 3Ltr Countertop Fryer 2kW - FC255",
+  "brand": "Buffalo",
+  "mpn": "FC255",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FC255",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "3 litres",
+   "width": "180 mm",
+   "depth": "410 mm",
+   "height": "295 mm",
+   "weight": "3.5 kg",
+   "electricKw": "2 kW",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "msf8",
+  "name": "Hallco MSF8 Large Single Tank / Basket Electric Counter-top Fryer",
+  "brand": "Hallco",
+  "mpn": "MSF8",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MSF8",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "6 litres",
+   "fuel": "electric",
+   "drainValve": "ddition of a useful tank drain tap for ease of em",
+   "computerControl": "thermostatic control",
+   "electricKw": "2.5 kW",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "msf8t",
+  "name": "Hallco MSF8T Large Single Tank / Basket Countertop Electric Fryer with Tap",
+  "brand": "Hallco",
+  "mpn": "MSF8T",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MSF8T",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "6 litres",
+   "fuel": "electric",
+   "drainValve": "Drain Tap",
+   "computerControl": "thermostatic control",
+   "electricKw": "2.5 kW",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "bf8",
+  "name": "Blizzard BF8 Electric Counter Top Electric Fryer with Tap",
+  "brand": "BLIZZARD",
+  "mpn": "BF8",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BF8",
+  "known": {
+   "oilCapacity": "8 litres",
+   "fuel": "electric",
+   "thermostat": "50 to 190°C",
+   "drainValve": "Drain tap",
+   "width": "290 mm",
+   "depth": "470 mm",
+   "height": "405 mm",
+   "weight": "11 kg",
+   "amps": "13 A",
+   "plug": "plug supplied",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "fr15",
+  "name": "Roband FR15 Frypod - 5 Litre Capacity",
+  "brand": "Roband",
+  "mpn": "FR15",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FR15",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "5 litres",
+   "thermostat": "25C to 180C",
+   "computerControl": "thermostat control",
+   "width": "290 mm",
+   "depth": "480 mm",
+   "height": "335 mm",
+   "electricKw": "2.3 kW",
+   "amps": "13 A",
+   "voltage": "230V, 50hz",
+   "plug": "Plug supplied",
+   "warranty": "1 year",
+   "finish": "stainless steel finish"
+  }
+ },
+ {
+  "id": "profi6",
+  "name": "FriFri Profi+ 6 Single Tank Counter Top Electric Fryer",
+  "brand": "FriFri",
+  "mpn": "Profi+ 6",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PROFI6",
+  "known": {
+   "tanks": "1",
+   "fuel": "electric",
+   "thermostat": "150 to 190°C",
+   "drainValve": "Front drain valve",
+   "computerControl": "digital",
+   "width": "270 mm",
+   "depth": "475 mm",
+   "height": "456 mm",
+   "electricKw": "4.6 kW",
+   "amps": "13 A",
+   "voltage": "400V",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cu618",
+  "name": "Buffalo CU618 Twin Tank Basket Fryer 2x5Ltr Countertop Fryer 2x2.8kW",
+  "brand": "Buffalo",
+  "mpn": "CU618",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CU618",
+  "known": {
+   "tanks": "2",
+   "computerControl": "digital",
+   "width": "540 mm",
+   "depth": "410 mm",
+   "height": "320 mm",
+   "weight": "9.5 kg",
+   "amps": "13 A",
+   "voltage": "240V",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ }
+]

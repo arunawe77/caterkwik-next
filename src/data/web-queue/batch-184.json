@@ -1,0 +1,245 @@
+[
+ {
+  "id": "gr40vc",
+  "name": "Roller Grill GR40VC Infrared 2 Burner Electric Kebab Machine",
+  "brand": "Roller Grill",
+  "mpn": "GR40VC",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GR40VC",
+  "known": {
+   "fuel": "electric",
+   "capacityKg": "15 kg",
+   "width": "580 mm",
+   "depth": "660 mm",
+   "height": "695 mm",
+   "weight": "27 kg",
+   "electricKw": "3.6 kW",
+   "phase": "single",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "archwaycpt2burner",
+  "name": "Archway 2CPT 2 Burner Compact Doner Kebab Grill",
+  "brand": "Archway",
+  "mpn": "2CPT",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAYCPT2BURNER",
+  "known": {
+   "fuel": "gas",
+   "plates": "1",
+   "width": "390 mm",
+   "depth": "605 mm",
+   "height": "920 mm",
+   "weight": "25 kg",
+   "amps": "5 A",
+   "lpgKw": "5.6 kW",
+   "voltage": "230V 50HZ",
+   "warranty": "3 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "archway3burner",
+  "name": "Archway 3BSTD 3 Burner Doner Kebab Grill",
+  "brand": "Archway",
+  "mpn": "3BSTD",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAY3BURNER",
+  "known": {
+   "fuel": "gas",
+   "plates": "1",
+   "width": "565 mm",
+   "depth": "655 mm",
+   "height": "915 mm",
+   "weight": "35 kg",
+   "amps": "5 A",
+   "lpgKw": "8.4 kW",
+   "voltage": "230V 50HZ",
+   "warranty": "3 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "archway4burner",
+  "name": "Archway 4BSTD 4 Burner Doner Kebab Grill",
+  "brand": "Archway",
+  "mpn": "4BSTD",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAY4BURNER",
+  "known": {
+   "fuel": "gas",
+   "plates": "1",
+   "width": "565 mm",
+   "depth": "655 mm",
+   "height": "1100 mm",
+   "weight": "40 kg",
+   "amps": "5 A",
+   "lpgKw": "11.12 kW",
+   "voltage": "230V 50HZ",
+   "gasConnection": "1/2\" BSP",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "archwaycpt3burner",
+  "name": "Archway 3CPT 3 Burner Compact Doner Kebab Grill",
+  "brand": "Archway",
+  "mpn": "3CPT",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAYCPT3BURNER",
+  "known": {
+   "fuel": "gas",
+   "plates": "1",
+   "width": "390 mm",
+   "depth": "605 mm",
+   "height": "1100 mm",
+   "weight": "30 kg",
+   "amps": "5 A",
+   "lpgKw": "8.4 kW",
+   "voltage": "230V 50HZ",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "archwaytwin2burner",
+  "name": "Archway 2BT 2 Burner Twin Doner Kebab Grill",
+  "brand": "Archway",
+  "mpn": "2BT",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAYTWIN2BURNER",
+  "known": {
+   "fuel": "gas",
+   "plates": "2",
+   "width": "820 mm",
+   "depth": "605 mm",
+   "height": "915 mm",
+   "weight": "50 kg",
+   "amps": "5 A",
+   "lpgKw": "11.2 kW",
+   "voltage": "230V 50HZ",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "archwaytwin3burner",
+  "name": "Archway 3BT 3 Burner Twin Doner Kebab Grill",
+  "brand": "Archway",
+  "mpn": "3BT",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAYTWIN3BURNER",
+  "known": {
+   "fuel": "gas",
+   "plates": "2",
+   "width": "820 mm",
+   "depth": "605 mm",
+   "height": "1100 mm",
+   "weight": "70 kg",
+   "amps": "5 A",
+   "lpgKw": "16.8 kW",
+   "voltage": "230V 50HZ",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "buffaloj300",
+  "name": "Buffalo J300 Premium Commercial Rice Cooker 6Ltr",
+  "brand": "Buffalo",
+  "mpn": "J300",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BUFFALOJ300",
+  "known": {
+   "volume": "6 litres",
+   "fuel": "electric",
+   "width": "460 mm",
+   "depth": "400 mm",
+   "height": "345 mm",
+   "weight": "10.4 kg",
+   "electricKw": "1.95 kW",
+   "amps": "8.5 A",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "white"
+  }
+ },
+ {
+  "id": "maestrowavemrfw20l",
+  "name": "Hallco MRFW20L Rice Warmer",
+  "brand": "Hallco",
+  "mpn": "MRFW20L",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MAESTROWAVEMRFW20L",
+  "known": {
+   "volume": "20 litres",
+   "fuel": "induction",
+   "tap": "true",
+   "weight": "18 kg",
+   "electricKw": "0.84 kW",
+   "amps": "13 A",
+   "warranty": "1 year",
+   "finish": "STAINLESS STEEL"
+  }
+ },
+ {
+  "id": "zanolli0640ve",
+  "name": "Zanolli Synthesis 06/40V E Electric Conveyor Oven (16\"/40cm)",
+  "brand": "Zanolli",
+  "mpn": "06/40V Electric",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ZANOLLI0640VE",
+  "known": {
+   "pizzaSize": "16\"",
+   "chamber": "chamber dimensions: W400 x D580 x H95mm",
+   "belt": "580 mm",
+   "fuel": "electric",
+   "width": "980 mm",
+   "depth": "1300 mm",
+   "height": "440 mm",
+   "weight": "105 kg",
+   "electricKw": "7.9 kW",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "3 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "zanolli1165e",
+  "name": "Zanolli Synthesis 11/65V E Electric Conveyor Oven (26\"/65cm)",
+  "brand": "Zanolli",
+  "mpn": "11/65V E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ZANOLLI1165E",
+  "known": {
+   "pizzaSize": "26\"",
+   "chamber": "chamber dimensions: W650 x D1100 x H100mm",
+   "belt": "1100 mm",
+   "fuel": "electric",
+   "width": "1400 mm",
+   "depth": "2000 mm",
+   "height": "550 mm",
+   "weight": "222 kg",
+   "electricKw": "18.5 kW",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "3 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "ps638e",
+  "name": "Middleby Marshall PS638E WOW! Electric Impingement Conveyor Pizza Oven - Belt Width 26\"",
+  "brand": "Middleby Marshall",
+  "mpn": "PS638E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PS638E",
+  "known": {
+   "pizzaSize": "26\"",
+   "chamber": "chamber length: 40",
+   "fuel": "electric",
+   "width": "1657 mm",
+   "depth": "1250 mm",
+   "height": "1064 mm",
+   "weight": "372 kg",
+   "electricKw": "20.25 kW",
+   "voltage": "380V, 50Hz",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ }
+]

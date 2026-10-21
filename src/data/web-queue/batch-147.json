@@ -1,0 +1,236 @@
+[
+ {
+  "id": "cu489",
+  "name": "Buffalo CU489 Oil Filtration Machine",
+  "brand": "Buffalo",
+  "mpn": "CU489",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CU489",
+  "known": {
+   "filtration": "true",
+   "fuel": "gas",
+   "width": "195 mm",
+   "depth": "313 mm",
+   "height": "542 mm",
+   "weight": "10.5 kg",
+   "electricKw": "0.5 kW",
+   "voltage": "240V",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "evo400solas",
+  "name": "Valentine EVO400M Solas Marine Spec Electric Free-Standing Fryer",
+  "brand": "Valentine",
+  "mpn": "EVO400SOLAS",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_EVO400SOLAS",
+  "known": {
+   "tanks": "2",
+   "chipOutput": "46 kg/hr",
+   "fuel": "electric",
+   "baskets": "2",
+   "width": "400 mm",
+   "depth": "600 mm",
+   "height": "850 mm",
+   "weight": "46 kg",
+   "electricKw": "15 kW",
+   "voltage": "440V",
+   "phase": "three",
+   "warranty": "3 years"
+  }
+ },
+ {
+  "id": "evo2200solas",
+  "name": "Valentine EVO2200M Solas Marine Spec Electric Free-Standing Fryer",
+  "brand": "Valentine",
+  "mpn": "EVO2200SOLAS",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_EVO2200SOLAS",
+  "known": {
+   "tanks": "2",
+   "chipOutput": "46 kg/hr",
+   "fuel": "electric",
+   "baskets": "2",
+   "width": "400 mm",
+   "depth": "600 mm",
+   "height": "850 mm",
+   "weight": "52 kg",
+   "electricKw": "15 kW",
+   "voltage": "440V",
+   "phase": "three",
+   "warranty": "3 years"
+  }
+ },
+ {
+  "id": "ifs40op",
+  "name": "Imperial IFS-40-OP 22 Litre Single Tank Twin Basket Gas Fryer",
+  "brand": "Imperial",
+  "mpn": "IFS-40-OP",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_IFS40OP",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "22 litres",
+   "fuel": "gas",
+   "thermostat": "93°C to 204°C",
+   "coldZone": "true",
+   "drainValve": "Full port drain valve",
+   "computerControl": "computer",
+   "width": "394 mm",
+   "depth": "775 mm",
+   "height": "1162 mm",
+   "weight": "100 kg",
+   "gasKw": "31 kW",
+   "gasConnection": "3/4\" BSP",
+   "warranty": "1 year",
+   "finish": "Stainless Steel"
+  }
+ },
+ {
+  "id": "g1838x",
+  "name": "Falcon Chieftain G1838X Single Pan Twin Basket Fryer",
+  "brand": "Falcon",
+  "mpn": "G1838X",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G1838X",
+  "known": {
+   "tanks": "1",
+   "fuel": "gas",
+   "width": "600 mm",
+   "depth": "850 mm",
+   "height": "900 mm",
+   "weight": "92 kg",
+   "gasKw": "30 kW",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "g2844f",
+  "name": "Falcon G2844F Single Tank Double Basket Gas Fryer",
+  "brand": "Falcon",
+  "mpn": "G2844F",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G2844F",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "16 litres",
+   "filtration": "true",
+   "fuel": "gas",
+   "width": "400 mm",
+   "depth": "780 mm",
+   "height": "870 mm",
+   "weight": "96 kg",
+   "voltage": "230V"
+  }
+ },
+ {
+  "id": "g401ff",
+  "name": "Falcon G401F Single Pan Twin Basket Gas Fryer with Filtration",
+  "brand": "Falcon",
+  "mpn": "G401F",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G401FF",
+  "known": {
+   "tanks": "1",
+   "oilCapacity": "18 litres",
+   "filtration": "true",
+   "fuel": "gas",
+   "width": "400 mm",
+   "depth": "850 mm",
+   "height": "880 mm",
+   "weight": "94 kg",
+   "gasKw": "23 kW",
+   "amps": "13 A",
+   "voltage": "230V",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "cf231",
+  "name": "Waring CF231 Double Ribbed Panini Grill",
+  "brand": "Waring",
+  "mpn": "CF231",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CF231",
+  "known": {
+   "plate": "ribbed",
+   "fuel": "electric",
+   "width": "406 mm",
+   "depth": "445 mm",
+   "height": "241 mm",
+   "electricKw": "2 kW",
+   "voltage": "230v",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "ncg14g",
+  "name": "Prince Castle NCG14-G Dual Ribbed Multiflex Contact Grill",
+  "brand": "Prince Castle",
+  "mpn": "NCG14-G",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_NCG14G",
+  "known": {
+   "plate": "ribbed",
+   "thermostat": "true",
+   "width": "442 mm",
+   "depth": "588 mm",
+   "height": "677 mm",
+   "electricKw": "3.6 kW",
+   "voltage": "230v, 50hz",
+   "phase": "single",
+   "hardWired": "true",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "dy464",
+  "name": "Buffalo DY464 Conical Retractable Heat Shade Silver Finish",
+  "brand": "Buffalo",
+  "mpn": "DY464",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DY464",
+  "known": {
+   "bulbs": "heat lamp is finished in a premium pale",
+   "width": "272 mm",
+   "depth": "272 mm",
+   "height": "310 mm",
+   "weight": "1.1 kg",
+   "electricKw": "0.25 kW",
+   "voltage": "240V",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "Silver finish"
+  }
+ },
+ {
+  "id": "dr758",
+  "name": "Buffalo DR758 Retractable Heat Shade Silver Finish",
+  "brand": "Buffalo",
+  "mpn": "DR758",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DR758",
+  "known": {
+   "bulbs": "heat lamps",
+   "width": "177 mm",
+   "depth": "177 mm",
+   "height": "310 mm",
+   "weight": "1.05 kg",
+   "electricKw": "0.25 kW",
+   "voltage": "240V",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "silver"
+  }
+ },
+ {
+  "id": "dr759",
+  "name": "Buffalo DR759 Retractable Heat Lamp Matte Black Finish",
+  "brand": "Buffalo",
+  "mpn": "DR759",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DR759",
+  "known": {
+   "bulbs": "Heat Lamp Matte Black Finish",
+   "width": "177 mm",
+   "depth": "177 mm",
+   "height": "310 mm",
+   "weight": "1.05 kg",
+   "electricKw": "0.25 kW",
+   "voltage": "240V",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "black"
+  }
+ }
+]

@@ -1,0 +1,210 @@
+[
+ {
+  "id": "b115",
+  "name": "Fimar B115 Heavy Duty Char Grill",
+  "brand": "Fimar",
+  "mpn": "B115",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_B115",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "gas",
+   "burners": "8",
+   "radiant": "lava rock",
+   "width": "1140 mm",
+   "depth": "700 mm",
+   "height": "380 mm",
+   "weight": "108 kg",
+   "finish": "stainless steel body"
+  }
+ },
+ {
+  "id": "grfhs26",
+  "name": "Hatco GRFHS-26 Chip Scuttle Fry Station",
+  "brand": "Hatco",
+  "mpn": "GRFHS-26",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GRFHS26",
+  "known": {
+   "width": "672 mm",
+   "depth": "595 mm",
+   "height": "578 mm",
+   "weight": "30 kg",
+   "voltage": "240 V",
+   "plug": "Plug Supplied",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "6130209",
+  "name": "Sammic FE-8, FE8+8, FE-9 & FE9+9 Fryer Basket - 6130209",
+  "brand": "Sammic",
+  "mpn": "6130209",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_6130209",
+  "known": {
+   "tanks": "1",
+   "filtration": "true",
+   "fuel": "electric",
+   "baskets": "9",
+   "computerControl": "computer",
+   "width": "190 mm",
+   "depth": "245 mm",
+   "height": "110 mm",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "g3830",
+  "name": "Falcon Dominator Plus G3830 Single Basket Gas Fryer - 15L",
+  "brand": "Falcon",
+  "mpn": "G3830",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G3830",
+  "known": {
+   "tanks": "1",
+   "fuel": "gas",
+   "thermostat": "140-190°C",
+   "width": "300 mm",
+   "depth": "770 mm",
+   "height": "890 mm",
+   "gasKw": "18.1 kW",
+   "amps": "585 A",
+   "gasConnection": "1/2\" BSP 240 specific locati",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "eeg241",
+  "name": "Henny Penny EEG-241 Gas 1 Well Open Fryer",
+  "brand": "Henny Penny",
+  "mpn": "HPEEG241",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_EEG241",
+  "known": {
+   "tanks": "1",
+   "fuel": "gas",
+   "width": "489 mm",
+   "depth": "819 mm",
+   "height": "1162 mm",
+   "weight": "151 kg",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ecg800",
+  "name": "Chefs Range ECG800 Gas Pressure Fryer with Filtration",
+  "brand": "Chefs Range",
+  "mpn": "ECG800",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ECG800",
+  "known": {
+   "filtration": "true",
+   "fuel": "gas",
+   "computerControl": "digital",
+   "width": "460 mm",
+   "depth": "960 mm",
+   "height": "1230 mm",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "dy462",
+  "name": "Buffalo DY462 Retractable Dome Heat Shade Pale Gold Finish",
+  "brand": "Buffalo",
+  "mpn": "DY462",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DY462",
+  "known": {
+   "bulbs": "heat lamp is finished in a premium pale",
+   "width": "292 mm",
+   "depth": "292 mm",
+   "height": "295 mm",
+   "weight": "1.36 kg",
+   "electricKw": "0.25 kW",
+   "voltage": "240V",
+   "hardWired": "true",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "inomakheatedbox",
+  "name": "Inomak XWH11 Quartz Heated Box",
+  "brand": "Inomak",
+  "mpn": "XWH11",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_INOMAKHEATEDBOX",
+  "known": {
+   "bulbs": "halogen lamps",
+   "width": "950 mm",
+   "depth": "120 mm",
+   "height": "50 mm",
+   "weight": "4 kg",
+   "electricKw": "0.45 kW",
+   "warranty": "1 year",
+   "finish": "stainless steel exterior"
+  }
+ },
+ {
+  "id": "hhc990",
+  "name": "Henny Penny Full Size SmartHold Holding Cabinet - HHC-990",
+  "brand": "Henny Penny",
+  "mpn": "HHC-990",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HHC990",
+  "known": {
+   "volume": "11.4 litres",
+   "width": "628 mm",
+   "depth": "806 mm",
+   "height": "1835 mm",
+   "weight": "167 kg",
+   "electricKw": "2.79 kW",
+   "voltage": "230V, 50Hz",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "upch1600",
+  "name": "Cambro UPCH16002 Electric Ultra Pan Carrier - 24 x 1/1 GN",
+  "brand": "Cambro",
+  "mpn": "UPCH16002",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_UPCH1600",
+  "known": {
+   "gnCapacity": "24 x 1/1 GN",
+   "wells": "24",
+   "tempRange": "65°-74°C",
+   "width": "715 mm",
+   "depth": "820 mm",
+   "height": "1350 mm",
+   "electricKw": "1.01 kW",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "cf239",
+  "name": "Metal Kebab Knife - CF239",
+  "brand": "Kebab Knife",
+  "mpn": "CF239",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CF239",
+  "known": {
+   "fuel": "electric",
+   "width": "100 mm",
+   "depth": "90 mm",
+   "height": "230 mm",
+   "amps": "2 A",
+   "plug": "Plug Supplied",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "gr40g",
+  "name": "Roller Grill GR40G 400mm 2 Burner Gas Kebab Grill",
+  "brand": "Roller Grill",
+  "mpn": "GR40G",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GR40G",
+  "known": {
+   "fuel": "gas",
+   "capacityKg": "15 kg",
+   "width": "580 mm",
+   "depth": "660 mm",
+   "height": "695 mm",
+   "weight": "27 kg",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "2 years"
+  }
+ }
+]

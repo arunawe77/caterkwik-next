@@ -1,0 +1,254 @@
+[
+ {
+  "id": "d120s",
+  "name": "D120S",
+  "brand": "AS Term",
+  "mpn": "D120S",
+  "caterkwikUrl": null,
+  "known": {
+   "pizzaSize": "12\"",
+   "pizzasPerHour": "105",
+   "fuel": "wood",
+   "width": "1600 mm",
+   "depth": "1850 mm",
+   "height": "1860 mm",
+   "weight": "1350 kg",
+   "warranty": "1 year",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "d160c",
+  "name": "D160C",
+  "brand": "AS Term",
+  "mpn": "D160C",
+  "caterkwikUrl": null,
+  "known": {
+   "pizzaSize": "12\"",
+   "pizzasPerHour": "195",
+   "fuel": "wood",
+   "width": "2000 mm",
+   "depth": "2300 mm",
+   "height": "1860 mm",
+   "weight": "2100 kg",
+   "warranty": "1 year",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "seriesddesigndvmosaic",
+  "name": "D120VK",
+  "brand": "AS Term",
+  "mpn": "D120VK",
+  "caterkwikUrl": null,
+  "known": {
+   "pizzaSize": "12\"",
+   "fuel": "wood",
+   "width": "1960 mm",
+   "depth": "2150 mm",
+   "height": "2050 mm",
+   "weight": "2150 kg",
+   "electricKw": "32 kW",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "roc56",
+  "name": "ROC56",
+  "brand": "Roaster",
+  "mpn": "ROC56",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "charcoal",
+   "gnCapacity": "1/1GN",
+   "width": "785 mm",
+   "depth": "777 mm",
+   "height": "1685 mm",
+   "weight": "281 kg",
+   "electricKw": "6 kW",
+   "voltage": "220 v",
+   "warranty": "2 years",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "roc74",
+  "name": "ROC74",
+  "brand": "Roaster",
+  "mpn": "ROC74",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "charcoal",
+   "gnCapacity": "1/1GN",
+   "width": "985 mm",
+   "depth": "577 mm",
+   "height": "1685 mm",
+   "weight": "310 kg",
+   "electricKw": "6 kW",
+   "voltage": "220 v",
+   "warranty": "2 years",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "roc54",
+  "name": "ROC54",
+  "brand": "Roaster",
+  "mpn": "ROC54",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "charcoal",
+   "gnCapacity": "1/1GN",
+   "width": "785 mm",
+   "depth": "577 mm",
+   "height": "1685 mm",
+   "weight": "263 kg",
+   "electricKw": "6 kW",
+   "voltage": "220 v",
+   "warranty": "2 years",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "roc76",
+  "name": "ROC76",
+  "brand": "Roaster",
+  "mpn": "ROC76",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "charcoal",
+   "gnCapacity": "1/1GN",
+   "width": "985 mm",
+   "depth": "777 mm",
+   "height": "1685 mm",
+   "weight": "390 kg",
+   "electricKw": "8 kW",
+   "voltage": "220 v",
+   "warranty": "2 years",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "hjx45m",
+  "name": "HJX45M",
+  "brand": "Josper",
+  "mpn": "HJX45M",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "charcoal",
+   "gnCapacity": "2x 1/1 gastronorm",
+   "width": "930 mm",
+   "depth": "700 mm",
+   "height": "1385 mm",
+   "weight": "250 kg",
+   "electricKw": "4.5 kW",
+   "amps": "12 A"
+  }
+ },
+ {
+  "id": "cr6d",
+  "name": "CR6D",
+  "brand": "Blue Seal",
+  "mpn": "CR6D",
+  "caterkwikUrl": null,
+  "known": {
+   "burners": "4",
+   "fuel": "gas",
+   "burnerKw": "5.5 kW",
+   "gnCapacity": "1/1 GN",
+   "ovenType": "static",
+   "griddle": "Griddle Gas Range Static Oven",
+   "ignition": "manual pilot",
+   "castors": "rear rollers",
+   "door": "Side hinged door",
+   "racking": "4 position racking",
+   "width": "600 mm",
+   "depth": "800 mm",
+   "height": "1085 mm",
+   "weight": "167 kg",
+   "electricKw": "5 kW",
+   "gasKw": "29 kW",
+   "lpgKw": "26.5 kW",
+   "warranty": "2 years",
+   "finish": "vitreous enamel"
+  }
+ },
+ {
+  "id": "cr6c",
+  "name": "CR6C",
+  "brand": "Blue Seal",
+  "mpn": "CR6C",
+  "caterkwikUrl": null,
+  "known": {
+   "burners": "2",
+   "fuel": "gas",
+   "burnerKw": "5.5 kW",
+   "gnCapacity": "1/1 GN",
+   "ovenType": "static",
+   "griddle": "300mm Griddle",
+   "ignition": "manual pilot",
+   "castors": "rear rollers",
+   "door": "Side hinged door",
+   "racking": "4 position racking",
+   "width": "600 mm",
+   "depth": "800 mm",
+   "height": "1085 mm",
+   "weight": "167 kg",
+   "electricKw": "5 kW",
+   "gasKw": "23.5 kW",
+   "lpgKw": "21.5 kW",
+   "warranty": "2 years",
+   "finish": "vitreous enamel"
+  }
+ },
+ {
+  "id": "g505d",
+  "name": "G505D",
+  "brand": "Blue Seal",
+  "mpn": "G505D",
+  "caterkwikUrl": null,
+  "known": {
+   "burners": "4",
+   "fuel": "gas",
+   "burnerKw": "7 kW",
+   "ovenSize": "W500 x D590 x H385mm",
+   "ovenType": "static",
+   "griddle": "300mm griddle",
+   "ignition": "flame failure",
+   "castors": "rear rollers",
+   "door": "Drop down door",
+   "racking": "4 rack positions",
+   "width": "750 mm",
+   "depth": "812 mm",
+   "height": "915 mm",
+   "weight": "176 kg",
+   "electricKw": "7 kW",
+   "gasKw": "37 kW",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "1 year",
+   "finish": "Stainless steel exterior"
+  }
+ },
+ {
+  "id": "ir6rg24",
+  "name": "IR6RG24",
+  "brand": "Imperial",
+  "mpn": "IR6RG24",
+  "caterkwikUrl": null,
+  "known": {
+   "burners": "6",
+   "fuel": "gas",
+   "ovenType": "convection",
+   "griddle": "Griddle & Grill",
+   "ignition": "pilot",
+   "castors": "legs",
+   "width": "1524 mm",
+   "depth": "800 mm",
+   "height": "914 mm",
+   "gasKw": "9 kW",
+   "voltage": "120V",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ }
+]

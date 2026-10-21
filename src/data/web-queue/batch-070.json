@@ -1,0 +1,158 @@
+[
+ {
+  "id": "db619",
+  "name": "Lifestyle Big Horn Pellet Grill and Smoker DB619",
+  "brand": "Lifestyle",
+  "mpn": "DB619",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DB619",
+  "known": {
+   "fuel": "electric",
+   "weight": "69 kg",
+   "voltage": "240V",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "bthc",
+  "name": "Bradley Smoker BTHC Hickory Bisquette Pack",
+  "brand": "Bradley Smoker",
+  "mpn": "BTHC",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BTHC",
+  "known": {
+   "fuel": "electric",
+   "burners": "4",
+   "radiant": "infrared",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "j601",
+  "name": "Vogue J601 Serving Tongs",
+  "brand": "Vogue",
+  "mpn": "J601",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_J601",
+  "known": {
+   "fuel": "electric",
+   "burners": "4",
+   "radiant": "infrared",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "j615",
+  "name": "Vogue J615 Steak Tongs",
+  "brand": "Vogue",
+  "mpn": "J615",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_J615",
+  "known": {
+   "fuel": "electric",
+   "burners": "4",
+   "radiant": "infrared",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "lfs159",
+  "name": "Lifestyle 24 Piece Stainless Steel BBQ Tool Kit - LFS159",
+  "brand": "Lifestyle",
+  "mpn": "LFS159",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LFS159",
+  "known": {
+   "fuel": "electric",
+   "burners": "4",
+   "radiant": "infrared",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "lfs150",
+  "name": "Lifestyle Premium ¾ Burner Hooded BBQ Cover - LFS150",
+  "brand": "Lifestyle",
+  "mpn": "LFS150",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LFS150",
+  "known": {
+   "fuel": "electric",
+   "burners": "4",
+   "radiant": "infrared",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "firtreegriddleplate",
+  "name": "Fir Tree Griddle Plate",
+  "brand": "Fir Tree",
+  "mpn": "Griddle Plate",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FIRTREEGRIDDLEPLATE",
+  "known": {
+   "fuel": "gas",
+   "burners": "4",
+   "radiant": "infrared",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "ck0113",
+  "name": "Cinders Weather Resistant Cover For SG80 Barbecue",
+  "brand": "Cinders",
+  "mpn": "CIN-BBQCOVERSMALL",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK0113",
+  "known": {
+   "fuel": "electric",
+   "burners": "4",
+   "radiant": "infrared",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "ck0112",
+  "name": "Cinders Weather Resistant Cover For TG160 Barbecue",
+  "brand": "Cinders",
+  "mpn": "CIN-BBQCOVERCLASSIC",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK0112",
+  "known": {
+   "fuel": "electric",
+   "burners": "4",
+   "radiant": "infrared",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "pansupport",
+  "name": "Cinders Double Pan Support For TG160 & SG80 Barbecues",
+  "brand": "Cinders",
+  "mpn": "DOUBLEPANSUPPORT",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PANSUPPORT",
+  "known": {
+   "fuel": "electric",
+   "burners": "4",
+   "radiant": "infrared",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "mtpt",
+  "name": "Alphin Pans Taco Holder",
+  "brand": "Alphin Pans",
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MTPT",
+  "known": {
+   "fuel": "electric",
+   "burners": "4",
+   "radiant": "infrared",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "m944",
+  "name": "M944 Vogue Stainless Steel Saucepan 3Ltr",
+  "brand": "Vogue",
+  "mpn": "M944",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_M944",
+  "known": {
+   "volume": "3 litres",
+   "fuel": "induction",
+   "weight": "1.1 kg",
+   "finish": "Stainless Steel"
+  }
+ }
+]

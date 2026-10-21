@@ -1,0 +1,244 @@
+[
+ {
+  "id": "v6f",
+  "name": "V6/F",
+  "brand": "Lincat",
+  "mpn": "V6/F",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "electric",
+   "width": "600 mm",
+   "depth": "600 mm",
+   "height": "650 mm",
+   "weight": "62 kg",
+   "electricKw": "3 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "v6fd",
+  "name": "V6F/D",
+  "brand": "Lincat",
+  "mpn": "V6F/D",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "electric",
+   "width": "600 mm",
+   "depth": "600 mm",
+   "height": "650 mm",
+   "weight": "63 kg",
+   "electricKw": "3 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "v7",
+  "name": "V7",
+  "brand": "Lincat",
+  "mpn": "V7",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "electric",
+   "width": "750 mm",
+   "depth": "600 mm",
+   "height": "650 mm",
+   "weight": "71 kg",
+   "electricKw": "3 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "parrypeo1871",
+  "name": "NPEO1871",
+  "brand": "Parry",
+  "mpn": "NPEO1871",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "electric",
+   "zones": "4",
+   "width": "600 mm",
+   "depth": "620 mm",
+   "height": "950 mm",
+   "weight": "205 kg",
+   "electricKw": "2.9 kW",
+   "phase": "three",
+   "plug": "plug supplied",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel exterior"
+  }
+ },
+ {
+  "id": "p9eo18701871",
+  "name": "P9EO18701871",
+  "brand": "Parry",
+  "mpn": "P9EO18701871",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "electric",
+   "heating": "direct",
+   "zones": "6",
+   "width": "900 mm",
+   "depth": "815 mm",
+   "height": "950 mm",
+   "weight": "83 kg",
+   "electricKw": "5 kW",
+   "plug": "Plug supplied",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "e931m",
+  "name": "E931M",
+  "brand": "Blue Seal",
+  "mpn": "E931M",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "electric",
+   "width": "675 mm",
+   "depth": "626 mm",
+   "height": "890 mm",
+   "weight": "78.6 kg",
+   "electricKw": "3.1 kW",
+   "amps": "12.9 A",
+   "voltage": "240V",
+   "phase": "single",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "e506d",
+  "name": "E506D",
+  "brand": "Blue Seal",
+  "mpn": "E506D",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "electric",
+   "width": "900 mm",
+   "depth": "812 mm",
+   "height": "915 mm",
+   "weight": "195 kg",
+   "electricKw": "20.9 kW",
+   "amps": "29.3 A",
+   "voltage": "415V",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "Stainless steel exterior"
+  }
+ },
+ {
+  "id": "e3101otc6hp",
+  "name": "E3101 6HP OTC",
+  "brand": "Falcon",
+  "mpn": "E3101 6HP OTC",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "electric",
+   "width": "900 mm",
+   "depth": "770 mm",
+   "height": "890 mm",
+   "electricKw": "20.2 kW",
+   "amps": "32 A",
+   "voltage": "400V",
+   "phase": "three",
+   "plug": "32A, three phase, 400V",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "in512cb",
+  "name": "IN512CB",
+  "brand": "Blue Seal",
+  "mpn": "IN512CB",
+  "caterkwikUrl": null,
+  "known": {
+   "castors": "legs",
+   "width": "450 mm",
+   "depth": "812 mm",
+   "height": "1085 mm",
+   "weight": "88 kg",
+   "electricKw": "5 kW",
+   "amps": "16 A",
+   "voltage": "415V",
+   "plug": "16A/phase",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "Stainless Steel exterior"
+  }
+ },
+ {
+  "id": "e12p",
+  "name": "E12P",
+  "brand": "CB",
+  "mpn": "E12P",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "electric",
+   "width": "880 mm",
+   "depth": "470 mm",
+   "height": "710 mm",
+   "weight": "48 kg",
+   "electricKw": "5 kW",
+   "amps": "21.8 A",
+   "voltage": "230V",
+   "phase": "single",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "electrolux391019solidtopoven",
+  "name": "391019",
+  "brand": "Electrolux",
+  "mpn": "391019",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "gas",
+   "ovenSize": "W575 x D700 x H300mm",
+   "gnCapacity": "2/1GN",
+   "ignition": "flame failure",
+   "width": "800 mm",
+   "depth": "930 mm",
+   "height": "850 mm",
+   "electricKw": "10.5 kW",
+   "gasKw": "18.9 kW",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "d120c",
+  "name": "D120C",
+  "brand": "AS Term",
+  "mpn": "D120C",
+  "caterkwikUrl": null,
+  "known": {
+   "pizzaSize": "12\"",
+   "pizzasPerHour": "105",
+   "fuel": "wood",
+   "width": "1600 mm",
+   "depth": "1850 mm",
+   "height": "1860 mm",
+   "weight": "1350 kg",
+   "warranty": "1 year",
+   "finish": "black"
+  }
+ }
+]

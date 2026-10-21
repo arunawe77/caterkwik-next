@@ -1,0 +1,224 @@
+[
+ {
+  "id": "hjx50",
+  "name": "HJX50L",
+  "brand": "Josper",
+  "mpn": "HJX50L",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "charcoal",
+   "width": "1010 mm",
+   "depth": "1010 mm",
+   "height": "900 mm",
+   "weight": "290 kg",
+   "electricKw": "9.6 kW"
+  }
+ },
+ {
+  "id": "hjx20",
+  "name": "HJX20",
+  "brand": "Josper",
+  "mpn": "HJX20",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "charcoal",
+   "width": "1010 mm",
+   "depth": "750 mm",
+   "height": "640 mm",
+   "weight": "137 kg",
+   "electricKw": "7.5 kW"
+  }
+ },
+ {
+  "id": "hja50",
+  "name": "HJA50",
+  "brand": "Josper",
+  "mpn": "HJA50",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "charcoal",
+   "width": "1050 mm",
+   "depth": "1060 mm",
+   "height": "1980 mm",
+   "weight": "526 kg",
+   "electricKw": "9.6 kW"
+  }
+ },
+ {
+  "id": "hja45m",
+  "name": "HJA45M",
+  "brand": "Josper",
+  "mpn": "HJA45M",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "charcoal",
+   "width": "1050 mm",
+   "depth": "740 mm",
+   "height": "1980 mm",
+   "weight": "452 kg",
+   "electricKw": "7.4 kW"
+  }
+ },
+ {
+  "id": "hja25",
+  "name": "HJA25",
+  "brand": "Josper",
+  "mpn": "HJA25",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "charcoal",
+   "width": "760 mm",
+   "depth": "740 mm",
+   "height": "19890 mm",
+   "weight": "360 kg",
+   "electricKw": "8.8 kW"
+  }
+ },
+ {
+  "id": "gl172",
+  "name": "GL172",
+  "brand": "Thor",
+  "mpn": "GL172",
+  "caterkwikUrl": null,
+  "known": {
+   "burners": "4",
+   "fuel": "gas",
+   "griddle": "606mm griddle",
+   "ignition": "flame failure",
+   "castors": "adjustable feet",
+   "door": "Drop Down Door",
+   "width": "610 mm",
+   "depth": "835 mm",
+   "height": "1175 mm",
+   "weight": "125 kg",
+   "gasConnection": "¾\" BSP male gas connection",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "rgr36",
+  "name": "RGR36",
+  "brand": "Chefsrange",
+  "mpn": "RGR36",
+  "caterkwikUrl": null,
+  "known": {
+   "burners": "6",
+   "fuel": "gas",
+   "gnCapacity": "2/1GN Oven",
+   "castors": "adjustable feet",
+   "width": "915 mm",
+   "depth": "820 mm",
+   "height": "1520 mm",
+   "weight": "167 kg",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "pb1fv",
+  "name": "PB1FV",
+  "brand": "King Edward",
+  "mpn": "PB1FV",
+  "caterkwikUrl": null,
+  "known": {
+   "timer": "Timer",
+   "width": "460 mm",
+   "depth": "480 mm",
+   "height": "610 mm",
+   "weight": "38 kg",
+   "electricKw": "2.505 kW",
+   "amps": "13 A",
+   "voltage": "240V, 50 Hz",
+   "plug": "13A - plug",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "e32t4",
+  "name": "E32T4",
+  "brand": "Blue Seal",
+  "mpn": "E32T4",
+  "caterkwikUrl": null,
+  "known": {
+   "trays": "5 levels)",
+   "tempRange": "30 - 260°C",
+   "door": "side hinged door that offers field r",
+   "timer": "timers",
+   "width": "735 mm",
+   "depth": "810 mm",
+   "height": "1602 mm",
+   "electricKw": "6.3 kW",
+   "amps": "27 A",
+   "voltage": "240V, 50Hz",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "g504",
+  "name": "G504C",
+  "brand": "Blue Seal",
+  "mpn": "G504C",
+  "caterkwikUrl": null,
+  "known": {
+   "plate": "smooth",
+   "fuel": "gas",
+   "burners": "2",
+   "thermostat": "true",
+   "tempRange": "100-270°C",
+   "splashback": "true",
+   "width": "600 mm",
+   "depth": "812 mm",
+   "height": "915 mm",
+   "electricKw": "7 kW",
+   "gasKw": "34.6 kW",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel finish"
+  }
+ },
+ {
+  "id": "in514fr5",
+  "name": "IN514FR5",
+  "brand": "Blue Seal",
+  "mpn": "IN514FR5",
+  "caterkwikUrl": null,
+  "known": {
+   "castors": "adjustable feet",
+   "width": "900 mm",
+   "depth": "812 mm",
+   "height": "355 mm",
+   "weight": "105 kg",
+   "electricKw": "20 kW",
+   "amps": "28 A",
+   "voltage": "400V 50Hz",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "1 year",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "rbe8",
+  "name": "RBE80Q",
+  "brand": "Roller Grill",
+  "mpn": "RBE80Q",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "electric",
+   "ignition": "pilot",
+   "castors": "castors",
+   "width": "940 mm",
+   "depth": "450 mm",
+   "height": "845 mm",
+   "weight": "40 kg",
+   "electricKw": "4.4 kW",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years"
+  }
+ }
+]

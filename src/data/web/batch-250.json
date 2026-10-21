@@ -1,0 +1,4450 @@
+[
+ {
+  "id": "maxxproet620",
+  "found": true,
+  "sources": [
+   {
+    "kind": "datasheet",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/MAXXPROET620_Convotherm%20Maxx%20Pro%20maxxproeT6.20EB%20Spec%20Sheet.pdf",
+    "title": "Convotherm maxx pro easyTouch 6.20 EB spec sheet (Welbilt, 07/23)",
+    "read": "2026-10-12"
+   },
+   {
+    "kind": "datasheet",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/MAXXPROET620_Convotherm%20Maxx%20Pro%20maxxproeT6.20ES%20Spec%20Sheet.pdf",
+    "title": "Convotherm maxx pro easyTouch 6.20 ES spec sheet (Welbilt, 07/23)",
+    "read": "2026-10-12"
+   }
+  ],
+  "summary": "The Convotherm Maxx Pro easyTouch 6.20 is a six-plus-one shelf (GN 2/1) combi oven with a 10 inch touchscreen and automatic cleaning. It is sold in electric boiler, electric injection and gas versions; the electric versions draw about 19.5 kW from a three-phase 400V supply. Suits mid-sized restaurant, hotel and canteen kitchens.",
+  "highlights": [
+   {
+    "text": "easyTouch 10 inch TFT HiRes capacitive glass touch display",
+    "source": 0
+   },
+   {
+    "text": "Cooking modes: steam 30-130 °C, combi-steam 30-250 °C, convection 30-250 °C (Natural Smart Climate ACS+)",
+    "source": 0
+   },
+   {
+    "text": "TriColor indicator ring shows current operating status",
+    "source": 0
+   },
+   {
+    "text": "Integrated recoil hand shower and multi-point core temperature probe",
+    "source": 0
+   },
+   {
+    "text": "Stacking kit permitted combinations: 6.20 on 6.20 and 6.20 on 10.20",
+    "source": 0
+   }
+  ],
+  "facts": [
+   {
+    "label": "Size / capacity",
+    "value": "6+1 shelves GN 2/1",
+    "source": 0,
+    "section": "Capacity"
+   },
+   {
+    "label": "Maximum loading weight per oven",
+    "value": 60,
+    "source": 0,
+    "key": "loadKg",
+    "unit": "kg",
+    "section": "Capacity"
+   },
+   {
+    "label": "Maximum loading per shelf level (GN 1/1 / 600 x 400)",
+    "value": 15,
+    "source": 0,
+    "unit": "kg",
+    "section": "Capacity"
+   },
+   {
+    "label": "Steam mode temperature",
+    "value": "30-130",
+    "source": 0,
+    "unit": "°C",
+    "section": "Performance"
+   },
+   {
+    "label": "Combi-steam temperature",
+    "value": "30-250",
+    "source": 0,
+    "unit": "°C",
+    "section": "Performance"
+   },
+   {
+    "label": "Convection temperature",
+    "value": "30-250",
+    "source": 0,
+    "unit": "°C",
+    "section": "Performance"
+   },
+   {
+    "label": "Temperature range (all modes)",
+    "value": "30-250 °C",
+    "source": 0,
+    "key": "tempRange",
+    "section": "Performance"
+   },
+   {
+    "label": "Rated power consumption, 3N~ 400V 50/60Hz",
+    "value": 19.5,
+    "source": 0,
+    "key": "electricKw",
+    "unit": "kW",
+    "section": "Electrical"
+   },
+   {
+    "label": "Rated current, 3N~ 400V 50/60Hz",
+    "value": 28.1,
+    "source": 0,
+    "key": "amps",
+    "unit": "A",
+    "section": "Electrical"
+   },
+   {
+    "label": "Fuse rating, 3N~ 400V 50/60Hz",
+    "value": 32,
+    "source": 0,
+    "unit": "A",
+    "section": "Electrical"
+   },
+   {
+    "label": "Recommended conductor cross-section, 3N~ 400V",
+    "value": "5G6",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "Voltage / phase (primary)",
+    "value": "3N~ 400V 50/60Hz",
+    "source": 0,
+    "key": "voltage",
+    "section": "Electrical"
+   },
+   {
+    "label": "RCD (GFCI)",
+    "value": "Single-phase frequency converter Type A/B (3N~ 400V)",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "3N~ 380V 60Hz supply",
+    "value": "17.6 kW, 26.7 A, fuse 32 A",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "3~ 230V 50/60Hz supply",
+    "value": "19.3 kW, 48.5 A, fuse 50 A",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "3~ 200V 50/60Hz supply",
+    "value": "19.3 kW, 55.8 A, fuse 63 A",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "Voltages with ConvoSmoke option",
+    "value": "Only 3~ 230V 50/60Hz and 3N~ 400V 50/60Hz",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "Water supply connection",
+    "value": "2 x G 3/4'' fixed connection, optionally including connecting pipe (min. DN13 / 1/2'')",
+    "source": 0,
+    "key": "waterConnection",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Water flow pressure",
+    "value": "150 - 600 kPa (1.5 - 6 bar)",
+    "source": 0,
+    "key": "waterPressure",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Drain",
+    "value": "DN 50 (min. internal diameter 46 mm); funnel drain with P-trap recommended, or fixed connection",
+    "source": 0,
+    "key": "drain",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Drain pipe slope",
+    "value": "min. 3.5% (2°)",
+    "source": 0,
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Water quality, supply for cleaning / hand shower (connection B)",
+    "value": "Drinking water, typically hard water; general hardness 4 - 20 °dH / 70 - 360 ppm; pH 6.5 - 8.5; chloride max. 60 mg/l; free chlorine max. 0.2 mg/l; sulphate max. 150 mg/l; iron max. 0.1 mg/l; silicate max. 13 mg/l; monochloramine max. 0.2 mg/l; max. 40 °C; conductivity min. 20 µS/cm",
+    "source": 0,
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Waste water temperature",
+    "value": "max. 80",
+    "source": 0,
+    "unit": "°C",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Latent heat emission",
+    "value": "3200 kJ/h / 0.89 kW",
+    "source": 0,
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Sensible heat emission",
+    "value": "4200 kJ/h / 1.17 kW",
+    "source": 0,
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Noise during operation",
+    "value": "max. 70 dBA",
+    "source": 0,
+    "key": "noise",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Safety clearance, rear",
+    "value": 50,
+    "source": 0,
+    "unit": "mm",
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Safety clearance, left",
+    "value": 50,
+    "source": 0,
+    "unit": "mm",
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Safety clearance, top",
+    "value": 500,
+    "source": 0,
+    "unit": "mm",
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Clearance from heat sources",
+    "value": "min. 500 mm",
+    "source": 0,
+    "key": "clearance",
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Packed dimensions including packaging (W x H x D)",
+    "value": "1345 x 1025 x 1140 mm",
+    "source": 0,
+    "key": "cableHeight",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Weight of packaging",
+    "value": 35,
+    "source": 0,
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Weight of options (maximum)",
+    "value": 15,
+    "source": 0,
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Empty weight without options/accessories, electric / boiler (EB)",
+    "value": 158,
+    "source": 0,
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Steam generation, electric / boiler (EB)",
+    "value": "High-performance boiler outside the oven cavity",
+    "source": 0,
+    "section": "Performance"
+   },
+   {
+    "label": "Water supply connection A, electric / boiler (EB)",
+    "value": "Boiler feed; drinking water, typically hard water, general hardness 4 - 20 °dH / 70 - 360 ppm",
+    "source": 0,
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Empty weight without options/accessories, electric / injection (ES)",
+    "value": 146,
+    "source": 1,
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Steam generation, electric / injection (ES)",
+    "value": "Water injected into the oven cavity",
+    "source": 1,
+    "section": "Performance"
+   },
+   {
+    "label": "Water supply connection A, electric / injection (ES)",
+    "value": "Water injection; drinking water, typically soft water, general hardness 4 - 7 °dH / 70 - 125 ppm",
+    "source": 1,
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Controls",
+    "value": "easyTouch 10 inch TFT HiRes capacitive glass touch display",
+    "source": 0,
+    "key": "controls",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Stored programs",
+    "value": "Press&Go with up to 399 profiles",
+    "source": 0,
+    "key": "programs",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Core probe",
+    "value": "Multi-point core temperature probe",
+    "source": 0,
+    "key": "probe",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Automatic cleaning",
+    "value": "ConvoClean+ (eco, regular, express modes; optional single-dose dispensing)",
+    "source": 0,
+    "key": "autoClean",
+    "section": "Cleaning & maintenance"
+   },
+   {
+    "label": "Connectivity",
+    "value": "WiFi, Ethernet (LAN), USB",
+    "source": 0,
+    "key": "connectivity",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Hygiene features",
+    "value": "HygieniCare; hygienic handles; hygienic steam function; SteamDisinfect",
+    "source": 0,
+    "section": "Safety & compliance"
+   },
+   {
+    "label": "Lighting",
+    "value": "LED lighting in the oven cavity",
+    "source": 0,
+    "key": "lighting",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Hand shower",
+    "value": "Integrated recoil hand shower",
+    "source": 0,
+    "section": "Controls & features"
+   }
+  ],
+  "included": [
+   "Matching GN rack as standard (per sheet loading footnote)",
+   "Integrated recoil hand shower",
+   "Multi-point core temperature probe"
+  ],
+  "documents": [
+   {
+    "label": "Spec sheet EB",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/MAXXPROET620_Convotherm%20Maxx%20Pro%20maxxproeT6.20EB%20Spec%20Sheet.pdf",
+    "kind": "datasheet"
+   },
+   {
+    "label": "Spec sheet ES",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/MAXXPROET620_Convotherm%20Maxx%20Pro%20maxxproeT6.20ES%20Spec%20Sheet.pdf",
+    "kind": "datasheet"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://www.caterkwik.co.uk/shop/images/products/maxxproet620.jpg",
+    "alt": "Convotherm Maxx Pro easyTouch 6.20",
+    "source": 0
+   }
+  ],
+  "notes": "Caterkwik lists 4 variants (EB, ES, GB, GS) under one MPN; facts are the electric EB and ES sheets, labelled by variant. Gas GB/GS sheet exists, not recorded. Caterkwik 'weight 35 kg' is the packaging weight; empty weight is 146-158 kg. Caterkwik gasKw 0.6 applies to gas versions only. Appliance W/D/H not recorded (sheet drawing unlabelled); check H762 on the page."
+ },
+ {
+  "id": "maxxproed1020",
+  "found": true,
+  "sources": [
+   {
+    "kind": "datasheet",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/MAXXPROED1020_Convotherm%20Maxx%20Pro%20maxxpeoeD10.20EB%20Spec%20Sheet.pdf",
+    "title": "Convotherm maxx pro easyDial 10.20 EB spec sheet (Welbilt, 07/23)",
+    "read": "2026-10-12"
+   },
+   {
+    "kind": "datasheet",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/MAXXPROED1020_Convotherm%20Maxx%20Pro%20maxxpeoeD10.20ES%20Spec%20Sheet.pdf",
+    "title": "Convotherm maxx pro easyDial 10.20 ES spec sheet (Welbilt, 07/23)",
+    "read": "2026-10-12"
+   }
+  ],
+  "summary": "The Convotherm Maxx Pro easyDial 10.20 is a ten-plus-one shelf (GN 2/1) combi oven operated from a single dial and digital display rather than a touchscreen. It runs from a three-phase 400V supply at about 33.7 kW and is offered with a boiler or injection steam system. Suits busy restaurant, hotel and banqueting kitchens.",
+  "highlights": [
+   {
+    "text": "easyDial: all functions set in one operating level with a central dial",
+    "source": 0
+   },
+   {
+    "text": "Cooking modes: steam 30-130 °C, combi-steam 30-250 °C, convection 30-250 °C (Natural Smart Climate ACS+)",
+    "source": 0
+   },
+   {
+    "text": "TriColor indicator ring shows current operating status",
+    "source": 0
+   },
+   {
+    "text": "Integrated recoil hand shower and multi-point core temperature probe",
+    "source": 0
+   }
+  ],
+  "facts": [
+   {
+    "label": "Size / capacity",
+    "value": "10+1 shelves GN 2/1",
+    "source": 0,
+    "section": "Capacity"
+   },
+   {
+    "label": "Maximum loading weight per oven",
+    "value": 100,
+    "source": 0,
+    "key": "loadKg",
+    "unit": "kg",
+    "section": "Capacity"
+   },
+   {
+    "label": "Maximum loading per shelf level (GN 1/1 / 600 x 400)",
+    "value": 15,
+    "source": 0,
+    "unit": "kg",
+    "section": "Capacity"
+   },
+   {
+    "label": "Steam mode temperature",
+    "value": "30-130",
+    "source": 0,
+    "unit": "°C",
+    "section": "Performance"
+   },
+   {
+    "label": "Combi-steam temperature",
+    "value": "30-250",
+    "source": 0,
+    "unit": "°C",
+    "section": "Performance"
+   },
+   {
+    "label": "Convection temperature",
+    "value": "30-250",
+    "source": 0,
+    "unit": "°C",
+    "section": "Performance"
+   },
+   {
+    "label": "Temperature range (all modes)",
+    "value": "30-250 °C",
+    "source": 0,
+    "key": "tempRange",
+    "section": "Performance"
+   },
+   {
+    "label": "Rated power consumption, 3N~ 400V 50/60Hz",
+    "value": 33.7,
+    "source": 0,
+    "key": "electricKw",
+    "unit": "kW",
+    "section": "Electrical"
+   },
+   {
+    "label": "Rated current, 3N~ 400V 50/60Hz",
+    "value": 48.7,
+    "source": 0,
+    "key": "amps",
+    "unit": "A",
+    "section": "Electrical"
+   },
+   {
+    "label": "Fuse rating, 3N~ 400V 50/60Hz",
+    "value": 50,
+    "source": 0,
+    "unit": "A",
+    "section": "Electrical"
+   },
+   {
+    "label": "Recommended conductor cross-section, 3N~ 400V",
+    "value": "5G16",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "Voltage / phase (primary)",
+    "value": "3N~ 400V 50/60Hz",
+    "source": 0,
+    "key": "voltage",
+    "section": "Electrical"
+   },
+   {
+    "label": "RCD (GFCI)",
+    "value": "Single-phase frequency converter Type A/B (3N~ 400V)",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "3N~ 380V 60Hz supply",
+    "value": "30.5 kW, 46.3 A, fuse 50 A",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "3~ 230V 50/60Hz supply",
+    "value": "33.4 kW, 84 A, fuse 100 A",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "3~ 200V 50/60Hz supply",
+    "value": "33.4 kW, 96.6 A, fuse 100 A",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "Voltages with ConvoSmoke option",
+    "value": "Only 3~ 230V 50/60Hz and 3N~ 400V 50/60Hz",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "Water supply connection",
+    "value": "2 x G 3/4'' fixed connection, optionally including connecting pipe (min. DN13 / 1/2'')",
+    "source": 0,
+    "key": "waterConnection",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Water flow pressure",
+    "value": "150 - 600 kPa (1.5 - 6 bar)",
+    "source": 0,
+    "key": "waterPressure",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Drain",
+    "value": "DN 50 (min. internal diameter 46 mm); funnel drain with P-trap recommended, or fixed connection",
+    "source": 0,
+    "key": "drain",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Drain pipe slope",
+    "value": "min. 3.5% (2°)",
+    "source": 0,
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Water quality, supply for cleaning / hand shower (connection B)",
+    "value": "Drinking water, typically hard water; general hardness 4 - 20 °dH / 70 - 360 ppm; pH 6.5 - 8.5; chloride max. 60 mg/l; free chlorine max. 0.2 mg/l; sulphate max. 150 mg/l; iron max. 0.1 mg/l; silicate max. 13 mg/l; monochloramine max. 0.2 mg/l; max. 40 °C; conductivity min. 20 µS/cm",
+    "source": 0,
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Waste water temperature",
+    "value": "max. 80",
+    "source": 0,
+    "unit": "°C",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Latent heat emission",
+    "value": "4700 kJ/h / 1.31 kW",
+    "source": 0,
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Sensible heat emission",
+    "value": "5100 kJ/h / 1.42 kW",
+    "source": 0,
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Noise during operation",
+    "value": "max. 70 dBA",
+    "source": 0,
+    "key": "noise",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Safety clearance, rear",
+    "value": 50,
+    "source": 0,
+    "unit": "mm",
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Safety clearance, left",
+    "value": 50,
+    "source": 0,
+    "unit": "mm",
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Safety clearance, top",
+    "value": 500,
+    "source": 0,
+    "unit": "mm",
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Clearance from heat sources",
+    "value": "min. 500 mm",
+    "source": 0,
+    "key": "clearance",
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Packed dimensions including packaging (W x H x D)",
+    "value": "1345 x 1300 x 1140 mm",
+    "source": 0,
+    "key": "cableHeight",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Weight of packaging",
+    "value": 38,
+    "source": 0,
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Weight of options (maximum)",
+    "value": 15,
+    "source": 0,
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Empty weight without options/accessories, electric / boiler (EB)",
+    "value": 189,
+    "source": 0,
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Steam generation, electric / boiler (EB)",
+    "value": "High-performance boiler outside the oven cavity",
+    "source": 0,
+    "section": "Performance"
+   },
+   {
+    "label": "Water supply connection A, electric / boiler (EB)",
+    "value": "Boiler feed; drinking water, typically hard water, general hardness 4 - 20 °dH / 70 - 360 ppm",
+    "source": 0,
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Empty weight without options/accessories, electric / injection (ES)",
+    "value": 184,
+    "source": 1,
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Steam generation, electric / injection (ES)",
+    "value": "Water injected into the oven cavity",
+    "source": 1,
+    "section": "Performance"
+   },
+   {
+    "label": "Water supply connection A, electric / injection (ES)",
+    "value": "Water injection; drinking water, typically soft water, general hardness 4 - 7 °dH / 70 - 125 ppm",
+    "source": 1,
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Controls",
+    "value": "easyDial: all functions in one operating level, central dial (C-Dial) with digital display",
+    "source": 0,
+    "key": "controls",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Stored programs",
+    "value": "99 cooking profiles each containing up to 9 steps",
+    "source": 0,
+    "key": "programs",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Core probe",
+    "value": "Multi-point core temperature probe",
+    "source": 0,
+    "key": "probe",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Automatic cleaning",
+    "value": "ConvoClean (optional single-dose dispensing)",
+    "source": 0,
+    "key": "autoClean",
+    "section": "Cleaning & maintenance"
+   },
+   {
+    "label": "Connectivity",
+    "value": "USB; HACCP data storage (Ethernet interface listed as an option)",
+    "source": 0,
+    "key": "connectivity",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Hygiene features",
+    "value": "HygieniCare; hygienic handles",
+    "source": 0,
+    "section": "Safety & compliance"
+   },
+   {
+    "label": "Lighting",
+    "value": "LED lighting in the oven cavity",
+    "source": 0,
+    "key": "lighting",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Hand shower",
+    "value": "Integrated recoil hand shower",
+    "source": 0,
+    "section": "Controls & features"
+   }
+  ],
+  "included": [
+   "Matching GN rack as standard (per sheet loading footnote)",
+   "Integrated recoil hand shower",
+   "Multi-point core temperature probe"
+  ],
+  "documents": [
+   {
+    "label": "Spec sheet EB",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/MAXXPROED1020_Convotherm%20Maxx%20Pro%20maxxpeoeD10.20EB%20Spec%20Sheet.pdf",
+    "kind": "datasheet"
+   },
+   {
+    "label": "Spec sheet ES",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/MAXXPROED1020_Convotherm%20Maxx%20Pro%20maxxpeoeD10.20ES%20Spec%20Sheet.pdf",
+    "kind": "datasheet"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://www.caterkwik.co.uk/shop/images/products/maxxproed1020.jpg",
+    "alt": "Convotherm Maxx Pro easyDial 10.20",
+    "source": 0
+   }
+  ],
+  "notes": "Caterkwik 'electricKw 337 kW' is a typo for 33.7 kW. Caterkwik 'weight 38 kg' is the packaging weight (empty 184-189 kg). Caterkwik W1121 x D991 x H762 equals the 6.20 figures and looks copied; a 10+1 shelf oven is taller. Not recorded. Sheets cover EB (boiler) and ES (injection); Caterkwik says injection. Gas sheets exist, not recorded."
+ },
+ {
+  "id": "easytouch1020",
+  "found": true,
+  "sources": [
+   {
+    "kind": "datasheet",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/EASYTOUCH1020_Convotherm%20Maxx%20Pro%20maxxproeT10.20EB%20Spec%20Sheet.pdf",
+    "title": "Convotherm maxx pro easyTouch 10.20 EB spec sheet (Welbilt, 07/23)",
+    "read": "2026-10-12"
+   },
+   {
+    "kind": "datasheet",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/EASYTOUCH1020_Convotherm%20Maxx%20Pro%20maxxproeT10.20ES%20Spec%20Sheet.pdf",
+    "title": "Convotherm maxx pro easyTouch 10.20 ES spec sheet (Welbilt, 07/23)",
+    "read": "2026-10-12"
+   }
+  ],
+  "summary": "The Convotherm Maxx Pro easyTouch 10.20 is a ten-plus-one shelf (GN 2/1) combi oven with a 10 inch touchscreen, Press&Go programs and automatic cleaning. It needs a three-phase 400V supply at about 33.7 kW. Suits high-volume restaurant, hotel and contract catering kitchens.",
+  "highlights": [
+   {
+    "text": "easyTouch 10 inch TFT HiRes capacitive glass touch display",
+    "source": 0
+   },
+   {
+    "text": "Cooking modes: steam 30-130 °C, combi-steam 30-250 °C, convection 30-250 °C (Natural Smart Climate ACS+)",
+    "source": 0
+   },
+   {
+    "text": "TriColor indicator ring shows current operating status",
+    "source": 0
+   },
+   {
+    "text": "Integrated recoil hand shower and multi-point core temperature probe",
+    "source": 0
+   }
+  ],
+  "facts": [
+   {
+    "label": "Size / capacity",
+    "value": "10+1 shelves GN 2/1",
+    "source": 0,
+    "section": "Capacity"
+   },
+   {
+    "label": "Maximum loading weight per oven",
+    "value": 100,
+    "source": 0,
+    "key": "loadKg",
+    "unit": "kg",
+    "section": "Capacity"
+   },
+   {
+    "label": "Maximum loading per shelf level (GN 1/1 / 600 x 400)",
+    "value": 15,
+    "source": 0,
+    "unit": "kg",
+    "section": "Capacity"
+   },
+   {
+    "label": "Steam mode temperature",
+    "value": "30-130",
+    "source": 0,
+    "unit": "°C",
+    "section": "Performance"
+   },
+   {
+    "label": "Combi-steam temperature",
+    "value": "30-250",
+    "source": 0,
+    "unit": "°C",
+    "section": "Performance"
+   },
+   {
+    "label": "Convection temperature",
+    "value": "30-250",
+    "source": 0,
+    "unit": "°C",
+    "section": "Performance"
+   },
+   {
+    "label": "Temperature range (all modes)",
+    "value": "30-250 °C",
+    "source": 0,
+    "key": "tempRange",
+    "section": "Performance"
+   },
+   {
+    "label": "Rated power consumption, 3N~ 400V 50/60Hz",
+    "value": 33.7,
+    "source": 0,
+    "key": "electricKw",
+    "unit": "kW",
+    "section": "Electrical"
+   },
+   {
+    "label": "Rated current, 3N~ 400V 50/60Hz",
+    "value": 48.7,
+    "source": 0,
+    "key": "amps",
+    "unit": "A",
+    "section": "Electrical"
+   },
+   {
+    "label": "Fuse rating, 3N~ 400V 50/60Hz",
+    "value": 50,
+    "source": 0,
+    "unit": "A",
+    "section": "Electrical"
+   },
+   {
+    "label": "Recommended conductor cross-section, 3N~ 400V",
+    "value": "5G16",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "Voltage / phase (primary)",
+    "value": "3N~ 400V 50/60Hz",
+    "source": 0,
+    "key": "voltage",
+    "section": "Electrical"
+   },
+   {
+    "label": "RCD (GFCI)",
+    "value": "Single-phase frequency converter Type A/B (3N~ 400V)",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "3N~ 380V 60Hz supply",
+    "value": "30.5 kW, 46.3 A, fuse 50 A",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "3~ 230V 50/60Hz supply",
+    "value": "33.4 kW, 84 A, fuse 100 A",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "3~ 200V 50/60Hz supply",
+    "value": "33.4 kW, 96.6 A, fuse 100 A",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "Voltages with ConvoSmoke option",
+    "value": "Only 3~ 230V 50/60Hz and 3N~ 400V 50/60Hz",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "Water supply connection",
+    "value": "2 x G 3/4'' fixed connection, optionally including connecting pipe (min. DN13 / 1/2'')",
+    "source": 0,
+    "key": "waterConnection",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Water flow pressure",
+    "value": "150 - 600 kPa (1.5 - 6 bar)",
+    "source": 0,
+    "key": "waterPressure",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Drain",
+    "value": "DN 50 (min. internal diameter 46 mm); funnel drain with P-trap recommended, or fixed connection",
+    "source": 0,
+    "key": "drain",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Drain pipe slope",
+    "value": "min. 3.5% (2°)",
+    "source": 0,
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Water quality, supply for cleaning / hand shower (connection B)",
+    "value": "Drinking water, typically hard water; general hardness 4 - 20 °dH / 70 - 360 ppm; pH 6.5 - 8.5; chloride max. 60 mg/l; free chlorine max. 0.2 mg/l; sulphate max. 150 mg/l; iron max. 0.1 mg/l; silicate max. 13 mg/l; monochloramine max. 0.2 mg/l; max. 40 °C; conductivity min. 20 µS/cm",
+    "source": 0,
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Waste water temperature",
+    "value": "max. 80",
+    "source": 0,
+    "unit": "°C",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Latent heat emission",
+    "value": "4700 kJ/h / 1.31 kW",
+    "source": 0,
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Sensible heat emission",
+    "value": "5100 kJ/h / 1.42 kW",
+    "source": 0,
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Noise during operation",
+    "value": "max. 70 dBA",
+    "source": 0,
+    "key": "noise",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Safety clearance, rear",
+    "value": 50,
+    "source": 0,
+    "unit": "mm",
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Safety clearance, left",
+    "value": 50,
+    "source": 0,
+    "unit": "mm",
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Safety clearance, top",
+    "value": 500,
+    "source": 0,
+    "unit": "mm",
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Clearance from heat sources",
+    "value": "min. 500 mm",
+    "source": 0,
+    "key": "clearance",
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Packed dimensions including packaging (W x H x D)",
+    "value": "1345 x 1300 x 1140 mm",
+    "source": 0,
+    "key": "cableHeight",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Weight of packaging",
+    "value": 38,
+    "source": 0,
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Weight of options (maximum)",
+    "value": 15,
+    "source": 0,
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Empty weight without options/accessories, electric / boiler (EB)",
+    "value": 195,
+    "source": 0,
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Steam generation, electric / boiler (EB)",
+    "value": "High-performance boiler outside the oven cavity",
+    "source": 0,
+    "section": "Performance"
+   },
+   {
+    "label": "Water supply connection A, electric / boiler (EB)",
+    "value": "Boiler feed; drinking water, typically hard water, general hardness 4 - 20 °dH / 70 - 360 ppm",
+    "source": 0,
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Empty weight without options/accessories, electric / injection (ES)",
+    "value": 190,
+    "source": 1,
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Steam generation, electric / injection (ES)",
+    "value": "Water injected into the oven cavity",
+    "source": 1,
+    "section": "Performance"
+   },
+   {
+    "label": "Water supply connection A, electric / injection (ES)",
+    "value": "Water injection; drinking water, typically soft water, general hardness 4 - 7 °dH / 70 - 125 ppm",
+    "source": 1,
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Controls",
+    "value": "easyTouch 10 inch TFT HiRes capacitive glass touch display",
+    "source": 0,
+    "key": "controls",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Stored programs",
+    "value": "Press&Go with up to 399 profiles",
+    "source": 0,
+    "key": "programs",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Core probe",
+    "value": "Multi-point core temperature probe",
+    "source": 0,
+    "key": "probe",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Automatic cleaning",
+    "value": "ConvoClean+ (eco, regular, express modes; optional single-dose dispensing)",
+    "source": 0,
+    "key": "autoClean",
+    "section": "Cleaning & maintenance"
+   },
+   {
+    "label": "Connectivity",
+    "value": "WiFi, Ethernet (LAN), USB",
+    "source": 0,
+    "key": "connectivity",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Hygiene features",
+    "value": "HygieniCare; hygienic handles; hygienic steam function; SteamDisinfect",
+    "source": 0,
+    "section": "Safety & compliance"
+   },
+   {
+    "label": "Lighting",
+    "value": "LED lighting in the oven cavity",
+    "source": 0,
+    "key": "lighting",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Hand shower",
+    "value": "Integrated recoil hand shower",
+    "source": 0,
+    "section": "Controls & features"
+   }
+  ],
+  "included": [
+   "Matching GN rack as standard (per sheet loading footnote)",
+   "Integrated recoil hand shower",
+   "Multi-point core temperature probe"
+  ],
+  "documents": [
+   {
+    "label": "Spec sheet EB",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/EASYTOUCH1020_Convotherm%20Maxx%20Pro%20maxxproeT10.20EB%20Spec%20Sheet.pdf",
+    "kind": "datasheet"
+   },
+   {
+    "label": "Spec sheet ES",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/EASYTOUCH1020_Convotherm%20Maxx%20Pro%20maxxproeT10.20ES%20Spec%20Sheet.pdf",
+    "kind": "datasheet"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://www.caterkwik.co.uk/shop/images/products/easytouch1020.jpg",
+    "alt": "Convotherm Maxx Pro easyTouch 10.20",
+    "source": 0
+   }
+  ],
+  "notes": "Caterkwik 'weight 38 kg' is the packaging weight (empty 190-195 kg). Caterkwik 'gnCapacity 1/1GN' conflicts with the sheet (10+1 shelves GN 2/1). Caterkwik W1121 x D991 x H762 equals the 6.20 and looks copied; not recorded. Page MPN is the family code; sheets are EB and ES. Gas sheets exist, not recorded."
+ },
+ {
+  "id": "maxxproed2010",
+  "found": true,
+  "sources": [
+   {
+    "kind": "datasheet",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/MAXXPROED2010_Convotherm%20Maxx%20Pro%20maxxpeoeD20.10EB%20Spec%20Sheet.pdf",
+    "title": "Convotherm maxx pro easyDial 20.10 EB spec sheet (Welbilt, 07/23)",
+    "read": "2026-10-12"
+   },
+   {
+    "kind": "datasheet",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/MAXXPROED2010_Convotherm%20Maxx%20Pro%20maxxpeoeD20.10ES%20Spec%20Sheet.pdf",
+    "title": "Convotherm maxx pro easyDial 20.10 ES spec sheet (Welbilt, 07/23)",
+    "read": "2026-10-12"
+   }
+  ],
+  "summary": "The Convotherm Maxx Pro easyDial 20.10 is a floor-standing 20-shelf GN 1/1 combi oven controlled by a dial and digital display. It needs a three-phase 400V supply at about 38.9 kW and comes with boiler or injection steam. Suits large kitchens needing high batch capacity in a narrow footprint.",
+  "highlights": [
+   {
+    "text": "easyDial: all functions set in one operating level with a central dial",
+    "source": 0
+   },
+   {
+    "text": "Cooking modes: steam 30-130 °C, combi-steam 30-250 °C, convection 30-250 °C (Natural Smart Climate ACS+)",
+    "source": 0
+   },
+   {
+    "text": "TriColor indicator ring shows current operating status",
+    "source": 0
+   },
+   {
+    "text": "Integrated recoil hand shower and multi-point core temperature probe",
+    "source": 0
+   }
+  ],
+  "facts": [
+   {
+    "label": "Size / capacity",
+    "value": "20 shelves GN 1/1",
+    "source": 0,
+    "section": "Capacity"
+   },
+   {
+    "label": "Maximum loading weight per oven",
+    "value": 100,
+    "source": 0,
+    "key": "loadKg",
+    "unit": "kg",
+    "section": "Capacity"
+   },
+   {
+    "label": "Maximum loading per shelf level (GN 1/1 / 600 x 400)",
+    "value": 15,
+    "source": 0,
+    "unit": "kg",
+    "section": "Capacity"
+   },
+   {
+    "label": "Steam mode temperature",
+    "value": "30-130",
+    "source": 0,
+    "unit": "°C",
+    "section": "Performance"
+   },
+   {
+    "label": "Combi-steam temperature",
+    "value": "30-250",
+    "source": 0,
+    "unit": "°C",
+    "section": "Performance"
+   },
+   {
+    "label": "Convection temperature",
+    "value": "30-250",
+    "source": 0,
+    "unit": "°C",
+    "section": "Performance"
+   },
+   {
+    "label": "Temperature range (all modes)",
+    "value": "30-250 °C",
+    "source": 0,
+    "key": "tempRange",
+    "section": "Performance"
+   },
+   {
+    "label": "Rated power consumption, 3N~ 400V 50/60Hz",
+    "value": 38.9,
+    "source": 0,
+    "key": "electricKw",
+    "unit": "kW",
+    "section": "Electrical"
+   },
+   {
+    "label": "Rated current, 3N~ 400V 50/60Hz",
+    "value": 56.2,
+    "source": 0,
+    "key": "amps",
+    "unit": "A",
+    "section": "Electrical"
+   },
+   {
+    "label": "Fuse rating, 3N~ 400V 50/60Hz",
+    "value": 63,
+    "source": 0,
+    "unit": "A",
+    "section": "Electrical"
+   },
+   {
+    "label": "Recommended conductor cross-section, 3N~ 400V",
+    "value": "5G16",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "Voltage / phase (primary)",
+    "value": "3N~ 400V 50/60Hz",
+    "source": 0,
+    "key": "voltage",
+    "section": "Electrical"
+   },
+   {
+    "label": "RCD (GFCI)",
+    "value": "Single-phase frequency converter Type A/B (3N~ 400V)",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "3N~ 380V 60Hz supply",
+    "value": "35.1 kW, 53.3 A, fuse 63 A",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "3~ 230V 50/60Hz supply",
+    "value": "38.2 kW, 96 A, fuse 100 A",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "3~ 200V 50/60Hz supply",
+    "value": "38.2 kW, 110.4 A, fuse 125 A",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "Voltages with ConvoSmoke option",
+    "value": "Only 3~ 230V 50/60Hz and 3N~ 400V 50/60Hz",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "Water supply connection",
+    "value": "2 x G 3/4'' fixed connection, optionally including connecting pipe (min. DN13 / 1/2'')",
+    "source": 0,
+    "key": "waterConnection",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Water flow pressure",
+    "value": "150 - 600 kPa (1.5 - 6 bar)",
+    "source": 0,
+    "key": "waterPressure",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Drain",
+    "value": "DN 50 (min. internal diameter 46 mm); open tank or channel/trough recommended, or fixed connection",
+    "source": 0,
+    "key": "drain",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Drain pipe slope",
+    "value": "min. 3.5% (2°)",
+    "source": 0,
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Water quality, supply for cleaning / hand shower (connection B)",
+    "value": "Drinking water, typically hard water; general hardness 4 - 20 °dH / 70 - 360 ppm; pH 6.5 - 8.5; chloride max. 60 mg/l; free chlorine max. 0.2 mg/l; sulphate max. 150 mg/l; iron max. 0.1 mg/l; silicate max. 13 mg/l; monochloramine max. 0.2 mg/l; max. 40 °C; conductivity min. 20 µS/cm",
+    "source": 0,
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Waste water temperature",
+    "value": "max. 80",
+    "source": 0,
+    "unit": "°C",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Latent heat emission",
+    "value": "6900 kJ/h / 1.92 kW",
+    "source": 0,
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Sensible heat emission",
+    "value": "8900 kJ/h / 2.47 kW",
+    "source": 0,
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Noise during operation",
+    "value": "max. 70 dBA",
+    "source": 0,
+    "key": "noise",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Safety clearance, rear",
+    "value": 50,
+    "source": 0,
+    "unit": "mm",
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Safety clearance, left",
+    "value": 50,
+    "source": 0,
+    "unit": "mm",
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Safety clearance, top",
+    "value": 500,
+    "source": 0,
+    "unit": "mm",
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Clearance from heat sources",
+    "value": "min. 500 mm",
+    "source": 0,
+    "key": "clearance",
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Packed dimensions including packaging (W x H x D)",
+    "value": "1165 x 2150 x 970 mm",
+    "source": 0,
+    "key": "cableHeight",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Weight of packaging",
+    "value": 40,
+    "source": 0,
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Weight of options (maximum)",
+    "value": 15,
+    "source": 0,
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Empty weight without options/accessories, electric / boiler (EB)",
+    "value": 285,
+    "source": 0,
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Steam generation, electric / boiler (EB)",
+    "value": "High-performance boiler outside the oven cavity",
+    "source": 0,
+    "section": "Performance"
+   },
+   {
+    "label": "Water supply connection A, electric / boiler (EB)",
+    "value": "Boiler feed; drinking water, typically hard water, general hardness 4 - 20 °dH / 70 - 360 ppm",
+    "source": 0,
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Empty weight without options/accessories, electric / injection (ES)",
+    "value": 270,
+    "source": 1,
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Steam generation, electric / injection (ES)",
+    "value": "Water injected into the oven cavity",
+    "source": 1,
+    "section": "Performance"
+   },
+   {
+    "label": "Water supply connection A, electric / injection (ES)",
+    "value": "Water injection; drinking water, typically soft water, general hardness 4 - 7 °dH / 70 - 125 ppm",
+    "source": 1,
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Controls",
+    "value": "easyDial: all functions in one operating level, central dial (C-Dial) with digital display",
+    "source": 0,
+    "key": "controls",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Stored programs",
+    "value": "99 cooking profiles each containing up to 9 steps",
+    "source": 0,
+    "key": "programs",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Core probe",
+    "value": "Multi-point core temperature probe",
+    "source": 0,
+    "key": "probe",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Automatic cleaning",
+    "value": "ConvoClean (optional single-dose dispensing)",
+    "source": 0,
+    "key": "autoClean",
+    "section": "Cleaning & maintenance"
+   },
+   {
+    "label": "Connectivity",
+    "value": "USB; HACCP data storage (Ethernet interface listed as an option)",
+    "source": 0,
+    "key": "connectivity",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Hygiene features",
+    "value": "HygieniCare; hygienic handles",
+    "source": 0,
+    "section": "Safety & compliance"
+   },
+   {
+    "label": "Lighting",
+    "value": "LED lighting in the oven cavity",
+    "source": 0,
+    "key": "lighting",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Hand shower",
+    "value": "Integrated recoil hand shower",
+    "source": 0,
+    "section": "Controls & features"
+   }
+  ],
+  "included": [
+   "Matching GN rack as standard (per sheet loading footnote)",
+   "Integrated recoil hand shower",
+   "Multi-point core temperature probe"
+  ],
+  "documents": [
+   {
+    "label": "Spec sheet EB",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/MAXXPROED2010_Convotherm%20Maxx%20Pro%20maxxpeoeD20.10EB%20Spec%20Sheet.pdf",
+    "kind": "datasheet"
+   },
+   {
+    "label": "Spec sheet ES",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/MAXXPROED2010_Convotherm%20Maxx%20Pro%20maxxpeoeD20.10ES%20Spec%20Sheet.pdf",
+    "kind": "datasheet"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://www.caterkwik.co.uk/shop/images/products/maxxproed2010.jpg",
+    "alt": "Convotherm Maxx Pro easyDial 20.10",
+    "source": 0
+   }
+  ],
+  "notes": "Caterkwik 'weight 40 kg' is the packaging weight (empty 270-285 kg). Caterkwik W889 x D819 x H1943 is not shown by the sheet (packed 1165 x 2150 x 970); appliance dims not recorded, human to check. Caterkwik gasKw 1.1 applies to gas versions only. Sheets cover EB and ES; Caterkwik says injection."
+ },
+ {
+  "id": "maxxproet2010",
+  "found": true,
+  "sources": [
+   {
+    "kind": "datasheet",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/MAXXPROET2010_Convotherm%20Maxx%20Pro%20maxxproeT20.10EB%20Spec%20Sheet.pdf",
+    "title": "Convotherm maxx pro easyTouch 20.10 EB spec sheet (Welbilt, 07/23)",
+    "read": "2026-10-12"
+   },
+   {
+    "kind": "datasheet",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/MAXXPROET2010_Convotherm%20Maxx%20Pro%20maxxproeT20.10ES%20Spec%20Sheet.pdf",
+    "title": "Convotherm maxx pro easyTouch 20.10 ES spec sheet (Welbilt, 07/23)",
+    "read": "2026-10-12"
+   }
+  ],
+  "summary": "The Convotherm Maxx Pro easyTouch 20.10 is a floor-standing 20-shelf GN 1/1 combi oven with a 10 inch touchscreen and Press&Go programs. It needs a three-phase 400V supply at about 38.9 kW and is offered with boiler or injection steam. Suits large kitchens needing high batch capacity.",
+  "highlights": [
+   {
+    "text": "easyTouch 10 inch TFT HiRes capacitive glass touch display",
+    "source": 0
+   },
+   {
+    "text": "Cooking modes: steam 30-130 °C, combi-steam 30-250 °C, convection 30-250 °C (Natural Smart Climate ACS+)",
+    "source": 0
+   },
+   {
+    "text": "TriColor indicator ring shows current operating status",
+    "source": 0
+   },
+   {
+    "text": "Integrated recoil hand shower and multi-point core temperature probe",
+    "source": 0
+   }
+  ],
+  "facts": [
+   {
+    "label": "Size / capacity",
+    "value": "20 shelves GN 1/1",
+    "source": 0,
+    "section": "Capacity"
+   },
+   {
+    "label": "Maximum loading weight per oven",
+    "value": 100,
+    "source": 0,
+    "key": "loadKg",
+    "unit": "kg",
+    "section": "Capacity"
+   },
+   {
+    "label": "Maximum loading per shelf level (GN 1/1 / 600 x 400)",
+    "value": 15,
+    "source": 0,
+    "unit": "kg",
+    "section": "Capacity"
+   },
+   {
+    "label": "Steam mode temperature",
+    "value": "30-130",
+    "source": 0,
+    "unit": "°C",
+    "section": "Performance"
+   },
+   {
+    "label": "Combi-steam temperature",
+    "value": "30-250",
+    "source": 0,
+    "unit": "°C",
+    "section": "Performance"
+   },
+   {
+    "label": "Convection temperature",
+    "value": "30-250",
+    "source": 0,
+    "unit": "°C",
+    "section": "Performance"
+   },
+   {
+    "label": "Temperature range (all modes)",
+    "value": "30-250 °C",
+    "source": 0,
+    "key": "tempRange",
+    "section": "Performance"
+   },
+   {
+    "label": "Rated power consumption, 3N~ 400V 50/60Hz",
+    "value": 38.9,
+    "source": 0,
+    "key": "electricKw",
+    "unit": "kW",
+    "section": "Electrical"
+   },
+   {
+    "label": "Rated current, 3N~ 400V 50/60Hz",
+    "value": 56.2,
+    "source": 0,
+    "key": "amps",
+    "unit": "A",
+    "section": "Electrical"
+   },
+   {
+    "label": "Fuse rating, 3N~ 400V 50/60Hz",
+    "value": 63,
+    "source": 0,
+    "unit": "A",
+    "section": "Electrical"
+   },
+   {
+    "label": "Recommended conductor cross-section, 3N~ 400V",
+    "value": "5G16",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "Voltage / phase (primary)",
+    "value": "3N~ 400V 50/60Hz",
+    "source": 0,
+    "key": "voltage",
+    "section": "Electrical"
+   },
+   {
+    "label": "RCD (GFCI)",
+    "value": "Single-phase frequency converter Type A/B (3N~ 400V)",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "3N~ 380V 60Hz supply",
+    "value": "35.1 kW, 53.3 A, fuse 63 A",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "3~ 230V 50/60Hz supply",
+    "value": "38.2 kW, 96 A, fuse 100 A",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "3~ 200V 50/60Hz supply",
+    "value": "38.2 kW, 110.4 A, fuse 125 A",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "Voltages with ConvoSmoke option",
+    "value": "Only 3~ 230V 50/60Hz and 3N~ 400V 50/60Hz",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "Water supply connection",
+    "value": "2 x G 3/4'' fixed connection, optionally including connecting pipe (min. DN13 / 1/2'')",
+    "source": 0,
+    "key": "waterConnection",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Water flow pressure",
+    "value": "150 - 600 kPa (1.5 - 6 bar)",
+    "source": 0,
+    "key": "waterPressure",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Drain",
+    "value": "DN 50 (min. internal diameter 46 mm); open tank or channel/trough recommended, or fixed connection",
+    "source": 0,
+    "key": "drain",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Drain pipe slope",
+    "value": "min. 3.5% (2°)",
+    "source": 0,
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Water quality, supply for cleaning / hand shower (connection B)",
+    "value": "Drinking water, typically hard water; general hardness 4 - 20 °dH / 70 - 360 ppm; pH 6.5 - 8.5; chloride max. 60 mg/l; free chlorine max. 0.2 mg/l; sulphate max. 150 mg/l; iron max. 0.1 mg/l; silicate max. 13 mg/l; monochloramine max. 0.2 mg/l; max. 40 °C; conductivity min. 20 µS/cm",
+    "source": 0,
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Waste water temperature",
+    "value": "max. 80",
+    "source": 0,
+    "unit": "°C",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Latent heat emission",
+    "value": "6900 kJ/h / 1.92 kW",
+    "source": 0,
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Sensible heat emission",
+    "value": "8900 kJ/h / 2.47 kW",
+    "source": 0,
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Noise during operation",
+    "value": "max. 70 dBA",
+    "source": 0,
+    "key": "noise",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Safety clearance, rear",
+    "value": 50,
+    "source": 0,
+    "unit": "mm",
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Safety clearance, left",
+    "value": 50,
+    "source": 0,
+    "unit": "mm",
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Safety clearance, top",
+    "value": 500,
+    "source": 0,
+    "unit": "mm",
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Clearance from heat sources",
+    "value": "min. 500 mm",
+    "source": 0,
+    "key": "clearance",
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Packed dimensions including packaging (W x H x D)",
+    "value": "1165 x 2150 x 970 mm",
+    "source": 0,
+    "key": "cableHeight",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Weight of packaging",
+    "value": 40,
+    "source": 0,
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Weight of options (maximum)",
+    "value": 15,
+    "source": 0,
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Empty weight without options/accessories, electric / boiler (EB)",
+    "value": 272,
+    "source": 0,
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Steam generation, electric / boiler (EB)",
+    "value": "High-performance boiler outside the oven cavity",
+    "source": 0,
+    "section": "Performance"
+   },
+   {
+    "label": "Water supply connection A, electric / boiler (EB)",
+    "value": "Boiler feed; drinking water, typically hard water, general hardness 4 - 20 °dH / 70 - 360 ppm",
+    "source": 0,
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Empty weight without options/accessories, electric / injection (ES)",
+    "value": 257,
+    "source": 1,
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Steam generation, electric / injection (ES)",
+    "value": "Water injected into the oven cavity",
+    "source": 1,
+    "section": "Performance"
+   },
+   {
+    "label": "Water supply connection A, electric / injection (ES)",
+    "value": "Water injection; drinking water, typically soft water, general hardness 4 - 7 °dH / 70 - 125 ppm",
+    "source": 1,
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Controls",
+    "value": "easyTouch 10 inch TFT HiRes capacitive glass touch display",
+    "source": 0,
+    "key": "controls",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Stored programs",
+    "value": "Press&Go with up to 399 profiles",
+    "source": 0,
+    "key": "programs",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Core probe",
+    "value": "Multi-point core temperature probe",
+    "source": 0,
+    "key": "probe",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Automatic cleaning",
+    "value": "ConvoClean+ (eco, regular, express modes; optional single-dose dispensing)",
+    "source": 0,
+    "key": "autoClean",
+    "section": "Cleaning & maintenance"
+   },
+   {
+    "label": "Connectivity",
+    "value": "WiFi, Ethernet (LAN), USB",
+    "source": 0,
+    "key": "connectivity",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Hygiene features",
+    "value": "HygieniCare; hygienic handles; hygienic steam function; SteamDisinfect",
+    "source": 0,
+    "section": "Safety & compliance"
+   },
+   {
+    "label": "Lighting",
+    "value": "LED lighting in the oven cavity",
+    "source": 0,
+    "key": "lighting",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Hand shower",
+    "value": "Integrated recoil hand shower",
+    "source": 0,
+    "section": "Controls & features"
+   }
+  ],
+  "included": [
+   "Matching GN rack as standard (per sheet loading footnote)",
+   "Integrated recoil hand shower",
+   "Multi-point core temperature probe"
+  ],
+  "documents": [
+   {
+    "label": "Spec sheet EB",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/MAXXPROET2010_Convotherm%20Maxx%20Pro%20maxxproeT20.10EB%20Spec%20Sheet.pdf",
+    "kind": "datasheet"
+   },
+   {
+    "label": "Spec sheet ES",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/MAXXPROET2010_Convotherm%20Maxx%20Pro%20maxxproeT20.10ES%20Spec%20Sheet.pdf",
+    "kind": "datasheet"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://www.caterkwik.co.uk/shop/images/products/maxxproet2010.jpg",
+    "alt": "Convotherm Maxx Pro easyTouch 20.10",
+    "source": 0
+   }
+  ],
+  "notes": "Caterkwik 'weight 40 kg' is the packaging weight (empty 257-272 kg). Caterkwik W889 x D819 x H1943 is not shown by the sheet (packed 1165 x 2150 x 970); appliance dims not recorded, human to check. Page MPN is the family code; sheets are EB and ES. Gas sheets exist, not recorded."
+ },
+ {
+  "id": "maxxproet2020",
+  "found": true,
+  "sources": [
+   {
+    "kind": "datasheet",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/MAXXPROET2020_Convotherm%20Maxx%20Pro%20maxxproeT20.20EB%20Spec%20Sheet.pdf",
+    "title": "Convotherm maxx pro easyTouch 20.20 EB spec sheet (Welbilt, 07/23)",
+    "read": "2026-10-12"
+   },
+   {
+    "kind": "datasheet",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/MAXXPROET2020_Convotherm%20Maxx%20Pro%20maxxproeT20.20ES%20Spec%20Sheet.pdf",
+    "title": "Convotherm maxx pro easyTouch 20.20 ES spec sheet (Welbilt, 07/23)",
+    "read": "2026-10-12"
+   }
+  ],
+  "summary": "The Convotherm Maxx Pro easyTouch 20.20 is the largest floor-standing model in the range, taking 20 GN 2/1 shelves with a 10 inch touchscreen. It needs a three-phase 400V supply at about 67.3 kW (100 A fuse). Suits large hotel, banqueting and central production kitchens.",
+  "highlights": [
+   {
+    "text": "easyTouch 10 inch TFT HiRes capacitive glass touch display",
+    "source": 0
+   },
+   {
+    "text": "Cooking modes: steam 30-130 °C, combi-steam 30-250 °C, convection 30-250 °C (Natural Smart Climate ACS+)",
+    "source": 0
+   },
+   {
+    "text": "TriColor indicator ring shows current operating status",
+    "source": 0
+   },
+   {
+    "text": "Integrated recoil hand shower and multi-point core temperature probe",
+    "source": 0
+   }
+  ],
+  "facts": [
+   {
+    "label": "Size / capacity",
+    "value": "20 shelves GN 2/1",
+    "source": 0,
+    "section": "Capacity"
+   },
+   {
+    "label": "Maximum loading weight per oven",
+    "value": 180,
+    "source": 0,
+    "key": "loadKg",
+    "unit": "kg",
+    "section": "Capacity"
+   },
+   {
+    "label": "Maximum loading per shelf level (GN 1/1 / 600 x 400)",
+    "value": 15,
+    "source": 0,
+    "unit": "kg",
+    "section": "Capacity"
+   },
+   {
+    "label": "Steam mode temperature",
+    "value": "30-130",
+    "source": 0,
+    "unit": "°C",
+    "section": "Performance"
+   },
+   {
+    "label": "Combi-steam temperature",
+    "value": "30-250",
+    "source": 0,
+    "unit": "°C",
+    "section": "Performance"
+   },
+   {
+    "label": "Convection temperature",
+    "value": "30-250",
+    "source": 0,
+    "unit": "°C",
+    "section": "Performance"
+   },
+   {
+    "label": "Temperature range (all modes)",
+    "value": "30-250 °C",
+    "source": 0,
+    "key": "tempRange",
+    "section": "Performance"
+   },
+   {
+    "label": "Rated power consumption, 3N~ 400V 50/60Hz",
+    "value": 67.3,
+    "source": 0,
+    "key": "electricKw",
+    "unit": "kW",
+    "section": "Electrical"
+   },
+   {
+    "label": "Rated current, 3N~ 400V 50/60Hz",
+    "value": 97.3,
+    "source": 0,
+    "key": "amps",
+    "unit": "A",
+    "section": "Electrical"
+   },
+   {
+    "label": "Fuse rating, 3N~ 400V 50/60Hz",
+    "value": 100,
+    "source": 0,
+    "unit": "A",
+    "section": "Electrical"
+   },
+   {
+    "label": "Recommended conductor cross-section, 3N~ 400V",
+    "value": "5G35",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "Voltage / phase (primary)",
+    "value": "3N~ 400V 50/60Hz",
+    "source": 0,
+    "key": "voltage",
+    "section": "Electrical"
+   },
+   {
+    "label": "RCD (GFCI)",
+    "value": "Single-phase frequency converter Type A/B (3N~ 400V)",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "3N~ 380V 60Hz supply",
+    "value": "60.7 kW, 92.2 A, fuse 100 A",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "3~ 230V 50/60Hz supply",
+    "value": "66.4 kW, 166.9 A, fuse 200 A",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "3~ 200V 50/60Hz supply",
+    "value": "66.4 kW, 191.9 A, fuse 200 A",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "Voltages with ConvoSmoke option",
+    "value": "Only 3~ 230V 50/60Hz and 3N~ 400V 50/60Hz",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "Water supply connection",
+    "value": "2 x G 3/4'' fixed connection, optionally including connecting pipe (min. DN13 / 1/2'')",
+    "source": 0,
+    "key": "waterConnection",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Water flow pressure",
+    "value": "150 - 600 kPa (1.5 - 6 bar)",
+    "source": 0,
+    "key": "waterPressure",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Drain",
+    "value": "DN 50 (min. internal diameter 46 mm); open tank or channel/trough recommended, or fixed connection",
+    "source": 0,
+    "key": "drain",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Drain pipe slope",
+    "value": "min. 3.5% (2°)",
+    "source": 0,
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Water quality, supply for cleaning / hand shower (connection B)",
+    "value": "Drinking water, typically hard water; general hardness 4 - 20 °dH / 70 - 360 ppm; pH 6.5 - 8.5; chloride max. 60 mg/l; free chlorine max. 0.2 mg/l; sulphate max. 150 mg/l; iron max. 0.1 mg/l; silicate max. 13 mg/l; monochloramine max. 0.2 mg/l; max. 40 °C; conductivity min. 20 µS/cm",
+    "source": 0,
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Waste water temperature",
+    "value": "max. 80",
+    "source": 0,
+    "unit": "°C",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Latent heat emission",
+    "value": "11000 kJ/h / 3.06 kW",
+    "source": 0,
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Sensible heat emission",
+    "value": "14100 kJ/h / 3.92 kW",
+    "source": 0,
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Noise during operation",
+    "value": "max. 70 dBA",
+    "source": 0,
+    "key": "noise",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Safety clearance, rear",
+    "value": 50,
+    "source": 0,
+    "unit": "mm",
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Safety clearance, left",
+    "value": 50,
+    "source": 0,
+    "unit": "mm",
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Safety clearance, top",
+    "value": 500,
+    "source": 0,
+    "unit": "mm",
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Clearance from heat sources",
+    "value": "min. 500 mm",
+    "source": 0,
+    "key": "clearance",
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Packed dimensions including packaging (W x H x D)",
+    "value": "1410 x 2150 x 1170 mm",
+    "source": 0,
+    "key": "cableHeight",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Weight of packaging",
+    "value": 48,
+    "source": 0,
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Weight of options (maximum)",
+    "value": 15,
+    "source": 0,
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Empty weight without options/accessories, electric / boiler (EB)",
+    "value": 356,
+    "source": 0,
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Steam generation, electric / boiler (EB)",
+    "value": "High-performance boiler outside the oven cavity",
+    "source": 0,
+    "section": "Performance"
+   },
+   {
+    "label": "Water supply connection A, electric / boiler (EB)",
+    "value": "Boiler feed; drinking water, typically hard water, general hardness 4 - 20 °dH / 70 - 360 ppm",
+    "source": 0,
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Empty weight without options/accessories, electric / injection (ES)",
+    "value": 358,
+    "source": 1,
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Steam generation, electric / injection (ES)",
+    "value": "Water injected into the oven cavity",
+    "source": 1,
+    "section": "Performance"
+   },
+   {
+    "label": "Water supply connection A, electric / injection (ES)",
+    "value": "Water injection; drinking water, typically soft water, general hardness 4 - 7 °dH / 70 - 125 ppm",
+    "source": 1,
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Controls",
+    "value": "easyTouch 10 inch TFT HiRes capacitive glass touch display",
+    "source": 0,
+    "key": "controls",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Stored programs",
+    "value": "Press&Go with up to 399 profiles",
+    "source": 0,
+    "key": "programs",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Core probe",
+    "value": "Multi-point core temperature probe",
+    "source": 0,
+    "key": "probe",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Automatic cleaning",
+    "value": "ConvoClean+ (eco, regular, express modes; optional single-dose dispensing)",
+    "source": 0,
+    "key": "autoClean",
+    "section": "Cleaning & maintenance"
+   },
+   {
+    "label": "Connectivity",
+    "value": "WiFi, Ethernet (LAN), USB",
+    "source": 0,
+    "key": "connectivity",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Hygiene features",
+    "value": "HygieniCare; hygienic handles; hygienic steam function; SteamDisinfect",
+    "source": 0,
+    "section": "Safety & compliance"
+   },
+   {
+    "label": "Lighting",
+    "value": "LED lighting in the oven cavity",
+    "source": 0,
+    "key": "lighting",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Hand shower",
+    "value": "Integrated recoil hand shower",
+    "source": 0,
+    "section": "Controls & features"
+   }
+  ],
+  "included": [
+   "Matching GN rack as standard (per sheet loading footnote)",
+   "Integrated recoil hand shower",
+   "Multi-point core temperature probe"
+  ],
+  "documents": [
+   {
+    "label": "Spec sheet EB",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/MAXXPROET2020_Convotherm%20Maxx%20Pro%20maxxproeT20.20EB%20Spec%20Sheet.pdf",
+    "kind": "datasheet"
+   },
+   {
+    "label": "Spec sheet ES",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/MAXXPROET2020_Convotherm%20Maxx%20Pro%20maxxproeT20.20ES%20Spec%20Sheet.pdf",
+    "kind": "datasheet"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://www.caterkwik.co.uk/shop/images/products/maxxproet2020.jpg",
+    "alt": "Convotherm Maxx Pro easyTouch 20.20",
+    "source": 0
+   }
+  ],
+  "notes": "Caterkwik 'weight 48 kg' is the packaging weight (empty 356-358 kg). Caterkwik W1133 x D1019 x H1943 is not shown by the sheet (packed 1410 x 2150 x 1170); appliance dims not recorded, human to check. Page MPN is the family code; sheets are EB and ES. Gas sheets exist, not recorded."
+ },
+ {
+  "id": "ivpl",
+  "found": true,
+  "sources": [
+   {
+    "kind": "datasheet",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/IVPL_DS_iV_L_mit%20UB%20HV_en-UK_00.pdf_master.pdf",
+    "title": "Rational iVario Pro L data sheet (with height adjustable substructure), RATIONAL UK, version 23",
+    "read": "2026-10-12"
+   }
+  ],
+  "summary": "The RATIONAL iVario Pro L is a 100 litre electric tilting multi-function cooking pan that boils, pan fries and deep fries, with sensor-driven cooking assistants. It needs a three-phase 400V supply at 27 kW (21 kW with the Balanced Power option). Suits mid to large kitchens replacing a kettle, bratt pan and fryer.",
+  "highlights": [
+   {
+    "text": "iVarioBoost ceramic heating reaches 200 °C in under 2.5 minutes",
+    "source": 0
+   },
+   {
+    "text": "Boiling, pan frying (30-250 °C) and deep frying (30-180 °C) in one tilting pan",
+    "source": 0
+   },
+   {
+    "text": "Integrated pan drain: cooking or cleaning water can be emptied without tilting or a floor drain",
+    "source": 0
+   },
+   {
+    "text": "Up to 1,200 programmes with up to 12 steps; WiFi link to ConnectedCooking",
+    "source": 0
+   },
+   {
+    "text": "2 year RATIONAL guarantee including parts, work and journey",
+    "source": 0
+   }
+  ],
+  "facts": [
+   {
+    "label": "Effective volume of pan",
+    "value": 100,
+    "source": 0,
+    "unit": "litres",
+    "section": "Capacity"
+   },
+   {
+    "label": "Pan volume (W x D x H)",
+    "value": "692 x 570 x 280 mm",
+    "source": 0,
+    "key": "panSize",
+    "section": "Dimensions"
+   },
+   {
+    "label": "Pan area",
+    "value": 39,
+    "source": 0,
+    "unit": "dm²",
+    "section": "Capacity"
+   },
+   {
+    "label": "Maximum cold oil",
+    "value": 30,
+    "source": 0,
+    "unit": "litres",
+    "section": "Capacity"
+   },
+   {
+    "label": "Width (with height-adjustable substructure)",
+    "value": 1030,
+    "source": 0,
+    "key": "width",
+    "unit": "mm",
+    "section": "Dimensions"
+   },
+   {
+    "label": "Depth",
+    "value": 894,
+    "source": 0,
+    "key": "depth",
+    "unit": "mm",
+    "section": "Dimensions"
+   },
+   {
+    "label": "Minimum height, lid closed (with stand unit)",
+    "value": 1078,
+    "source": 0,
+    "unit": "mm",
+    "section": "Dimensions"
+   },
+   {
+    "label": "Maximum height, lid closed (electric height adjustment +175 / -25 mm)",
+    "value": 1253,
+    "source": 0,
+    "unit": "mm",
+    "section": "Dimensions"
+   },
+   {
+    "label": "Minimum height, lid open (with stand unit)",
+    "value": 1735,
+    "source": 0,
+    "unit": "mm",
+    "section": "Dimensions"
+   },
+   {
+    "label": "Maximum height, lid open (electric height adjustment)",
+    "value": 1935,
+    "source": 0,
+    "unit": "mm",
+    "section": "Dimensions"
+   },
+   {
+    "label": "Minimum pan edge height",
+    "value": 900,
+    "source": 0,
+    "unit": "mm",
+    "section": "Dimensions"
+   },
+   {
+    "label": "Maximum pan edge height",
+    "value": 1100,
+    "source": 0,
+    "unit": "mm",
+    "section": "Dimensions"
+   },
+   {
+    "label": "Net weight (with height-adjustable substructure)",
+    "value": 238,
+    "source": 0,
+    "key": "weight",
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Gross weight (with height-adjustable substructure)",
+    "value": 248,
+    "source": 0,
+    "key": "grossWeight",
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Net weight (with pressure option)",
+    "value": 257,
+    "source": 0,
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Gross weight (with pressure option)",
+    "value": 287,
+    "source": 0,
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Voltage",
+    "value": "3NAC 400V, 50/60 Hz",
+    "source": 0,
+    "key": "voltage",
+    "section": "Electrical"
+   },
+   {
+    "label": "Electrical output",
+    "value": 27,
+    "source": 0,
+    "key": "electricKw",
+    "unit": "kW",
+    "section": "Electrical"
+   },
+   {
+    "label": "Fuse protection (max. 2 m cable)",
+    "value": 40,
+    "source": 0,
+    "key": "amps",
+    "unit": "A",
+    "section": "Electrical"
+   },
+   {
+    "label": "Conductor cross-section",
+    "value": "6 mm²",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "Output with Balanced Power option",
+    "value": "21 kW, fuse 32 A, 4 mm²",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "Maximal socket power (voltages with neutral conductor)",
+    "value": "2.3 kW (10 A)",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "Water supply (pressure hose)",
+    "value": "3/4 inch",
+    "source": 0,
+    "key": "waterConnection",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Water pressure (flow pressure)",
+    "value": "150 kPa (1.5 bar) - 600 kPa (6 bar)",
+    "source": 0,
+    "key": "waterPressure",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Drain",
+    "value": "DN 50",
+    "source": 0,
+    "key": "drain",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Recommended exhaust air volume (device free in the room), 3NAC 400V",
+    "value": "1,266 m³/h",
+    "source": 0,
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Latent heat load",
+    "value": "5,796 W",
+    "source": 0,
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Sensible heat emission",
+    "value": "725 W",
+    "source": 0,
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Minimum clearance, standard (left / back / right)",
+    "value": "50 mm / 0 / 0 (20 mm on the right with lockable control panel option)",
+    "source": 0,
+    "key": "clearance",
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Minimum clearance to heat source (left / back / right)",
+    "value": "350 mm each",
+    "source": 0,
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Minimum clearance 'To open' (left / back / right)",
+    "value": "500 mm each",
+    "source": 0,
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Minimum clearance 'To open water when deep frying' (left / back / right)",
+    "value": "900 mm each",
+    "source": 0,
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Boiling temperature range",
+    "value": "30 °C to boiling temperature",
+    "source": 0,
+    "section": "Performance"
+   },
+   {
+    "label": "Pan frying temperature range",
+    "value": "30-250",
+    "source": 0,
+    "unit": "°C",
+    "section": "Performance"
+   },
+   {
+    "label": "Deep-frying temperature range",
+    "value": "30-180",
+    "source": 0,
+    "unit": "°C",
+    "section": "Performance"
+   },
+   {
+    "label": "Heat-up",
+    "value": "Heats the pan evenly to 200 °C in less than 2.5 minutes (iVarioBoost)",
+    "source": 0,
+    "key": "heatUp",
+    "section": "Performance"
+   },
+   {
+    "label": "Heating technology",
+    "value": "iVarioBoost: ceramic heating elements bonded to the high-performance pan base",
+    "source": 0,
+    "key": "heatingMethod",
+    "section": "Performance"
+   },
+   {
+    "label": "Cooking zones",
+    "value": "iZoneControl: pan base divisible into individual heating zones",
+    "source": 0,
+    "section": "Capacity"
+   },
+   {
+    "label": "Stored programs",
+    "value": "Up to 1,200 cooking programmes with up to 12 steps",
+    "source": 0,
+    "section": "Controls & features"
+   },
+   {
+    "label": "Display",
+    "value": "10.1 inch TFT colour display with capacitive touchscreen and central dial",
+    "source": 0,
+    "key": "controls",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Core temperature probe",
+    "value": "6 measuring points, magnetic holder",
+    "source": 0,
+    "key": "probe",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Connectivity",
+    "value": "WiFi (ConnectedCooking), USB; Ethernet optional",
+    "source": 0,
+    "key": "connectivity",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Timer",
+    "value": "Digital timer 0-24 hours",
+    "source": 0,
+    "key": "timer",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Material, inside and outside",
+    "value": "Stainless steel",
+    "source": 0,
+    "key": "material",
+    "section": "Construction"
+   },
+   {
+    "label": "IP rating",
+    "value": "IPX5 (splash-proof and hose-proof)",
+    "source": 0,
+    "key": "ipRating",
+    "section": "Electrical"
+   },
+   {
+    "label": "Pan hygiene",
+    "value": "Airtight hygiene pan with rounded corners (NSF approved)",
+    "source": 0,
+    "section": "Construction"
+   },
+   {
+    "label": "Touch temperature of pan covering",
+    "value": "max. 73",
+    "source": 0,
+    "unit": "°C",
+    "section": "Safety & compliance"
+   },
+   {
+    "label": "Pan movement",
+    "value": "Tilted by electric cylinders controlled from the display",
+    "source": 0,
+    "section": "Controls & features"
+   },
+   {
+    "label": "Installation",
+    "value": "Fixed waste water connection with flexible HT tube 0.5 m; cold water connection incl. 1.5 m supply hose; can be installed flush with floor and wall; set-up without floor drain possible",
+    "source": 0,
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Warranty",
+    "value": "2 year RATIONAL guarantee (parts, work and journey)",
+    "source": 0,
+    "key": "warranty",
+    "section": "Warranty & service"
+   },
+   {
+    "label": "Energy efficiency testing",
+    "value": "Tested to DIN 18873; values published in HKI Cert database",
+    "source": 0,
+    "section": "Safety & compliance"
+   },
+   {
+    "label": "Unsupervised operation",
+    "value": "Approved (e.g. overnight cooking)",
+    "source": 0,
+    "section": "Safety & compliance"
+   },
+   {
+    "label": "Pressure cooking option, max. overpressure",
+    "value": 300,
+    "source": 0,
+    "unit": "mbar",
+    "section": "Performance"
+   }
+  ],
+  "included": [
+   "Cold water connection incl. 1.5 m water supply hose",
+   "Fixed waste water connection incl. flexible HT tube 0.5 m"
+  ],
+  "documents": [
+   {
+    "label": "Data sheet",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/IVPL_DS_iV_L_mit%20UB%20HV_en-UK_00.pdf_master.pdf",
+    "kind": "datasheet"
+   },
+   {
+    "label": "iVario brochure",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/IVPL_Rational-ivario-brochure.pdf",
+    "kind": "brochure"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://www.caterkwik.co.uk/shop/images/products/ivpl.jpg",
+    "alt": "Rational iVario Pro L",
+    "source": 0
+   }
+  ],
+  "notes": "Datasheet weights (238 kg net) are for the version with height-adjustable substructure; Caterkwik weight 196 kg and height 608 may describe a table-top build, human to check. Caterkwik 'bain marie' heating is not in the sheet (iVarioBoost ceramic heating); plug string 'balanced power opti' is truncated. Sheet dated 4/11/2020."
+ },
+ {
+  "id": "ivpxl",
+  "found": true,
+  "sources": [
+   {
+    "kind": "datasheet",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/IVPXL_DS_iV_XL_mit%20UB%20HV_en-UK_00.pdf_master.pdf",
+    "title": "Rational iVario Pro XL data sheet (with height adjustable substructure), RATIONAL UK, version 22",
+    "read": "2026-10-12"
+   }
+  ],
+  "summary": "The RATIONAL iVario Pro XL is a 150 litre electric tilting multi-function cooking pan for boiling, pan frying and deep frying with sensor-driven cooking assistants. It needs a three-phase 400V supply at 41 kW (34 kW with Balanced Power). Suits large canteen, hospital and central kitchen production.",
+  "highlights": [
+   {
+    "text": "iVarioBoost ceramic heating reaches 200 °C in under 2.5 minutes",
+    "source": 0
+   },
+   {
+    "text": "Boiling, pan frying (30-250 °C) and deep frying (30-180 °C) in one tilting pan",
+    "source": 0
+   },
+   {
+    "text": "Integrated pan drain: cooking or cleaning water can be emptied without tilting or a floor drain",
+    "source": 0
+   },
+   {
+    "text": "Up to 1,200 programmes with up to 12 steps; WiFi link to ConnectedCooking",
+    "source": 0
+   },
+   {
+    "text": "2 year RATIONAL guarantee including parts, work and journey",
+    "source": 0
+   }
+  ],
+  "facts": [
+   {
+    "label": "Effective volume of pan",
+    "value": 150,
+    "source": 0,
+    "unit": "litres",
+    "section": "Capacity"
+   },
+   {
+    "label": "Pan volume (W x D x H)",
+    "value": "1,026 x 570 x 280 mm",
+    "source": 0,
+    "key": "panSize",
+    "section": "Dimensions"
+   },
+   {
+    "label": "Pan area",
+    "value": 59,
+    "source": 0,
+    "unit": "dm²",
+    "section": "Capacity"
+   },
+   {
+    "label": "Maximum cold oil",
+    "value": 45,
+    "source": 0,
+    "unit": "litres",
+    "section": "Capacity"
+   },
+   {
+    "label": "Width (with height-adjustable substructure)",
+    "value": 1365,
+    "source": 0,
+    "key": "width",
+    "unit": "mm",
+    "section": "Dimensions"
+   },
+   {
+    "label": "Depth",
+    "value": 894,
+    "source": 0,
+    "key": "depth",
+    "unit": "mm",
+    "section": "Dimensions"
+   },
+   {
+    "label": "Minimum height, lid closed (with stand unit)",
+    "value": 1078,
+    "source": 0,
+    "unit": "mm",
+    "section": "Dimensions"
+   },
+   {
+    "label": "Maximum height, lid closed (electric height adjustment +175 / -25 mm)",
+    "value": 1253,
+    "source": 0,
+    "unit": "mm",
+    "section": "Dimensions"
+   },
+   {
+    "label": "Minimum height, lid open (with stand unit)",
+    "value": 1735,
+    "source": 0,
+    "unit": "mm",
+    "section": "Dimensions"
+   },
+   {
+    "label": "Maximum height, lid open (electric height adjustment)",
+    "value": 1935,
+    "source": 0,
+    "unit": "mm",
+    "section": "Dimensions"
+   },
+   {
+    "label": "Minimum pan edge height",
+    "value": 900,
+    "source": 0,
+    "unit": "mm",
+    "section": "Dimensions"
+   },
+   {
+    "label": "Maximum pan edge height",
+    "value": 1100,
+    "source": 0,
+    "unit": "mm",
+    "section": "Dimensions"
+   },
+   {
+    "label": "Net weight (with height-adjustable substructure)",
+    "value": 279,
+    "source": 0,
+    "key": "weight",
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Gross weight (with height-adjustable substructure)",
+    "value": 299,
+    "source": 0,
+    "key": "grossWeight",
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Net weight (with pressure option)",
+    "value": 307,
+    "source": 0,
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Gross weight (with pressure option)",
+    "value": 337,
+    "source": 0,
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Voltage",
+    "value": "3NAC 400V, 50/60 Hz",
+    "source": 0,
+    "key": "voltage",
+    "section": "Electrical"
+   },
+   {
+    "label": "Electrical output",
+    "value": 41,
+    "source": 0,
+    "key": "electricKw",
+    "unit": "kW",
+    "section": "Electrical"
+   },
+   {
+    "label": "Fuse protection (max. 2 m cable)",
+    "value": 63,
+    "source": 0,
+    "key": "amps",
+    "unit": "A",
+    "section": "Electrical"
+   },
+   {
+    "label": "Conductor cross-section",
+    "value": "10 mm²",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "Output with Balanced Power option",
+    "value": "34 kW, fuse 50 A, 10 mm²",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "Maximal socket power (voltages with neutral conductor)",
+    "value": "2.3 kW (10 A)",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "Water supply (pressure hose)",
+    "value": "3/4 inch",
+    "source": 0,
+    "key": "waterConnection",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Water pressure (flow pressure)",
+    "value": "150 kPa (1.5 bar) - 600 kPa (6 bar)",
+    "source": 0,
+    "key": "waterPressure",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Drain",
+    "value": "DN 50",
+    "source": 0,
+    "key": "drain",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Recommended exhaust air volume (device free in the room), 3NAC 400V",
+    "value": "1,889 m³/h",
+    "source": 0,
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Latent heat load",
+    "value": "8,602 W",
+    "source": 0,
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Sensible heat emission",
+    "value": "1,071 W",
+    "source": 0,
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Minimum clearance, standard (left / back / right)",
+    "value": "50 mm / 0 / 0 (20 mm on the right with lockable control panel option)",
+    "source": 0,
+    "key": "clearance",
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Minimum clearance to heat source (left / back / right)",
+    "value": "350 mm each",
+    "source": 0,
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Minimum clearance 'To open' (left / back / right)",
+    "value": "500 mm each",
+    "source": 0,
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Minimum clearance 'To open water when deep frying' (left / back / right)",
+    "value": "900 mm each",
+    "source": 0,
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Boiling temperature range",
+    "value": "30 °C to boiling temperature",
+    "source": 0,
+    "section": "Performance"
+   },
+   {
+    "label": "Pan frying temperature range",
+    "value": "30-250",
+    "source": 0,
+    "unit": "°C",
+    "section": "Performance"
+   },
+   {
+    "label": "Deep-frying temperature range",
+    "value": "30-180",
+    "source": 0,
+    "unit": "°C",
+    "section": "Performance"
+   },
+   {
+    "label": "Heat-up",
+    "value": "Heats the pan evenly to 200 °C in less than 2.5 minutes (iVarioBoost)",
+    "source": 0,
+    "key": "heatUp",
+    "section": "Performance"
+   },
+   {
+    "label": "Heating technology",
+    "value": "iVarioBoost: ceramic heating elements bonded to the high-performance pan base",
+    "source": 0,
+    "key": "heatingMethod",
+    "section": "Performance"
+   },
+   {
+    "label": "Cooking zones",
+    "value": "iZoneControl: pan base divisible into individual heating zones",
+    "source": 0,
+    "section": "Capacity"
+   },
+   {
+    "label": "Stored programs",
+    "value": "Up to 1,200 cooking programmes with up to 12 steps",
+    "source": 0,
+    "section": "Controls & features"
+   },
+   {
+    "label": "Display",
+    "value": "10.1 inch TFT colour display with capacitive touchscreen and central dial",
+    "source": 0,
+    "key": "controls",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Core temperature probe",
+    "value": "6 measuring points, magnetic holder",
+    "source": 0,
+    "key": "probe",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Connectivity",
+    "value": "WiFi (ConnectedCooking), USB; Ethernet optional",
+    "source": 0,
+    "key": "connectivity",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Timer",
+    "value": "Digital timer 0-24 hours",
+    "source": 0,
+    "key": "timer",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Material, inside and outside",
+    "value": "Stainless steel",
+    "source": 0,
+    "key": "material",
+    "section": "Construction"
+   },
+   {
+    "label": "IP rating",
+    "value": "IPX5 (splash-proof and hose-proof)",
+    "source": 0,
+    "key": "ipRating",
+    "section": "Electrical"
+   },
+   {
+    "label": "Pan hygiene",
+    "value": "Airtight hygiene pan with rounded corners (NSF approved)",
+    "source": 0,
+    "section": "Construction"
+   },
+   {
+    "label": "Touch temperature of pan covering",
+    "value": "max. 73",
+    "source": 0,
+    "unit": "°C",
+    "section": "Safety & compliance"
+   },
+   {
+    "label": "Pan movement",
+    "value": "Tilted by electric cylinders controlled from the display",
+    "source": 0,
+    "section": "Controls & features"
+   },
+   {
+    "label": "Installation",
+    "value": "Fixed waste water connection with flexible HT tube 0.5 m; cold water connection incl. 1.5 m supply hose; can be installed flush with floor and wall; set-up without floor drain possible",
+    "source": 0,
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Warranty",
+    "value": "2 year RATIONAL guarantee (parts, work and journey)",
+    "source": 0,
+    "key": "warranty",
+    "section": "Warranty & service"
+   },
+   {
+    "label": "Energy efficiency testing",
+    "value": "Tested to DIN 18873; values published in HKI Cert database",
+    "source": 0,
+    "section": "Safety & compliance"
+   },
+   {
+    "label": "Unsupervised operation",
+    "value": "Approved (e.g. overnight cooking)",
+    "source": 0,
+    "section": "Safety & compliance"
+   },
+   {
+    "label": "Pressure cooking option, max. overpressure",
+    "value": 300,
+    "source": 0,
+    "unit": "mbar",
+    "section": "Performance"
+   }
+  ],
+  "included": [
+   "Cold water connection incl. 1.5 m water supply hose",
+   "Fixed waste water connection incl. flexible HT tube 0.5 m"
+  ],
+  "documents": [
+   {
+    "label": "Data sheet",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/IVPXL_DS_iV_XL_mit%20UB%20HV_en-UK_00.pdf_master.pdf",
+    "kind": "datasheet"
+   },
+   {
+    "label": "iVario brochure",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/IVPXL_Rational-ivario-brochure.pdf",
+    "kind": "brochure"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://www.caterkwik.co.uk/shop/images/products/ivpxl.jpg",
+    "alt": "Rational iVario Pro XL",
+    "source": 0
+   }
+  ],
+  "notes": "Datasheet weights (279 kg net) are for the version with height-adjustable substructure; Caterkwik weight 236 kg may describe a different build, human to check. Caterkwik 'bain marie' heating is not in the sheet. Caterkwik plug string '32 A 40 A / 32 A 63 A /' is garbled. Sheet gives 59 dm² as cooking surface; dated 4/11/2020."
+ },
+ {
+  "id": "b1mj061e",
+  "found": true,
+  "sources": [
+   {
+    "kind": "datasheet",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/B1MJ061E_Hobart-Bonnet-Combi-Oven-B2MJ061E-Spec-Sheet.pdf",
+    "title": "Hobart Minijet 6 level GN 1/1 electric oven spec sheet (ref. B2MJ061E)",
+    "read": "2026-10-12"
+   },
+   {
+    "kind": "retailer",
+    "url": "https://www.advantage-catering-equipment.co.uk/products/hobart-bonnet-minijet-combi-oven",
+    "title": "Hobart Bonnet Minijet 6 Grid 1/1 GN Combi Oven (Advantage Catering)",
+    "read": "2026-10-12"
+   }
+  ],
+  "summary": "The Hobart Bonnet Minijet is a compact six-level GN 1/1 electric combi oven only 525 mm wide, with a touchscreen control and automatic cleaning. It runs from a single-phase 230V or three-phase 400V supply at 6.3 kW. Suits small restaurants, cafes and bars wanting combi cooking on a worktop or stand.",
+  "highlights": [
+   {
+    "text": "CoreControl adjusts power to the actual product load",
+    "source": 0
+   },
+   {
+    "text": "Six cooking modes including low and high temperature steam and regeneration",
+    "source": 0
+   },
+   {
+    "text": "Automatic FullCleaning System with integral chemical pump (3 levels)",
+    "source": 0
+   },
+   {
+    "text": "Cavity runners supplied as a 12 level set at 22 mm spacing",
+    "source": 0
+   },
+   {
+    "text": "Stackable with kit; compatible with Advancia worktop installation",
+    "source": 0
+   }
+  ],
+  "facts": [
+   {
+    "label": "Model on sheet",
+    "value": "B2MJ061E",
+    "source": 0,
+    "section": "Identity"
+   },
+   {
+    "label": "Width",
+    "value": 525,
+    "source": 0,
+    "key": "width",
+    "unit": "mm",
+    "section": "Dimensions"
+   },
+   {
+    "label": "Depth",
+    "value": 912,
+    "source": 0,
+    "key": "depth",
+    "unit": "mm",
+    "section": "Dimensions"
+   },
+   {
+    "label": "Height",
+    "value": 746,
+    "source": 0,
+    "key": "height",
+    "unit": "mm",
+    "section": "Dimensions"
+   },
+   {
+    "label": "Oven height with legs",
+    "value": 1646,
+    "source": 0,
+    "unit": "mm",
+    "section": "Dimensions"
+   },
+   {
+    "label": "Cavity dimensions (H x W x D)",
+    "value": "325 x 385 x 623 mm",
+    "source": 0,
+    "section": "Dimensions"
+   },
+   {
+    "label": "Usable oven capacity",
+    "value": 78,
+    "source": 0,
+    "unit": "dm³",
+    "section": "Capacity"
+   },
+   {
+    "label": "GN 1/1 capacity",
+    "value": "12 / 6 / 4 levels (22 / 45 / 67 mm spacing)",
+    "source": 0,
+    "section": "Capacity"
+   },
+   {
+    "label": "Max. container depth",
+    "value": "40 mm (6 level); 65 mm (4 level)",
+    "source": 0,
+    "section": "Capacity"
+   },
+   {
+    "label": "Maximum capacity",
+    "value": 16,
+    "source": 0,
+    "key": "loadKg",
+    "unit": "kg",
+    "section": "Capacity"
+   },
+   {
+    "label": "Packaging (W x D x H)",
+    "value": "700 x 1025 x 970 mm",
+    "source": 0,
+    "key": "cableHeight",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Net weight",
+    "value": 74,
+    "source": 0,
+    "key": "weight",
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Gross weight",
+    "value": 89,
+    "source": 0,
+    "key": "grossWeight",
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Power",
+    "value": 6.3,
+    "source": 0,
+    "key": "electricKw",
+    "unit": "kW",
+    "section": "Electrical"
+   },
+   {
+    "label": "Max current, 230V 1 a.c.",
+    "value": 27.4,
+    "source": 0,
+    "key": "amps",
+    "unit": "A",
+    "section": "Electrical"
+   },
+   {
+    "label": "Max current, 400V 3N a.c.",
+    "value": 10.4,
+    "source": 0,
+    "unit": "A",
+    "section": "Electrical"
+   },
+   {
+    "label": "Supply",
+    "value": "Single phase 230V+E or three phase 400V+N+E",
+    "source": 0,
+    "key": "voltage",
+    "section": "Electrical"
+   },
+   {
+    "label": "Water connection",
+    "value": "20/27 threaded",
+    "source": 0,
+    "key": "waterConnection",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Instant maximum water consumption",
+    "value": "5 L/min",
+    "source": 0,
+    "key": "waterUse",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Drain",
+    "value": "Adjustable elbow 35 mm diameter unthreaded",
+    "source": 0,
+    "key": "drain",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Installation type",
+    "value": "Against a wall; stackable with its kit",
+    "source": 0,
+    "key": "stackable",
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Clearances",
+    "value": "None",
+    "source": 0,
+    "key": "clearance",
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Automatic cleaning",
+    "value": "FullCleaning System with integral chemical pump, 3 levels (19 min / 30 L water / 0.18 L product; 25 min / 31 L / 0.3 L; 35 min / 38 L / 0.39 L)",
+    "source": 0,
+    "key": "autoClean",
+    "section": "Cleaning & maintenance"
+   },
+   {
+    "label": "Door",
+    "value": "Cool-touch double glazed clip-in door, hinged left, push closure, opens to 180°",
+    "source": 0,
+    "key": "door",
+    "section": "Construction"
+   },
+   {
+    "label": "Cooking modes",
+    "value": "Convection 0-250 °C; saturated steam to 98 °C; combined 30-250 °C (humidity 0-99%); low temperature steam 30-97 °C; high temperature steam 99-105 °C; regeneration",
+    "source": 0,
+    "key": "cookingMethod",
+    "section": "Performance"
+   },
+   {
+    "label": "Temperature range",
+    "value": "0 to 250 °C",
+    "source": 0,
+    "key": "tempRange",
+    "section": "Performance"
+   },
+   {
+    "label": "Core temperature range",
+    "value": "0-99 °C",
+    "source": 0,
+    "section": "Performance"
+   },
+   {
+    "label": "Timer",
+    "value": "99 hours",
+    "source": 0,
+    "key": "timer",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Controls",
+    "value": "VisioPAD toughened glass touch panel with colour LCD and coding knob",
+    "source": 0,
+    "key": "controls",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Connectivity",
+    "value": "USB port (accessory) for recipe exchange and backup",
+    "source": 0,
+    "key": "connectivity",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Probe",
+    "value": "Core probe socket; removable core probe is an accessory",
+    "source": 0,
+    "key": "probe",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Lighting",
+    "value": "LED strip in the door",
+    "source": 0,
+    "key": "lighting",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Protection indices",
+    "value": "IP 25 and IK 9",
+    "source": 0,
+    "key": "ipRating",
+    "section": "Safety & compliance"
+   },
+   {
+    "label": "Standards",
+    "value": "EN 60-335-2-42 (safety of electrical appliances); XP U 60-010 (hygiene)",
+    "source": 0,
+    "key": "certifications",
+    "section": "Safety & compliance"
+   },
+   {
+    "label": "Water pressure (min / max)",
+    "value": "150/600 kPa (1.5 bar / 6 bar)",
+    "source": 0,
+    "key": "waterPressure",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Condensate temperature",
+    "value": "Approx. 98 °C",
+    "source": 0,
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Construction (cavity and cladding)",
+    "value": "18-10 stainless",
+    "source": 0,
+    "key": "material",
+    "section": "Construction"
+   },
+   {
+    "label": "Cold water max temperature",
+    "value": "23 °C; 168 µm filter integral with the oven",
+    "source": 0,
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Water quality",
+    "value": "Hardness TH 4 to 7 °e (60 to 100 ppm); chloride max 150 mg/l; chlorine max 0.2 mg/l; pH 6.5 to 9; conductivity 50 µS/cm",
+    "source": 0,
+    "key": "waterHardness",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Dimensions (H x W x D)",
+    "value": "746 x 525 x 912 mm",
+    "source": 1,
+    "section": "Dimensions"
+   },
+   {
+    "label": "Weight",
+    "value": 74,
+    "source": 1,
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Warranty",
+    "value": "2 Years Parts & Labour",
+    "source": 1,
+    "key": "warranty",
+    "section": "Warranty & service"
+   },
+   {
+    "label": "Power",
+    "value": "6.1 to 12 kW (Electric)",
+    "source": 1,
+    "section": "Electrical"
+   }
+  ],
+  "included": [
+   "Runners with 12 levels spaced 22 mm apart",
+   "Core probe socket (probe itself is an accessory)"
+  ],
+  "documents": [
+   {
+    "label": "Spec sheet",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/B1MJ061E_Hobart-Bonnet-Combi-Oven-B2MJ061E-Spec-Sheet.pdf",
+    "kind": "datasheet"
+   },
+   {
+    "label": "Brochure",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/B1MJ061E_Hobart-Combi-Oven-Brochure.pdf",
+    "kind": "brochure"
+   },
+   {
+    "label": "User manual",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/B1MJ061E_Hobart-Combi-Oven-Equajet-User-Manual.pdf",
+    "kind": "manual"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://www.caterkwik.co.uk/shop/images/products/b1mj061e.jpg",
+    "alt": "Hobart Bonnet Minijet 6 grid combi oven",
+    "source": 0
+   }
+  ],
+  "notes": "Sheet on this page is for B2MJ061E, not B1MJ061E: confirm they are the same model. Caterkwik D695 x H1030 does not match the sheet (D912 x H746). Caterkwik gasKw 0.3, amps 1 A, gas BSP connections and 'three phase' are wrong or unsupported for this electric oven. Retailer says 2 years warranty; Caterkwik 1 year."
+ },
+ {
+  "id": "beje101",
+  "found": true,
+  "sources": [
+   {
+    "kind": "datasheet",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/BEJE101_Hobart-Bonnet-Combi-Oven-BEJE101-Spec-Sheet.pdf",
+    "title": "Hobart Equajet 10 level GN 1/1 electric oven spec sheet (BEJE101-1-11)",
+    "read": "2026-10-12"
+   },
+   {
+    "kind": "retailer",
+    "url": "https://www.advantage-catering-equipment.co.uk/products/hobart-bonnet-equajet-10-grid-combi-oven-electric",
+    "title": "Hobart Bonnet Equajet 10 Grid Electric Combi Oven (Advantage Catering)",
+    "read": "2026-10-12"
+   }
+  ],
+  "summary": "The Hobart Bonnet Equajet BEJE101 is a floor-standing ten-level GN 1/1 electric combi oven with a touchscreen panel and injection steam. It is hard-wired to a three-phase supply at 15.3 kW. Suits restaurants, hotels and canteens producing mid-sized batches.",
+  "highlights": [
+   {
+    "text": "Ten GN 1/1 levels at 67 mm spacing",
+    "source": 0
+   },
+   {
+    "text": "Six cooking modes from convection to high-temperature steam and regeneration",
+    "source": 0
+   },
+   {
+    "text": "CoreControl adjusts power to the load; Airdry+ for crisp finishes",
+    "source": 0
+   },
+   {
+    "text": "Left-hinged double-glazed door opens to 180 degrees",
+    "source": 0
+   },
+   {
+    "text": "Semi-automatic cleaning programme; automatic FullCleaning System available as an option",
+    "source": 0
+   }
+  ],
+  "facts": [
+   {
+    "label": "Model on sheet",
+    "value": "BEJE101-1-11",
+    "source": 0,
+    "section": "Identity"
+   },
+   {
+    "label": "Width",
+    "value": 920,
+    "source": 0,
+    "key": "width",
+    "unit": "mm",
+    "section": "Dimensions"
+   },
+   {
+    "label": "Depth",
+    "value": 846,
+    "source": 0,
+    "key": "depth",
+    "unit": "mm",
+    "section": "Dimensions"
+   },
+   {
+    "label": "Height",
+    "value": 1069,
+    "source": 0,
+    "key": "height",
+    "unit": "mm",
+    "section": "Dimensions"
+   },
+   {
+    "label": "Oven height with stand",
+    "value": 1768,
+    "source": 0,
+    "unit": "mm",
+    "section": "Dimensions"
+   },
+   {
+    "label": "Cavity dimensions (H x W x D)",
+    "value": "722 x 630 x 535 mm",
+    "source": 0,
+    "section": "Dimensions"
+   },
+   {
+    "label": "Number of covers per day",
+    "value": 240,
+    "source": 0,
+    "section": "Capacity"
+   },
+   {
+    "label": "Usable oven capacity",
+    "value": 115,
+    "source": 0,
+    "unit": "dm³",
+    "section": "Capacity"
+   },
+   {
+    "label": "GN 1/1 ovenware (325 x 530) levels",
+    "value": 10,
+    "source": 0,
+    "section": "Capacity"
+   },
+   {
+    "label": "Max. depth of containers",
+    "value": 55,
+    "source": 0,
+    "unit": "mm",
+    "section": "Capacity"
+   },
+   {
+    "label": "Space between levels",
+    "value": 67,
+    "source": 0,
+    "unit": "mm",
+    "section": "Capacity"
+   },
+   {
+    "label": "Maximum capacity",
+    "value": 40,
+    "source": 0,
+    "key": "loadKg",
+    "unit": "kg",
+    "section": "Capacity"
+   },
+   {
+    "label": "Packaging",
+    "value": "Height 1232; Width x Depth 1000 x 960 mm",
+    "source": 0,
+    "key": "cableHeight",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Net weight",
+    "value": 117,
+    "source": 0,
+    "key": "weight",
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Gross weight",
+    "value": 142,
+    "source": 0,
+    "key": "grossWeight",
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Clearances",
+    "value": "Left: 4 cm / Right: 50 cm",
+    "source": 0,
+    "key": "clearance",
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Power",
+    "value": 15.3,
+    "source": 0,
+    "key": "electricKw",
+    "unit": "kW",
+    "section": "Electrical"
+   },
+   {
+    "label": "Max current, 230V 3 a.c.",
+    "value": 38.8,
+    "source": 0,
+    "unit": "A",
+    "section": "Electrical"
+   },
+   {
+    "label": "Max current, 400V 3N a.c.",
+    "value": 23,
+    "source": 0,
+    "key": "amps",
+    "unit": "A",
+    "section": "Electrical"
+   },
+   {
+    "label": "Supply",
+    "value": "Three phase 230V+E or 400V+N+E",
+    "source": 0,
+    "key": "voltage",
+    "section": "Electrical"
+   },
+   {
+    "label": "Protection required",
+    "value": "400V: 32A MCB B curve with 30mA RCD; 230V: 50A MCB B curve with 30mA RCD",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "Electric inlet height",
+    "value": "935 mm from the floor",
+    "source": 0,
+    "section": "Electrical"
+   },
+   {
+    "label": "Water connection",
+    "value": "20/27 threaded (G 3/4); inlet 765 mm from the floor; cold and softened water",
+    "source": 0,
+    "key": "waterConnection",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Instant maximum water consumption",
+    "value": "10 L/min",
+    "source": 0,
+    "key": "waterUse",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Drain",
+    "value": "Vertical exit 40/49 threaded stainless (G 1 1/2); outlet 730 mm from the floor",
+    "source": 0,
+    "key": "drain",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Installation type",
+    "value": "Against a wall; not stackable",
+    "source": 0,
+    "key": "stackable",
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Automatic cleaning",
+    "value": "Semi-automatic cleaning programme; FullCleaning System is an option",
+    "source": 0,
+    "key": "autoClean",
+    "section": "Cleaning & maintenance"
+   },
+   {
+    "label": "Door",
+    "value": "Cool-touch double glazed clip-in door, left hinged, opens to 180° with hinged internal glass",
+    "source": 0,
+    "key": "door",
+    "section": "Construction"
+   },
+   {
+    "label": "Cooking modes",
+    "value": "Convection 0-250 °C; saturated steam to 98 °C; combined 30-250 °C (humidity 0-99%); low temperature steam 30-97 °C; high temperature steam 99-105 °C; regeneration",
+    "source": 0,
+    "key": "cookingMethod",
+    "section": "Performance"
+   },
+   {
+    "label": "Temperature range",
+    "value": "0 to 250 °C",
+    "source": 0,
+    "key": "tempRange",
+    "section": "Performance"
+   },
+   {
+    "label": "Core temperature range",
+    "value": "0-99 °C",
+    "source": 0,
+    "section": "Performance"
+   },
+   {
+    "label": "Timer",
+    "value": "99 hours",
+    "source": 0,
+    "key": "timer",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Controls",
+    "value": "VisioPAD toughened glass touch panel with colour LCD and coding knob",
+    "source": 0,
+    "key": "controls",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Connectivity",
+    "value": "USB port (accessory) for recipe exchange and backup",
+    "source": 0,
+    "key": "connectivity",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Probe",
+    "value": "Core probe socket; removable core probe is an accessory",
+    "source": 0,
+    "key": "probe",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Lighting",
+    "value": "LED strip in the door",
+    "source": 0,
+    "key": "lighting",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Protection indices",
+    "value": "IP 25 and IK 9",
+    "source": 0,
+    "key": "ipRating",
+    "section": "Safety & compliance"
+   },
+   {
+    "label": "Standards",
+    "value": "EN 60-335-2-42 (safety of electrical appliances); XP U 60-010 (hygiene)",
+    "source": 0,
+    "key": "certifications",
+    "section": "Safety & compliance"
+   },
+   {
+    "label": "Water pressure (min / max)",
+    "value": "150/600 kPa (1.5 bar / 6 bar)",
+    "source": 0,
+    "key": "waterPressure",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Condensate temperature",
+    "value": "Approx. 98 °C",
+    "source": 0,
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Construction (cavity and cladding)",
+    "value": "18-10 stainless",
+    "source": 0,
+    "key": "material",
+    "section": "Construction"
+   },
+   {
+    "label": "Cold water max temperature",
+    "value": "23 °C; 168 µm filter integral with the oven",
+    "source": 0,
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Water quality",
+    "value": "Hardness TH 4 to 7 °e (60 to 100 ppm); chloride max 150 mg/l; chlorine max 0.2 mg/l; pH 6.5 to 9; conductivity 50 µS/cm",
+    "source": 0,
+    "key": "waterHardness",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Dimensions (H x W x D) as listed by retailer",
+    "value": "1232 x 1000 x 960 mm",
+    "source": 1,
+    "section": "Dimensions"
+   },
+   {
+    "label": "Weight as listed by retailer",
+    "value": 121,
+    "source": 1,
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Warranty",
+    "value": "2 Years Parts & Labour",
+    "source": 1,
+    "key": "warranty",
+    "section": "Warranty & service"
+   },
+   {
+    "label": "Power",
+    "value": "Electric (3-phase hardwired)",
+    "source": 1,
+    "section": "Electrical"
+   }
+  ],
+  "included": [
+   "1 set of runners with 10 levels spaced 67 mm apart",
+   "Core probe socket (probe itself is an accessory)"
+  ],
+  "documents": [
+   {
+    "label": "Spec sheet",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/BEJE101_Hobart-Bonnet-Combi-Oven-BEJE101-Spec-Sheet.pdf",
+    "kind": "datasheet"
+   },
+   {
+    "label": "Brochure",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/BEJE101_Hobart-Combi-Oven-Brochure.pdf",
+    "kind": "brochure"
+   },
+   {
+    "label": "User manual",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/BEJE101_Hobart-Combi-Oven-Equajet-User-Manual.pdf",
+    "kind": "manual"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://www.caterkwik.co.uk/shop/images/products/beje101.jpg",
+    "alt": "Hobart Bonnet Equajet 10 grid electric combi oven",
+    "source": 0
+   }
+  ],
+  "notes": "Retailer lists 1232 x 1000 x 960 mm (the packed size on the sheet) and 121 kg; sheet says 117 kg net / 142 kg gross (Caterkwik 142 is gross). Caterkwik gasKw 0.3 and BSP gas connections do not fit an electric oven; sheet gives 23.0 A at 400V and 15.3 kW. 'Plug 32A MCB' is the protection requirement, not a plug."
+ },
+ {
+  "id": "electrolux391090twintankelectricfryer",
+  "found": true,
+  "sources": [
+   {
+    "kind": "datasheet",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/ELECTROLUX391090TWINTANKELECTRICFRYER_Electrolux-2-Wells-Electric-Fryer-23-liter-391338-900XP-Spec-Sheet.pdf",
+    "title": "Electrolux Professional 900XP two wells electric fryer 23 liter spec sheet (391385 / 391338)",
+    "read": "2026-10-12"
+   }
+  ],
+  "summary": "The Electrolux Professional 900XP twin-well electric fryer (391338) has two 23 litre V-shaped wells heated by external infrared elements, 36 kW in total on a three-phase supply. It is supplied with four half-size baskets and cupboard doors. Suits busy restaurants and canteens frying large volumes.",
+  "highlights": [
+   {
+    "text": "External infrared elements with deflectors for easier well cleaning",
+    "source": 0
+   },
+   {
+    "text": "Thermostat range 105-185 °C with overheat protection",
+    "source": 0
+   },
+   {
+    "text": "IPX5 water resistance; control knobs sealed against water",
+    "source": 0
+   },
+   {
+    "text": "Oil drains via tap into a container under the wells",
+    "source": 0
+   }
+  ],
+  "facts": [
+   {
+    "label": "Model code",
+    "value": "391338 (E9KKGDBAMEA)",
+    "source": 0,
+    "section": "Identity"
+   },
+   {
+    "label": "Wells",
+    "value": "2 'V' shaped wells with external heating elements",
+    "source": 0,
+    "key": "tanks",
+    "section": "Capacity"
+   },
+   {
+    "label": "Well capacity",
+    "value": "21 lt MIN; 23 lt MAX",
+    "source": 0,
+    "section": "Capacity"
+   },
+   {
+    "label": "Usable well width",
+    "value": 340,
+    "source": 0,
+    "unit": "mm",
+    "section": "Dimensions"
+   },
+   {
+    "label": "Usable well height",
+    "value": 575,
+    "source": 0,
+    "unit": "mm",
+    "section": "Dimensions"
+   },
+   {
+    "label": "Usable well depth",
+    "value": 400,
+    "source": 0,
+    "unit": "mm",
+    "section": "Dimensions"
+   },
+   {
+    "label": "Total power",
+    "value": 36,
+    "source": 0,
+    "key": "electricKw",
+    "unit": "kW",
+    "section": "Electrical"
+   },
+   {
+    "label": "Supply voltage",
+    "value": "380-400 V/3N ph/50/60 Hz",
+    "source": 0,
+    "key": "voltage",
+    "section": "Electrical"
+   },
+   {
+    "label": "Heating elements",
+    "value": "High efficiency external infrared elements (36 kW) with deflectors on the outside of the well",
+    "source": 0,
+    "key": "heatingMethod",
+    "section": "Performance"
+   },
+   {
+    "label": "Performance (based on ASTM F1361)",
+    "value": 75,
+    "source": 0,
+    "unit": "kg/hr",
+    "section": "Performance"
+   },
+   {
+    "label": "Thermostat range",
+    "value": "105 °C MIN; 185 °C MAX",
+    "source": 0,
+    "key": "thermostat",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Net weight",
+    "value": 115,
+    "source": 0,
+    "key": "weight",
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Shipping weight",
+    "value": 125,
+    "source": 0,
+    "key": "grossWeight",
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Shipping height",
+    "value": 1080,
+    "source": 0,
+    "unit": "mm",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Shipping width",
+    "value": 1020,
+    "source": 0,
+    "unit": "mm",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Shipping depth",
+    "value": 880,
+    "source": 0,
+    "unit": "mm",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Shipping volume",
+    "value": 0.97,
+    "source": 0,
+    "unit": "m³",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Unit depth",
+    "value": "930 mm (sheet: 'Unit is 930 mm deep')",
+    "source": 0,
+    "section": "Dimensions"
+   },
+   {
+    "label": "Feet",
+    "value": "Four 50 mm stainless steel legs as standard (height adjustable)",
+    "source": 0,
+    "key": "legs",
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Water resistance",
+    "value": "IPX5",
+    "source": 0,
+    "key": "ipRating",
+    "section": "Electrical"
+   },
+   {
+    "label": "Worktop / panels",
+    "value": "Worktop in 20/10 stainless steel; exterior panels stainless steel with Scotch Brite finish",
+    "source": 0,
+    "key": "material",
+    "section": "Construction"
+   },
+   {
+    "label": "Safety",
+    "value": "Overheat protection thermostat as standard",
+    "source": 0,
+    "key": "safety",
+    "section": "Safety & compliance"
+   },
+   {
+    "label": "Oil drain",
+    "value": "Tap into container under the wells",
+    "source": 0,
+    "key": "tap",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Clearance to sensitive surfaces",
+    "value": "Safety gap of approx. 150 mm or heat insulation",
+    "source": 0,
+    "key": "clearance",
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Certification group",
+    "value": "EFE92M23",
+    "source": 0,
+    "section": "Safety & compliance"
+   },
+   {
+    "label": "Baskets supplied",
+    "value": "4 half size baskets (2 x pack of 2 half size baskets for 18/23 lt fryers, PNC 927223)",
+    "source": 0,
+    "section": "Controls & features"
+   },
+   {
+    "label": "Doors supplied",
+    "value": "2 x door for open base cupboard (PNC 206350)",
+    "source": 0,
+    "section": "Controls & features"
+   }
+  ],
+  "included": [
+   "4 half size baskets (PNC 927223, 2 packs of 2)",
+   "2 doors for open base cupboard (PNC 206350)",
+   "Four 50 mm stainless steel legs"
+  ],
+  "documents": [
+   {
+    "label": "Spec sheet",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/ELECTROLUX391090TWINTANKELECTRICFRYER_Electrolux-2-Wells-Electric-Fryer-23-liter-391338-900XP-Spec-Sheet.pdf",
+    "kind": "datasheet"
+   },
+   {
+    "label": "User manual",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/ELECTROLUX391090TWINTANKELECTRICFRYER_Electrolux-Twin-Tank-Fryer-391338-User-Manual.pdf",
+    "kind": "manual"
+   },
+   {
+    "label": "Fryer maintenance",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/ELECTROLUX391090TWINTANKELECTRICFRYER_Electrolux-Fryer-Maintenance.pdf",
+    "kind": "other"
+   },
+   {
+    "label": "Modular cooking brochure",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/ELECTROLUX391090TWINTANKELECTRICFRYER_Electrolux-Modular-Cooking-Brochure.pdf",
+    "kind": "brochure"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://www.caterkwik.co.uk/shop/images/products/electrolux391090twintankelectricfryer.jpg",
+    "alt": "Electrolux Professional 900XP twin tank electric fryer 391338",
+    "source": 0
+   }
+  ],
+  "notes": "Sheet covers 391385 and 391338; only 391338 values used. External width/height not on the sheet, so Caterkwik 800 x 930 x 908 is unverified. Sheet gives no amps (Caterkwik 90 A), filtration or cold zone; Caterkwik says 3 baskets but the sheet says 4 half-size baskets. Warranty not stated."
+ },
+ {
+  "id": "electrolux371072singletankgastubefryer",
+  "found": true,
+  "sources": [
+   {
+    "kind": "datasheet",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/ELECTROLUX371072SINGLETANKGASTUBEFRYER_Electrolux-Freestanding-Gas-Fryer-15-litre-371071-Spec-Sheet.pdf",
+    "title": "Electrolux Professional 700XP two wells freestanding gas fryer 15 liter spec sheet (371071)",
+    "read": "2026-10-12"
+   },
+   {
+    "kind": "manufacturer",
+    "url": "https://www.electroluxprofessional.com/me/pd/modular-cooking/700xp/fryers/freestanding-gas-fryers/modular-cooking-range-line-700xp-two-wells-freestanding-gas-fryer-15-liter-371071/",
+    "title": "Electrolux Professional 700XP Two Wells Freestanding Gas Fryer 15 liter (COD 371071)",
+    "read": "2026-10-12"
+   }
+  ],
+  "summary": "The Electrolux Professional 700XP freestanding gas fryer (371071) has two 15 litre V-shaped wells with four 7 kW burners, 28 kW gas in total, supplied for natural gas with LPG conversion jets. It comes with two full-size baskets and cupboard doors. Suits restaurants and takeaways frying in volume.",
+  "highlights": [
+   {
+    "text": "Four 7 kW stainless steel burners, flame failure device on each",
+    "source": 0
+   },
+   {
+    "text": "Thermostat range 105-185 °C with overheat protection",
+    "source": 0
+   },
+   {
+    "text": "Piezo spark ignition; natural gas or LPG with conversion jets supplied",
+    "source": 0
+   },
+   {
+    "text": "Oil drains through a tap into a container under the well",
+    "source": 0
+   }
+  ],
+  "facts": [
+   {
+    "label": "Model code",
+    "value": "371071 (E7FRGH2GF0)",
+    "source": 0,
+    "section": "Identity"
+   },
+   {
+    "label": "Wells",
+    "value": "2 'V' shaped wells with external burners",
+    "source": 0,
+    "key": "tanks",
+    "section": "Capacity"
+   },
+   {
+    "label": "Well capacity",
+    "value": "13 lt MIN; 15 lt MAX",
+    "source": 0,
+    "section": "Capacity"
+   },
+   {
+    "label": "Usable well width",
+    "value": 240,
+    "source": 0,
+    "unit": "mm",
+    "section": "Dimensions"
+   },
+   {
+    "label": "Usable well height",
+    "value": 505,
+    "source": 0,
+    "unit": "mm",
+    "section": "Dimensions"
+   },
+   {
+    "label": "Usable well depth",
+    "value": 380,
+    "source": 0,
+    "unit": "mm",
+    "section": "Dimensions"
+   },
+   {
+    "label": "Burners",
+    "value": "Four high efficiency 7 kW stainless steel burners",
+    "source": 0,
+    "key": "burners",
+    "section": "Gas"
+   },
+   {
+    "label": "Gas power",
+    "value": 28,
+    "source": 0,
+    "key": "gasKw",
+    "unit": "kW",
+    "section": "Gas"
+   },
+   {
+    "label": "Standard gas delivery",
+    "value": "Natural Gas G20 (20mbar)",
+    "source": 0,
+    "key": "gasType",
+    "section": "Gas"
+   },
+   {
+    "label": "Gas type option",
+    "value": "LPG; Natural Gas (conversion jets supplied as standard)",
+    "source": 0,
+    "key": "gasConversion",
+    "section": "Gas"
+   },
+   {
+    "label": "Gas inlet",
+    "value": "1/2\"",
+    "source": 0,
+    "key": "gasConnection",
+    "section": "Gas"
+   },
+   {
+    "label": "Working pressure (min/max)",
+    "value": "0 / 0 mbar (as printed)",
+    "source": 0,
+    "key": "gasPressure",
+    "section": "Gas"
+   },
+   {
+    "label": "Ignition",
+    "value": "Piezo spark ignition",
+    "source": 0,
+    "key": "ignition",
+    "section": "Gas"
+   },
+   {
+    "label": "Flame failure device",
+    "value": "On each burner",
+    "source": 0,
+    "key": "flameFailure",
+    "section": "Gas"
+   },
+   {
+    "label": "Thermostat range",
+    "value": "105 °C MIN; 185 °C MAX",
+    "source": 0,
+    "key": "thermostat",
+    "section": "Controls & features"
+   },
+   {
+    "label": "Net weight",
+    "value": 85,
+    "source": 0,
+    "key": "weight",
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Shipping weight",
+    "value": 98,
+    "source": 0,
+    "key": "grossWeight",
+    "unit": "kg",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Shipping height",
+    "value": 1130,
+    "source": 0,
+    "unit": "mm",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Shipping width",
+    "value": 820,
+    "source": 0,
+    "unit": "mm",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Shipping depth",
+    "value": 860,
+    "source": 0,
+    "unit": "mm",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Shipping volume",
+    "value": 0.8,
+    "source": 0,
+    "unit": "m³",
+    "section": "Weight & packaging"
+   },
+   {
+    "label": "Feet",
+    "value": "50 mm height-adjustable stainless steel feet",
+    "source": 0,
+    "key": "legs",
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Water protection",
+    "value": "IPx4",
+    "source": 0,
+    "key": "ipRating",
+    "section": "Electrical"
+   },
+   {
+    "label": "Work top",
+    "value": "One piece pressed 1.5 mm stainless steel",
+    "source": 0,
+    "key": "material",
+    "section": "Construction"
+   },
+   {
+    "label": "Exterior panels",
+    "value": "Stainless steel, Scotch Brite finish",
+    "source": 0,
+    "key": "exterior",
+    "section": "Construction"
+   },
+   {
+    "label": "Safety",
+    "value": "Overheat protection thermostat as standard",
+    "source": 0,
+    "key": "safety",
+    "section": "Safety & compliance"
+   },
+   {
+    "label": "Oil drain",
+    "value": "Tap into drainage container under the well",
+    "source": 0,
+    "key": "tap",
+    "section": "Water & drainage"
+   },
+   {
+    "label": "Clearance to sensitive surfaces",
+    "value": "Safety gap of approx. 150 mm or heat insulation",
+    "source": 0,
+    "key": "clearance",
+    "section": "Ventilation & siting"
+   },
+   {
+    "label": "Certification group",
+    "value": "N7FG",
+    "source": 0,
+    "section": "Safety & compliance"
+   },
+   {
+    "label": "Baskets supplied",
+    "value": "2 x full size basket for 14 and 15lt free standing fryers (PNC 921691)",
+    "source": 0,
+    "section": "Controls & features"
+   },
+   {
+    "label": "Doors supplied",
+    "value": "2 x door for open base cupboard (PNC 206350)",
+    "source": 0,
+    "section": "Controls & features"
+   },
+   {
+    "label": "Gas power",
+    "value": 28,
+    "source": 1,
+    "unit": "kW",
+    "section": "Gas"
+   },
+   {
+    "label": "Net weight",
+    "value": 85,
+    "source": 1,
+    "unit": "kg",
+    "section": "Weight & packaging"
+   }
+  ],
+  "included": [
+   "2 full size baskets for 14/15 lt fryers (PNC 921691)",
+   "2 doors for open base cupboard (PNC 206350)",
+   "Gas conversion jets",
+   "50 mm height adjustable feet"
+  ],
+  "documents": [
+   {
+    "label": "Spec sheet",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/ELECTROLUX371072SINGLETANKGASTUBEFRYER_Electrolux-Freestanding-Gas-Fryer-15-litre-371071-Spec-Sheet.pdf",
+    "kind": "datasheet"
+   },
+   {
+    "label": "Fryer brochure",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/ELECTROLUX371072SINGLETANKGASTUBEFRYER_Electrolux-Fryer-brochure.pdf",
+    "kind": "brochure"
+   },
+   {
+    "label": "Modular cooking brochure",
+    "url": "https://www.caterkwik.co.uk/shop/downloads/ELECTROLUX371072SINGLETANKGASTUBEFRYER_Electrolux-modular-Cooking-brochure.pdf",
+    "kind": "brochure"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://tools.electroluxprofessional.com/Mirror/Doc/PH_1000x1000%2FPH_371071_1_1_371071.jpg",
+    "alt": "Electrolux Professional 700XP gas fryer 371071",
+    "source": 1
+   },
+   {
+    "url": "https://www.caterkwik.co.uk/shop/images/products/electrolux371072singletankgastubefryer.jpg",
+    "alt": "Electrolux Professional 700XP twin tank gas fryer",
+    "source": 0
+   }
+  ],
+  "notes": "Sheet gives no external W/D/H (Caterkwik 800 x 730 x 850 unverified; a search summary quoted the same). Caterkwik 'voltage 700 v' is the 700XP series name; 'electricKw 7 kW' is per burner; chip output 38 kg/hr and filtration are not on the sheet. Sheet working pressure '0/0 mbar' looks like a data gap. Warranty not stated."
+ }
+]

@@ -1,0 +1,186 @@
+[
+ {
+  "id": "grfoodwarmer",
+  "name": "Hatco Glo-Ray Portable Foodwarmer With Metal Sheathed Elements",
+  "brand": "Hatco",
+  "mpn": "GR",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GRFOODWARMER",
+  "known": {
+   "width": "324 mm",
+   "depth": "559 mm",
+   "height": "57 mm",
+   "electricKw": "0.25 kW",
+   "voltage": "230V",
+   "phase": "single",
+   "plug": "Plug Supplied"
+  }
+ },
+ {
+  "id": "evohot",
+  "name": "Interlevin EVO Hot Serveover Display",
+  "brand": "Interlevin",
+  "mpn": "EVO HOT",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_EVOHOT",
+  "known": {
+   "width": "600 mm",
+   "depth": "755 mm",
+   "height": "1400 mm",
+   "electricKw": "0.305 kW",
+   "warranty": "2 years",
+   "finish": "Black"
+  }
+ },
+ {
+  "id": "grcd",
+  "name": "Hatco Designer Display Case Single Shelf",
+  "brand": "Hatco",
+  "mpn": "GRCD",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GRCD",
+  "known": {
+   "width": "524 mm",
+   "depth": "660 mm",
+   "height": "610 mm",
+   "electricKw": "0.425 kW",
+   "voltage": "240V",
+   "plug": "plug supplied"
+  }
+ },
+ {
+  "id": "grcdpd",
+  "name": "Hatco Designer Display Case Dual Shelf",
+  "brand": "Hatco",
+  "mpn": "GRCD-1PD",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GRCDPD",
+  "known": {
+   "width": "524 mm",
+   "depth": "660 mm",
+   "height": "806 mm",
+   "electricKw": "0.905 kW",
+   "voltage": "240V",
+   "plug": "plug supplied"
+  }
+ },
+ {
+  "id": "jd341",
+  "name": "Buffalo JD341 Heavy Duty Large Charcoal / Wood BBQ 1140mm",
+  "brand": "Buffalo",
+  "mpn": "JD341",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_JD341",
+  "known": {
+   "fuel": "charcoal",
+   "width": "1140 mm",
+   "depth": "620 mm",
+   "height": "880 mm",
+   "weight": "28 kg",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "archwaybbq3",
+  "name": "Archway BBQ3 Deluxe Automated with Stand XL",
+  "brand": "Archway",
+  "mpn": "BBQ3",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAYBBQ3",
+  "known": {
+   "width": "1435 mm",
+   "depth": "400 mm",
+   "height": "950 mm",
+   "weight": "42 kg",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "ja377",
+  "name": "Buffalo JA377 Folding Gas BBQ",
+  "brand": "Buffalo",
+  "mpn": "JA377",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_JA377",
+  "known": {
+   "fuel": "gas",
+   "electricKw": "6.5 kW",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "ggp103",
+  "name": "Grill Guru Gas Plancha",
+  "brand": "Grill Guru",
+  "mpn": "ggp103",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GGP103",
+  "known": {
+   "plate": "smooth",
+   "fuel": "gas",
+   "weight": "61 kg"
+  }
+ },
+ {
+  "id": "bbqcover",
+  "name": "Lifestyle Waterproof BBQ Covers",
+  "brand": "lifestyle",
+  "mpn": "bbqcover",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BBQCOVER",
+  "known": {
+   "fuel": "electric",
+   "burners": "2",
+   "radiant": "infrared",
+   "weight": "1.5 kg",
+   "warranty": "1 year",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "g512db",
+  "name": "Blue Seal G512D-B 2 Burner Cooktop",
+  "brand": "Blue Seal",
+  "mpn": "G512DB",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G512DB",
+  "known": {
+   "fuel": "gas",
+   "width": "300 mm",
+   "depth": "812 mm",
+   "height": "315 mm",
+   "electricKw": "7 kW",
+   "gasKw": "14 kW",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "1 year",
+   "finish": "Stainless steel exterior"
+  }
+ },
+ {
+  "id": "c6d",
+  "name": "Blue Seal C6D Cobra Series 4 Burner Cooktop",
+  "brand": "Blue Seal",
+  "mpn": "C6D",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_C6D",
+  "known": {
+   "fuel": "gas",
+   "width": "600 mm",
+   "depth": "800 mm",
+   "height": "915 mm",
+   "gasKw": "22 kW",
+   "lpgKw": "20 kW",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "Stainless steel finish"
+  }
+ },
+ {
+  "id": "c9d",
+  "name": "Blue Seal C9D Cobra Series 6 Burner Cooktop",
+  "brand": "blue seal",
+  "mpn": "C9D",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_C9D",
+  "known": {
+   "fuel": "gas",
+   "width": "900 mm",
+   "depth": "800 mm",
+   "height": "915 mm",
+   "gasKw": "33 kW",
+   "lpgKw": "27.5 kW",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "Stainless steel finish"
+  }
+ }
+]

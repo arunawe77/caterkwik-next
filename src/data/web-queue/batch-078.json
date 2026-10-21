@@ -1,0 +1,179 @@
+[
+ {
+  "id": "ftg1",
+  "name": "Moffat Catering Focus Top With Gantry",
+  "brand": "Moffat",
+  "mpn": "FTG",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FTG1",
+  "known": {
+   "weight": "8 kg",
+   "electricKw": "0.4 kW",
+   "amps": "13 A",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "ucs250",
+  "name": "Cambro UC250 Insulated Beverage Container",
+  "brand": "Cambro",
+  "mpn": "UC250",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_UCS250",
+  "known": {
+   "volume": "10.4 litres",
+   "width": "300 mm",
+   "depth": "425 mm",
+   "height": "500 mm",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "dl903",
+  "name": "Osram LED Candle Bulb DL903",
+  "brand": "Osram",
+  "mpn": "DL903",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DL903",
+  "known": {
+   "heatType": "dry",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Shades",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "cc529",
+  "name": "Reflector CC529 For 300W bulbs.",
+  "brand": "Caterkwik",
+  "mpn": "CC529",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CC529",
+  "known": {
+   "heatType": "dry",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Shades",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "cc531",
+  "name": "Bare IR Quartz CC531 Bulb 300W",
+  "brand": "Caterkwik",
+  "mpn": "CC531",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CC531",
+  "known": {
+   "heatType": "dry",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Shades",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "cc536",
+  "name": "Jacketed IR Quartz 300W/500W Push In Bulb CC536",
+  "brand": "Caterkwik",
+  "mpn": "CC536",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CC536",
+  "known": {
+   "heatType": "dry",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Shades",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "cc535",
+  "name": "Jacketed IR Quartz 500W Bulb With Flying Leads CC535",
+  "brand": "Caterkwik",
+  "mpn": "CC535",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CC535",
+  "known": {
+   "heatType": "dry",
+   "doors": "Single",
+   "mobility": "true",
+   "bulbs": "Heat Lamp Shades",
+   "finish": "Black Finish"
+  }
+ },
+ {
+  "id": "sw9600",
+  "name": "Roband SW9600 Rice Warmer",
+  "brand": "Roband",
+  "mpn": "SW9600",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SW9600",
+  "known": {
+   "volume": "9.6 litres",
+   "depth": "430 mm",
+   "height": "425 mm",
+   "weight": "9.6 kg",
+   "amps": "10 A",
+   "warranty": "1 year",
+   "finish": "Stainless steel body"
+  }
+ },
+ {
+  "id": "lin1154",
+  "name": "Lincoln Impinger 2 Gas Express Conveyor Pizza Oven - LIN1154",
+  "brand": "LINCOLN",
+  "mpn": "LIN1154",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LIN1154",
+  "known": {
+   "decks": "3",
+   "pizzaSize": "18”",
+   "fuel": "gas",
+   "width": "1442 mm",
+   "depth": "991 mm",
+   "height": "1067 mm",
+   "amps": "2 A",
+   "voltage": "230V",
+   "phase": "single",
+   "warranty": "1 year",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "hatcotm10h",
+  "name": "Hatco TM10 Conveyor Toaster",
+  "brand": "Hatco",
+  "mpn": "TM10H",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HATCOTM10H",
+  "known": {
+   "width": "368 mm",
+   "weight": "19 kg",
+   "electricKw": "2.3 kW",
+   "plug": "plug supplied",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "memt20000",
+  "name": "Hallco MEMT20000 Dual Waffle Machine",
+  "brand": "Hallco",
+  "mpn": "MEMT20000",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MEMT20000",
+  "known": {
+   "throughput": "40 Waffles Per Hour",
+   "timer": "timer with alarm",
+   "thermostat": "thermostat",
+   "electricKw": "1.5 kW",
+   "voltage": "240v, 50hz",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "piecabinetpc1",
+  "name": "Moffat PC1 Pie Cabinet - 80 Pies",
+  "brand": "Moffat",
+  "mpn": "PC1",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PIECABINETPC1",
+  "known": {
+   "weight": "22 kg",
+   "amps": "13 A",
+   "voltage": "230v 50Hz",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ }
+]

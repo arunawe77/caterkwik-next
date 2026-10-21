@@ -1,0 +1,259 @@
+[
+ {
+  "id": "ad735",
+  "found": false,
+  "sources": [],
+  "facts": [],
+  "notes": "Only Caterkwik's own page could be read (200 x 110 x 20 mm, for kebab knives CF238 and CF239). catering-appliance.com (Cloudflare) and Nisbets (403) blocked fetching. Search snippets from those sites mention 1.9 kg and 'discontinued' at catering-appliance, but those pages were not opened, so nothing is recorded. Human should check weight and status."
+ },
+ {
+  "id": "db6040c148",
+  "found": false,
+  "sources": [],
+  "facts": [],
+  "notes": "Caterkwik's page gives 400 x 600 mm and dishwasher safe. Advantage Catering lists a Cambro 60 x 40 cm dough box cover (FS332: polyethylene, 330 g, -30 to 70 C) without a Cambro part number, so it cannot be confirmed as DB6040C148. Search snippets disagree on material (polypropylene at fem.co.uk/fridgefreezerdirect vs polyethylene at cambroshop) and those pages returned 403 or redirects. Human should confirm material, weight and temperature range from Cambro."
+ },
+ {
+  "id": "dghtraysk64075",
+  "found": true,
+  "sources": [
+   { "kind": "retailer", "url": "https://www.kcm-catering-equipment.co.uk/acatalog/Alphin-Pans-600mm-x-400mm-Dough-Tray-8103.html", "title": "Alphin Pans 600mm x 400mm x 75mm Dough Tray (DGH.TRAY.SK64075)", "read": "2026-10-12" },
+   { "kind": "retailer", "url": "https://www.caterkwik.co.uk/shop/39/23/1507/1530/index.htm", "title": "Pizza Dough Trays And Dough Dockers (Caterkwik listing)", "read": "2026-10-12" }
+  ],
+  "summary": "A stackable plastic-style pizza dough tray from UK maker Alphin Pans, 600 x 400 mm in plan and 75 mm deep, matching the common 60 x 40 cm bakery footprint. It suits pizzerias and bakeries that proof and store dough balls in stacks.",
+  "highlights": [
+   { "text": "Positive slide stacking to give secure stacks", "source": 0 }
+  ],
+  "facts": [
+   { "label": "Length", "value": 600, "unit": "mm", "source": 0 },
+   { "key": "width", "label": "Width", "value": 400, "unit": "mm", "source": 0 },
+   { "key": "height", "label": "Height", "value": 75, "unit": "mm", "source": 0 },
+   { "key": "mpn", "label": "Product code", "value": "DGH.TRAY.SK64075", "source": 0 },
+   { "label": "Dimensions (L x W x H)", "value": "600 x 400 x 75", "unit": "mm", "source": 1 }
+  ],
+  "images": [
+   { "url": "https://www.caterkwik.co.uk/shop/images/products/dghtraysk64075.jpg", "alt": "Alphin Pans dough tray DGH.TRAY.SK64075", "source": 1 }
+  ],
+  "notes": "Material, weight and colours not seen on any page read. A search snippet from alphin.co.uk said polypropylene but that page was not opened, so it is not recorded."
+ },
+ {
+  "id": "dghtraygws2",
+  "found": true,
+  "sources": [
+   { "kind": "retailer", "url": "http://www.kcm-catering-equipment.co.uk/acatalog/Alphin-Pans-762mm-x-457mm-Dough-Tray-8099.html", "title": "Alphin Pans 762mm x 457mm Dough Tray", "read": "2026-10-12" },
+   { "kind": "retailer", "url": "https://www.caterkwik.co.uk/shop/39/23/1507/1530/index.htm", "title": "Pizza Dough Trays And Dough Dockers (Caterkwik listing)", "read": "2026-10-12" }
+  ],
+  "summary": "A stackable dough tray from Alphin Pans measuring 762 x 457 mm in plan and 92 mm deep, the shallower of the two heights offered in this size. It suits bakeries and pizzerias that need a larger-format tray for proofing and storing dough.",
+  "highlights": [
+   { "text": "Positive slide stacking to give secure stacks", "source": 0 }
+  ],
+  "facts": [
+   { "label": "Length", "value": 762, "unit": "mm", "source": 0 },
+   { "key": "width", "label": "Width", "value": 457, "unit": "mm", "source": 0 },
+   { "key": "height", "label": "Height", "value": 92, "unit": "mm", "source": 0 },
+   { "key": "mpn", "label": "Product code", "value": "DGH.TRAY.GWS2", "source": 0 },
+   { "label": "Dimensions (L x W x H)", "value": "762 x 457 x 92", "unit": "mm", "source": 1 }
+  ],
+  "images": [
+   { "url": "https://www.caterkwik.co.uk/shop/images/products/dghtraygws2.jpg", "alt": "Alphin Pans dough tray DGH.TRAY.GWS2", "source": 1 }
+  ],
+  "notes": "Queue record has brand 'DGHTRAYGWS2' and mpn null (looks mis-parsed); brand should be Alphin Pans, mpn DGH.TRAY.GWS2 / DGHTRAYGWS2. Material and weight not seen on pages read."
+ },
+ {
+  "id": "dghtraygws8",
+  "found": true,
+  "sources": [
+   { "kind": "retailer", "url": "http://www.kcm-catering-equipment.co.uk/acatalog/Alphin-Pans-762mm-x-457mm-Dough-Tray-8099.html", "title": "Alphin Pans 762mm x 457mm Dough Tray", "read": "2026-10-12" },
+   { "kind": "retailer", "url": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DGHTRAYGWS8", "title": "Alphin Pans Dough Tray - DGH.TRAY.GWS8 (Caterkwik)", "read": "2026-10-12" }
+  ],
+  "summary": "A stackable dough tray from Alphin Pans, 762 x 457 mm in plan and 123 mm deep, the deeper of the two heights in this size. It suits bakeries and pizzerias that need more depth for larger dough portions.",
+  "highlights": [
+   { "text": "Positive slide stacking to give secure stacks", "source": 0 }
+  ],
+  "facts": [
+   { "label": "Length", "value": 762, "unit": "mm", "source": 0 },
+   { "key": "width", "label": "Width", "value": 457, "unit": "mm", "source": 0 },
+   { "key": "height", "label": "Height", "value": 123, "unit": "mm", "source": 0 },
+   { "key": "mpn", "label": "Product code", "value": "DGH.TRAY.GWS8", "source": 0 },
+   { "label": "Length", "value": 762, "unit": "mm", "source": 1 },
+   { "label": "Width", "value": 457, "unit": "mm", "source": 1 },
+   { "label": "Height", "value": 123, "unit": "mm", "source": 1 }
+  ],
+  "images": [
+   { "url": "https://www.caterkwik.co.uk/shop/images/fullsize/dghtraygws8.jpg", "alt": "Alphin Pans dough tray DGH.TRAY.GWS8", "source": 1 }
+  ],
+  "notes": "Material and weight not seen on pages read."
+ },
+ {
+  "id": "f027",
+  "found": true,
+  "sources": [
+   { "kind": "retailer", "url": "https://jdcateringequip.co.uk/products/f027-vogue-pizza-pan-stacking-rack-15-slot", "title": "F027 Vogue Pizza Pan Stacking Rack 15 Slot", "read": "2026-10-12" },
+   { "kind": "retailer", "url": "https://www.cs-catering-equipment.co.uk/vogue-pizza-stacking-rack-15-slot", "title": "Vogue Pizza Stacking Rack - 15 Slot", "read": "2026-10-12" },
+   { "kind": "retailer", "url": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_F027", "title": "F027 Stacking Rack 15 Slot (Caterkwik)", "read": "2026-10-12" }
+  ],
+  "summary": "A tall, narrow stainless steel rack with 15 slots for holding pizza pans, screens and trays upright on a small counter footprint. It suits pizzerias and takeaways that want prepared bases or finished pizzas stored together near the oven.",
+  "highlights": [
+   { "text": "15 slots for storing pizza equipment in one place", "source": 0 },
+   { "text": "Stainless steel construction", "source": 0 }
+  ],
+  "facts": [
+   { "key": "height", "label": "Height", "value": 705, "unit": "mm", "source": 0 },
+   { "key": "width", "label": "Width", "value": 300, "unit": "mm", "source": 0 },
+   { "key": "depth", "label": "Depth", "value": 300, "unit": "mm", "source": 0 },
+   { "key": "weight", "label": "Weight", "value": 11.2, "unit": "kg", "source": 0 },
+   { "key": "material", "label": "Material", "value": "Stainless steel", "source": 0 },
+   { "key": "shelves", "label": "Slots", "value": 15, "source": 0 },
+   { "label": "Spacing between shelves", "value": "1.5 inch", "source": 0 },
+   { "label": "Spacing between shelves", "value": "2.5 inch", "source": 1 },
+   { "key": "gtin", "label": "Barcode", "value": "5050984089558", "source": 0 },
+   { "key": "brand", "label": "Manufacturer", "value": "Vogue", "source": 1 },
+   { "label": "Dimensions", "value": "300 x 300 x 705", "unit": "mm", "source": 1 },
+   { "label": "Dimensions (H x W x D)", "value": "705 x 300 x 300", "unit": "mm", "source": 2 }
+  ],
+  "notes": "Sources disagree on slot spacing: 1.5 inch (JD Catering) vs 2.5 inch (CS Catering); human should check. Warranty (1 year parts and labour, back to base) appeared only in a search snippet, not on a page read, so it is not recorded."
+ },
+ {
+  "id": "d753",
+  "found": true,
+  "sources": [
+   { "kind": "retailer", "url": "https://www.easyequipment.com/oxo-d753.html", "title": "OXO D753 Professional Pizza Wheel", "read": "2026-10-12" },
+   { "kind": "retailer", "url": "https://www.cs-catering-equipment.co.uk/oxo-good-grip-pizza-wheel", "title": "OXO Good Grip Pizza Wheel", "read": "2026-10-12" }
+  ],
+  "summary": "A hand pizza cutter with a 76 mm stainless steel wheel and a soft, non-slip black handle with a built-in thumb guard. It suits pizzerias and kitchens that cut pizzas all service and want a comfortable, dishwasher-safe tool.",
+  "highlights": [
+   { "text": "Stainless steel blade with built-in thumb guard", "source": 0 },
+   { "text": "Non-slip, pressure-absorbing handle", "source": 1 },
+   { "text": "Dishwasher safe", "source": 0 }
+  ],
+  "facts": [
+   { "key": "mpn", "label": "SKU", "value": "D753", "source": 0 },
+   { "key": "brand", "label": "Brand", "value": "OXO", "source": 0 },
+   { "key": "diameter", "label": "Blade diameter", "value": 76, "unit": "mm", "source": 0 },
+   { "key": "weight", "label": "Weight", "value": 0.15, "unit": "kg", "source": 0 },
+   { "label": "Blade material", "value": "18/0 stainless steel", "source": 0 },
+   { "label": "Handle material", "value": "Soft-grip Santoprene", "source": 0 },
+   { "key": "colour", "label": "Colour", "value": "Black and stainless steel", "source": 0 },
+   { "label": "Blade", "value": "Fixed, non-removable", "source": 0 },
+   { "key": "dishwasherSafe", "label": "Dishwasher safe", "value": "Yes", "source": 0 },
+   { "key": "model", "label": "Model number", "value": "D753", "source": 1 }
+  ],
+  "images": [
+   { "url": "https://eadn-wc01-3688995.nxedge.io/cdn/media/catalog/product/cache/c0f72ddd475abb8869f65c42f0348be2/d/7/d753_pizzawheel.jpg", "alt": "OXO Good Grips pizza wheel D753", "source": 0 }
+  ],
+  "notes": "Weight: EasyEquipment says 0.15 kg; search snippets from other UK sellers (pages not opened) say 130 g. Human should confirm. No OXO manufacturer page could be read (403)."
+ },
+ {
+  "id": "gc945",
+  "found": true,
+  "sources": [
+   { "kind": "retailer", "url": "https://www.easyequipment.com/aps-gc945.html", "title": "APS GC945 Polyratten Basket", "read": "2026-10-12" }
+  ],
+  "summary": "A GN 1/2 sized poly-rattan basket, 65 mm deep, from the APS Frames modular buffet system. It suits hotels, cafes and delis displaying pastries and bread at ambient or chilled temperatures.",
+  "highlights": [
+   { "text": "Stackable with easy-grip edges", "source": 0 },
+   { "text": "Dishwasher safe", "source": 0 }
+  ],
+  "facts": [
+   { "key": "height", "label": "Height", "value": 65, "unit": "mm", "source": 0 },
+   { "key": "width", "label": "Width", "value": 265, "unit": "mm", "source": 0 },
+   { "key": "depth", "label": "Depth", "value": 325, "unit": "mm", "source": 0 },
+   { "key": "weight", "label": "Weight", "value": 418, "unit": "g", "source": 0 },
+   { "key": "gnCapacity", "label": "Gastronorm size", "value": "GN 1/2", "source": 0 },
+   { "key": "material", "label": "Material", "value": "Poly-rattan", "source": 0 },
+   { "key": "colour", "label": "Colour", "value": "Dark brown", "source": 0 },
+   { "key": "stackable", "label": "Stackable", "value": "Yes", "source": 0 },
+   { "key": "dishwasherSafe", "label": "Dishwasher safe", "value": "Yes", "source": 0 }
+  ],
+  "images": [
+   { "url": "https://eadn-wc01-3688995.nxedge.io/cdn/media/catalog/product/cache/c0f72ddd475abb8869f65c42f0348be2/g/c/gc945_y_basket.jpg", "alt": "APS Frames GC945 polyratten basket GN 1/2 65mm", "source": 0 }
+  ],
+  "notes": "Only one source could be read (others returned 403). Weight 418 g also appears in search snippets."
+ },
+ {
+  "id": "gc944",
+  "found": true,
+  "sources": [
+   { "kind": "retailer", "url": "https://www.nellacut.com/store/bowl-bases-and-bowls/13792-aps-frames-polyratten-basket-gn-1-2-100mm.html", "title": "APS Frames Polyratten Basket GN 1/2 100mm", "read": "2026-10-12" },
+   { "kind": "retailer", "url": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GC944", "title": "GC944 APS Frames Polyratten Basket GN 1/2 100mm (Caterkwik)", "read": "2026-10-12" }
+  ],
+  "summary": "A GN 1/2 sized poly-rattan basket, 100 mm deep, from the APS Frames modular buffet system. The deeper partner to the 65 mm basket, it suits buffets displaying bread, pastries and similar items.",
+  "highlights": [
+   { "text": "Stackable with easy-grip edges under base modules", "source": 0 },
+   { "text": "Compatible with other Frames elements such as bases, cool plates and cover panels", "source": 0 }
+  ],
+  "facts": [
+   { "key": "height", "label": "Height", "value": 100, "unit": "mm", "source": 0 },
+   { "key": "width", "label": "Width", "value": 265, "unit": "mm", "source": 0 },
+   { "label": "Length", "value": 325, "unit": "mm", "source": 0 },
+   { "key": "gnCapacity", "label": "Format", "value": "GN 1/2", "source": 0 },
+   { "key": "material", "label": "Material", "value": "Poly-rattan", "source": 0 },
+   { "key": "colour", "label": "Color", "value": "Dark brown", "source": 0 },
+   { "key": "height", "label": "Height", "value": 100, "unit": "mm", "source": 1 },
+   { "key": "width", "label": "Width", "value": 265, "unit": "mm", "source": 1 },
+   { "label": "Length", "value": 325, "unit": "mm", "source": 1 }
+  ],
+  "images": [
+   { "url": "https://www.nellacut.com/store/21148-large_default/aps-frames-polyratten-basket-gn-1-2-100mm.jpg", "alt": "APS Frames GC944 polyratten basket GN 1/2 100mm", "source": 0 }
+  ],
+  "notes": "No weight on pages read. A search snippet gave 468 g and supplier model 40292 but that page was not opened."
+ },
+ {
+  "id": "gl630",
+  "found": false,
+  "sources": [],
+  "facts": [],
+  "notes": "Only Caterkwik's own page was readable (260 x 185 x 160 mm, holds three 170 mm plates). Advantage Catering, EasyEquipment, Nella and others returned 403 or 404. Search snippets suggest chrome/stainless wire, 350 g and 105 mm inner circle diameters but no page was opened, so nothing is recorded. Human should verify."
+ },
+ {
+  "id": "gc942",
+  "found": true,
+  "sources": [
+   { "kind": "retailer", "url": "https://www.easyequipment.com/aps-gc942.html", "title": "APS GC942 Polyratten Basket GN 1/1 65mm", "read": "2026-10-12" }
+  ],
+  "summary": "A full-size GN 1/1 poly-rattan basket, 65 mm deep, from the APS Frames modular buffet system. It suits hotels and cafes for ambient or cold display of bread, pastries and similar items.",
+  "highlights": [
+   { "text": "Stackable with easy-grip edges", "source": 0 },
+   { "text": "Dishwasher safe and shatterproof", "source": 0 },
+   { "text": "Intended for ambient or cold food display, not hot items", "source": 0 }
+  ],
+  "facts": [
+   { "key": "height", "label": "Height", "value": 65, "unit": "mm", "source": 0 },
+   { "key": "width", "label": "Width", "value": 325, "unit": "mm", "source": 0 },
+   { "key": "depth", "label": "Depth", "value": 535, "unit": "mm", "source": 0 },
+   { "key": "weight", "label": "Weight", "value": 750, "unit": "g", "source": 0 },
+   { "key": "gnCapacity", "label": "Gastronorm size", "value": "GN 1/1", "source": 0 },
+   { "key": "material", "label": "Material", "value": "Poly-rattan", "source": 0 },
+   { "key": "colour", "label": "Colour", "value": "Dark brown", "source": 0 },
+   { "key": "stackable", "label": "Stackable", "value": "Yes", "source": 0 },
+   { "key": "dishwasherSafe", "label": "Dishwasher safe", "value": "Yes", "source": 0 }
+  ],
+  "notes": "Only one source could be read (others returned 403). Image URL on that page was truncated so none recorded. Weight 750 g also appears in search snippets."
+ },
+ {
+  "id": "gc946",
+  "found": true,
+  "sources": [
+   { "kind": "retailer", "url": "https://www.advantage-catering-equipment.co.uk/products/aps-frames-polyratten-round-basket-with-frame", "title": "APS Frames Polyratten Round Basket with Frame", "read": "2026-10-12" }
+  ],
+  "summary": "A round poly-rattan basket with a frame from the APS Frames modular buffet system, 400 mm across and 130 mm high. The frame lets it take a roll-top cover, so it suits buffets displaying pastries and bread.",
+  "highlights": [
+   { "text": "Stackable, with easy-grip edges on cover panels and base modules", "source": 0 },
+   { "text": "Cover panel GC947 is sold separately", "source": 0 }
+  ],
+  "facts": [
+   { "key": "mpn", "label": "Product number", "value": "GC946", "source": 0 },
+   { "key": "height", "label": "Height", "value": 130, "unit": "mm", "source": 0 },
+   { "key": "diameter", "label": "Diameter", "value": 400, "unit": "mm", "source": 0 },
+   { "key": "material", "label": "Material", "value": "Poly-rattan", "source": 0 },
+   { "key": "colour", "label": "Color", "value": "Dark brown", "source": 0 },
+   { "key": "gnCapacity", "label": "GN size", "value": "1/1 GN full", "source": 0 },
+   { "key": "weight", "label": "Weight", "value": 1.06, "unit": "kg", "source": 0 },
+   { "label": "Shape", "value": "Round", "source": 0 }
+  ],
+  "images": [
+   { "url": "https://www.advantage-catering-equipment.co.uk/cdn/shop/products/761e9e6b736cb4fcdf4e0ca4dce830d1_480x480.jpg", "alt": "APS Frames GC946 round polyratten basket with frame", "source": 0 }
+  ],
+  "notes": "Only one source could be read (others returned 403)."
+ }
+]

@@ -1,0 +1,225 @@
+[
+ {
+  "id": "bbq77",
+  "name": "Super Pizza BBQ77 Gas Water Grill",
+  "brand": "Super Pizza",
+  "mpn": "BBQ77",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BBQ77",
+  "known": {
+   "plate": "chrome",
+   "fuel": "gas",
+   "radiant": "lava rock",
+   "width": "770 mm",
+   "depth": "630 mm",
+   "height": "430 mm",
+   "weight": "49 kg",
+   "electricKw": "18 kW",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "1 year",
+   "finish": "Stainless steel exterior"
+  }
+ },
+ {
+  "id": "bbq113",
+  "name": "Super Pizza BBQ113 Gas Water Grill",
+  "brand": "Super Pizza",
+  "mpn": "BBQ113",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BBQ113",
+  "known": {
+   "plate": "chrome",
+   "fuel": "gas",
+   "radiant": "lava rock",
+   "width": "1130 mm",
+   "depth": "630 mm",
+   "height": "430 mm",
+   "weight": "63 kg",
+   "electricKw": "27 kW",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "1 year",
+   "finish": "Stainless steel exterior"
+  }
+ },
+ {
+  "id": "cm630",
+  "name": "Magikitch'n CM-630 Counter Gas Charbroiler 30\" (W760mm)",
+  "brand": "Magikitchn",
+  "mpn": "CM-630",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CM630",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "gas",
+   "radiant": "radiant",
+   "width": "760 mm",
+   "depth": "900 mm",
+   "height": "430 mm",
+   "weight": "127 kg",
+   "gasConnection": "¾\" Gas Hose Needed",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "fimarb80char",
+  "name": "Fimar B80 Heavy Duty Char Grill",
+  "brand": "Fimar",
+  "mpn": "B80",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FIMARB80CHAR",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "gas",
+   "burners": "6",
+   "radiant": "lava rock",
+   "width": "810 mm",
+   "depth": "800 mm",
+   "height": "380 mm",
+   "weight": "73 kg",
+   "finish": "stainless steel body"
+  }
+ },
+ {
+  "id": "g3625",
+  "name": "Falcon Dominator Plus G3625 Gas Chargrill",
+  "brand": "Falcon",
+  "mpn": "G3625",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G3625",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "gas",
+   "radiant": "radiant",
+   "width": "600 mm",
+   "depth": "770 mm",
+   "height": "455 mm",
+   "gasKw": "19 kW",
+   "gasConnection": "3/4\" BSP",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "g31225",
+  "name": "Falcon Dominator Plus G31225 Gas Radiant Chargrill",
+  "brand": "Falcon",
+  "mpn": "G31225",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G31225",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "gas",
+   "radiant": "radiant",
+   "width": "1200 mm",
+   "depth": "770 mm",
+   "height": "455 mm",
+   "gasKw": "31.8 kW",
+   "gasConnection": "3/4\" BSP gas hose required",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "g31525",
+  "name": "Falcon Dominator Plus G31525 Gas Radiant Chargrill",
+  "brand": "Falcon",
+  "mpn": "G31525",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G31525",
+  "known": {
+   "plate": "cast iron",
+   "fuel": "gas",
+   "radiant": "radiant",
+   "width": "1500 mm",
+   "depth": "770 mm",
+   "height": "455 mm",
+   "gasKw": "37.2 kW",
+   "gasConnection": "3/4\" BSP Gas hose",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "hcscmg6",
+  "name": "Chefmate by Hobart - 6 Grid Gas Combi Oven - HCSCMG6",
+  "brand": "Hobart",
+  "mpn": "HCSCMG6",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HCSCMG6",
+  "known": {
+   "trayPitch": "70 mm",
+   "programs": "100",
+   "autoClean": "true",
+   "waterConnection": "water pressures you have",
+   "probe": "true",
+   "connectivity": "USB",
+   "width": "890 mm",
+   "depth": "790 mm",
+   "height": "720 mm",
+   "weight": "140 kg",
+   "voltage": "230V"
+  }
+ },
+ {
+  "id": "ht763",
+  "name": "Buffalo HT763 Chip Scuttle and Food Warmer",
+  "brand": "Buffalo",
+  "mpn": "HT763",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_HT763",
+  "known": {
+   "width": "342 mm",
+   "depth": "572 mm",
+   "height": "518 mm",
+   "weight": "9.3 kg",
+   "electricKw": "0.75 kW",
+   "amps": "3.3 A",
+   "voltage": "240V",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "1925",
+  "name": "Parry 1925 Countertop Electric Chip Scuttle",
+  "brand": "Parry",
+  "mpn": "1925",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_1925",
+  "known": {
+   "fuel": "electric",
+   "width": "450 mm",
+   "depth": "515 mm",
+   "height": "465 mm",
+   "weight": "14 kg",
+   "electricKw": "0.35 kW",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "robandmw10",
+  "name": "Roband MW10 Versatile Multi Food Warmer",
+  "brand": "Roband",
+  "mpn": "MW10",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ROBANDMW10",
+  "known": {
+   "width": "395 mm",
+   "depth": "640 mm",
+   "height": "475 mm",
+   "electricKw": "0.785 kW",
+   "amps": "3.4 A",
+   "voltage": "230V, 50Hz",
+   "plug": "plug supplied",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "robandmw10cw",
+  "name": "Roband MW10CW Chip Warmer",
+  "brand": "Roband",
+  "mpn": "MW10CW",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ROBANDMW10CW",
+  "known": {
+   "width": "395 mm",
+   "depth": "640 mm",
+   "height": "475 mm",
+   "electricKw": "0.785 kW",
+   "amps": "3.4 A",
+   "voltage": "230V, 50Hz",
+   "plug": "plug supplied",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ }
+]

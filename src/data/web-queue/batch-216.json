@@ -1,0 +1,251 @@
+[
+ {
+  "id": "es92",
+  "name": "Italforni ES9-2 Wide Twin Deck Heavy Duty Electric Pizza Oven - 18 x 12\" Pizzas",
+  "brand": "Italforni",
+  "mpn": "ES9-2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ES92",
+  "known": {
+   "decks": "2",
+   "pizzaSize": "12\" Pizzas",
+   "chamber": "deck Top view 2 or 3 decks",
+   "stone": "Refractory",
+   "fuel": "electric",
+   "width": "1320 mm",
+   "depth": "1260 mm",
+   "height": "400 mm",
+   "weight": "200 kg",
+   "electricKw": "9.5 kW",
+   "amps": "16 A",
+   "voltage": "415V",
+   "phase": "three",
+   "plug": "16A",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "gbhot",
+  "name": "Blizzard GB HOT Commercial Heated Buffet Display",
+  "brand": "Blizzard",
+  "mpn": "GB-HOT",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GBHOT",
+  "known": {
+   "gnCapacity": "3x 1/1GN",
+   "heatType": "wet",
+   "wells": "3",
+   "mobility": "true",
+   "width": "1190 mm",
+   "depth": "900 mm",
+   "height": "1320 mm",
+   "electricKw": "1.6 kW",
+   "amps": "13 A",
+   "warranty": "2 years",
+   "finish": "stainless steel exterior"
+  }
+ },
+ {
+  "id": "ld2",
+  "name": "Lincat LD2 Heated Display With Gantry",
+  "brand": "Lincat",
+  "mpn": "LD2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LD2",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "bulbs": "heat lamps give an instant, appealing g",
+   "width": "790 mm",
+   "depth": "538 mm",
+   "height": "562 mm",
+   "weight": "22 kg",
+   "electricKw": "1.5 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "ld3",
+  "name": "Lincat LD3 Heated Display With Gantry",
+  "brand": "Lincat",
+  "mpn": "LD3",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LD3",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "bulbs": "heat lamps give an instant, appealing g",
+   "width": "1130 mm",
+   "depth": "538 mm",
+   "height": "562 mm",
+   "weight": "29 kg",
+   "electricKw": "2.4 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "ld4",
+  "name": "Lincat LD4 Heated Display With Gantry",
+  "brand": "Lincat",
+  "mpn": "LD4",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LD4",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "bulbs": "heat lamps give an instant, appealing g",
+   "width": "1470 mm",
+   "depth": "538 mm",
+   "height": "562 mm",
+   "weight": "37 kg",
+   "electricKw": "2.75 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "buffalocd231",
+  "name": "Buffalo Countertop Heated Food Display 687mm - CD231",
+  "brand": "Buffalo",
+  "mpn": "CD231",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BUFFALOCD231",
+  "known": {
+   "volume": "120 litres",
+   "shelves": "3",
+   "tempRange": "30°C to 90°C",
+   "width": "687 mm",
+   "depth": "568 mm",
+   "height": "670 mm",
+   "weight": "48 kg",
+   "electricKw": "1.1 kW",
+   "amps": "4.75 A",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "buffalocd232",
+  "name": "Buffalo CD232 Heated Display Merchandiser",
+  "brand": "Buffalo",
+  "mpn": "CD232",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BUFFALOCD232",
+  "known": {
+   "volume": "160 litres",
+   "shelves": "3",
+   "tempRange": "30°C to 90°C",
+   "width": "866 mm",
+   "depth": "568 mm",
+   "height": "670 mm",
+   "weight": "56 kg",
+   "electricKw": "1.5 kW",
+   "amps": "6.3 A",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "spg601",
+  "name": "Sammic SPG-601 Gas Contact Griddle",
+  "brand": "Sammic",
+  "mpn": "SPG-601",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SPG601",
+  "known": {
+   "cookingWidth": "586 mm",
+   "fuel": "gas",
+   "burners": "2",
+   "splashback": "true",
+   "width": "600 mm",
+   "depth": "507 mm",
+   "height": "234 mm",
+   "weight": "19 kg",
+   "electricKw": "5.5 kW",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "spg801",
+  "name": "Sammic SPG-801 Gas Contact Griddle",
+  "brand": "Sammic",
+  "mpn": "SPG-801",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SPG801",
+  "known": {
+   "cookingWidth": "783 mm",
+   "fuel": "gas",
+   "burners": "3",
+   "splashback": "true",
+   "width": "800 mm",
+   "depth": "507 mm",
+   "height": "234 mm",
+   "weight": "26 kg",
+   "electricKw": "8.25 kW",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "spg1001",
+  "name": "Sammic SPG-1001 Gas Contact Griddle",
+  "brand": "Sammic",
+  "mpn": "SGP-1001",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SPG1001",
+  "known": {
+   "cookingWidth": "983 mm",
+   "fuel": "gas",
+   "burners": "3",
+   "splashback": "true",
+   "width": "1020 mm",
+   "depth": "507 mm",
+   "height": "234 mm",
+   "weight": "36 kg",
+   "electricKw": "9.3 kW",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "lbr",
+  "name": "Lincat Lynx 400 LBR Electric 1 Plate Boiling Top",
+  "brand": "Lincat",
+  "mpn": "LBR",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LBR",
+  "known": {
+   "fuel": "electric",
+   "zones": "1",
+   "width": "285 mm",
+   "depth": "400 mm",
+   "height": "119 mm",
+   "weight": "9 kg",
+   "electricKw": "2 kW",
+   "phase": "single",
+   "plug": "plug supplied",
+   "hardWired": "true",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "lbr2",
+  "name": "Lincat Lynx 400 LBR2 Electric 2 Plate Boiling Top",
+  "brand": "Lincat",
+  "mpn": "LBR2",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LBR2",
+  "known": {
+   "fuel": "electric",
+   "zones": "2",
+   "width": "565 mm",
+   "depth": "400 mm",
+   "height": "119 mm",
+   "weight": "16 kg",
+   "electricKw": "1.5 kW",
+   "phase": "single",
+   "plug": "plug supplied",
+   "hardWired": "true",
+   "warranty": "2 years"
+  }
+ }
+]

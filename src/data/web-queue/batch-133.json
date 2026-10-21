@@ -1,0 +1,236 @@
+[
+ {
+  "id": "bbm1",
+  "name": "Blizzard BBM1 Commercial Bain Marie With Containers",
+  "brand": "BLIZZARD",
+  "mpn": "BBM1",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BBM1",
+  "known": {
+   "heatType": "wet",
+   "width": "354 mm",
+   "weight": "13 kg",
+   "amps": "13 A",
+   "voltage": "240v",
+   "plug": "plug supplied",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "bmg2we",
+  "name": "Archway G2W/E Electric Wet Well Bain Marie - 3 x 1/3 Gastronorm Containers",
+  "brand": "Archway",
+  "mpn": "G2W/E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BMG2WE",
+  "known": {
+   "gnCapacity": "3 x 1/3 Gastronorm",
+   "heatType": "wet",
+   "wells": "3",
+   "width": "385 mm",
+   "depth": "605 mm",
+   "height": "290 mm",
+   "weight": "15 kg",
+   "electricKw": "1 kW",
+   "voltage": "230V, 50Hz",
+   "plug": "plug supplied",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "archwayg3we",
+  "name": "Archway G3W/E Electric Wet Well Bain Marie - 6 x 1/3 Gastronorm Containers",
+  "brand": "Archway",
+  "mpn": "G3W/E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ARCHWAYG3WE",
+  "known": {
+   "gnCapacity": "6 x 1/3 Gastronorm",
+   "heatType": "wet",
+   "wells": "6",
+   "width": "700 mm",
+   "depth": "605 mm",
+   "height": "290 mm",
+   "weight": "20 kg",
+   "electricKw": "2 kW",
+   "voltage": "230V, 50Hz",
+   "plug": "plug supplied",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ja372",
+  "name": "Buffalo JA372 Induction Wok",
+  "brand": "Buffalo",
+  "mpn": "JA372",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_JA372",
+  "known": {
+   "fuel": "induction",
+   "width": "340 mm",
+   "depth": "432 mm",
+   "height": "125 mm",
+   "weight": "7.13 kg",
+   "electricKw": "3 kW",
+   "voltage": "240V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "buffaloce208",
+  "name": "Buffalo 3kW Induction Hob - CE208",
+  "brand": "Buffalo",
+  "mpn": "CE208",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BUFFALOCE208",
+  "known": {
+   "fuel": "induction",
+   "width": "330 mm",
+   "depth": "430 mm",
+   "height": "100 mm",
+   "weight": "5.6 kg",
+   "electricKw": "0.5 kW",
+   "plug": "Plug Supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel body"
+  }
+ },
+ {
+  "id": "at25a",
+  "name": "Valera AT25A Single Zone Induction Hob",
+  "brand": "Valera",
+  "mpn": "AT-25A",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_AT25A",
+  "known": {
+   "volume": "1.5 litres",
+   "fuel": "induction",
+   "width": "328 mm",
+   "depth": "422 mm",
+   "height": "100 mm",
+   "weight": "7 kg",
+   "amps": "5 A",
+   "warranty": "3 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "at25c",
+  "name": "Valera AT25C Single Zone Induction Hob",
+  "brand": "Valera",
+  "mpn": "AT-25C",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_AT25C",
+  "known": {
+   "volume": "1.5 litres",
+   "fuel": "induction",
+   "width": "328 mm",
+   "depth": "422 mm",
+   "height": "100 mm",
+   "weight": "7 kg",
+   "amps": "5 A",
+   "warranty": "3 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "pm8ie150",
+  "name": "Firex PM8IE150 Electric Indirect Heat Boiling Pan - 150 Litres",
+  "brand": "Firex",
+  "mpn": "PM8IE150",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PM8IE150",
+  "known": {
+   "volume": "150 litres",
+   "fuel": "electric",
+   "heating": "indirect",
+   "tap": "true",
+   "width": "800 mm",
+   "depth": "900 mm",
+   "height": "1100 mm",
+   "electricKw": "18 kW",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "e9781",
+  "name": "Falcon F900 E9781 Electric Boiling Pan - 100 Litre",
+  "brand": "Falcon",
+  "mpn": "E9781-100",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_E9781",
+  "known": {
+   "volume": "100 litres",
+   "fuel": "electric",
+   "width": "800 mm",
+   "depth": "900 mm",
+   "height": "900 mm",
+   "weight": "140 kg",
+   "amps": "32 A",
+   "voltage": "400V",
+   "plug": "32A",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ck70080",
+  "name": "Ozti CK70080 80 Litre Electric Bratt Pan - Manual Tilt",
+  "brand": "Ozti",
+  "mpn": "CK70080",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK70080",
+  "known": {
+   "volume": "80 litres",
+   "fuel": "electric",
+   "tilting": "true",
+   "tap": "true",
+   "width": "800 mm",
+   "depth": "900 mm",
+   "height": "850 mm",
+   "electricKw": "9 kW",
+   "voltage": "400V",
+   "phase": "three",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ck70088",
+  "name": "Ozti 205 Litre 7867.N1.16908.14 900 Series Manual Tilt Gas Bratt Pan",
+  "brand": "Ozti",
+  "mpn": "7867.N1.16908.14",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK70088",
+  "known": {
+   "volume": "205 litres",
+   "fuel": "gas",
+   "tilting": "true",
+   "tap": "true",
+   "width": "1600 mm",
+   "depth": "900 mm",
+   "height": "850 mm",
+   "gasKw": "44 kW",
+   "voltage": "400V",
+   "phase": "three",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "bbq41",
+  "name": "Super Pizza BBQ41 Gas Water Grill",
+  "brand": "Super Pizza",
+  "mpn": "BBQ41",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BBQ41",
+  "known": {
+   "plate": "chrome",
+   "fuel": "gas",
+   "radiant": "lava rock",
+   "width": "410 mm",
+   "depth": "630 mm",
+   "height": "430 mm",
+   "weight": "26 kg",
+   "electricKw": "9 kW",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "1 year",
+   "finish": "Stainless steel exterior"
+  }
+ }
+]

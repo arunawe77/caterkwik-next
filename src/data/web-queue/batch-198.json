@@ -1,0 +1,258 @@
+[
+ {
+  "id": "maxxprobake1010",
+  "name": "Convotherm Maxx Pro BAKE easyTouch 10.10 10 Deck Combi Oven",
+  "brand": "Convotherm",
+  "mpn": "MAXXPROBAKE10.10",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MAXXPROBAKE1010",
+  "known": {
+   "steam": "injection",
+   "waterConnection": "Water Connections",
+   "probe": "true",
+   "connectivity": "HACCP",
+   "width": "876 mm",
+   "depth": "791 mm",
+   "height": "1057 mm",
+   "weight": "141 kg",
+   "electricKw": "19.5 kW",
+   "amps": "32 A",
+   "voltage": "400V",
+   "phase": "three",
+   "plug": "32A, Tupe A/B RCD",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "400e",
+  "name": "Roller Grill 400 CSE Single Plate Electric Crepe Machine",
+  "brand": "Roller Grill",
+  "mpn": "400CSE",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_400E",
+  "known": {
+   "fuel": "electric",
+   "thermostat": "Thermostat controlled",
+   "width": "450 mm",
+   "depth": "500 mm",
+   "height": "240 mm",
+   "weight": "23 kg",
+   "electricKw": "3 kW",
+   "plug": "Plug Supplied",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "g9541",
+  "name": "Falcon G9541 Gas Griddle",
+  "brand": "F900",
+  "mpn": "G9541",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G9541",
+  "known": {
+   "cookingWidth": "800 mm",
+   "plate": "smooth",
+   "fuel": "gas",
+   "burners": "1",
+   "radiant": "infra-red",
+   "thermostat": "true",
+   "tempRange": "100-300°C",
+   "width": "400 mm",
+   "depth": "900 mm",
+   "height": "350 mm",
+   "electricKw": "9.5 kW",
+   "gasKw": "8.2 kW",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "g3941",
+  "name": "Falcon Dominator Plus G3941 Steel Plate Gas Griddle",
+  "brand": "Falcon",
+  "mpn": "G3941",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G3941",
+  "known": {
+   "cookingWidth": "894 mm",
+   "plate": "smooth",
+   "fuel": "gas",
+   "burners": "3",
+   "thermostat": "true",
+   "tempRange": "140°C - 300°C",
+   "splashback": "true",
+   "width": "900 mm",
+   "depth": "770 mm",
+   "height": "455 mm",
+   "weight": "127 kg",
+   "gasKw": "16.5 kW",
+   "gasConnection": "1/2\" Gas Hose Required",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "g3941r",
+  "name": "Falcon Dominator Plus G3941R Half-Ribbed Steel Plate Gas Griddle",
+  "brand": "Falcon",
+  "mpn": "G3941R",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G3941R",
+  "known": {
+   "cookingWidth": "894 mm",
+   "plate": "ribbed",
+   "fuel": "gas",
+   "burners": "3",
+   "thermostat": "true",
+   "tempRange": "140°C - 300°C",
+   "splashback": "true",
+   "width": "900 mm",
+   "depth": "770 mm",
+   "height": "455 mm",
+   "weight": "127 kg",
+   "gasKw": "16.5 kW",
+   "gasConnection": "1/2\" Gas Hose Required",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "gr3n",
+  "name": "Lincat Silverlink 600 GR3 Gas Salamander Grill",
+  "brand": "Lincat",
+  "mpn": "GR3",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GR3N",
+  "known": {
+   "plate": "chrome",
+   "fuel": "gas",
+   "radiant": "ceramic",
+   "width": "600 mm",
+   "depth": "350 mm",
+   "height": "405 mm",
+   "weight": "28 kg",
+   "electricKw": "5 kW",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "7073",
+  "name": "Parry 7073 Gas Salamander Grill",
+  "brand": "Parry",
+  "mpn": "7073",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_7073",
+  "known": {
+   "plate": "ribbed",
+   "fuel": "gas",
+   "radiant": "ceramic",
+   "width": "790 mm",
+   "depth": "550 mm",
+   "height": "485 mm",
+   "weight": "40 kg",
+   "gasKw": "7 kW",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "gr7n",
+  "name": "Lincat Silverlink 600 GR7 Gas Salamander Grill",
+  "brand": "Lincat",
+  "mpn": "GR7/N",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GR7N",
+  "known": {
+   "plate": "chrome",
+   "fuel": "gas",
+   "radiant": "ceramic",
+   "width": "750 mm",
+   "depth": "350 mm",
+   "height": "405 mm",
+   "weight": "40 kg",
+   "electricKw": "6.5 kW",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "i91104",
+  "name": "Falcon F900 i91104 Induction Range - 4 x 3.5kW",
+  "brand": "Falcon",
+  "mpn": "i91104",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_I91104",
+  "known": {
+   "fuel": "induction",
+   "width": "1000 mm",
+   "depth": "900 mm",
+   "height": "900 mm",
+   "weight": "140 kg",
+   "electricKw": "20.2 kW",
+   "amps": "32 A",
+   "voltage": "400V",
+   "plug": "32A",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "sem60q",
+  "name": "Roller Grill SEM600Q 600mm Sliding Electric Salamander Grill",
+  "brand": "Roller Grill",
+  "mpn": "SEM600Q",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SEM60Q",
+  "known": {
+   "fuel": "electric",
+   "radiant": "infrared",
+   "width": "600 mm",
+   "depth": "590 mm",
+   "height": "590 mm",
+   "weight": "44 kg",
+   "electricKw": "2.8 kW",
+   "phase": "single",
+   "plug": "plug supplied",
+   "hardWired": "true",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "set110",
+  "name": "Hobart Ecomax SET1 Electric Salamander Grill",
+  "brand": "Hobart Ecomax",
+  "mpn": "SET1",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_SET110",
+  "known": {
+   "cookingWidth": "15 mm",
+   "plate": "chrome",
+   "fuel": "electric",
+   "burners": "6",
+   "thermostat": "true",
+   "width": "540 mm",
+   "depth": "400 mm",
+   "height": "390 mm",
+   "electricKw": "2 kW",
+   "amps": "13 A",
+   "voltage": "230V, 50Hz",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "e2522",
+  "name": "Falcon Chieftain E2522 Heavy Duty Electric Grill",
+  "brand": "Falcon",
+  "mpn": "E2522",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_E2522",
+  "known": {
+   "plate": "ribbed",
+   "fuel": "electric",
+   "width": "900 mm",
+   "depth": "540 mm",
+   "height": "500 mm",
+   "weight": "77 kg",
+   "electricKw": "7 kW",
+   "amps": "32 A",
+   "voltage": "400V",
+   "phase": "three",
+   "plug": "32A 3-phase supply",
+   "hardWired": "true",
+   "warranty": "2 years",
+   "finish": "Stainless Steel Construction"
+  }
+ }
+]

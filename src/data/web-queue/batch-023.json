@@ -1,0 +1,144 @@
+[
+ {
+  "id": "gh396",
+  "name": "GH396 APS Breadstation Breadbox 200mm",
+  "brand": "APS",
+  "mpn": "GH396",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GH396",
+  "known": {}
+ },
+ {
+  "id": "cp171",
+  "name": "Olympia Kiln Platters Ocean 295mm (4 Pack)",
+  "brand": null,
+  "mpn": null,
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CP171",
+  "known": {}
+ },
+ {
+  "id": "922690",
+  "name": "Electrolux Professional Tray Support for 6 & 10 1/1GN Combi Oven Bases - 922690",
+  "brand": "Electrolux",
+  "mpn": "922690",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922690",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "width": "46 mm",
+   "depth": "621 mm",
+   "height": "400 mm",
+   "weight": "4.6 kg"
+  }
+ },
+ {
+  "id": "922692",
+  "name": "Electrolux Professional Tray Support for 6 & 10 2/1GN Combi Oven Bases - 922692",
+  "brand": "Electrolux",
+  "mpn": "922692",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922692",
+  "known": {
+   "gnCapacity": "2/1GN",
+   "width": "46 mm",
+   "depth": "621 mm",
+   "height": "400 mm",
+   "weight": "4.6 kg"
+  }
+ },
+ {
+  "id": "922319",
+  "name": "Electrolux Professional Stacking Kit for 6 x 1/1GN on 6 x 1/1GN or 10 x 1/1GN Electric Air-o-System Combi Ovens - 922319",
+  "brand": "Electrolux",
+  "mpn": "922319",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922319",
+  "known": {
+   "gnCapacity": "6 x 1/1GN",
+   "width": "898 mm",
+   "depth": "874 mm",
+   "height": "179 mm",
+   "weight": "50 kg"
+  }
+ },
+ {
+  "id": "922614",
+  "name": "Electrolux Professional Cupboard Base with Tray Support for 6 & 10 1/1GN Combi Ovens - 922614",
+  "brand": "Electrolux",
+  "mpn": "922614",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922614",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "width": "867 mm",
+   "weight": "68.5 kg",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "922662",
+  "name": "Electrolux Professional Heat Shield for 6 1/1GN Combi Ovens - 922662",
+  "brand": "Electrolux",
+  "mpn": "922662",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922662",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "width": "70 mm",
+   "depth": "775 mm",
+   "height": "708 mm",
+   "weight": "5.5 kg"
+  }
+ },
+ {
+  "id": "922663",
+  "name": "Electrolux Professional Heat Shield for 10 1/1GN Combi Ovens - 922663",
+  "brand": "Electrolux",
+  "mpn": "922663",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_922663",
+  "known": {
+   "gnCapacity": "1/1GN",
+   "width": "70 mm",
+   "depth": "775 mm",
+   "height": "958 mm",
+   "weight": "7.5 kg"
+  }
+ },
+ {
+  "id": "fcupp",
+  "name": "Parry Flatpack Passthrough Cupboard",
+  "brand": "Parry",
+  "mpn": "FCUPP",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_FCUPP",
+  "known": {
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "doublegantry",
+  "name": "Inomak Stainless Steel Double Gantry",
+  "brand": "Inomak",
+  "mpn": "RD - Double Gantry",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DOUBLEGANTRY",
+  "known": {
+   "width": "1090 mm",
+   "depth": "333 mm",
+   "height": "765 mm",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ad730",
+  "name": "AD730 Heat Shield For Plastic Kebab Knife",
+  "brand": "Non Branded",
+  "mpn": "AD730",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_AD730",
+  "known": {
+   "finish": "white"
+  }
+ },
+ {
+  "id": "ad731",
+  "name": "AD731 Heat Shield For Metal Kebab Knife",
+  "brand": "Non Branded",
+  "mpn": "AD731",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_AD731",
+  "known": {
+   "finish": "white"
+  }
+ }
+]

@@ -1,0 +1,108 @@
+[
+ {
+  "id": "dp140",
+  "name": "DP140 Curved Square Melamine Plate",
+  "brand": "Kristallon",
+  "mpn": "DP140",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DP140",
+  "known": {}
+ },
+ {
+  "id": "dp142",
+  "name": "DP142 Curved Square Melamine Plate",
+  "brand": "Kristallon",
+  "mpn": "DP142",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DP142",
+  "known": {}
+ },
+ {
+  "id": "dp141",
+  "name": "DP141 Curved Square Melamine Plate",
+  "brand": "Kristallon",
+  "mpn": "DP141",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DP141",
+  "known": {}
+ },
+ {
+  "id": "dp143",
+  "name": "DP143 Curved Square Melamine Plate",
+  "brand": "Kristallon",
+  "mpn": "DP143",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DP143",
+  "known": {}
+ },
+ {
+  "id": "cc532",
+  "name": "Phillips 240V Quartz Lamp CC532",
+  "brand": "Phillips",
+  "mpn": "CC532",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CC532",
+  "known": {
+   "electricKw": "0.3 kW"
+  }
+ },
+ {
+  "id": "u263",
+  "name": "U263 APS Lid for Rotating Lazy Susan Cake Stand",
+  "brand": "APS",
+  "mpn": "U263",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_U263",
+  "known": {
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "u262",
+  "name": "U262 APS Rotating Lazy Susan Cake Stand",
+  "brand": "APS",
+  "mpn": "U262",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_U262",
+  "known": {
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "gf184",
+  "name": "GF184 APS Melamine 2 Tier Cupcake Stand and Sign",
+  "brand": "APS",
+  "mpn": "GF184",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF184",
+  "known": {
+   "shelves": "2"
+  }
+ },
+ {
+  "id": "gf185",
+  "name": "GF185 APS Melamine 3 Tier Cupcake Stand and Sign",
+  "brand": "APS",
+  "mpn": "GF185",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF185",
+  "known": {
+   "shelves": "3"
+  }
+ },
+ {
+  "id": "gf451",
+  "name": "GF451 Churchill Buffet Large Wooden Cubes",
+  "brand": "Churchill Alchemy",
+  "mpn": "GF451",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF451",
+  "known": {}
+ },
+ {
+  "id": "gf450",
+  "name": "GF450 Churchill Buffet Small Wooden Cubes",
+  "brand": "Churchill Alchemy",
+  "mpn": "GF450",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF450",
+  "known": {}
+ },
+ {
+  "id": "gf313",
+  "name": "GF313 Churchill Buffet Medium Wooden Cubes",
+  "brand": "Churchill Alchemy",
+  "mpn": "GF313",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_GF313",
+  "known": {}
+ }
+]

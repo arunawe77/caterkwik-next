@@ -1,0 +1,216 @@
+[
+ {
+  "id": "mw18ti",
+  "name": "Maestrowave MW18Ti Inverter Microwave Oven 1800W",
+  "brand": "Hallco",
+  "mpn": "MW18TI",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MW18TI",
+  "known": {
+   "programs": "297",
+   "microwaveOutput": "1800 W",
+   "width": "420 mm",
+   "depth": "515 mm",
+   "height": "338 mm",
+   "electricKw": "2.8 kW",
+   "warranty": "3 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "g3206",
+  "name": "Falcon Dominator Plus G3206 Gas Pasta Boiler",
+  "brand": "Falcon",
+  "mpn": "G3206",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_G3206",
+  "known": {
+   "fuel": "gas",
+   "width": "600 mm",
+   "depth": "770 mm",
+   "height": "890 mm",
+   "gasKw": "32.5 kW",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "batchbun",
+  "name": "Prince Castle 212-AC Batch Bun Toaster",
+  "brand": "Prince Castle",
+  "mpn": "212-AC",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BATCHBUN",
+  "known": {
+   "timer": "timer and an adjustable thermostat",
+   "thermostat": "thermostat",
+   "electricKw": "2.3 kW",
+   "amps": "10 A",
+   "voltage": "230V",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "db2s",
+  "name": "Dualit DB2S / DB2SP Vario 2 Slot Toasters",
+  "brand": "Dualit",
+  "mpn": "DB2S",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_DB2S",
+  "known": {
+   "throughput": "65 slices per hour",
+   "plates": "2",
+   "width": "260 mm",
+   "depth": "210 mm",
+   "height": "220 mm",
+   "electricKw": "1.2 kW",
+   "plug": "plug supplied",
+   "warranty": "1 year",
+   "finish": "white"
+  }
+ },
+ {
+  "id": "2pwe",
+  "name": "Archway 2PW/E Electric Wet Well Bain Marie - 2 x 4.5ltr Round Pots",
+  "brand": "Archway",
+  "mpn": "2PW/E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_2PWE",
+  "known": {
+   "heatType": "wet",
+   "volume": "4.5 litres",
+   "width": "295 mm",
+   "depth": "605 mm",
+   "height": "290 mm",
+   "weight": "12 kg",
+   "electricKw": "1 kW",
+   "voltage": "230V, 50Hz",
+   "plug": "plug supplied",
+   "warranty": "3 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "otei100",
+  "name": "Ozti CK70069 50 Litre 700 Series Electric Bratt Pan - Manual Tilt",
+  "brand": "Ozti",
+  "mpn": "7867.N1.80708.01",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_OTEI100",
+  "known": {
+   "volume": "50 litres",
+   "fuel": "electric",
+   "tilting": "true",
+   "tap": "true",
+   "width": "800 mm",
+   "depth": "700 mm",
+   "height": "850 mm",
+   "electricKw": "7.5 kW",
+   "voltage": "400V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "ck70085",
+  "name": "Ozti 80 Litre CK70085 900 Series Manual Tilt Gas Bratt Pan",
+  "brand": "Ozti",
+  "mpn": "CK70085",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CK70085",
+  "known": {
+   "volume": "80 litres",
+   "fuel": "gas",
+   "tilting": "true",
+   "tap": "true",
+   "width": "800 mm",
+   "depth": "900 mm",
+   "height": "850 mm",
+   "voltage": "230 V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "371181",
+  "name": "Electrolux Professional 700XP Manual Tilt Gas Bratt Pan - 371181",
+  "brand": "Electrolux",
+  "mpn": "371181",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_371181",
+  "known": {
+   "volume": "60 litres",
+   "fuel": "gas",
+   "tilting": "true",
+   "width": "800 mm",
+   "depth": "730 mm",
+   "height": "850 mm",
+   "weight": "105 kg",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "bm8g080i",
+  "name": "Firex EasyBratt Gas 80 Litre Manual Tilt Bratt Pan",
+  "brand": "Firex",
+  "mpn": "BR8G080I",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BM8G080I",
+  "known": {
+   "volume": "80 litres",
+   "fuel": "gas",
+   "tilting": "true",
+   "tap": "true",
+   "width": "800 mm",
+   "depth": "900 mm",
+   "height": "970 mm",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "bm1g120i",
+  "name": "Firex EasyBratt Gas 120 Litre Manual Tilt Bratt Pan - BR1G120I",
+  "brand": "Firex",
+  "mpn": "BR1G120I",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BM1G120I",
+  "known": {
+   "volume": "120 litres",
+   "fuel": "gas",
+   "tilting": "true",
+   "tap": "true",
+   "width": "1200 mm",
+   "depth": "900 mm",
+   "height": "970 mm",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "bm1g150i",
+  "name": "Firex EasyBratt Gas 150 Litre Manual Tilt Bratt Pan - BR1G150I",
+  "brand": "Firex",
+  "mpn": "BR1G150I",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BM1G150I",
+  "known": {
+   "volume": "150 litres",
+   "fuel": "gas",
+   "tilting": "true",
+   "tap": "true",
+   "width": "1200 mm",
+   "depth": "900 mm",
+   "height": "950 mm",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "bm1g200i",
+  "name": "Firex EasyBratt Gas 200 Litre Manual Tilt Bratt Pan - BR1G200I",
+  "brand": "Firex",
+  "mpn": "BR1G200I",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BM1G200I",
+  "known": {
+   "volume": "200 litres",
+   "fuel": "gas",
+   "tilting": "true",
+   "tap": "true",
+   "width": "1600 mm",
+   "depth": "900 mm",
+   "height": "1200 mm",
+   "warranty": "1 year",
+   "finish": "stainless steel finish"
+  }
+ }
+]

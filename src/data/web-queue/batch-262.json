@@ -1,0 +1,235 @@
+[
+ {
+  "id": "csd013e",
+  "name": "CSD013E",
+  "brand": "Moduline",
+  "mpn": "CSD013E",
+  "caterkwikUrl": null,
+  "known": {
+   "trays": "3 x 1/1GN (max depth 150mm) o",
+   "gnCapacity": "3 x 1/1GN",
+   "humidity": "true",
+   "lowTemp": "true",
+   "width": "660 mm",
+   "depth": "595 mm",
+   "height": "730 mm",
+   "electricKw": "1 kW",
+   "amps": "4.35 A",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "csd003e",
+  "name": "CSD003E",
+  "brand": "Moduline",
+  "mpn": "CSD003E",
+  "caterkwikUrl": null,
+  "known": {
+   "trays": "3 x 1/1GN (max depth 150mm) o",
+   "gnCapacity": "3 x 1/1GN",
+   "humidity": "true",
+   "lowTemp": "true",
+   "width": "450 mm",
+   "depth": "660 mm",
+   "height": "730 mm",
+   "electricKw": "1 kW",
+   "amps": "4.3 A",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "csd212e",
+  "name": "CSD212E",
+  "brand": "Moduline",
+  "mpn": "CSD212E",
+  "caterkwikUrl": null,
+  "known": {
+   "trays": "2 x 1/1GN (max depth 150mm) o",
+   "gnCapacity": "2 x 1/1GN",
+   "humidity": "true",
+   "lowTemp": "true",
+   "width": "705 mm",
+   "depth": "680 mm",
+   "height": "835 mm",
+   "electricKw": "1.4 kW",
+   "amps": "6.1 A",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "csd313e",
+  "name": "CSD313E",
+  "brand": "Moduline",
+  "mpn": "CSD313E",
+  "caterkwikUrl": null,
+  "known": {
+   "trays": "3 x 1/1GN (max depth 150mm) o",
+   "gnCapacity": "3 x 1/1GN",
+   "humidity": "true",
+   "lowTemp": "true",
+   "width": "705 mm",
+   "depth": "680 mm",
+   "height": "835 mm",
+   "electricKw": "2.1 kW",
+   "amps": "9.13 A",
+   "voltage": "230V",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "rbg8",
+  "name": "RBG80",
+  "brand": "Roller Grill",
+  "mpn": "RBG80",
+  "caterkwikUrl": null,
+  "known": {
+   "burners": "2",
+   "fuel": "gas",
+   "width": "940 mm",
+   "depth": "450 mm",
+   "height": "845 mm",
+   "weight": "40 kg",
+   "gasConnection": "½ Inch Gas Hose Needed",
+   "warranty": "2 years"
+  }
+ },
+ {
+  "id": "g31172",
+  "name": "G3117/2",
+  "brand": "Falcon",
+  "mpn": "G3117/2",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "gas",
+   "gnCapacity": "2/1 gastronorm",
+   "ovenType": "convection",
+   "ignition": "piezo",
+   "castors": "castors",
+   "width": "700 mm",
+   "depth": "535 mm",
+   "height": "430 mm",
+   "warranty": "2 years",
+   "finish": "Vitreous enamelled"
+  }
+ },
+ {
+  "id": "seriesddesignc",
+  "name": "D100C",
+  "brand": "AS Term",
+  "mpn": "D100C",
+  "caterkwikUrl": null,
+  "known": {
+   "pizzaSize": "12\"",
+   "fuel": "wood",
+   "width": "1350 mm",
+   "depth": "1620 mm",
+   "height": "1860 mm",
+   "weight": "1100 kg",
+   "warranty": "1 year",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "seriesddesignk",
+  "name": "D100K",
+  "brand": "AS Term",
+  "mpn": "D100K",
+  "caterkwikUrl": null,
+  "known": {
+   "pizzaSize": "12\"",
+   "fuel": "wood",
+   "width": "1450 mm",
+   "depth": "1670 mm",
+   "height": "2050 mm",
+   "weight": "1100 kg",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "seriesddesignksilicone",
+  "name": "D160K Silicone",
+  "brand": "AS Term",
+  "mpn": "D160K Silicone",
+  "caterkwikUrl": null,
+  "known": {
+   "pizzaSize": "12\"",
+   "pizzasPerHour": "195",
+   "fuel": "wood",
+   "width": "2100 mm",
+   "depth": "2350 mm",
+   "height": "2050 mm",
+   "weight": "2300 kg"
+  }
+ },
+ {
+  "id": "mugp1gcr56",
+  "name": "MU-GP1GC-R56",
+  "brand": "Roaster",
+  "mpn": "MU-GP1GC-R56",
+  "caterkwikUrl": null,
+  "known": {
+   "ovenCavities": "2",
+   "fuel": "charcoal",
+   "width": "1585 mm",
+   "depth": "825 mm",
+   "height": "1645 mm",
+   "weight": "512 kg",
+   "electricKw": "6 kW",
+   "voltage": "220 v",
+   "warranty": "2 years",
+   "finish": "black"
+  }
+ },
+ {
+  "id": "g504d",
+  "name": "G504D",
+  "brand": "Blue Seal",
+  "mpn": "G504D",
+  "caterkwikUrl": null,
+  "known": {
+   "burners": "4",
+   "fuel": "gas",
+   "burnerKw": "7 kW",
+   "ovenType": "static",
+   "griddle": "600mm griddle",
+   "ignition": "flame failure",
+   "castors": "adjustable feet",
+   "door": "Drop down door with welded frame",
+   "racking": "4 position racking",
+   "width": "600 mm",
+   "depth": "812 mm",
+   "height": "915 mm",
+   "electricKw": "7 kW",
+   "gasKw": "34.6 kW",
+   "gasConnection": "¾ Inch Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel finish"
+  }
+ },
+ {
+  "id": "g1006x",
+  "name": "G1006X",
+  "brand": "Falcon",
+  "mpn": "G1006X",
+  "caterkwikUrl": null,
+  "known": {
+   "fuel": "gas",
+   "ignition": "spark",
+   "castors": "legs",
+   "door": "drop-down door",
+   "width": "900 mm",
+   "depth": "940 mm",
+   "height": "900 mm",
+   "weight": "240 kg",
+   "warranty": "2 years",
+   "finish": "stainless steel finish"
+  }
+ }
+]

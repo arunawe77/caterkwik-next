@@ -1,0 +1,225 @@
+[
+ {
+  "id": "buffalodm869",
+  "name": "Buffalo DM869 Sous Vide Water Bath",
+  "brand": "Buffalo",
+  "mpn": "DM869",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BUFFALODM869",
+  "known": {
+   "timer": "Timer",
+   "width": "415 mm",
+   "depth": "265 mm",
+   "height": "280 mm",
+   "weight": "7.5 kg",
+   "electricKw": "0.65 kW",
+   "amps": "2.8 A",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "1 year",
+   "finish": "stainless steel body"
+  }
+ },
+ {
+  "id": "ch185",
+  "name": "Rowlett Espirit CH185 6 Slot Toaster Chrome w/2x Additional Elements and Sandwich Cage",
+  "brand": "Rowlett",
+  "mpn": "CH185",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CH185",
+  "known": {
+   "timer": "timer",
+   "plates": "6",
+   "width": "508 mm",
+   "depth": "237 mm",
+   "height": "207 mm",
+   "weight": "8.1 kg",
+   "voltage": "240V",
+   "warranty": "3 years",
+   "finish": "chrome"
+  }
+ },
+ {
+  "id": "ch171",
+  "name": "Rowlett CH171 Premier 6-Slot Toaster with 2 x Additional Elements",
+  "brand": "Rowlett",
+  "mpn": "CH171",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CH171",
+  "known": {
+   "timer": "Timer",
+   "plates": "6",
+   "width": "497 mm",
+   "depth": "237 mm",
+   "height": "212 mm",
+   "weight": "7.63 kg",
+   "voltage": "240V",
+   "warranty": "3 years",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "6075978",
+  "name": "Rational 60.75.978 Kit of 4 Unperforated Portion Baskets with Lid and Portion Frame",
+  "brand": "Rational",
+  "mpn": "60.75.978",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_6075978",
+  "known": {
+   "volume": "3.3 litres",
+   "width": "383 mm",
+   "depth": "449 mm",
+   "height": "275 mm",
+   "weight": "5.7 kg",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "bm3aw",
+  "name": "Lincat Silverlink 600 BM3 Dry Heat Bain Maries",
+  "brand": "Lincat",
+  "mpn": "J345",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BM3AW",
+  "known": {
+   "heatType": "dry",
+   "width": "300 mm",
+   "depth": "600 mm",
+   "height": "290 mm",
+   "electricKw": "0.5 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "bm7",
+  "name": "Lincat Silverlink 600 BM7 / BM7A / BM7B / BM7C / BM7X / BM7XA Dry Heat Bain Maries",
+  "brand": "Lincat",
+  "mpn": "BM7",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BM7",
+  "known": {
+   "gnCapacity": "1/6 Gastronorm",
+   "heatType": "dry",
+   "width": "750 mm",
+   "depth": "600 mm",
+   "height": "290 mm",
+   "electricKw": "1 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "mbm1r",
+  "name": "Hallco MBM1R Single Round Pot Bain Marie Dry Heat",
+  "brand": "Hallco",
+  "mpn": "MBM1R",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_MBM1R",
+  "known": {
+   "gnCapacity": "3 x 1/3 gastronorm",
+   "heatType": "dry",
+   "volume": "4.5 litres",
+   "electricKw": "0.25 kW",
+   "amps": "13 A",
+   "warranty": "1 year",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "rhw1b",
+  "name": "Hatco RHW-1B Built-In Rounded Heating Well",
+  "brand": "Hatco",
+  "mpn": "RHW-1B",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_RHW1B",
+  "known": {
+   "heatType": "dry",
+   "volume": "10 litres",
+   "tempRange": "50-100°C",
+   "width": "360 mm",
+   "depth": "330 mm",
+   "height": "341 mm",
+   "weight": "10 kg",
+   "electricKw": "1.3 kW",
+   "voltage": "240V",
+   "phase": "single",
+   "plug": "plug supplied",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "cu480",
+  "name": "Buffalo CU480 600 Series Bain Marie",
+  "brand": "Buffalo",
+  "mpn": "CU480",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_CU480",
+  "known": {
+   "gnCapacity": "1/1 gastronorm",
+   "heatType": "wet",
+   "volume": "15 litres",
+   "width": "400 mm",
+   "depth": "600 mm",
+   "height": "240 mm",
+   "weight": "11.5 kg",
+   "electricKw": "3.4 kW",
+   "voltage": "230V",
+   "hardWired": "true",
+   "finish": "Stainless steel construction"
+  }
+ },
+ {
+  "id": "bm4w",
+  "name": "Lincat Silverlink 600 BM4W / BM4AW / BM4BW / BM4CW Wet Heat Bain Maries",
+  "brand": "Lincat",
+  "mpn": "F798",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BM4W",
+  "known": {
+   "gnCapacity": "1/3 Gastronorm",
+   "heatType": "wet",
+   "width": "450 mm",
+   "depth": "600 mm",
+   "height": "290 mm",
+   "electricKw": "1 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "bm3w",
+  "name": "Lincat Silverlink 600 BM3W Wet Heat Bain Marie",
+  "brand": "Lincat",
+  "mpn": "BM3W",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BM3W",
+  "known": {
+   "heatType": "wet",
+   "width": "300 mm",
+   "depth": "600 mm",
+   "height": "290 mm",
+   "electricKw": "1 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "Silver"
+  }
+ },
+ {
+  "id": "bmf11g",
+  "name": "Parry BMF1/1G LPG Wet Well Bain Marie 2.7kW",
+  "brand": "Parry",
+  "mpn": "BMF1/1G",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_BMF11G",
+  "known": {
+   "gnCapacity": "4 x 1/4 GN",
+   "heatType": "wet",
+   "wells": "4",
+   "mobility": "true",
+   "width": "560 mm",
+   "depth": "400 mm",
+   "height": "310 mm",
+   "weight": "12.5 kg",
+   "lpgKw": "2.7 kW",
+   "gasConnection": "1/2\" Gas Hose Needed",
+   "warranty": "2 years",
+   "finish": "stainless steel finish"
+  }
+ }
+]

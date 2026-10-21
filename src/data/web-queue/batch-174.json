@@ -1,0 +1,251 @@
+[
+ {
+  "id": "ph1",
+  "name": "Falcon Vario-Therm PH1 Single Heated Plate Dispenser",
+  "brand": "Falcon",
+  "mpn": "PH1",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PH1",
+  "known": {
+   "plateCapacity": "60",
+   "mobility": "true",
+   "width": "485 mm",
+   "depth": "525 mm",
+   "height": "900 mm",
+   "weight": "35 kg",
+   "electricKw": "0.4 kW",
+   "amps": "1.75 A",
+   "voltage": "230V",
+   "plug": "Plug Supplied",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "zanolli0540velectric",
+  "name": "Zanolli Synthesis 05/40V Compact Electric (16\"/40cm)",
+  "brand": "Zanolli",
+  "mpn": "05/40V Compact",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ZANOLLI0540VELECTRIC",
+  "known": {
+   "pizzaSize": "16\"",
+   "chamber": "chamber dimensions: W400 x D570 x H85mm",
+   "belt": "570 mm",
+   "fuel": "electric",
+   "width": "800 mm",
+   "depth": "1260 mm",
+   "height": "390 mm",
+   "weight": "77 kg",
+   "electricKw": "6.3 kW",
+   "phase": "three",
+   "warranty": "3 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "zanolli0640vg",
+  "name": "Zanolli Synthesis 06/40V Gas Conveyor Pizza Oven - 16\" Belt",
+  "brand": "Zanolli",
+  "mpn": "06/40V",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ZANOLLI0640VG",
+  "known": {
+   "pizzaSize": "16\"",
+   "chamber": "chamber length. (58cm)",
+   "maxTemp": "320 °C",
+   "belt": "580 mm",
+   "fuel": "gas",
+   "width": "1030 mm",
+   "depth": "1300 mm",
+   "height": "440 mm",
+   "weight": "115 kg",
+   "gasKw": "9 kW",
+   "warranty": "3 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "ps520",
+  "name": "Middleby Marshall PS520E Countertop Electric Conveyor Oven",
+  "brand": "Middleby Marshall",
+  "mpn": "PS520E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PS520",
+  "known": {
+   "pizzaSize": "20\"",
+   "chamber": "chamber with 457",
+   "fuel": "electric",
+   "width": "1367 mm",
+   "depth": "951 mm",
+   "height": "536 mm",
+   "weight": "147 kg",
+   "electricKw": "8.3 kW",
+   "voltage": "380V",
+   "phase": "three",
+   "warranty": "3 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "zanolli0850ve",
+  "name": "Zanolli Synthesis 08/50 V E Electric Conveyor Oven (20\"/50cm)",
+  "brand": "Zanolli",
+  "mpn": "08/50 V E Electric",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ZANOLLI0850VE",
+  "known": {
+   "pizzaSize": "20\"",
+   "chamber": "chamber dimensions: W500 x D850 x H100mm",
+   "belt": "850 mm",
+   "fuel": "electric",
+   "width": "1750 mm",
+   "depth": "1260 mm",
+   "height": "490 mm",
+   "weight": "180 kg",
+   "electricKw": "11 kW",
+   "phase": "three",
+   "warranty": "3 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "zanolli0850vgas",
+  "name": "Zanolli Synthesis 08/50 V G Gas Conveyor Oven (20\"/50cm)",
+  "brand": "Zanolli",
+  "mpn": "08/50 V G Gas",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ZANOLLI0850VGAS",
+  "known": {
+   "pizzaSize": "20\"",
+   "chamber": "chamber dimensions: W500 x D850 x H100mm",
+   "belt": "850 mm",
+   "fuel": "gas",
+   "width": "1750 mm",
+   "depth": "1260 mm",
+   "height": "490 mm",
+   "weight": "200 kg",
+   "electricKw": "13.9 kW",
+   "gasKw": "13.9 kW",
+   "warranty": "3 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "zanolli1280e",
+  "name": "Zanolli Synthesis 12/80V E Electric Conveyor Oven (32\"/80cm)",
+  "brand": "Zanolli",
+  "mpn": "12/80V E",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ZANOLLI1280E",
+  "known": {
+   "pizzaSize": "32\"",
+   "belt": "1200 mm",
+   "fuel": "electric",
+   "width": "1650 mm",
+   "depth": "2180 mm",
+   "height": "600 mm",
+   "weight": "295 kg",
+   "electricKw": "24.5 kW",
+   "phase": "three",
+   "hardWired": "true",
+   "warranty": "3 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "tsgas",
+  "name": "Italforni TSGAS Tunnel Stone Gas Conveyor Pizza Oven",
+  "brand": "Italforni",
+  "mpn": "TSGAS",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_TSGAS",
+  "known": {
+   "pizzaSize": "12\" pizza",
+   "maxTemp": "450 °C",
+   "fuel": "gas",
+   "width": "2160 mm",
+   "depth": "1420 mm",
+   "height": "660 mm",
+   "weight": "400 kg",
+   "voltage": "230V",
+   "phase": "single",
+   "warranty": "2 years",
+   "finish": "Stainless steel"
+  }
+ },
+ {
+  "id": "astermmixr",
+  "name": "AS Term MIX120R Wood-Gas Fired Rotating Pizza Ovens",
+  "brand": "AS Term",
+  "mpn": "MIX120R",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ASTERMMIXR",
+  "known": {
+   "pizzaSize": "12\" pizzas",
+   "fuel": "gas",
+   "width": "1900 mm",
+   "depth": "2150 mm",
+   "height": "1880 mm",
+   "weight": "1950 kg",
+   "amps": "3.3 A",
+   "voltage": "230V",
+   "warranty": "1 year"
+  }
+ },
+ {
+  "id": "zanolligaspizza9",
+  "name": "Zanolli Citizen 9 Gas Pizza Oven",
+  "brand": "Zanolli",
+  "mpn": "Citizen 9",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_ZANOLLIGASPIZZA9",
+  "known": {
+   "pizzaSize": "12” pizzas",
+   "stone": "Refractory",
+   "fuel": "gas",
+   "width": "1450 mm",
+   "depth": "1440 mm",
+   "height": "560 mm",
+   "weight": "323 kg",
+   "electricKw": "20 kW",
+   "warranty": "2 years",
+   "finish": "stainless steel construction"
+  }
+ },
+ {
+  "id": "po49x",
+  "name": "Lincat PO49X Single Deck Electric Pizza Oven",
+  "brand": "Lincat",
+  "mpn": "PO49X",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_PO49X",
+  "known": {
+   "decks": "1",
+   "pizzaSize": "9\"",
+   "stone": "Firebrick",
+   "maxTemp": "400 °C",
+   "fuel": "electric",
+   "width": "810 mm",
+   "depth": "740 mm",
+   "height": "320 mm",
+   "weight": "60 kg",
+   "electricKw": "2.8 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel"
+  }
+ },
+ {
+  "id": "lincatpo69x",
+  "name": "Lincat PO69X Single Deck Electric Pizza Oven",
+  "brand": "Lincat",
+  "mpn": "PO69X",
+  "caterkwikUrl": "https://www.caterkwik.co.uk/cgi-bin/trolleyed_public.cgi?action=showprod_LINCATPO69X",
+  "known": {
+   "decks": "1",
+   "pizzaSize": "9”",
+   "stone": "firebrick",
+   "maxTemp": "400 °C",
+   "fuel": "electric",
+   "width": "1010 mm",
+   "depth": "740 mm",
+   "height": "320 mm",
+   "weight": "65 kg",
+   "electricKw": "2.85 kW",
+   "voltage": "230V",
+   "plug": "plug supplied",
+   "warranty": "2 years",
+   "finish": "stainless steel exterior"
+  }
+ }
+]
