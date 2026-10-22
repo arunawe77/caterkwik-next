@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { Faqs, TypeLinks, WhyCaterkwik } from "@/components/content-blocks";
 import { Crumbs } from "@/components/crumbs";
 import { JsonLd } from "@/components/json-ld";
+import { ExpertPicks } from "@/components/expert-picks";
 import { CatalogueKit } from "@/components/kit-chat";
 import { ProductCard } from "@/components/product-card";
 import { getType, isOvenType, productHref, productsOfType, typeHref, types, type OvenType, type Product } from "@/lib/catalogue";
@@ -124,6 +125,7 @@ export async function CategoryView({ type, all: every, base, query, siblings, su
 
   return (
     <main className="wrap ovenpage">
+      <ExpertPicks label={type.label} products={all} />
       <Crumbs trail={trail ?? [{ label: "Home", href: "/" }, oven ? { label: "Commercial Ovens", href: "/ovens" } : { label: "Cooking", href: "/cooking" }, { label: type.label, href: base }]} />
       <header className="ohead">
         <h1>{type.label}</h1>

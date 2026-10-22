@@ -1,6 +1,7 @@
 import Link from "next/link";
 import usps from "@/legacy/usps.json";
 import { CartLink } from "@/components/cart-link";
+import { QuoteLink } from "@/components/quote-link";
 import { Icon } from "@/components/icons";
 import { VatSwitch } from "@/components/vat-switch";
 import { navDepartments, type NavNode } from "@/lib/nav-tree";
@@ -70,6 +71,7 @@ export function Header() {
             <li>Here for you 8am to 6pm, Mon to Sat</li>
             <li><a href={tel} className="iconlink"><Icon name="phone" />{COMPANY.phone}</a></li>
             <li><Link href="/account" className="iconlink"><Icon name="user" />Account</Link></li>
+            <li><QuoteLink /></li>
             <li><CartLink /></li>
           </ul>
         </div>
@@ -118,7 +120,7 @@ export function Footer() {
           </div>
           <div>
             <strong>Services</strong>
-            <ul><li>Kitchen survey &amp; design</li><li>Installation &amp; service</li><li>Public sector</li><li>Reconditioned &amp; graded</li></ul>
+            <ul><li>Kitchen survey &amp; design</li><li>Installation &amp; service</li><li>Public sector</li><li><Link href="/meet-the-team">Meet the team</Link></li><li>Reconditioned &amp; graded</li></ul>
           </div>
           <div>
             <strong>Talk to us</strong>

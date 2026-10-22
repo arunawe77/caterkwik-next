@@ -32,7 +32,7 @@ export async function GET(_req: Request, { params }: { params: Promise<{ path: s
       "Content-Type": file.contentType,
       "Content-Length": String(file.data.length),
       // Random-suffixed uploads never change; the legacy names could be replaced, so they are cached for a day.
-      "Cache-Control": key.startsWith(LEGACY) ? "public, max-age=86400" : "public, max-age=31536000, immutable",
+      "Cache-Control": key.startsWith(LEGACY) || key.startsWith("documents/legacy/") ? "public, max-age=86400" : "public, max-age=31536000, immutable",
       "X-Content-Type-Options": "nosniff",
       // Nothing here is a page: if one were ever opened, it may not run script or load anything.
       // (Left off PDFs, whose built-in viewer a sandbox policy would break.)

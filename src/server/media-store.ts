@@ -21,7 +21,7 @@ export const publicUrl = (key: string) => `${(process.env.MEDIA_BASE_URL ?? "/me
 
 // The only shapes of key this module writes (and, under products/legacy/ and products/site/, the scripts/ migrations), so the only
 // shapes it will read: no dots but the extension, no traversal, no odd names.
-const KEY = /^((products|documents)\/\d{4}\/[a-z0-9-]{1,60}-[0-9a-f]{8}|products\/legacy\/[a-z0-9][a-z0-9_-]{0,80}|products\/site\/(products|fullsize|thumbs)\/[a-z0-9][a-z0-9_-]{0,80})\.(jpg|png|webp|avif|gif|pdf)$/;
+const KEY = /^((products|documents)\/\d{4}\/[a-z0-9-]{1,60}-[0-9a-f]{8}|products\/legacy\/[a-z0-9][a-z0-9_-]{0,80}|documents\/legacy\/[a-z0-9][a-z0-9-]{0,110}|products\/site\/(products|fullsize|thumbs)\/[a-z0-9][a-z0-9_-]{0,80})\.(jpg|png|webp|avif|gif|pdf)$/;
 const TYPE_BY_EXT = Object.fromEntries(Object.entries(ALLOWED_TYPES).map(([type, ext]) => [ext, type]));
 export const isMediaKey = (key: string) => KEY.test(key);
 export const contentTypeOf = (key: string) => TYPE_BY_EXT[path.posix.extname(key)];

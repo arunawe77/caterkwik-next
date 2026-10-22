@@ -70,7 +70,7 @@ export function ensureCatalogue(): Promise<void> {
   loading ??= (async () => {
     try {
       if ((await db.category.count()) === 0) await seedCatalogue();
-      else await topUpCooking();
+      else await topUpCooking().catch((err) => console.error("[catalogue] cooking top-up skipped:", err instanceof Error ? err.message.slice(0, 200) : err));
       await refreshCatalogue();
     } catch (err) {
       loading = null; // try again on the next request

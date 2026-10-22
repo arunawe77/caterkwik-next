@@ -1,4 +1,6 @@
+import { Suspense } from "react";
 import type { Metadata } from "next";
+import { NavProgress } from "@/components/nav-progress";
 import { Footer, Header } from "@/components/site-chrome";
 import { ROBOTS } from "@/lib/seo";
 import { SITE_URL } from "@/lib/site";
@@ -28,6 +30,7 @@ export function SiteShell({ children }: { children: React.ReactNode }) {
       </head>
       <body>
         <script dangerouslySetInnerHTML={{ __html: VAT_INIT }} />
+        <Suspense fallback={null}><NavProgress /></Suspense>
         <Header />
         {children}
         <Footer />

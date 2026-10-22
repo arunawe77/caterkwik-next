@@ -22,6 +22,7 @@ import { productJsonLd, specRows } from "@/lib/product-view";
 import { alsoListedUnder, relatedProducts, siblingTypes } from "@/lib/related";
 import { pageMetadata } from "@/lib/seo";
 import { addToCart } from "@/server/cart-actions";
+import { addToQuote } from "@/server/quote-actions";
 import { COMPANY } from "@/lib/site";
 
 type Props = { params: Promise<{ type: string; id: string }> };
@@ -100,13 +101,13 @@ export default async function ProductPage(props: Props) {
                   : "Price on application. Call the team for a quote."}
               </p>
             )}
-            {isPurchasable(p) && (
-              <form action={addToCart} className="addbar">
-                <input type="hidden" name="id" value={p.id} />
-                <label className="addqty">Quantity<input type="number" name="qty" defaultValue={1} min={1} max={99} /></label>
-                <button className="btn btn-primary" type="submit"><Icon name="addToCart" />Add to basket</button>
-              </form>
-            )}
+            {/* One row, one quantity: the quote button posts the same form to the quote action. */}
+            <form action={addToCart} className="addbar">
+              <input type="hidden" name="id" value={p.id} />
+              <label className="addqty">Quantity<input type="number" name="qty" defaultValue={1} min={1} max={99} /></label>
+              {isPurchasable(p) && <button className="btn btn-primary" type="submit"><Icon name="addToCart" />Add to basket</button>}
+              <button className="btn btn-ghost" type="submit" formAction={addToQuote}><Icon name="mail" />Request a quote</button>
+            </form>
             <div className="actions">
               <a className="btn btn-navy" href={`tel:${COMPANY.phone.replace(/\s/g, "")}`}><Icon name="phone" />Call {COMPANY.phone}</a>
               <Link className="btn btn-ghost" href={categoryHref(type.slug)}>More {categoryLabel(type.slug).toLowerCase()}</Link>

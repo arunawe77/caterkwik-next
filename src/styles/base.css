@@ -110,6 +110,8 @@ nav.cats .mega{display:none}
   nav.cats .mega{display:block;position:absolute;left:0;right:0;top:100%;background:#fff;border-top:1px solid var(--line-soft);border-bottom:1px solid var(--line);box-shadow:0 14px 28px rgba(0,0,0,.12);padding:22px 0 16px;max-height:70vh;overflow-x:hidden;overflow-y:auto;visibility:hidden;opacity:0;transition:opacity .12s,visibility 0s .12s}
   nav.cats .dept:hover>.mega,nav.cats .dept:has(:focus-visible)>.mega{visibility:visible;opacity:1;transition:opacity .12s .12s,visibility 0s .12s}
   nav.cats .dept:hover>a,nav.cats .dept:has(:focus-visible)>a{color:var(--blue);box-shadow:inset 0 -2px 0 var(--navy)}
+  /* Labels that wrap to two lines and labels that do not must share a top line, or the short ones look misplaced. */
+  nav.cats .wrap>a,nav.cats .dept>a{display:flex;align-items:flex-start;height:48px;padding-top:8px;box-sizing:border-box}
   nav.cats .mgrid{max-width:1200px;margin:0 auto;padding:0 24px;column-width:210px;column-gap:28px}
   nav.cats .mcol{break-inside:avoid;margin:0 0 20px}
   nav.cats .mcol.flow{break-inside:auto}
@@ -120,6 +122,11 @@ nav.cats .mega{display:none}
   nav.cats .mcol li a{display:block;padding:3px 0;font-size:13px;font-weight:400;white-space:normal}
   nav.cats .mcol li.more a{color:var(--blue);font-weight:500}
   nav.cats .mall{display:block;max-width:1200px;margin:14px auto 0;padding:10px 24px 0;border-top:1px solid var(--line-soft);color:var(--navy);font-weight:700}
+}
+
+/* Wide enough for every department on one line, so none of them wraps. */
+@media (min-width:1600px){
+  nav.cats .wrap>a,nav.cats .dept>a{white-space:nowrap;align-items:center;padding-top:0;font-size:13px}
 }
 
 /* in-house services strip, straight off their homepage */
@@ -419,3 +426,23 @@ section[id]{scroll-margin-top:104px}
 .ohead h1 .ico{vertical-align:-4px;margin-right:4px}
 .panel h2 .ico{vertical-align:-3px;margin-right:4px}
 .enquire summary .ico{vertical-align:-3px}
+
+/* Keep the utility bar on one line: the right side never wraps, and the left side drops items as room runs out. */
+@media (min-width:561px){.utility ul{flex-wrap:nowrap;gap:16px}.utility ul:last-child{flex-shrink:0}}
+@media (max-width:1320px){.utility ul.hide-sm li:nth-child(3){display:none}}
+@media (max-width:1120px){.utility ul.hide-sm li:nth-child(2){display:none}}
+
+/* Loading feedback: a top progress bar on navigation and a page skeleton while the next page is fetched */
+.navbar{position:fixed;top:0;left:0;height:3px;width:0;background:linear-gradient(90deg,var(--blue),var(--navy));z-index:100;opacity:0;pointer-events:none}
+.navbar.on{opacity:1;width:92%;transition:width 8s cubic-bezier(.1,.7,.2,1)}
+.sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+.sk{background:linear-gradient(90deg,#e9eef4 25%,#f6f9fc 50%,#e9eef4 75%);background-size:200% 100%;animation:sk 1.2s ease-in-out infinite;border-radius:10px}
+@keyframes sk{to{background-position:-200% 0}}
+.sk-banner{height:380px;border-radius:var(--r-lg);margin:10px 0 20px}
+.sk-line{height:14px;margin:10px 0}.sk-title{height:34px;width:40%;margin:12px 0}
+.w30{width:30%}.w50{width:50%}
+.sk-browse{display:grid;grid-template-columns:240px 1fr;gap:28px;margin-top:24px}
+.sk-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.sk-card{height:300px}
+@media(max-width:800px){.sk-browse{grid-template-columns:1fr}.sk-side{display:none}.sk-grid{grid-template-columns:1fr 1fr}.sk-banner{height:240px}}
+@media(prefers-reduced-motion:reduce){.sk{animation:none}.navbar.on{transition:none}}

@@ -21,7 +21,7 @@ export function ProductGallery({ images }: { images: GalleryImage[] }) {
   if (!current) return null;
 
   return (
-    <div className="gallery" aria-roledescription="carousel" aria-label="Product photos">
+    <div className="pgal" aria-roledescription="carousel" aria-label="Product photos">
       <div className="gstage">
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img src={current.url} alt={current.alt} />
