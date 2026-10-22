@@ -38,7 +38,7 @@ function DepartmentNav() {
       <div className="wrap">
         {departments.map((d) => (
           <div key={d.label} className="dept">
-            <Link href={d.href} aria-haspopup="true">{d.label}</Link>
+            <Link href={d.href} aria-haspopup="true" title={d.label}>{d.short ?? d.label}</Link>
             <div className="mega">
               <div className="mgrid">
                 {d.columns.filter((c) => c.children.length > 0).map((c) => <Column key={c.label + (c.href ?? "")} column={c} />)}
@@ -51,7 +51,7 @@ function DepartmentNav() {
             </div>
           </div>
         ))}
-        <Link href="/shop/commercial-catering-equipment">All departments</Link>
+        <Link className="alldepts" href="/shop/commercial-catering-equipment">All departments</Link>
       </div>
     </nav>
   );
@@ -71,6 +71,7 @@ export function Header() {
             <li>Here for you 8am to 6pm, Mon to Sat</li>
             <li><a href={tel} className="iconlink"><Icon name="phone" />{COMPANY.phone}</a></li>
             <li><Link href="/account" className="iconlink"><Icon name="user" />Account</Link></li>
+            <li><Link href="/live-consult" className="iconlink"><Icon name="phone" />Book a live consultation</Link></li>
             <li><QuoteLink /></li>
             <li><CartLink /></li>
           </ul>
@@ -120,7 +121,7 @@ export function Footer() {
           </div>
           <div>
             <strong>Services</strong>
-            <ul><li>Kitchen survey &amp; design</li><li>Installation &amp; service</li><li>Public sector</li><li><Link href="/meet-the-team">Meet the team</Link></li><li>Reconditioned &amp; graded</li></ul>
+            <ul><li>Kitchen survey &amp; design</li><li>Installation &amp; service</li><li>Public sector</li><li><Link href="/live-consult">Book a live consultation</Link></li><li><Link href="/meet-the-team">Meet the team</Link></li><li>Reconditioned &amp; graded</li></ul>
           </div>
           <div>
             <strong>Talk to us</strong>

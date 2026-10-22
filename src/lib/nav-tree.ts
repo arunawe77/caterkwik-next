@@ -4,7 +4,7 @@ import { catalogueVersion, cookingGroups, shopTypes, types as ovenTypes, typeHre
 // category added or moved in the admin appears in the menu with no second list to keep.
 
 export interface NavNode { label: string; href?: string; count: number; children: NavNode[] }
-export interface NavDepartment { label: string; href: string; columns: NavNode[] }
+export interface NavDepartment { label: string; short?: string; href: string; columns: NavNode[] }
 
 const PATH_SEP = " > ";
 const SHOP = "/shop/commercial-catering-equipment";
@@ -12,16 +12,16 @@ const SHOP = "/shop/commercial-catering-equipment";
 // The departments as the menu bar names them, in order, and the `section` each is made of in the imported tree.
 // Cooking and Reconditioned are not sections of that tree: Cooking is the ovens and cooking departments, and
 // Reconditioned is a page of its own.
-const DEPARTMENTS: { label: string; sections: string[] }[] = [
-  { label: "Refrigeration & Ice Makers", sections: ["Refrigeration & Ice Makers"] },
+const DEPARTMENTS: { label: string; short?: string; sections: string[] }[] = [
+  { label: "Refrigeration & Ice Makers", short: "Refrigeration", sections: ["Refrigeration & Ice Makers"] },
   { label: "Food Prep", sections: ["Food Prep"] },
   { label: "Cooking", sections: [] },
-  { label: "Fabrication & Extraction", sections: ["Fabrication & Extraction Canopies"] },
-  { label: "Warewashing & Water", sections: ["Warewashing & Water"] },
-  { label: "Commercial Laundry", sections: ["Commercial Laundry & Cleaning"] },
+  { label: "Fabrication & Extraction", short: "Fabrication", sections: ["Fabrication & Extraction Canopies"] },
+  { label: "Warewashing & Water", short: "Warewashing", sections: ["Warewashing & Water"] },
+  { label: "Commercial Laundry", short: "Laundry", sections: ["Commercial Laundry & Cleaning"] },
   { label: "Beverage", sections: ["Beverage"] },
   { label: "Kitchen Essentials", sections: ["Kitchen Essentials, Hotel & Bar Supplies"] },
-  { label: "Spares & Accessories", sections: ["Spares & Accessories"] },
+  { label: "Spares & Accessories", short: "Spares", sections: ["Spares & Accessories"] },
 ];
 
 function node(label: string): NavNode {
@@ -73,9 +73,9 @@ let cache: { version: number; value: NavDepartment[] } | null = null;
 export function navDepartments(): NavDepartment[] {
   const version = catalogueVersion();
   if (cache?.version === version) return cache.value;
-  const value = DEPARTMENTS.flatMap(({ label, sections }) => {
+  const value = DEPARTMENTS.flatMap(({ label, short, sections }) => {
     const d = sections.length ? shopDepartment(label, sections) : cookingDepartment();
-    return d ? [d] : [];
+    return d ? [{ ...d, short }] : [];
   });
   cache = { version, value };
   return value;

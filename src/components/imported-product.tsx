@@ -76,7 +76,19 @@ export async function loadImported(id: string, name: string, mainImage: string):
     addDoc(decodeURIComponent(url.split("/").at(-1) ?? "User manual").replace(/\.pdf$/i, ""), url, "User manual · PDF");
   }
 
-  const specs = Object.entries(attrs).filter(([k, v]) => v && v !== "0" && !SKIP.has(k) && !FEATURE_KEYS.includes(k) && !FILE_KEYS.has(k) && !isUrl(v) && !v.startsWith("{"));
+  // The "All downloads" attribute reads "Title: url | Title: url"; each becomes a download linking to the original file.
+  for (const [k, v] of Object.entries(attrs)) {
+    if (!/downloads?$/i.test(k.trim())) continue;
+    for (const part of pipes(v)) {
+      const at = part.search(/https?:\/\//i);
+      if (at < 0) continue;
+      const url = part.slice(at).trim();
+      const title = part.slice(0, at).replace(/[:\s]+$/, "") || decodeURIComponent(url.split("/").at(-1) ?? "Download").replace(/\.pdf$/i, "");
+      addDoc(title, url, /manual/i.test(title) ? "User manual · PDF" : "PDF");
+    }
+  }
+
+  const specs = Object.entries(attrs).filter(([k, v]) => v && v !== "0" && !SKIP.has(k) && !FEATURE_KEYS.includes(k) && !FILE_KEYS.has(k) && !isUrl(v) && !v.startsWith("{") && !/downloads?$/i.test(k.trim()) && !/https?:\/\/\S+\.pdf/i.test(v));
 
   return {
     description: row.description, mpn: d?.mpn ?? null, images, features, specs,
