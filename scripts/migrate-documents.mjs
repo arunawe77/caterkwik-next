@@ -99,6 +99,7 @@ const worker = async () => {
   }
 };
 await Promise.all([worker(), worker(), worker()]);
+await reconnect();
 const onServer = new Map((await sftp.list(remoteDir)).map((e) => [e.name, e.size]));
 await sftp.end();
 const verified = [...done].filter((u) => onServer.has(map[u].slice(NEW.length)));

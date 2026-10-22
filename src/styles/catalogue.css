@@ -355,3 +355,74 @@ body.showinc .epick .price .inc{font-size:22px;font-weight:900;color:var(--ink)}
 .epick-cards{gap:12px}
 .ecar-btn{width:30px;height:30px;font-size:18px}
 .ecar-dots{margin-top:6px}
+
+/* Wider person area, narrower product cards */
+.ecar-track>.epicks{grid-template-columns:minmax(300px,2fr) 3fr;gap:24px}
+.epick-face{width:72px;height:72px}
+.epick-note{font-size:13px}
+@media(max-width:900px){.ecar-track>.epicks{grid-template-columns:1fr}}
+
+/* Person area: bigger photo beside the name, note and date underneath across the full width */
+.ecar-track>.epicks{padding-left:40px}
+.epick-who{display:grid;grid-template-columns:auto 1fr;column-gap:18px;align-content:center;align-items:center}
+.epick-who .epick-face{grid-row:1/4;width:108px;height:108px;margin:0}
+.epick-who .epick-kicker{grid-column:2;align-self:end;margin:0;font-size:13px}
+.epick-who h2{grid-column:2;margin:0;font-size:26px}
+.epick-who .epick-role{grid-column:2;align-self:start;margin:0;font-size:13.5px}
+.epick-who .epick-note,.epick-who .epick-upd{grid-column:1/-1}
+.epick-who .epick-note{margin-top:14px;padding-top:12px;font-size:14.5px;line-height:1.5}
+@media(max-width:900px){.ecar-track>.epicks{padding-left:20px}}
+
+/* Immersive person: the photo fills the left of the banner edge to edge and fades into it, text sits over the fade */
+.ecar-track>.epicks{padding:0 18px 0 0;overflow:hidden;align-items:stretch}
+.epick-cards{padding:12px 0}
+.epick-who{position:relative;display:flex;flex-direction:column;justify-content:flex-end;min-height:300px;padding:20px 20px 16px 40px;isolation:isolate}
+.epick-who .epick-face{position:absolute;inset:0;z-index:-1;width:100%;height:100%;margin:0;border:0;border-radius:0;box-shadow:none;object-fit:cover;object-position:50% 20%;
+  -webkit-mask-image:linear-gradient(to bottom,#000 0,#000 45%,transparent 92%),linear-gradient(to right,#000 55%,transparent 100%);-webkit-mask-composite:source-in;
+  mask-image:linear-gradient(to bottom,#000 0,#000 45%,transparent 92%),linear-gradient(to right,#000 55%,transparent 100%);mask-composite:intersect}
+.epick-who .epick-kicker,.epick-who h2,.epick-who .epick-role{grid-column:auto;align-self:auto}
+.epick-who .epick-kicker{margin:0}
+.epick-who h2{margin:0;font-size:28px}
+.epick-who .epick-role{margin:2px 0 0}
+.epick-who .epick-note{margin-top:10px;padding-top:10px}
+@media(max-width:900px){.ecar-track>.epicks{padding:0 0 12px}.epick-who{min-height:240px;padding-left:20px}.epick-cards{padding:0 12px}}
+
+/* Immersive, take two: a tall portrait on the left that fades into the banner, words beside it */
+.epick-who{justify-content:center;text-align:left;padding:20px 12px 20px 250px}
+.epick-who .epick-face{inset:0 auto 0 0;width:300px;height:100%;object-position:50% 25%;
+  -webkit-mask-image:linear-gradient(to right,#000 55%,transparent 100%);-webkit-mask-composite:source-over;
+  mask-image:linear-gradient(to right,#000 55%,transparent 100%);mask-composite:add}
+.epick-who .epick-note{font-size:13.5px}
+@media(max-width:900px){.epick-who{padding-left:20px;padding-top:150px}.epick-who .epick-face{inset:0 0 auto 0;width:100%;height:150px;-webkit-mask-image:linear-gradient(to bottom,#000 55%,transparent);mask-image:linear-gradient(to bottom,#000 55%,transparent)}}
+.epick-who>*{text-align:left}
+
+/* Slightly smaller portrait (also less enlarging of the small source photo) */
+.epick-who{padding-left:210px}
+.epick-who .epick-face{inset:auto auto 0 0;width:230px;height:230px;object-position:50% 20%}
+@media(max-width:900px){.epick-who{padding-left:20px}.epick-who .epick-face{inset:0 0 auto 0;width:100%;height:150px}}
+
+/* Native size so it stays sharp: a 144px portrait blended into the banner, words beside it */
+.epick-who{padding-left:150px}
+.epick-who .epick-face{inset:auto auto 0 0;width:144px;height:144px;object-position:50% 20%;
+  -webkit-mask-image:linear-gradient(to right,#000 60%,transparent 100%),linear-gradient(to top,#000 70%,transparent 100%);-webkit-mask-composite:source-in;
+  mask-image:linear-gradient(to right,#000 60%,transparent 100%),linear-gradient(to top,#000 70%,transparent 100%);mask-composite:intersect}
+@media(max-width:900px){.epick-who{padding-left:20px;padding-top:110px}.epick-who .epick-face{inset:0 auto auto 20px}}
+.ecar-track>.epicks .epick-who,.ecar-track>.epicks .epick-who>*{text-align:left}
+.ecar-track>.epicks .epick-who{align-items:stretch}
+
+/* Middle ground: 190px (about 1.3x the 143px source) */
+.epick-who{padding-left:195px}
+.epick-who .epick-face{width:190px;height:190px}
+@media(max-width:900px){.epick-who{padding-left:20px;padding-top:150px}.epick-who .epick-face{width:140px;height:140px}}
+
+/* Banner trimmed to suit the smaller portrait */
+.ecar-track>.epicks{grid-template-columns:minmax(280px,1.7fr) 3fr}
+.epick-cards{padding:8px 0}
+.epick{padding:8px 10px;gap:2px}
+.epick-shot{height:58px}.epick-shot img{max-height:58px}
+.epick h4{font-size:11.5px}
+.epick .price,.epick [class*=price]{font-size:14px}
+.epick-why{padding:4px 7px;font-size:11px}
+.epick-who{padding-top:12px;padding-bottom:12px}
+.ecar-dots{margin-top:4px}.ecar{margin-bottom:12px}
+.epick-who{min-height:0}

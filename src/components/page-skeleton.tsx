@@ -1,9 +1,11 @@
+import { CookingLoader } from "@/components/cooking-loader";
+
 // Shown at once while a page is fetched, so a click always gets an immediate response.
 export function PageSkeleton() {
   return (
     <main className="wrap ovenpage" aria-busy="true" aria-live="polite">
       <span className="sr-only">Loading…</span>
-      <div className="sk sk-banner" />
+      <div className="sk sk-banner cooking"><CookingLoader /></div>
       <div className="sk sk-line w30" />
       <div className="sk sk-title" />
       <div className="sk sk-line w50" />

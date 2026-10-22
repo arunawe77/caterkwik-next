@@ -6,10 +6,10 @@ import { productHref, type Product } from "@/lib/catalogue";
 
 // Staff from https://www.caterkwik.co.uk/meettheteam.shtml, one per slide.
 const TEAM = [
-  { name: "Melody", role: "Solutions Manager", photo: "/assets/img/team/melody.jpg" },
-  { name: "Mike", role: "Assistant Solutions Manager", photo: "/assets/img/team/mike.jpg" },
-  { name: "Courtney", role: "Solutions Coordinator", photo: "/assets/img/team/courtney.jpg" },
-  { name: "Kane", role: "Solutions Coordinator", photo: "/assets/img/team/kane.jpg" },
+  { name: "Melody", role: "Solutions Manager", photo: "/assets/img/team/melody-hd.jpg" },
+  { name: "Mike", role: "Assistant Solutions Manager", photo: "/assets/img/team/mike-hd.jpg" },
+  { name: "Courtney", role: "Solutions Coordinator", photo: "/assets/img/team/courtney-hd.jpg" },
+  { name: "Kane", role: "Solutions Coordinator", photo: "/assets/img/team/kane-hd.jpg" },
 ];
 
 const stamp = (d: Date) =>
