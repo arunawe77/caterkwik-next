@@ -310,3 +310,4 @@ body.showinc .epick .price .inc{font-size:22px;font-weight:900;color:var(--ink)}
 .lc-point p{margin:0;font-size:14px;color:var(--ink-70)}
 @media (max-width:900px){.lc-hero{grid-template-columns:1fr;padding:24px}.lc-hero h1{font-size:28px}}
 .lc-hero .btn-ghost:hover{background:rgba(255,255,255,.12);border-color:#fff}
+.epicks-wrap{padding:0;border-top:0}

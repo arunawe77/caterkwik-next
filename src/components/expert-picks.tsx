@@ -66,7 +66,7 @@ export function ExpertPicks({ label, products }: { label: string; products: Prod
   if (!slides.length) return null;
   const now = new Date();
   return (
-    <section aria-label={`Recommended ${label.toLowerCase()}`}>
+    <section className="epicks-wrap" aria-label={`Recommended ${label.toLowerCase()}`}>
       <EpickCarousel labels={slides.map((s) => s.kicker)}>
         {slides.map((s, n) => {
           const who = TEAM[n % TEAM.length];

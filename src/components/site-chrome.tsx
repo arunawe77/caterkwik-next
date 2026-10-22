@@ -84,7 +84,7 @@ export function Header() {
             <img className="logo" src="/assets/img/caterkwik-logo.png" alt="Cater-Kwik" />
           </Link>
           <form className="search" action="/search" role="search">
-            <svg viewBox="0 0 24 24" {...icon} width="18" height="18" aria-hidden><circle cx="11" cy="11" r="7" /><path d="m20 20-3.5-3.5" /></svg>
+            <button type="submit" className="search-go" aria-label="Search"><svg viewBox="0 0 24 24" {...icon} width="18" height="18" aria-hidden><circle cx="11" cy="11" r="7" /><path d="m20 20-3.5-3.5" /></svg></button>
             <input type="search" name="q" placeholder="Search by product, brand or model number" aria-label="Search" />
           </form>
           <VatSwitch />
