@@ -13,7 +13,8 @@ import { ProductDossier } from "@/components/product-rich";
 import { buildDossier } from "@/lib/dossier";
 import { webOf } from "@/lib/web";
 import { categoryHref, categoryLabel, getProduct, getType, isOvenType, isShopType, productHref, products, sectionOf, shopTrail, typeHref } from "@/lib/catalogue";
-import { ImportedProduct } from "@/components/imported-product";
+import { ImportedProduct, loadImported } from "@/components/imported-product";
+import { ProductGallery } from "@/components/product-gallery";
 import { richOf } from "@/lib/rich";
 import { productFaqs, productOverview } from "@/lib/copy";
 import { money } from "@/lib/format";
@@ -56,6 +57,7 @@ export default async function ProductPage(props: Props) {
   const shop = isShopType(p.type);
   const related = relatedProducts(p);
   const alsoIn = alsoListedUnder(p);
+  const imported = shop ? await loadImported(p.id, p.name, p.image) : null;
 
   return (
     <main className="wrap ovenpage">
@@ -66,10 +68,14 @@ export default async function ProductPage(props: Props) {
             { label: categoryLabel(type.slug), href: categoryHref(type.slug) }, { label: p.name, href: productHref(p) },
           ]} />
       <div className="pdp">
-        <div className="pshot">
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src={p.image} alt={p.name} />
-        </div>
+        {imported && imported.images.length > 0 ? (
+          <div className="pshot gal"><ProductGallery images={imported.images} /></div>
+        ) : (
+          <div className="pshot">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img src={p.image} alt={p.name} />
+          </div>
+        )}
         <div>
           {p.brand && <p className="eyebrow">{p.brand}</p>}
           <h1>{p.name}</h1>
@@ -106,6 +112,15 @@ export default async function ProductPage(props: Props) {
               <Link className="btn btn-ghost" href={categoryHref(type.slug)}>More {categoryLabel(type.slug).toLowerCase()}</Link>
             </div>
           </div>
+          {imported && imported.features.length > 0 && (
+            <section className="keyfeat" aria-label="Key features">
+              <h2><Icon name="check" size={18} /> Key features</h2>
+              <ul>{imported.features.slice(0, 6).map((f) => <li key={f}>{f}</li>)}</ul>
+              {imported.documents.length > 0 && (
+                <a className="keydocs" href="#documents"><Icon name="download" size={15} /> {imported.documents.length} {imported.documents.length === 1 ? "document" : "documents"} to download</a>
+              )}
+            </section>
+          )}
           <details className="enquire">
             <summary><Icon name="mail" size={16} /> {gone ? "Ask about a replacement" : "Request a quote"}</summary>
             <EnquiryForm kind="QUOTE" productId={p.id} />
@@ -137,7 +152,7 @@ export default async function ProductPage(props: Props) {
         </div>
       </div>
 
-      {shop && <ImportedProduct id={p.id} />}
+      {imported && <ImportedProduct data={imported} />}
 
       {(rich || web) && <ProductDossier dossier={dossier} rich={rich} />}
 

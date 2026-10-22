@@ -152,3 +152,25 @@ body.showinc .pbuy .inc { display: inline; }
 .cbanner.plain b{font-size:13px;letter-spacing:.06em;text-transform:uppercase;opacity:.8}
 .cintro{max-width:90ch;margin:0 0 24px;color:var(--ink-70)}
 .cintro p{margin:0 0 12px;line-height:1.6}
+
+/* Product gallery and key features */
+.pdp .pshot.gal { display: block; padding: 16px; min-height: 0; }
+.gallery { display: grid; gap: 12px; }
+.gstage { position: relative; display: grid; place-items: center; height: 460px; }
+.gstage img { max-width: 100%; max-height: 100%; width: auto; height: auto; object-fit: contain; }
+.gnav { position: absolute; top: 50%; transform: translateY(-50%); width: 40px; height: 40px; border: 1px solid var(--line); border-radius: 50%; background: #fff; color: var(--navy); font-size: 26px; line-height: 1; cursor: pointer; box-shadow: var(--shadow); }
+.gnav:hover { background: var(--navy); color: #fff; }
+.gnav.prev { left: 0; }
+.gnav.next { right: 0; }
+.gcount { position: absolute; right: 4px; bottom: 4px; padding: 3px 10px; border-radius: 999px; background: rgba(8, 37, 70, .72); color: #fff; font-size: 12px; font-weight: 700; }
+.gthumbs { display: flex; gap: 8px; list-style: none; margin: 0; padding: 0; overflow-x: auto; }
+.gthumbs button { display: block; width: 72px; height: 72px; padding: 4px; border: 2px solid var(--line); border-radius: var(--r-sm); background: #fff; cursor: pointer; }
+.gthumbs button[aria-current="true"] { border-color: var(--navy); }
+.gthumbs img { width: 100%; height: 100%; object-fit: contain; }
+.keyfeat { margin: 14px 0 0; padding: 16px 18px; border: 1px solid var(--line); border-left: 4px solid var(--green); border-radius: var(--r-md); background: var(--green-tint); }
+.pdp .keyfeat h2 { display: flex; align-items: center; gap: 6px; margin: 0 0 8px; font-size: 16px; color: var(--green-deep); }
+.keyfeat ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }
+.keyfeat li { position: relative; padding-left: 24px; font-size: 14.5px; font-weight: 600; }
+.keyfeat li::before { content: ""; position: absolute; left: 3px; top: 5px; width: 11px; height: 6px; border-left: 2px solid var(--green); border-bottom: 2px solid var(--green); transform: rotate(-45deg); }
+.keydocs { display: inline-flex; align-items: center; gap: 6px; margin-top: 12px; font-size: 13.5px; font-weight: 700; color: var(--navy); }
+@media (max-width: 900px) { .gstage { height: 340px; } }
