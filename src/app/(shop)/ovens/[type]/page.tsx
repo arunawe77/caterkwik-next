@@ -125,13 +125,13 @@ export async function CategoryView({ type, all: every, base, query, siblings, su
 
   return (
     <main className="wrap ovenpage">
-      <ExpertPicks label={type.label} products={all} />
       <Crumbs trail={trail ?? [{ label: "Home", href: "/" }, oven ? { label: "Commercial Ovens", href: "/ovens" } : { label: "Cooking", href: "/cooking" }, { label: type.label, href: base }]} />
       <header className="ohead">
         <h1>{type.label}</h1>
         <p className="sub">{type.audience}</p>
       </header>
       <CategoryBanner type={type} />
+      <ExpertPicks label={type.label} products={all} />
 
       <div className="browse">
         <form className="facets" action={base} aria-label="Filters">

@@ -311,3 +311,47 @@ body.showinc .epick .price .inc{font-size:22px;font-weight:900;color:var(--ink)}
 @media (max-width:900px){.lc-hero{grid-template-columns:1fr;padding:24px}.lc-hero h1{font-size:28px}}
 .lc-hero .btn-ghost:hover{background:rgba(255,255,255,.12);border-color:#fff}
 .epicks-wrap{padding:0;border-top:0}
+
+/* Slightly more compact recommendations banner */
+.ecar-track>.epicks{padding:26px 36px;gap:24px;min-height:380px}
+.epick{padding:16px;gap:6px}
+.epick-shot{height:130px}.epick-shot img{max-height:130px}
+.epick-face{width:96px;height:96px;border-width:4px}
+.epicks h2{font-size:28px}
+@media(max-width:900px){.ecar-track>.epicks{padding:20px;min-height:0}}
+
+/* Overall: a smaller banner again */
+.ecar{margin:6px 0 20px}
+.ecar-track>.epicks{padding:18px 26px;gap:20px;min-height:0}
+.epick{padding:12px 14px;gap:4px}
+.epick-shot{height:100px}.epick-shot img{max-height:100px}
+.epick h3{font-size:16px}
+.epick h4{font-size:13px}
+.epick-why{padding:7px 10px;font-size:12.5px}
+.epick-face{width:76px;height:76px;margin-bottom:8px}
+.epick-kicker{font-size:15px;margin-top:6px}
+.epicks h2{font-size:24px}
+.epick-role{font-size:13.5px}
+.epick-note{margin-top:10px;padding-top:8px;font-size:13.5px;line-height:1.45}
+.epick-who blockquote{font-size:14px}
+
+/* Smaller still: height, fonts and spacing */
+.ecar{margin:4px 0 16px}
+.ecar-track>.epicks{padding:12px 18px;gap:14px}
+.epick{padding:9px 11px;gap:3px;border-top-width:3px}
+.epick-chip{font-size:11px;padding:2px 8px}
+.epick h3{font-size:14px}
+.epick h4{font-size:12px;line-height:1.3}
+.epick-shot{height:76px}.epick-shot img{max-height:76px}
+.epick .price,.epick [class*=price]{font-size:15px}
+.epick-why{padding:5px 8px;font-size:11.5px;line-height:1.35}
+.epick-why::before{width:16px;height:16px;font-size:10px}
+.epick-face{width:56px;height:56px;border-width:3px;margin-bottom:4px}
+.epick-kicker{font-size:12.5px;margin-top:2px}
+.epicks h2{font-size:19px}
+.epick-role{font-size:12px;margin-top:2px}
+.epick-note{margin-top:6px;padding-top:6px;font-size:12px;line-height:1.4}
+.epick-upd{margin-top:6px;font-size:10.5px}
+.epick-cards{gap:12px}
+.ecar-btn{width:30px;height:30px;font-size:18px}
+.ecar-dots{margin-top:6px}
