@@ -32,7 +32,7 @@ async function writeQuote(items: CartItem[]): Promise<void> {
 export async function addToQuote(form: FormData): Promise<void> {
   const id = String(form.get("id") ?? "");
   await writeQuote(addQuoteItem(await readQuote(), id, qtyOf(form.get("qty"))));
-  redirect("/quote/new");
+  redirect(`/quote/new?added=${encodeURIComponent(id)}`);
 }
 
 export async function updateQuote(form: FormData): Promise<void> {

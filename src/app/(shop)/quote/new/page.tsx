@@ -9,6 +9,7 @@ import { parseQuote, quoteLines, QUOTE_COOKIE } from "@/lib/quote";
 import { searchProducts } from "@/lib/search";
 import { utilityMetadata } from "@/lib/seo";
 import { addToQuote, updateQuote } from "@/server/quote-actions";
+import { currentUser } from "@/server/session";
 
 export const metadata = utilityMetadata("Request a quote");
 
@@ -19,12 +20,18 @@ const POINTS = [
 ] as const;
 
 // The project quote page: build the whole list, search for more items, then send it to the team.
-export default async function NewQuotePage({ searchParams }: { searchParams: Promise<{ q?: string | string[] }> }) {
-  const raw = (await searchParams).q;
-  const q = (Array.isArray(raw) ? raw[0] : raw)?.trim().slice(0, 100) ?? "";
+export default async function NewQuotePage({ searchParams }: { searchParams: Promise<{ q?: string | string[]; added?: string | string[] }> }) {
+  const params = await searchParams;
+  const first = (v?: string | string[]) => (Array.isArray(v) ? v[0] : v)?.trim() ?? "";
+  const q = first(params.q).slice(0, 100);
+  const user = await currentUser();
   const lines = quoteLines(parseQuote((await cookies()).get(QUOTE_COOKIE)?.value));
   const onList = new Set(lines.map((l) => l.product.id));
   const results = q ? searchProducts(q, 12) : [];
+
+  // Arriving from a product page's quote button: say what was just added and mark its line.
+  const addedId = first(params.added).slice(0, 80);
+  const added = addedId ? lines.find((l) => l.product.id === addedId.toLowerCase()) : undefined;
 
   const units = lines.reduce((n, l) => n + l.qty, 0);
   const listInc = lines.reduce((n, l) => n + (l.product.priceInc !== null ? toPence(l.product.priceInc) * l.qty : 0), 0);
@@ -33,12 +40,19 @@ export default async function NewQuotePage({ searchParams }: { searchParams: Pro
     <main className="wrap ovenpage">
       <header className="ohead">
         <p className="kicker">Project quotes</p>
-        <h1>Are you pricing up a project?</h1>
+        <h1>{lines.length ? "Your quote request" : "Are you pricing up a project?"}</h1>
         <p className="sub">
           Build the whole list, every item with the quantity you need, for a kitchen, a rollout or a full fit-out. We&apos;ll come
           back with project pricing, stock and lead times, and installation if you want it.
         </p>
       </header>
+      {added && (
+        <div className="quoteadded" role="status">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          {added.product.image && <img src={added.product.image} alt="" width={56} height={56} />}
+          <p><b><Icon name="check" size={16} /> Added to your quote</b><br />{added.qty} x {added.product.name}. Check the quantities, add anything else, then send the list to the team below.</p>
+        </div>
+      )}
       <ul className="quotepoints">
         {POINTS.map((p) => <li key={p.text}><Icon name={p.icon} size={16} />{p.text}</li>)}
       </ul>
@@ -52,13 +66,18 @@ export default async function NewQuotePage({ searchParams }: { searchParams: Pro
             {lines.length > 0 ? (
               <form action={updateQuote}>
                 <table className="table">
-                  <thead><tr><th>Product</th><th>Quantity</th><th className="num">List price inc VAT</th><th /></tr></thead>
+                  <thead><tr><th>Product</th><th>Quantity</th><th className="num">Each ex VAT</th><th className="num">Line inc VAT</th><th /></tr></thead>
                   <tbody>
                     {lines.map(({ product: p, qty }) => (
-                      <tr key={p.id}>
-                        <td><Link href={productHref(p)}>{p.name}</Link></td>
+                      <tr key={p.id} className={added?.product.id === p.id ? "justadded" : undefined}>
+                        <td className="quoteprod">
+                          {/* eslint-disable-next-line @next/next/no-img-element */}
+                          {p.image && <img src={p.image} alt="" width={48} height={48} loading="lazy" />}
+                          <span><Link href={productHref(p)}>{p.name}</Link>{p.brand && <small>{p.brand}</small>}</span>
+                        </td>
                         <td><input type="number" name={`qty:${p.id}`} defaultValue={qty} min={1} max={99} aria-label={`Quantity of ${p.name}`} /></td>
-                        <td className="num">{p.priceInc !== null ? pence(toPence(p.priceInc)) : "On application"}</td>
+                        <td className="num">{p.priceEx !== null ? pence(toPence(p.priceEx)) : "On application"}</td>
+                        <td className="num">{p.priceInc !== null ? pence(toPence(p.priceInc) * qty) : "On application"}</td>
                         <td><button className="btn btn-ghost btn-sm" type="submit" name="remove" value={p.id}><Icon name="trash" size={16} />Remove</button></td>
                       </tr>
                     ))}
@@ -107,7 +126,7 @@ export default async function NewQuotePage({ searchParams }: { searchParams: Pro
             <div className="grand"><span>List price inc VAT</span><span>{pence(listInc)}</span></div>
           </div>
           <p className="muted" style={{ fontSize: 13 }}>List price only, to show the size of the job. Your quoted project price will be worked out by the team.</p>
-          {lines.length > 0 ? <QuoteForm /> : <p className="muted">Add an item to send your list.</p>}
+          {lines.length > 0 ? <QuoteForm defaults={{ name: user?.name, email: user?.email }} /> : <p className="muted">Add an item to send your list.</p>}
           <p className="muted" style={{ fontSize: 13, textAlign: "center" }}>No obligation. We usually reply the same working day.</p>
         </aside>
       </div>

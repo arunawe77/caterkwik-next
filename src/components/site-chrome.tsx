@@ -57,6 +57,29 @@ function DepartmentNav() {
   );
 }
 
+// Accreditations and partners shown in the footer, in the order the current site gives them.
+const ACCREDITATIONS = [
+  { name: "Investors in People", src: "/assets/img/logos/investors-in-people.png", w: 800, h: 294 },
+  { name: "CEDA", src: "/assets/img/logos/ceda.png", w: 114, h: 69 },
+  { name: "UKAS", src: "/assets/img/logos/ukas.jpg", w: 88, h: 61 },
+  { name: "McAfee Secure", src: "/assets/img/logos/mcafee.jpg", w: 99, h: 65, href: "https://www.mcafeesecure.com/RatingVerify?ref=www.caterkwik.co.uk" },
+  { name: "Energy Technology List (ECA)", src: "/assets/img/logos/eca-logo.png", w: 154, h: 47, href: "http://www.caterkwik.co.uk/energyeff.shtml#eca" },
+  { name: "Carbon Trust", src: "/assets/img/logos/carbon-trust.svg", w: 1332, h: 860, href: "http://www.caterkwik.co.uk/energyeff.shtml#ctrust" },
+] as const;
+
+const PAYMENTS = [
+  { name: "Visa", src: "/assets/img/payments/visa.svg" },
+  { name: "Mastercard", src: "/assets/img/payments/mastercard.svg" },
+  { name: "Maestro", src: "/assets/img/payments/maestro.svg" },
+  { name: "PayPal", src: "/assets/img/payments/paypal.svg" },
+] as const;
+
+const SOCIAL = [
+  { name: "X (Twitter)", href: "https://twitter.com/caterkwikltd", path: "M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z" },
+  { name: "Facebook", href: "https://www.facebook.com/cater.kwik", path: "M9.101 23.691v-7.98H6.627v-3.667h2.474v-1.58c0-4.085 1.848-5.978 5.858-5.978.401 0 .955.042 1.468.103a8.68 8.68 0 0 1 1.141.195v3.325a8.623 8.623 0 0 0-.653-.036 26.805 26.805 0 0 0-.733-.009c-.707 0-1.259.096-1.675.309a1.686 1.686 0 0 0-.679.622c-.258.42-.374.995-.374 1.752v1.297h3.919l-.386 2.103-.287 1.564h-3.246v8.245C19.396 23.238 24 18.179 24 12.044c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.628 3.874 10.35 9.101 11.647Z" },
+  { name: "YouTube", href: "https://www.youtube.com/user/Caterkwik", path: "M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z" },
+] as const;
+
 export function Header() {
   return (
     <>
@@ -108,6 +131,19 @@ export function Footer() {
   return (
     <footer className="site">
       <div className="wrap">
+        <div className="fband">
+          <div className="fband-copy">
+            <p className="fband-kicker">Trusted by caterers since {COMPANY.established}</p>
+            <p className="fband-title">Independent advice, fair prices, and a team that picks up the phone.</p>
+          </div>
+          <a className="fband-feefo" href="https://www.feefo.com/en-GB/reviews/caterkwik?displayFeedbackType=BOTH&timeFrame=ALL" target="_blank" rel="noopener noreferrer" aria-label="Read our customer reviews on Feefo">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img src="/assets/img/logos/feefo.png" alt="Feefo Trusted Service award" width={84} height={84} loading="lazy" />
+            <span>Read our reviews</span>
+          </a>
+          <a className="btn btn-amber fband-mail" href="http://eepurl.com/h3wU-/" target="_blank" rel="noopener noreferrer"><Icon name="mail" />Join our mailing list</a>
+        </div>
+
         <div className="fgrid">
           <div>
             <strong>Cooking</strong>
@@ -136,6 +172,44 @@ export function Footer() {
               <li>Established {COMPANY.established}</li>
             </ul>
           </div>
+        </div>
+
+        <div className="faccred">
+          <p className="faccred-title">Accreditations and partners</p>
+          <ul>
+            {ACCREDITATIONS.map((a) => {
+              // eslint-disable-next-line @next/next/no-img-element
+              const img = <img src={a.src} alt={a.name} width={a.w} height={a.h} loading="lazy" />;
+              return <li key={a.name}>{"href" in a ? <a href={a.href} target="_blank" rel="noopener noreferrer" title={a.name}>{img}</a> : <span title={a.name}>{img}</span>}</li>;
+            })}
+          </ul>
+        </div>
+
+        <div className="fbase">
+          <div className="fbase-pay">
+            <span>We accept</span>
+            <ul>
+              {PAYMENTS.map((x) => (
+                <li key={x.name} title={x.name}>
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img src={x.src} alt={x.name} height={22} loading="lazy" />
+                </li>
+              ))}
+            </ul>
+          </div>
+          <ul className="fsocial" aria-label="Follow Cater-Kwik">
+            {SOCIAL.map((x) => (
+              <li key={x.name}>
+                <a href={x.href} target="_blank" rel="noopener noreferrer" aria-label={x.name}>
+                  <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden><path d={x.path} /></svg>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+        <div className="fsmall">
+          <p>All prices shown are exclusive of VAT. Delivery charges may be applicable.</p>
+          <p>Sales &amp; service: Mon to Fri 8am to 6pm, Sat 9am to 5pm. Next day delivery: order by 4pm, selected lines, subject to availability.</p>
         </div>
         <p className="demonote">
           <b>Staging preview for Caterkwik, prepared by Awe Creative.</b> Nothing here can be ordered. Products, prices and

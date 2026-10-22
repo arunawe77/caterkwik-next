@@ -22,7 +22,6 @@ import { productJsonLd, specRows } from "@/lib/product-view";
 import { alsoListedUnder, relatedProducts, siblingTypes } from "@/lib/related";
 import { pageMetadata } from "@/lib/seo";
 import { addToCart } from "@/server/cart-actions";
-import { addToQuote } from "@/server/quote-actions";
 import { COMPANY } from "@/lib/site";
 
 type Props = { params: Promise<{ type: string; id: string }> };
@@ -101,16 +100,24 @@ export default async function ProductPage(props: Props) {
                   : "Price on application. Call the team for a quote."}
               </p>
             )}
-            {/* One row, one quantity: the quote button posts the same form to the quote action. */}
-            <form action={addToCart} className="addbar">
-              <input type="hidden" name="id" value={p.id} />
-              <label className="addqty">Quantity<input type="number" name="qty" defaultValue={1} min={1} max={99} /></label>
-              {isPurchasable(p) && <button className="btn btn-primary" type="submit"><Icon name="addToCart" />Add to basket</button>}
-              <button className="btn btn-ghost" type="submit" formAction={addToQuote}><Icon name="mail" />Request a quote</button>
-            </form>
-            <div className="actions">
-              <a className="btn btn-navy" href={`tel:${COMPANY.phone.replace(/\s/g, "")}`}><Icon name="phone" />Call {COMPANY.phone}</a>
-              <Link className="btn btn-ghost" href={categoryHref(type.slug)}>More {categoryLabel(type.slug).toLowerCase()}</Link>
+            {/* The main action: a quantity stepper beside a full-width button. Without a price, calling is the action. */}
+            {isPurchasable(p) ? (
+              <form action={addToCart} className="buyrow">
+                <input type="hidden" name="id" value={p.id} />
+                <label className="qtybox"><span>Qty</span><input type="number" name="qty" defaultValue={1} min={1} max={99} /></label>
+                <button className="btn btn-primary buygo" type="submit"><Icon name="addToCart" />Add to basket</button>
+              </form>
+            ) : (
+              <a className="btn btn-navy buygo" href={`tel:${COMPANY.phone.replace(/\s/g, "")}`}><Icon name="phone" />Call {COMPANY.phone}</a>
+            )}
+            <ul className="buyassure">
+              <li><Icon name="truck" size={16} />Next day delivery on selected lines, order by 4pm</li>
+              <li><Icon name="check" size={16} />Price match promise</li>
+              <li><Icon name="user" size={16} />Expert advice from our own team</li>
+            </ul>
+            <div className="buylinks">
+              {isPurchasable(p) && <a href={`tel:${COMPANY.phone.replace(/\s/g, "")}`}><Icon name="phone" size={16} />Call {COMPANY.phone}</a>}
+              <Link href={categoryHref(type.slug)}>More {categoryLabel(type.slug).toLowerCase()}<Icon name="arrowRight" size={16} /></Link>
             </div>
           </div>
           {imported && imported.features.length > 0 && (
