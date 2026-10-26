@@ -32,7 +32,7 @@
    { "label": "Dimensions (L x W x H)", "value": "600 x 400 x 75", "unit": "mm", "source": 1 }
   ],
   "images": [
-   { "url": "https://www.caterkwik.co.uk/shop/images/products/dghtraysk64075.jpg", "alt": "Alphin Pans dough tray DGH.TRAY.SK64075", "source": 1 }
+   { "url": "/media/documents/legacy/dghtraysk64075.jpg", "alt": "Alphin Pans dough tray DGH.TRAY.SK64075", "source": 1 }
   ],
   "notes": "Material, weight and colours not seen on any page read. A search snippet from alphin.co.uk said polypropylene but that page was not opened, so it is not recorded."
  },
@@ -55,7 +55,7 @@
    { "label": "Dimensions (L x W x H)", "value": "762 x 457 x 92", "unit": "mm", "source": 1 }
   ],
   "images": [
-   { "url": "https://www.caterkwik.co.uk/shop/images/products/dghtraygws2.jpg", "alt": "Alphin Pans dough tray DGH.TRAY.GWS2", "source": 1 }
+   { "url": "/media/documents/legacy/dghtraygws2.jpg", "alt": "Alphin Pans dough tray DGH.TRAY.GWS2", "source": 1 }
   ],
   "notes": "Queue record has brand 'DGHTRAYGWS2' and mpn null (looks mis-parsed); brand should be Alphin Pans, mpn DGH.TRAY.GWS2 / DGHTRAYGWS2. Material and weight not seen on pages read."
  },
@@ -80,7 +80,7 @@
    { "label": "Height", "value": 123, "unit": "mm", "source": 1 }
   ],
   "images": [
-   { "url": "https://www.caterkwik.co.uk/shop/images/fullsize/dghtraygws8.jpg", "alt": "Alphin Pans dough tray DGH.TRAY.GWS8", "source": 1 }
+   { "url": "/media/documents/legacy/dghtraygws8.jpg", "alt": "Alphin Pans dough tray DGH.TRAY.GWS8", "source": 1 }
   ],
   "notes": "Material and weight not seen on pages read."
  },

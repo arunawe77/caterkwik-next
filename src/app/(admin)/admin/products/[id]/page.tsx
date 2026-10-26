@@ -7,6 +7,8 @@ import { utilityMetadata } from "@/lib/seo";
 import { removeProduct } from "@/server/catalogue-actions";
 import { db } from "@/server/db";
 import { ImportedDetails } from "@/components/admin/imported-details";
+import { ProductSuppliers } from "@/components/admin/product-suppliers";
+import { productCosts } from "@/server/suppliers";
 
 export const metadata = utilityMetadata("Edit product");
 export const dynamic = "force-dynamic";
@@ -21,10 +23,11 @@ const SPEC_LABELS: [string, string][] = [
 export default async function EditProductPage({ params, searchParams }: { params: Promise<{ id: string }>; searchParams: Promise<{ created?: string }> }) {
   const { id } = await params;
   const { created } = await searchParams;
-  const [p, categories, history] = await Promise.all([
+  const [p, categories, history, costs] = await Promise.all([
     db.product.findUnique({ where: { id }, include: { detail: true } }),
     db.category.findMany({ orderBy: { sortOrder: "asc" }, select: { slug: true, label: true } }),
     db.auditLog.findMany({ where: { entity: "product", entityId: id }, orderBy: { createdAt: "desc" }, take: 8 }),
+    productCosts(id),
   ]);
   if (!p) notFound();
 
@@ -67,6 +70,7 @@ export default async function EditProductPage({ params, searchParams }: { params
               </>
             ) : <p className="muted">None recorded. The assistant can add one from figures you give it; it always asks for the source.</p>}
           </section>
+          <ProductSuppliers productId={p.id} rows={costs.rows} suppliers={costs.suppliers} comparison={costs.comparison} sellEx={costs.sellEx} />
           {p.detail && <ImportedDetails detail={p.detail} />}
           <section className="panel">
             <h2>History</h2>

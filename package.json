@@ -20,6 +20,7 @@
   "dependencies": {
     "@anthropic-ai/sdk": "^0.133.0",
     "@prisma/client": "^6.19.3",
+    "basic-ftp": "^6.2.3",
     "fflate": "^0.8.3",
     "next": "16.4.0",
     "nodemailer": "^10.1.0",

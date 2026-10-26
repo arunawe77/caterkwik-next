@@ -36,5 +36,5 @@ export async function proxy(req: NextRequest) {
   return res;
 }
 
-// /api/admin/import takes a workbook of hundreds of megabytes, which the proxy would buffer (and cut at 10 MB). The route checks staff itself. /api/admin/media (images and PDFs up to 25 MB) is left out for the same reason.
-export const config = { matcher: ["/((?!_next/static|_next/image|favicon.ico|assets/|api/admin/import|api/admin/media).*)"] };
+// /api/admin/import takes a workbook of hundreds of megabytes, which the proxy would buffer (and cut at 10 MB). The route checks staff itself. /api/admin/media (images and PDFs up to 25 MB) and /api/admin/suppliers (price files) are left out for the same reason.
+export const config = { matcher: ["/((?!_next/static|_next/image|favicon.ico|assets/|api/admin/import|api/admin/media|api/admin/suppliers).*)"] };

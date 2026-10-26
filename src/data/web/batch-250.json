@@ -5,13 +5,13 @@
   "sources": [
    {
     "kind": "datasheet",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/MAXXPROET620_Convotherm%20Maxx%20Pro%20maxxproeT6.20EB%20Spec%20Sheet.pdf",
+    "url": "/media/documents/legacy/maxxproet620-convotherm-maxx-pro-maxxproet6-20eb-spec-sheet.pdf",
     "title": "Convotherm maxx pro easyTouch 6.20 EB spec sheet (Welbilt, 07/23)",
     "read": "2026-10-12"
    },
    {
     "kind": "datasheet",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/MAXXPROET620_Convotherm%20Maxx%20Pro%20maxxproeT6.20ES%20Spec%20Sheet.pdf",
+    "url": "/media/documents/legacy/maxxproet620-convotherm-maxx-pro-maxxproet6-20es-spec-sheet.pdf",
     "title": "Convotherm maxx pro easyTouch 6.20 ES spec sheet (Welbilt, 07/23)",
     "read": "2026-10-12"
    }
@@ -364,18 +364,18 @@
   "documents": [
    {
     "label": "Spec sheet EB",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/MAXXPROET620_Convotherm%20Maxx%20Pro%20maxxproeT6.20EB%20Spec%20Sheet.pdf",
+    "url": "/media/documents/legacy/maxxproet620-convotherm-maxx-pro-maxxproet6-20eb-spec-sheet.pdf",
     "kind": "datasheet"
    },
    {
     "label": "Spec sheet ES",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/MAXXPROET620_Convotherm%20Maxx%20Pro%20maxxproeT6.20ES%20Spec%20Sheet.pdf",
+    "url": "/media/documents/legacy/maxxproet620-convotherm-maxx-pro-maxxproet6-20es-spec-sheet.pdf",
     "kind": "datasheet"
    }
   ],
   "images": [
    {
-    "url": "https://www.caterkwik.co.uk/shop/images/products/maxxproet620.jpg",
+    "url": "/media/documents/legacy/maxxproet620.jpg",
     "alt": "Convotherm Maxx Pro easyTouch 6.20",
     "source": 0
    }
@@ -388,13 +388,13 @@
   "sources": [
    {
     "kind": "datasheet",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/MAXXPROED1020_Convotherm%20Maxx%20Pro%20maxxpeoeD10.20EB%20Spec%20Sheet.pdf",
+    "url": "/media/documents/legacy/maxxproed1020-convotherm-maxx-pro-maxxpeoed10-20eb-spec-sheet.pdf",
     "title": "Convotherm maxx pro easyDial 10.20 EB spec sheet (Welbilt, 07/23)",
     "read": "2026-10-12"
    },
    {
     "kind": "datasheet",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/MAXXPROED1020_Convotherm%20Maxx%20Pro%20maxxpeoeD10.20ES%20Spec%20Sheet.pdf",
+    "url": "/media/documents/legacy/maxxproed1020-convotherm-maxx-pro-maxxpeoed10-20es-spec-sheet.pdf",
     "title": "Convotherm maxx pro easyDial 10.20 ES spec sheet (Welbilt, 07/23)",
     "read": "2026-10-12"
    }
@@ -743,18 +743,18 @@
   "documents": [
    {
     "label": "Spec sheet EB",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/MAXXPROED1020_Convotherm%20Maxx%20Pro%20maxxpeoeD10.20EB%20Spec%20Sheet.pdf",
+    "url": "/media/documents/legacy/maxxproed1020-convotherm-maxx-pro-maxxpeoed10-20eb-spec-sheet.pdf",
     "kind": "datasheet"
    },
    {
     "label": "Spec sheet ES",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/MAXXPROED1020_Convotherm%20Maxx%20Pro%20maxxpeoeD10.20ES%20Spec%20Sheet.pdf",
+    "url": "/media/documents/legacy/maxxproed1020-convotherm-maxx-pro-maxxpeoed10-20es-spec-sheet.pdf",
     "kind": "datasheet"
    }
   ],
   "images": [
    {
-    "url": "https://www.caterkwik.co.uk/shop/images/products/maxxproed1020.jpg",
+    "url": "/media/documents/legacy/maxxproed1020.jpg",
     "alt": "Convotherm Maxx Pro easyDial 10.20",
     "source": 0
    }
@@ -767,13 +767,13 @@
   "sources": [
    {
     "kind": "datasheet",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/EASYTOUCH1020_Convotherm%20Maxx%20Pro%20maxxproeT10.20EB%20Spec%20Sheet.pdf",
+    "url": "/media/documents/legacy/easytouch1020-convotherm-maxx-pro-maxxproet10-20eb-spec-sheet.pdf",
     "title": "Convotherm maxx pro easyTouch 10.20 EB spec sheet (Welbilt, 07/23)",
     "read": "2026-10-12"
    },
    {
     "kind": "datasheet",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/EASYTOUCH1020_Convotherm%20Maxx%20Pro%20maxxproeT10.20ES%20Spec%20Sheet.pdf",
+    "url": "/media/documents/legacy/easytouch1020-convotherm-maxx-pro-maxxproet10-20es-spec-sheet.pdf",
     "title": "Convotherm maxx pro easyTouch 10.20 ES spec sheet (Welbilt, 07/23)",
     "read": "2026-10-12"
    }
@@ -1122,18 +1122,18 @@
   "documents": [
    {
     "label": "Spec sheet EB",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/EASYTOUCH1020_Convotherm%20Maxx%20Pro%20maxxproeT10.20EB%20Spec%20Sheet.pdf",
+    "url": "/media/documents/legacy/easytouch1020-convotherm-maxx-pro-maxxproet10-20eb-spec-sheet.pdf",
     "kind": "datasheet"
    },
    {
     "label": "Spec sheet ES",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/EASYTOUCH1020_Convotherm%20Maxx%20Pro%20maxxproeT10.20ES%20Spec%20Sheet.pdf",
+    "url": "/media/documents/legacy/easytouch1020-convotherm-maxx-pro-maxxproet10-20es-spec-sheet.pdf",
     "kind": "datasheet"
    }
   ],
   "images": [
    {
-    "url": "https://www.caterkwik.co.uk/shop/images/products/easytouch1020.jpg",
+    "url": "/media/documents/legacy/easytouch1020.jpg",
     "alt": "Convotherm Maxx Pro easyTouch 10.20",
     "source": 0
    }
@@ -1146,13 +1146,13 @@
   "sources": [
    {
     "kind": "datasheet",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/MAXXPROED2010_Convotherm%20Maxx%20Pro%20maxxpeoeD20.10EB%20Spec%20Sheet.pdf",
+    "url": "/media/documents/legacy/maxxproed2010-convotherm-maxx-pro-maxxpeoed20-10eb-spec-sheet.pdf",
     "title": "Convotherm maxx pro easyDial 20.10 EB spec sheet (Welbilt, 07/23)",
     "read": "2026-10-12"
    },
    {
     "kind": "datasheet",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/MAXXPROED2010_Convotherm%20Maxx%20Pro%20maxxpeoeD20.10ES%20Spec%20Sheet.pdf",
+    "url": "/media/documents/legacy/maxxproed2010-convotherm-maxx-pro-maxxpeoed20-10es-spec-sheet.pdf",
     "title": "Convotherm maxx pro easyDial 20.10 ES spec sheet (Welbilt, 07/23)",
     "read": "2026-10-12"
    }
@@ -1501,18 +1501,18 @@
   "documents": [
    {
     "label": "Spec sheet EB",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/MAXXPROED2010_Convotherm%20Maxx%20Pro%20maxxpeoeD20.10EB%20Spec%20Sheet.pdf",
+    "url": "/media/documents/legacy/maxxproed2010-convotherm-maxx-pro-maxxpeoed20-10eb-spec-sheet.pdf",
     "kind": "datasheet"
    },
    {
     "label": "Spec sheet ES",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/MAXXPROED2010_Convotherm%20Maxx%20Pro%20maxxpeoeD20.10ES%20Spec%20Sheet.pdf",
+    "url": "/media/documents/legacy/maxxproed2010-convotherm-maxx-pro-maxxpeoed20-10es-spec-sheet.pdf",
     "kind": "datasheet"
    }
   ],
   "images": [
    {
-    "url": "https://www.caterkwik.co.uk/shop/images/products/maxxproed2010.jpg",
+    "url": "/media/documents/legacy/maxxproed2010.jpg",
     "alt": "Convotherm Maxx Pro easyDial 20.10",
     "source": 0
    }
@@ -1525,13 +1525,13 @@
   "sources": [
    {
     "kind": "datasheet",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/MAXXPROET2010_Convotherm%20Maxx%20Pro%20maxxproeT20.10EB%20Spec%20Sheet.pdf",
+    "url": "/media/documents/legacy/maxxproet2010-convotherm-maxx-pro-maxxproet20-10eb-spec-sheet.pdf",
     "title": "Convotherm maxx pro easyTouch 20.10 EB spec sheet (Welbilt, 07/23)",
     "read": "2026-10-12"
    },
    {
     "kind": "datasheet",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/MAXXPROET2010_Convotherm%20Maxx%20Pro%20maxxproeT20.10ES%20Spec%20Sheet.pdf",
+    "url": "/media/documents/legacy/maxxproet2010-convotherm-maxx-pro-maxxproet20-10es-spec-sheet.pdf",
     "title": "Convotherm maxx pro easyTouch 20.10 ES spec sheet (Welbilt, 07/23)",
     "read": "2026-10-12"
    }
@@ -1880,18 +1880,18 @@
   "documents": [
    {
     "label": "Spec sheet EB",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/MAXXPROET2010_Convotherm%20Maxx%20Pro%20maxxproeT20.10EB%20Spec%20Sheet.pdf",
+    "url": "/media/documents/legacy/maxxproet2010-convotherm-maxx-pro-maxxproet20-10eb-spec-sheet.pdf",
     "kind": "datasheet"
    },
    {
     "label": "Spec sheet ES",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/MAXXPROET2010_Convotherm%20Maxx%20Pro%20maxxproeT20.10ES%20Spec%20Sheet.pdf",
+    "url": "/media/documents/legacy/maxxproet2010-convotherm-maxx-pro-maxxproet20-10es-spec-sheet.pdf",
     "kind": "datasheet"
    }
   ],
   "images": [
    {
-    "url": "https://www.caterkwik.co.uk/shop/images/products/maxxproet2010.jpg",
+    "url": "/media/documents/legacy/maxxproet2010.jpg",
     "alt": "Convotherm Maxx Pro easyTouch 20.10",
     "source": 0
    }
@@ -1904,13 +1904,13 @@
   "sources": [
    {
     "kind": "datasheet",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/MAXXPROET2020_Convotherm%20Maxx%20Pro%20maxxproeT20.20EB%20Spec%20Sheet.pdf",
+    "url": "/media/documents/legacy/maxxproet2020-convotherm-maxx-pro-maxxproet20-20eb-spec-sheet.pdf",
     "title": "Convotherm maxx pro easyTouch 20.20 EB spec sheet (Welbilt, 07/23)",
     "read": "2026-10-12"
    },
    {
     "kind": "datasheet",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/MAXXPROET2020_Convotherm%20Maxx%20Pro%20maxxproeT20.20ES%20Spec%20Sheet.pdf",
+    "url": "/media/documents/legacy/maxxproet2020-convotherm-maxx-pro-maxxproet20-20es-spec-sheet.pdf",
     "title": "Convotherm maxx pro easyTouch 20.20 ES spec sheet (Welbilt, 07/23)",
     "read": "2026-10-12"
    }
@@ -2259,18 +2259,18 @@
   "documents": [
    {
     "label": "Spec sheet EB",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/MAXXPROET2020_Convotherm%20Maxx%20Pro%20maxxproeT20.20EB%20Spec%20Sheet.pdf",
+    "url": "/media/documents/legacy/maxxproet2020-convotherm-maxx-pro-maxxproet20-20eb-spec-sheet.pdf",
     "kind": "datasheet"
    },
    {
     "label": "Spec sheet ES",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/MAXXPROET2020_Convotherm%20Maxx%20Pro%20maxxproeT20.20ES%20Spec%20Sheet.pdf",
+    "url": "/media/documents/legacy/maxxproet2020-convotherm-maxx-pro-maxxproet20-20es-spec-sheet.pdf",
     "kind": "datasheet"
    }
   ],
   "images": [
    {
-    "url": "https://www.caterkwik.co.uk/shop/images/products/maxxproet2020.jpg",
+    "url": "/media/documents/legacy/maxxproet2020.jpg",
     "alt": "Convotherm Maxx Pro easyTouch 20.20",
     "source": 0
    }
@@ -2685,13 +2685,13 @@
    },
    {
     "label": "iVario brochure",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/IVPL_Rational-ivario-brochure.pdf",
+    "url": "/media/documents/legacy/ivpl-rational-ivario-brochure.pdf",
     "kind": "brochure"
    }
   ],
   "images": [
    {
-    "url": "https://www.caterkwik.co.uk/shop/images/products/ivpl.jpg",
+    "url": "/media/documents/legacy/ivpl.jpg",
     "alt": "Rational iVario Pro L",
     "source": 0
    }
@@ -3106,13 +3106,13 @@
    },
    {
     "label": "iVario brochure",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/IVPXL_Rational-ivario-brochure.pdf",
+    "url": "/media/documents/legacy/ivpxl-rational-ivario-brochure.pdf",
     "kind": "brochure"
    }
   ],
   "images": [
    {
-    "url": "https://www.caterkwik.co.uk/shop/images/products/ivpxl.jpg",
+    "url": "/media/documents/legacy/ivpxl.jpg",
     "alt": "Rational iVario Pro XL",
     "source": 0
    }
@@ -3125,7 +3125,7 @@
   "sources": [
    {
     "kind": "datasheet",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/B1MJ061E_Hobart-Bonnet-Combi-Oven-B2MJ061E-Spec-Sheet.pdf",
+    "url": "/media/documents/legacy/b1mj061e-hobart-bonnet-combi-oven-b2mj061e-spec-sheet.pdf",
     "title": "Hobart Minijet 6 level GN 1/1 electric oven spec sheet (ref. B2MJ061E)",
     "read": "2026-10-12"
    },
@@ -3468,23 +3468,23 @@
   "documents": [
    {
     "label": "Spec sheet",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/B1MJ061E_Hobart-Bonnet-Combi-Oven-B2MJ061E-Spec-Sheet.pdf",
+    "url": "/media/documents/legacy/b1mj061e-hobart-bonnet-combi-oven-b2mj061e-spec-sheet.pdf",
     "kind": "datasheet"
    },
    {
     "label": "Brochure",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/B1MJ061E_Hobart-Combi-Oven-Brochure.pdf",
+    "url": "/media/documents/legacy/b1mj061e-hobart-combi-oven-brochure.pdf",
     "kind": "brochure"
    },
    {
     "label": "User manual",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/B1MJ061E_Hobart-Combi-Oven-Equajet-User-Manual.pdf",
+    "url": "/media/documents/legacy/b1mj061e-hobart-combi-oven-equajet-user-manual.pdf",
     "kind": "manual"
    }
   ],
   "images": [
    {
-    "url": "https://www.caterkwik.co.uk/shop/images/products/b1mj061e.jpg",
+    "url": "/media/documents/legacy/b1mj061e.jpg",
     "alt": "Hobart Bonnet Minijet 6 grid combi oven",
     "source": 0
    }
@@ -3497,7 +3497,7 @@
   "sources": [
    {
     "kind": "datasheet",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/BEJE101_Hobart-Bonnet-Combi-Oven-BEJE101-Spec-Sheet.pdf",
+    "url": "/media/documents/legacy/beje101-hobart-bonnet-combi-oven-beje101-spec-sheet.pdf",
     "title": "Hobart Equajet 10 level GN 1/1 electric oven spec sheet (BEJE101-1-11)",
     "read": "2026-10-12"
    },
@@ -3866,23 +3866,23 @@
   "documents": [
    {
     "label": "Spec sheet",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/BEJE101_Hobart-Bonnet-Combi-Oven-BEJE101-Spec-Sheet.pdf",
+    "url": "/media/documents/legacy/beje101-hobart-bonnet-combi-oven-beje101-spec-sheet.pdf",
     "kind": "datasheet"
    },
    {
     "label": "Brochure",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/BEJE101_Hobart-Combi-Oven-Brochure.pdf",
+    "url": "/media/documents/legacy/beje101-hobart-combi-oven-brochure.pdf",
     "kind": "brochure"
    },
    {
     "label": "User manual",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/BEJE101_Hobart-Combi-Oven-Equajet-User-Manual.pdf",
+    "url": "/media/documents/legacy/beje101-hobart-combi-oven-equajet-user-manual.pdf",
     "kind": "manual"
    }
   ],
   "images": [
    {
-    "url": "https://www.caterkwik.co.uk/shop/images/products/beje101.jpg",
+    "url": "/media/documents/legacy/beje101.jpg",
     "alt": "Hobart Bonnet Equajet 10 grid electric combi oven",
     "source": 0
    }
@@ -3895,7 +3895,7 @@
   "sources": [
    {
     "kind": "datasheet",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/ELECTROLUX391090TWINTANKELECTRICFRYER_Electrolux-2-Wells-Electric-Fryer-23-liter-391338-900XP-Spec-Sheet.pdf",
+    "url": "/media/documents/legacy/electrolux391090twintankelectricfryer-electrolux-2-wells-electric-fryer-23-liter-391338-900xp-spec-s.pdf",
     "title": "Electrolux Professional 900XP two wells electric fryer 23 liter spec sheet (391385 / 391338)",
     "read": "2026-10-12"
    }
@@ -4115,28 +4115,28 @@
   "documents": [
    {
     "label": "Spec sheet",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/ELECTROLUX391090TWINTANKELECTRICFRYER_Electrolux-2-Wells-Electric-Fryer-23-liter-391338-900XP-Spec-Sheet.pdf",
+    "url": "/media/documents/legacy/electrolux391090twintankelectricfryer-electrolux-2-wells-electric-fryer-23-liter-391338-900xp-spec-s.pdf",
     "kind": "datasheet"
    },
    {
     "label": "User manual",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/ELECTROLUX391090TWINTANKELECTRICFRYER_Electrolux-Twin-Tank-Fryer-391338-User-Manual.pdf",
+    "url": "/media/documents/legacy/electrolux391090twintankelectricfryer-electrolux-twin-tank-fryer-391338-user-manual.pdf",
     "kind": "manual"
    },
    {
     "label": "Fryer maintenance",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/ELECTROLUX391090TWINTANKELECTRICFRYER_Electrolux-Fryer-Maintenance.pdf",
+    "url": "/media/documents/legacy/electrolux391090twintankelectricfryer-electrolux-fryer-maintenance.pdf",
     "kind": "other"
    },
    {
     "label": "Modular cooking brochure",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/ELECTROLUX391090TWINTANKELECTRICFRYER_Electrolux-Modular-Cooking-Brochure.pdf",
+    "url": "/media/documents/legacy/electrolux391090twintankelectricfryer-electrolux-modular-cooking-brochure.pdf",
     "kind": "brochure"
    }
   ],
   "images": [
    {
-    "url": "https://www.caterkwik.co.uk/shop/images/products/electrolux391090twintankelectricfryer.jpg",
+    "url": "/media/documents/legacy/electrolux391090twintankelectricfryer.jpg",
     "alt": "Electrolux Professional 900XP twin tank electric fryer 391338",
     "source": 0
    }
@@ -4149,7 +4149,7 @@
   "sources": [
    {
     "kind": "datasheet",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/ELECTROLUX371072SINGLETANKGASTUBEFRYER_Electrolux-Freestanding-Gas-Fryer-15-litre-371071-Spec-Sheet.pdf",
+    "url": "/media/documents/legacy/electrolux371072singletankgastubefryer-electrolux-freestanding-gas-fryer-15-litre-371071-spec-sheet.pdf",
     "title": "Electrolux Professional 700XP two wells freestanding gas fryer 15 liter spec sheet (371071)",
     "read": "2026-10-12"
    },
@@ -4419,17 +4419,17 @@
   "documents": [
    {
     "label": "Spec sheet",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/ELECTROLUX371072SINGLETANKGASTUBEFRYER_Electrolux-Freestanding-Gas-Fryer-15-litre-371071-Spec-Sheet.pdf",
+    "url": "/media/documents/legacy/electrolux371072singletankgastubefryer-electrolux-freestanding-gas-fryer-15-litre-371071-spec-sheet.pdf",
     "kind": "datasheet"
    },
    {
     "label": "Fryer brochure",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/ELECTROLUX371072SINGLETANKGASTUBEFRYER_Electrolux-Fryer-brochure.pdf",
+    "url": "/media/documents/legacy/electrolux371072singletankgastubefryer-electrolux-fryer-brochure.pdf",
     "kind": "brochure"
    },
    {
     "label": "Modular cooking brochure",
-    "url": "https://www.caterkwik.co.uk/shop/downloads/ELECTROLUX371072SINGLETANKGASTUBEFRYER_Electrolux-modular-Cooking-brochure.pdf",
+    "url": "/media/documents/legacy/electrolux371072singletankgastubefryer-electrolux-modular-cooking-brochure.pdf",
     "kind": "brochure"
    }
   ],
@@ -4440,7 +4440,7 @@
     "source": 1
    },
    {
-    "url": "https://www.caterkwik.co.uk/shop/images/products/electrolux371072singletankgastubefryer.jpg",
+    "url": "/media/documents/legacy/electrolux371072singletankgastubefryer.jpg",
     "alt": "Electrolux Professional 700XP twin tank gas fryer",
     "source": 0
    }

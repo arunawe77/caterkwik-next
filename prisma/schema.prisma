@@ -202,6 +202,7 @@ model Product {
   createdAt        DateTime          @default(now())
   updatedAt        DateTime          @updatedAt
   competitorPrices CompetitorPrice[]
+  supplierPrices   SupplierPrice[]
   detail           ProductDetail?
 
   @@index([categorySlug, status])
@@ -362,4 +363,90 @@ model ImportRun {
   error      String?
 
   @@index([createdAt])
+}
+
+// ---- Suppliers --------------------------------------------------------------------------
+// Where we buy from. A FEED supplier (Uropa) sends a price file that is uploaded and matched to products;
+// a DIRECT supplier is the manufacturer or distributor we buy from ourselves, and its costs are typed in.
+// A product can have a cost from several suppliers at once (Cambro, for one), and the module compares them.
+// Cost is whole pence ex VAT; null means "not known", never a guess.
+
+enum SupplierKind {
+  FEED
+  DIRECT
+}
+
+enum CostSource {
+  FEED
+  MANUAL
+}
+
+model Supplier {
+  id          String            @id // slug, e.g. "uropa"
+  name        String
+  kind        SupplierKind      @default(DIRECT)
+  website     String?
+  notes       String?
+  active      Boolean           @default(true)
+  sortOrder   Int               @default(0)
+  // Which columns of the feed file hold what: { sku, mpn, name, brand, cost, stock }. Set by staff on the supplier page.
+  feedMapping Json?
+  createdAt   DateTime          @default(now())
+  brands      SupplierBrand[]
+  prices      SupplierPrice[]
+  runs        SupplierFeedRun[]
+}
+
+// A brand a supplier carries. Uropa carries most of the others' brands, which is how a direct alternative is found.
+model SupplierBrand {
+  id         String   @id @default(cuid())
+  supplierId String
+  brand      String
+  supplier   Supplier @relation(fields: [supplierId], references: [id], onDelete: Cascade)
+
+  @@unique([supplierId, brand])
+  @@index([brand])
+}
+
+// What one supplier charges us for one of its products, matched to ours when the part number agrees.
+// productId is null while the item is not on our site: for a feed that is the list of products we are missing.
+model SupplierPrice {
+  id          String     @id @default(cuid())
+  supplierId  String
+  productId   String?
+  sku         String // the supplier's own code
+  mpn         String? // manufacturer part number, the key to matching
+  brand       String?
+  name        String?
+  costExPence Int?
+  stockQty    Int?
+  source      CostSource @default(FEED)
+  note        String?
+  seenAt      DateTime   @default(now()) // last time a feed listed it
+  updatedAt   DateTime   @updatedAt
+  updatedBy   String?
+  supplier    Supplier   @relation(fields: [supplierId], references: [id], onDelete: Cascade)
+  product     Product?   @relation(fields: [productId], references: [id], onDelete: SetNull)
+
+  @@unique([supplierId, sku])
+  @@index([productId])
+}
+
+// One upload of a supplier's price file.
+model SupplierFeedRun {
+  id         String   @id @default(cuid())
+  supplierId String
+  createdAt  DateTime @default(now())
+  actorName  String
+  fileName   String
+  rows       Int      @default(0)
+  matched    Int      @default(0)
+  unmatched  Int      @default(0)
+  created    Int      @default(0)
+  changed    Int      @default(0)
+  skipped    Int      @default(0)
+  warnings   Json?
+  supplier   Supplier @relation(fields: [supplierId], references: [id], onDelete: Cascade)
+
+  @@index([supplierId, createdAt])
 }
