@@ -38,7 +38,7 @@ export default async function SupplierPage({ params, searchParams }: { params: P
               <h2>Load prices</h2>
               {s.id === "uropa" && (
                 <form action={fetchUropaFeed} className="form">
-                  <p className="muted">Downloads Uropa's current product and stock file and loads it. Prices and stock change daily, so run it each morning.</p>
+                  <p className="muted">Downloads Uropa&apos;s current product and stock file and loads it. Prices and stock change daily, so run it each morning.</p>
                   <button className="btn btn-navy" type="submit">Fetch from Uropa now</button>
                 </form>
               )}
