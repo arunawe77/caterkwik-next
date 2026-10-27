@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { Icon, type IconName } from "@/components/icons";
-import { factText } from "@/lib/dossier";
+import { factText, hostOf } from "@/lib/dossier";
 import { getProduct, productHref } from "@/lib/catalogue";
 import { money } from "@/lib/format";
 import type { Dossier, Section } from "@/lib/product-schema";
@@ -171,7 +171,7 @@ export function ProductDossier({ dossier, rich }: { dossier: Dossier; rich: Rich
           {dossier.sources.map((s, i) => (
             <li key={s.url} id={`src-${i + 1}`}>
               <b>{KIND[s.kind]}</b>{s.title ? `: ${s.title}` : ""}{" "}
-              <a href={s.url} target="_blank" rel="noopener noreferrer nofollow">{new URL(s.url).hostname.replace(/^www\./, "")}</a>
+              <a href={s.url} target="_blank" rel="noopener noreferrer nofollow">{hostOf(s.url).replace(/^www\./, "")}</a>
               {s.read ? ` · read ${s.read}` : ""}
             </li>
           ))}

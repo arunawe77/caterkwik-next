@@ -15,6 +15,11 @@ const text = (v: Value, unit?: string): string =>
 // "27.2 kg" and 27.2 are the same claim; so are "3/4 BSP" and "3/4\" bsp".
 const canon = (v: Value): string => String(Array.isArray(v) ? v.join("|") : v).toLowerCase().replace(/[\s"'”″.,]/g, "").replace(/kgs?$|mm$|litres?$|ltr$|kw$|°c$|w$|a$/, "");
 
+/** The host a source address points at. A path on this site (a document we host ourselves) has no host and counts as Caterkwik. */
+export function hostOf(url: string): string {
+  try { return new URL(url).hostname; } catch { return "www.caterkwik.co.uk"; }
+}
+
 export function buildDossier(id: string, rich: Rich | null, web: WebRecord | null, pageUrl: string | null): Dossier {
   const sources: Source[] = [];
   const add = (s: Source): number => {
@@ -59,7 +64,7 @@ export function buildDossier(id: string, rich: Rich | null, web: WebRecord | nul
   const webIndex = new Map<number, number>();
   if (web?.found) {
     // A researcher may cite Caterkwik's own page as a retailer; it ranks as Caterkwik.
-    const own = (u: string) => /(^|\.)caterkwik\.co\.uk$/i.test(new URL(u).hostname);
+    const own = (u: string) => /(^|\.)caterkwik\.co\.uk$/i.test(hostOf(u));
     web.sources.forEach((s, i) => webIndex.set(i, add(own(s.url) ? { ...s, kind: "caterkwik" as const } : { ...s })));
     for (const f of web.facts) {
       const src = webIndex.get(f.source);
