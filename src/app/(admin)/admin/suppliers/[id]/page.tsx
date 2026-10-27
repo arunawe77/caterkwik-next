@@ -5,9 +5,9 @@ import { ActionForm, Field } from "@/components/forms";
 import { pence, shortDate } from "@/lib/format";
 import { utilityMetadata } from "@/lib/seo";
 import { FEED_FIELDS } from "@/lib/suppliers";
-import { editSupplier, fetchUropaFeed, linkSupplierItem, removeSupplier, saveBrands, saveFeedColumns } from "@/server/supplier-actions";
+import { editSupplier, fetchUropaFeed, importUnmatchedAsDrafts, linkSupplierItem, removeSupplier, saveBrands, saveFeedColumns } from "@/server/supplier-actions";
+import { db } from "@/server/db";
 import { supplierDetail } from "@/server/suppliers";
-import { uropaConfigured } from "@/server/uropa-ftp";
 
 export const metadata = utilityMetadata("Supplier");
 export const dynamic = "force-dynamic";
@@ -21,7 +21,7 @@ export default async function SupplierPage({ params, searchParams }: { params: P
   const isFeed = s.kind === "FEED";
   const pages = Math.max(1, Math.ceil(d.unmatchedCount / 50));
   const link = (over: Record<string, string>) => `/admin/suppliers/${s.id}?${new URLSearchParams({ ...(q.brand ? { brand: q.brand } : {}), ...over })}`;
-  const ftp = uropaConfigured();
+  const categories = isFeed ? await db.category.findMany({ orderBy: { label: "asc" }, select: { slug: true, label: true } }) : [];
 
   return (
     <>
@@ -38,8 +38,8 @@ export default async function SupplierPage({ params, searchParams }: { params: P
               <h2>Load prices</h2>
               {s.id === "uropa" && (
                 <form action={fetchUropaFeed} className="form">
-                  <p className="muted">{ftp ? "Fetches the newest price file from Uropa's FTP server. Their reduced offers change daily, so run it each morning." : "The Uropa FTP login is not set on this server, so only an uploaded file works here."}</p>
-                  <button className="btn btn-navy" type="submit" disabled={!ftp}>Fetch from Uropa now</button>
+                  <p className="muted">Downloads Uropa's current product and stock file and loads it. Prices and stock change daily, so run it each morning.</p>
+                  <button className="btn btn-navy" type="submit">Fetch from Uropa now</button>
                 </form>
               )}
               <h3>Or upload a file</h3>
@@ -56,6 +56,16 @@ export default async function SupplierPage({ params, searchParams }: { params: P
                   {d.unmatchedBrands.slice(0, 40).map((b) => <Link key={b.brand} className="btn btn-ghost btn-sm" href={link({ brand: b.brand })}>{b.brand} ({b.count})</Link>)}
                   {q.brand && <Link className="btn btn-ghost btn-sm" href={`/admin/suppliers/${s.id}`}>All brands</Link>}
                 </p>
+              )}
+              {d.unmatchedCount > 0 && (
+                <form action={importUnmatchedAsDrafts} className="form">
+                  <input type="hidden" name="id" value={s.id} />
+                  <input type="hidden" name="brand" value={q.brand ?? ""} />
+                  <label className="field"><span>Create draft products{q.brand ? ` for ${q.brand}` : " (first 200)"} in</span>
+                    <select name="categorySlug" required><option value="">Choose a category</option>{categories.map((c) => <option key={c.slug} value={c.slug}>{c.label}</option>)}</select>
+                  </label>
+                  <button className="btn btn-navy btn-sm" type="submit">Create drafts</button>
+                </form>
               )}
               <table className="table">
                 <thead><tr><th>Item</th><th className="num">Cost</th><th className="num">Stock</th><th>Link to product</th></tr></thead>

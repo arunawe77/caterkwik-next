@@ -9,7 +9,7 @@ import { db } from "@/server/db";
 import { startSession } from "@/server/session";
 import { removeCost, removeSupplier, saveBrands, saveCost, saveFeedColumns, saveSupplier, setSupplierActive } from "@/server/supplier-actions";
 import {
-  addSupplier, clearCost, deleteSupplier, ensureSuppliers, feedUndercuts, importFeed, linkItem, overview, productCosts, recordCost, saveMapping,
+  addSupplier, clearCost, createDraftsFromFeed, deleteSupplier, ensureSuppliers, feedUndercuts, importFeed, linkItem, overview, productCosts, recordCost, saveMapping,
   setBrands, supplierDetail, SupplierError, updateSupplier,
 } from "@/server/suppliers";
 
@@ -209,5 +209,16 @@ describe("form actions", () => {
     expect(await redirectedTo(() => removeCost(form({ id: row.id })))).toBe(`/admin/products/${oven}`);
     expect(await redirectedTo(() => removeCost(form({ id: "gone", back: "/admin/suppliers/uropa" })))).toBe("/admin/suppliers/uropa");
     expect(await redirectedTo(() => removeCost(form({ id: "gone" })))).toBe("/admin/suppliers");
+  });
+
+  it("creates draft products from unmatched feed items and links them", async () => {
+    await importFeed(staff, "uropa", "p.csv", csv("U1,NEW-1,Big Mixer,Sammic,100.00,3", "U2,G3101,Falcon Oven,Falcon,200.00,1"));
+    const r = await createDraftsFromFeed(staff, "uropa", { categorySlug: "ovens" });
+    expect(r.created).toBe(1);
+    const item = await db.supplierPrice.findFirstOrThrow({ where: { sku: "U1" } });
+    const p = await db.product.findUniqueOrThrow({ where: { id: item.productId! } });
+    expect(p).toMatchObject({ status: "DRAFT", priceExPence: null, brand: "Sammic" });
+    expect((await db.productDetail.findUniqueOrThrow({ where: { productId: p.id } })).mpn).toBe("NEW-1");
+    await expect(createDraftsFromFeed(staff, "uropa", { categorySlug: "nope" })).rejects.toThrow(SupplierError);
   });
 });

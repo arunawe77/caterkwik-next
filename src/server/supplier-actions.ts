@@ -5,7 +5,7 @@ import { redirect } from "next/navigation";
 import { FEED_FIELDS, type FeedMapping } from "@/lib/suppliers";
 import type { FormState } from "@/server/request";
 import { currentUser, isAdmin } from "@/server/session";
-import { addSupplier, clearCost, deleteSupplier, linkItem, recordCost, saveMapping, setBrands, SupplierError, updateSupplier, type Actor } from "@/server/suppliers";
+import { addSupplier, createDraftsFromFeed, clearCost, deleteSupplier, linkItem, recordCost, saveMapping, setBrands, SupplierError, updateSupplier, type Actor } from "@/server/suppliers";
 
 // Form handlers for the supplier screens. The service functions validate; these only turn form
 // fields into the shapes they expect and the outcome into something a form can show.
@@ -99,11 +99,11 @@ export async function linkSupplierItem(form: FormData): Promise<void> {
 
 export async function fetchUropaFeed(): Promise<void> {
   const actor = await staff();
-  const { fetchUropaPriceFile } = await import("@/server/uropa-ftp");
+  const { fetchUropaFeed } = await import("@/server/uropa-ftp");
   const { importFeed } = await import("@/server/suppliers");
   let note: string;
   try {
-    const { fileName, text } = await fetchUropaPriceFile();
+    const { fileName, text } = await fetchUropaFeed();
     const r = await importFeed(actor, "uropa", fileName, text);
     note = `Loaded ${fileName}: ${r.rows} rows, ${r.matched} matched, ${r.unmatched} not on our site, ${r.changed} changed.`;
   } catch (err) {
@@ -111,4 +111,18 @@ export async function fetchUropaFeed(): Promise<void> {
   }
   revalidatePath("/admin/suppliers", "layout");
   redirect(`/admin/suppliers/uropa?fetched=${encodeURIComponent(note)}`);
+}
+
+export async function importUnmatchedAsDrafts(form: FormData): Promise<void> {
+  const actor = await staff();
+  let note: string;
+  try {
+    const r = await createDraftsFromFeed(actor, text(form, "id"), { categorySlug: text(form, "categorySlug"), brand: text(form, "brand") || undefined });
+    note = `Created ${r.created} draft products${r.failed ? `, ${r.failed} failed (${r.messages.join("; ")})` : ""}${r.skippedNoName ? `, ${r.skippedNoName} skipped with no description` : ""}. Price and publish them from Products.`;
+  } catch (err) {
+    if (!(err instanceof SupplierError)) throw err;
+    note = `Failed: ${err.message}`;
+  }
+  revalidatePath("/admin", "layout");
+  redirect(`/admin/suppliers/${text(form, "id")}?fetched=${encodeURIComponent(note)}`);
 }

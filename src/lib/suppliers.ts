@@ -80,7 +80,7 @@ const HINTS: Record<FeedField, RegExp[]> = {
   mpn: [/^(mpn|manufacturer'?s?\s*(part)?\s*(no|number|code|ref)?|man(ufacturer)?\.?\s*part.*)$/i],
   name: [/^(product\s*)?(name|description|title)$/i, /desc/i],
   brand: [/^(brand|manufacturer|make|range)$/i],
-  cost: [/^(net|trade|cost|buy|your|nett)\s*(price|cost)?$/i, /^price$/i, /(trade|net|cost)/i],
+  cost: [/^web\s*price$/i, /^(net|trade|cost|buy|your|nett)\s*(price|cost)?$/i, /^price$/i, /(trade|net|cost)/i],
   stock: [/^(stock|qty|quantity|available|in\s*stock)/i],
 };
 

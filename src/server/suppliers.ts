@@ -3,6 +3,7 @@ import { z } from "zod";
 import {
   codeKey, compareCosts, FEED_FIELDS, guessMapping, parseCsv, readFeed, seedSuppliers, slugOf, type CostComparison, type CostLine, type FeedMapping,
 } from "@/lib/suppliers";
+import { createProduct } from "@/server/catalogue-admin";
 import { db } from "@/server/db";
 
 // The supplier module. A feed supplier (Uropa) is loaded from an uploaded price file and matched to our products by
@@ -230,6 +231,38 @@ export async function importFeed(actor: Actor, supplierId: string, fileName: str
     summary: `Loaded ${fileName} for ${supplier.name}: ${rows.length} rows, ${matched} matched, ${created} new, ${changed} changed`, after: run,
   });
   return { runId: run.id, rows: rows.length, matched, unmatched, created, changed, skipped, warnings };
+}
+
+// ---- Importing new products from a feed ------------------------------------------------
+
+export interface DraftResult { created: number; failed: number; skippedNoName: number; messages: string[] }
+
+/** Creates a draft product for each unmatched feed item (optionally one brand), under the chosen category, and links the item to it.
+ *  Drafts have no selling price and stay off the storefront until staff price and publish them. */
+export async function createDraftsFromFeed(actor: Actor, supplierId: string, input: { categorySlug: string; brand?: string; limit?: number }): Promise<DraftResult> {
+  if (!(await db.supplier.findUnique({ where: { id: supplierId }, select: { id: true } }))) throw new SupplierError(`There is no supplier "${supplierId}".`);
+  if (!input.categorySlug) throw new SupplierError("Choose a category for the new products.");
+  if (!(await db.category.findUnique({ where: { slug: input.categorySlug }, select: { slug: true } }))) throw new SupplierError(`There is no category "${input.categorySlug}".`);
+  const items = await db.supplierPrice.findMany({
+    where: { supplierId, productId: null, source: "FEED", ...(input.brand ? { brand: input.brand } : {}) },
+    orderBy: [{ brand: "asc" }, { sku: "asc" }], take: Math.min(Math.max(input.limit ?? 200, 1), 500),
+  });
+  const out: DraftResult = { created: 0, failed: 0, skippedNoName: 0, messages: [] };
+  for (const item of items) {
+    const name = (item.name ?? "").trim();
+    if (name.length < 2) { out.skippedNoName++; continue; }
+    try {
+      const product = await createProduct(actor, { name: item.brand && !name.toLowerCase().includes(item.brand.toLowerCase()) ? `${item.brand} ${name}` : name, categorySlug: input.categorySlug, brand: item.brand, status: "DRAFT", stockQty: item.stockQty });
+      if (item.mpn) await db.productDetail.upsert({ where: { productId: product.id }, create: { productId: product.id, mpn: item.mpn }, update: { mpn: item.mpn } });
+      await db.supplierPrice.update({ where: { id: item.id }, data: { productId: product.id } });
+      out.created++;
+    } catch (err) {
+      out.failed++;
+      if (out.messages.length < 5) out.messages.push(`${item.sku}: ${err instanceof Error ? err.message : "failed"}`);
+    }
+  }
+  await audit(actor, { action: "import", entity: "supplier", entityId: supplierId, summary: `Created ${out.created} draft products from the feed${input.brand ? ` (${input.brand})` : ""}`, after: out });
+  return out;
 }
 
 // ---- Reading ---------------------------------------------------------------------------

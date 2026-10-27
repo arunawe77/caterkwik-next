@@ -75,4 +75,11 @@ describe("compareCosts", () => {
     expect(marginOf(null, 100)).toBeNull();
     expect(marginOf(0, 100)).toBeNull();
   });
+
+  it("maps the columns of Uropa's public product and stock file", () => {
+    const head = ["Product Code", "Ship Direct Flag", "Delivery Flash", "WEB Price", "WP Promo Price", "GS Promo Price", "Stock Level", "Stock Promise Date", "DROPPEDLINE"];
+    expect(guessMapping(head)).toEqual({ sku: "Product Code", cost: "WEB Price", stock: "Stock Level" });
+    const { rows } = readFeed([head, ["19310201", "DIRECT", "", "17.09", "", "", "6", "", "N"]], guessMapping(head));
+    expect(rows).toEqual([{ sku: "19310201", mpn: null, brand: null, name: null, costExPence: 1709, stockQty: 6 }]);
+  });
 });
