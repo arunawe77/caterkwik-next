@@ -284,6 +284,9 @@ model CompetitorPrice {
   note          String?
   checkedAt     DateTime             @default(now())
   checkedBy     String?
+  // Set by the automatic check: when it last tried, and why it could not read a price (null when it could).
+  lastAttemptAt DateTime?
+  lastError     String?
   product       Product              @relation(fields: [productId], references: [id], onDelete: Cascade)
   competitor    Competitor           @relation(fields: [competitorId], references: [id], onDelete: Cascade)
   history       CompetitorPriceLog[]
@@ -402,6 +405,8 @@ model SupplierBrand {
   id         String   @id @default(cuid())
   supplierId String
   brand      String
+  // A brand Caterkwik sells. When any are selected, the supplier's lists show only those brands.
+  selected   Boolean  @default(false)
   supplier   Supplier @relation(fields: [supplierId], references: [id], onDelete: Cascade)
 
   @@unique([supplierId, brand])

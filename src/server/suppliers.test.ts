@@ -10,7 +10,7 @@ import { startSession } from "@/server/session";
 import { removeCost, removeSupplier, saveBrands, saveCost, saveFeedColumns, saveSupplier, setSupplierActive } from "@/server/supplier-actions";
 import {
   addSupplier, clearCost, createDraftsFromFeed, deleteSupplier, ensureSuppliers, feedUndercuts, importFeed, linkItem, overview, productCosts, recordCost, saveMapping,
-  setBrands, supplierDetail, SupplierError, updateSupplier,
+  setBrands, setSelectedBrands, supplierDetail, SupplierError, updateSupplier,
 } from "@/server/suppliers";
 
 const staff: Actor = { id: null, name: "Sam", source: "STAFF" };
@@ -220,5 +220,27 @@ describe("form actions", () => {
     expect(p).toMatchObject({ status: "DRAFT", priceExPence: null, brand: "Sammic" });
     expect((await db.productDetail.findUniqueOrThrow({ where: { productId: p.id } })).mpn).toBe("NEW-1");
     await expect(createDraftsFromFeed(staff, "uropa", { categorySlug: "nope" })).rejects.toThrow(SupplierError);
+  });
+
+  it("shows only the brands Caterkwik sells once some are ticked, and drafts only those", async () => {
+    await importFeed(staff, "uropa", "p.csv", csv("U1,N1,Mixer,Sammic,100.00,1", "U2,N2,Oven,Rational,900.00,1", "U3,N3,Slicer,sammic,50.00,1", "U4,N4,Fridge,Foster Refrigerator,300.00,1"));
+    expect((await supplierDetail("uropa"))!.unmatchedCount).toBe(4);
+    expect(await setSelectedBrands(staff, "uropa", ["Sammic"])).toBe(1);
+    const d = (await supplierDetail("uropa"))!;
+    expect(d).toMatchObject({ unmatchedCount: 2, showingAll: false, selectedBrands: ["Sammic"] });
+    expect(d.unmatchedBrands.map((b) => b.brand).sort()).toEqual(["Sammic", "sammic"]);
+    expect((await supplierDetail("uropa", { all: true }))!.unmatchedCount).toBe(4);
+    expect((await supplierDetail("uropa", { brand: "Rational" }))!.unmatchedCount).toBe(1);
+    expect((await createDraftsFromFeed(staff, "uropa", { categorySlug: "ovens" })).created).toBe(2);
+    expect((await db.supplierPrice.findFirstOrThrow({ where: { sku: "U2" } })).productId).toBeNull();
+  });
+
+  it("adds new brand names, and an empty selection means show everything", async () => {
+    await setSelectedBrands(staff, "uropa", [], "Brand New\nRational");
+    const rows = await db.supplierBrand.findMany({ where: { supplierId: "uropa", brand: { in: ["Brand New", "Rational"] } } });
+    expect(rows.map((r) => [r.brand, r.selected]).sort()).toEqual([["Brand New", true], ["Rational", true]]);
+    expect(await setSelectedBrands(staff, "uropa", [])).toBe(0);
+    expect(await db.supplierBrand.count({ where: { supplierId: "uropa", selected: true } })).toBe(0);
+    await expect(setSelectedBrands(staff, "nope", [])).rejects.toThrow(SupplierError);
   });
 });

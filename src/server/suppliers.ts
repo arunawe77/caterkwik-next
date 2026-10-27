@@ -93,6 +93,24 @@ export async function setBrands(actor: Actor, supplierId: string, raw: string): 
   return brands.length;
 }
 
+/** Marks which of a supplier's brands Caterkwik sells, and adds any new brand names typed in. An empty selection means "show everything". */
+export async function setSelectedBrands(actor: Actor, supplierId: string, selected: string[], extra = ""): Promise<number> {
+  const supplier = await db.supplier.findUnique({ where: { id: supplierId } });
+  if (!supplier) throw new SupplierError(`There is no supplier "${supplierId}".`);
+  const added = extra.split(/[\n,]/).map((b) => b.trim()).filter(Boolean);
+  const chosen = new Set([...selected, ...added].map((b) => b.trim().toLowerCase()).filter(Boolean));
+  const existing = await db.supplierBrand.findMany({ where: { supplierId } });
+  const have = new Set(existing.map((b) => b.brand.toLowerCase()));
+  const news = [...new Map(added.map((b) => [b.toLowerCase(), b])).values()].filter((b) => !have.has(b.toLowerCase()));
+  await db.$transaction([
+    ...(news.length ? [db.supplierBrand.createMany({ data: news.map((brand) => ({ supplierId, brand })), skipDuplicates: true })] : []),
+    db.supplierBrand.updateMany({ where: { supplierId }, data: { selected: false } }),
+    ...(chosen.size ? [db.supplierBrand.updateMany({ where: { supplierId, OR: [...chosen].map((b) => ({ brand: { equals: b, mode: "insensitive" as const } })) }, data: { selected: true } })] : []),
+  ]);
+  await audit(actor, { action: "update", entity: "supplier", entityId: supplierId, summary: `${supplier.name}: ${chosen.size ? `showing ${chosen.size} selected brands` : "showing all brands"}`, after: { selected: [...chosen] } });
+  return chosen.size;
+}
+
 export async function saveMapping(actor: Actor, supplierId: string, mapping: FeedMapping): Promise<void> {
   const supplier = await db.supplier.findUnique({ where: { id: supplierId } });
   if (!supplier) throw new SupplierError(`There is no supplier "${supplierId}".`);
@@ -233,6 +251,12 @@ export async function importFeed(actor: Actor, supplierId: string, fileName: str
   return { runId: run.id, rows: rows.length, matched, unmatched, created, changed, skipped, warnings };
 }
 
+/** A where-clause limiting feed items to the brands marked as sold; empty (no limit) when none are marked. */
+async function selectedFilter(supplierId: string): Promise<Prisma.SupplierPriceWhereInput> {
+  const sel = await db.supplierBrand.findMany({ where: { supplierId, selected: true }, select: { brand: true } });
+  return sel.length ? { OR: sel.map((b) => ({ brand: { equals: b.brand, mode: "insensitive" as const } })) } : {};
+}
+
 // ---- Importing new products from a feed ------------------------------------------------
 
 export interface DraftResult { created: number; failed: number; skippedNoName: number; messages: string[] }
@@ -243,8 +267,9 @@ export async function createDraftsFromFeed(actor: Actor, supplierId: string, inp
   if (!(await db.supplier.findUnique({ where: { id: supplierId }, select: { id: true } }))) throw new SupplierError(`There is no supplier "${supplierId}".`);
   if (!input.categorySlug) throw new SupplierError("Choose a category for the new products.");
   if (!(await db.category.findUnique({ where: { slug: input.categorySlug }, select: { slug: true } }))) throw new SupplierError(`There is no category "${input.categorySlug}".`);
+  const only = input.brand ? { brand: input.brand } : await selectedFilter(supplierId);
   const items = await db.supplierPrice.findMany({
-    where: { supplierId, productId: null, source: "FEED", ...(input.brand ? { brand: input.brand } : {}) },
+    where: { supplierId, productId: null, source: "FEED", ...only },
     orderBy: [{ brand: "asc" }, { sku: "asc" }], take: Math.min(Math.max(input.limit ?? 200, 1), 500),
   });
   const out: DraftResult = { created: 0, failed: 0, skippedNoName: 0, messages: [] };
@@ -284,20 +309,26 @@ export async function overview() {
   }));
 }
 
-export async function supplierDetail(id: string, filter: { brand?: string; page?: number } = {}) {
+export async function supplierDetail(id: string, filter: { brand?: string; page?: number; all?: boolean } = {}) {
   const supplier = await db.supplier.findUnique({ where: { id }, include: { brands: { orderBy: { brand: "asc" } } } });
   if (!supplier) return null;
   const page = Math.max(1, filter.page ?? 1);
-  const where: Prisma.SupplierPriceWhereInput = { supplierId: id, productId: null, ...(filter.brand ? { brand: filter.brand } : {}) };
+  const limit = filter.all ? {} : await selectedFilter(id);
+  const where: Prisma.SupplierPriceWhereInput = { supplierId: id, productId: null, ...(filter.brand ? { brand: filter.brand } : limit) };
   const [runs, unmatched, unmatchedCount, brandRows, linked] = await Promise.all([
     db.supplierFeedRun.findMany({ where: { supplierId: id }, orderBy: { createdAt: "desc" }, take: 8 }),
     db.supplierPrice.findMany({ where, orderBy: [{ brand: "asc" }, { sku: "asc" }], skip: (page - 1) * 50, take: 50 }),
     db.supplierPrice.count({ where }),
     db.supplierPrice.groupBy({ by: ["brand"], where: { supplierId: id, productId: null }, _count: { _all: true }, orderBy: { brand: "asc" } }),
+    // (chips below are narrowed to the selection in JS, so a brand's count stays visible when you switch the filter off)
     db.supplierPrice.count({ where: { supplierId: id, productId: { not: null } } }),
   ]);
   const mapping = { ...((supplier.feedMapping as FeedMapping | null) ?? {}) };
-  return { supplier, mapping, runs, unmatched, unmatchedCount, unmatchedBrands: brandRows.filter((b) => b.brand).map((b) => ({ brand: b.brand!, count: b._count._all })), linked, page };
+  const selectedBrands = supplier.brands.filter((b) => b.selected).map((b) => b.brand);
+  const wanted = new Set(selectedBrands.map((b) => b.toLowerCase()));
+  const chips = brandRows.filter((b) => b.brand && (filter.all || !wanted.size || wanted.has(b.brand.toLowerCase())));
+  const brandCounts = Object.fromEntries(brandRows.filter((b) => b.brand).map((b) => [b.brand!.toLowerCase(), b._count._all]));
+  return { supplier, mapping, selectedBrands, brandCounts, showingAll: !!filter.all || !selectedBrands.length, runs, unmatched, unmatchedCount, unmatchedBrands: chips.map((b) => ({ brand: b.brand!, count: b._count._all })), linked, page };
 }
 
 export async function productCosts(productId: string) {

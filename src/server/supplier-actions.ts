@@ -5,7 +5,7 @@ import { redirect } from "next/navigation";
 import { FEED_FIELDS, type FeedMapping } from "@/lib/suppliers";
 import type { FormState } from "@/server/request";
 import { currentUser, isAdmin } from "@/server/session";
-import { addSupplier, createDraftsFromFeed, clearCost, deleteSupplier, linkItem, recordCost, saveMapping, setBrands, SupplierError, updateSupplier, type Actor } from "@/server/suppliers";
+import { addSupplier, createDraftsFromFeed, setSelectedBrands, clearCost, deleteSupplier, linkItem, recordCost, saveMapping, setBrands, SupplierError, updateSupplier, type Actor } from "@/server/suppliers";
 
 // Form handlers for the supplier screens. The service functions validate; these only turn form
 // fields into the shapes they expect and the outcome into something a form can show.
@@ -59,6 +59,13 @@ export async function removeSupplier(form: FormData): Promise<void> {
 export async function saveBrands(_: FormState, form: FormData): Promise<FormState> {
   const actor = await staff();
   const outcome = await guarded(async () => void (await setBrands(actor, text(form, "id"), String(form.get("brands") ?? ""))));
+  if (outcome.ok) revalidatePath("/admin/suppliers", "layout");
+  return outcome;
+}
+
+export async function saveSelectedBrands(_: FormState, form: FormData): Promise<FormState> {
+  const actor = await staff();
+  const outcome = await guarded(async () => void (await setSelectedBrands(actor, text(form, "id"), form.getAll("selected").map(String), String(form.get("extra") ?? ""))));
   if (outcome.ok) revalidatePath("/admin/suppliers", "layout");
   return outcome;
 }

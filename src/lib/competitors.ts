@@ -69,3 +69,15 @@ export function urlOnDomain(url: string, domain: string): boolean {
 
 export const cleanDomain = (raw: string) => raw.trim().toLowerCase().replace(/^https?:\/\//, "").replace(/^www\./, "").replace(/\/.*$/, "");
 export const slugOf = (name: string) => name.toLowerCase().replace(/&/g, " and ").replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "").slice(0, 60);
+
+// ---- Automatic checking ------------------------------------------------------------------
+// Only sites that answer an ordinary request are checked by the server. The others sit behind bot protection, which is
+// never worked around: they stay manual. Each entry says how to search the site and how its prices are shown.
+export interface AutoSite { searchUrl: (q: string) => string; basis: "ex" | "inc"; delayMs: number }
+
+export const AUTO_SITES: Record<string, AutoSite> = {
+  // Magento. Its robots.txt asks for a 30 second crawl delay. Prices on its pages include VAT.
+  "cateringhygiene.co.uk": { searchUrl: (q) => `https://www.cateringhygiene.co.uk/shop/catalogsearch/result/?q=${encodeURIComponent(q)}`, basis: "inc", delayMs: 30_000 },
+};
+
+export const autoSiteFor = (domain: string): AutoSite | null => AUTO_SITES[domain.replace(/^www\./, "").toLowerCase()] ?? null;

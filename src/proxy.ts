@@ -11,7 +11,7 @@ import { customRedirect } from "@/server/redirects";
 // 4. Staging is never indexed (ALLOW_INDEXING=true lifts that in production).
 
 // The gate page and its form, the health check, robots.txt, and Stripe's webhook (which has no cookie).
-const OPEN = new Set(["/gate", "/api/gate", "/api/health", "/robots.txt", "/api/stripe/webhook"]);
+const OPEN = new Set(["/gate", "/api/gate", "/api/health", "/robots.txt", "/api/stripe/webhook", "/api/cron/competitor-prices"]);
 
 export async function proxy(req: NextRequest) {
   const { pathname, searchParams } = req.nextUrl;

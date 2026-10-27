@@ -5,22 +5,22 @@ import { ActionForm, Field } from "@/components/forms";
 import { pence, shortDate } from "@/lib/format";
 import { utilityMetadata } from "@/lib/seo";
 import { FEED_FIELDS } from "@/lib/suppliers";
-import { editSupplier, fetchUropaFeed, importUnmatchedAsDrafts, linkSupplierItem, removeSupplier, saveBrands, saveFeedColumns } from "@/server/supplier-actions";
+import { editSupplier, fetchUropaFeed, importUnmatchedAsDrafts, saveSelectedBrands, linkSupplierItem, removeSupplier, saveBrands, saveFeedColumns } from "@/server/supplier-actions";
 import { db } from "@/server/db";
 import { supplierDetail } from "@/server/suppliers";
 
 export const metadata = utilityMetadata("Supplier");
 export const dynamic = "force-dynamic";
 
-export default async function SupplierPage({ params, searchParams }: { params: Promise<{ id: string }>; searchParams: Promise<{ brand?: string; page?: string; fetched?: string }> }) {
+export default async function SupplierPage({ params, searchParams }: { params: Promise<{ id: string }>; searchParams: Promise<{ brand?: string; page?: string; fetched?: string; all?: string }> }) {
   const { id } = await params;
   const q = await searchParams;
-  const d = await supplierDetail(id, { brand: q.brand, page: Number(q.page) || 1 });
+  const d = await supplierDetail(id, { brand: q.brand, page: Number(q.page) || 1, all: q.all === "1" });
   if (!d) notFound();
   const { supplier: s } = d;
   const isFeed = s.kind === "FEED";
   const pages = Math.max(1, Math.ceil(d.unmatchedCount / 50));
-  const link = (over: Record<string, string>) => `/admin/suppliers/${s.id}?${new URLSearchParams({ ...(q.brand ? { brand: q.brand } : {}), ...over })}`;
+  const link = (over: Record<string, string>) => `/admin/suppliers/${s.id}?${new URLSearchParams({ ...(q.brand ? { brand: q.brand } : {}), ...(q.all === "1" ? { all: "1" } : {}), ...over })}`;
   const categories = isFeed ? await db.category.findMany({ orderBy: { label: "asc" }, select: { slug: true, label: true } }) : [];
 
   return (
@@ -51,6 +51,13 @@ export default async function SupplierPage({ params, searchParams }: { params: P
             <section className="panel">
               <h2>Not on our site ({d.unmatchedCount.toLocaleString("en-GB")})</h2>
               <p className="muted">Items in the feed that no product of ours matches by part number. Link one by hand if it is really the same product.</p>
+              {d.selectedBrands.length > 0 && (
+                <p role="status">
+                  {d.showingAll
+                    ? <>Showing every brand in the feed. <Link href={`/admin/suppliers/${s.id}`}>Show only the {d.selectedBrands.length} brands we sell</Link></>
+                    : <>Showing only the {d.selectedBrands.length} brands we sell. <Link href={`/admin/suppliers/${s.id}?all=1`}>Show all brands</Link></>}
+                </p>
+              )}
               {d.unmatchedBrands.length > 0 && (
                 <p>
                   {d.unmatchedBrands.slice(0, 40).map((b) => <Link key={b.brand} className="btn btn-ghost btn-sm" href={link({ brand: b.brand })}>{b.brand} ({b.count})</Link>)}
@@ -97,11 +104,31 @@ export default async function SupplierPage({ params, searchParams }: { params: P
 
           <section className="panel">
             <h2>Brands</h2>
-            <p className="muted">{isFeed ? "Brands this feed carries." : "Brands we buy from this supplier. If a feed carries the same brand, a cheaper feed cost is flagged against it."}</p>
-            <ActionForm action={saveBrands} submit="Save brands" success="Saved.">
-              <input type="hidden" name="id" value={s.id} />
-              <label className="field"><span>One per line</span><textarea name="brands" rows={10} defaultValue={s.brands.map((b) => b.brand).join("\n")} /></label>
-            </ActionForm>
+            {isFeed ? (
+              <>
+                <p className="muted">Tick the brands Caterkwik sells. The lists on this page then show only those brands and their products. Leave all unticked to see everything.</p>
+                <ActionForm action={saveSelectedBrands} submit="Save selection" success="Saved.">
+                  <input type="hidden" name="id" value={s.id} />
+                  <div className="brandpick" role="group" aria-label="Brands we sell">
+                    {s.brands.map((b) => (
+                      <label key={b.id} className="check">
+                        <input type="checkbox" name="selected" value={b.brand} defaultChecked={b.selected} />
+                        <span>{b.brand}</span> <span className="muted">{d.brandCounts[b.brand.toLowerCase()] ? `(${d.brandCounts[b.brand.toLowerCase()]})` : ""}</span>
+                      </label>
+                    ))}
+                  </div>
+                  <label className="field"><span>Add brands not listed (one per line)</span><textarea name="extra" rows={3} /></label>
+                </ActionForm>
+              </>
+            ) : (
+              <>
+                <p className="muted">Brands we buy from this supplier. If a feed carries the same brand, a cheaper feed cost is flagged against it.</p>
+                <ActionForm action={saveBrands} submit="Save brands" success="Saved.">
+                  <input type="hidden" name="id" value={s.id} />
+                  <label className="field"><span>One per line</span><textarea name="brands" rows={10} defaultValue={s.brands.map((b) => b.brand).join("\n")} /></label>
+                </ActionForm>
+              </>
+            )}
           </section>
         </div>
 

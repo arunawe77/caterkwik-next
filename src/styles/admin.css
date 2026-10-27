@@ -194,3 +194,7 @@ a.stat2:hover { border-color: var(--blue); }
 .adm-import-stats > div { border: 1px solid var(--line); border-radius: 8px; padding: 12px; background: #fff; }
 .adm-import-stats b { display: block; font-size: 24px; }
 .adm-import-stats span { color: var(--ink-60); font-size: 13px; }
+
+/* Brand picker on a feed supplier: a wrapping grid of tick boxes. */
+.brandpick { display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 4px 12px; max-height: 320px; overflow: auto; margin-bottom: 12px; }
+.brandpick .check { display: flex; gap: 6px; align-items: baseline; }
