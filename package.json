@@ -47,5 +47,8 @@
     "playwright-core": "^1.64.0",
     "typescript": "^5",
     "vitest": "^4.1.11"
+  },
+  "overrides": {
+    "magicast": "0.5.5"
   }
 }
