@@ -5,6 +5,7 @@ import { Faqs, TypeLinks, WhyCaterkwik } from "@/components/content-blocks";
 import { Crumbs } from "@/components/crumbs";
 import { JsonLd } from "@/components/json-ld";
 import { ExpertPicks } from "@/components/expert-picks";
+import { storefrontSlides } from "@/server/recommendations";
 import { CatalogueKit } from "@/components/kit-chat";
 import { ProductCard } from "@/components/product-card";
 import { getType, isOvenType, productHref, productsOfType, typeHref, types, type OvenType, type Product } from "@/lib/catalogue";
@@ -104,6 +105,7 @@ export async function CategoryView({ type, all: every, base, query, siblings, su
   const rich = new Map<string, Rich>();
   if (!perPage) await Promise.all(all.map(async (p) => { const r = await richOf(p.id); if (r) rich.set(p.id, r); }));
   const spec = specFacets(all, rich, specSel);
+  const custom = await storefrontSlides(type.slug);
   const oven = isOvenType(type.slug);
   const shown = spec.apply(applySelection(all, sel));
   const ordered = [...shown.filter((p) => p.stock !== "discontinued"), ...shown.filter((p) => p.stock === "discontinued")];
@@ -131,7 +133,7 @@ export async function CategoryView({ type, all: every, base, query, siblings, su
         <p className="sub">{type.audience}</p>
       </header>
       <CategoryBanner type={type} />
-      <ExpertPicks label={type.label} products={all} />
+      <ExpertPicks label={type.label} products={all} custom={custom} />
 
       <div className="browse">
         <form className="facets" action={base} aria-label="Filters">

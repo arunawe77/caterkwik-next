@@ -156,3 +156,23 @@ describe("the indexing switch, on", () => {
     expect(siteMetadata.robots).toEqual({ index: false, follow: false });
   });
 });
+
+describe("case studies page", () => {
+  it("lists every customer story and is canonical", async () => {
+    const { default: CaseStudies, metadata } = await import("@/app/(shop)/case-studies/page");
+    const { caseStudies } = await import("@/lib/case-studies");
+    expect(metadata.alternates?.canonical).toBe("http://localhost:3000/case-studies");
+    const out = html(<CaseStudies />);
+    expect((out.match(/class="cs-card"/g) ?? []).length).toBe(caseStudies.length);
+    expect(out).toContain("La Brasseria");
+    expect(out).toContain('href="https://www.caterkwik.co.uk/docs/catersafe-case-study.pdf"');
+  });
+
+  it("folds only long stories at a word boundary", async () => {
+    const { splitStory } = await import("@/lib/case-studies");
+    expect(splitStory("short")).toEqual({ lead: "short", rest: "" });
+    const { lead, rest } = splitStory("word ".repeat(100), 50);
+    expect(lead.endsWith("…")).toBe(true);
+    expect(`${lead.slice(0, -1)} ${rest}`.replace(/\s+/g, " ").trim()).toBe("word ".repeat(100).trim());
+  });
+});

@@ -94,6 +94,7 @@ export function Header() {
             <li>Here for you 8am to 6pm, Mon to Sat</li>
             <li><a href={tel} className="iconlink"><Icon name="phone" />{COMPANY.phone}</a></li>
             <li><Link href="/account" className="iconlink"><Icon name="user" />Account</Link></li>
+            <li><Link href="/reconditioned-and-graded" className="iconlink recon"><Icon name="check" />Reconditioned &amp; Graded</Link></li>
             <li><Link href="/live-consult" className="iconlink"><Icon name="phone" />Book a live consultation</Link></li>
             <li><QuoteLink /></li>
             <li><CartLink /></li>
@@ -157,7 +158,7 @@ export function Footer() {
           </div>
           <div>
             <strong>Services</strong>
-            <ul><li>Kitchen survey &amp; design</li><li>Installation &amp; service</li><li>Public sector</li><li><Link href="/live-consult">Book a live consultation</Link></li><li><Link href="/meet-the-team">Meet the team</Link></li><li>Reconditioned &amp; graded</li></ul>
+            <ul><li>Kitchen survey &amp; design</li><li>Installation &amp; service</li><li>Public sector</li><li><Link href="/live-consult">Book a live consultation</Link></li><li><Link href="/case-studies">Case studies</Link></li><li><Link href="/meet-the-team">Meet the team</Link></li><li><Link href="/reconditioned-and-graded">Reconditioned &amp; graded</Link></li></ul>
           </div>
           <div>
             <strong>Talk to us</strong>

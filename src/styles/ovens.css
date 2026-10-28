@@ -299,3 +299,40 @@ body.showinc .ocard .price .inc { font-size: 20px; color: var(--ink); font-weigh
   .ocard:hover .btn { background: var(--navy); border-color: var(--navy); color: #fff; }
   .ocard:hover .btn svg { transform: translateX(3px); }
 }
+
+/* ---------- product card: tabs and marketplace in one ---------- */
+.ocard.hybrid .ctabs { margin: 0 0 8px; }
+.ocard.hybrid .ctabs input { position: absolute; opacity: 0; pointer-events: none; }
+.ocard.hybrid .tbar { position: relative; display: grid; grid-template-columns: repeat(3, 1fr); background: var(--paper, #f3f5f9); border-radius: 10px; padding: 3px; margin: 0 0 8px; }
+.ocard.hybrid .tbar::before { content: ""; position: absolute; top: 3px; bottom: 3px; left: 3px; width: calc((100% - 6px) / 3); background: #fff; border-radius: 8px; box-shadow: 0 2px 6px rgba(8,37,70,.18); transition: transform .3s cubic-bezier(.3,.8,.2,1); }
+.ocard.hybrid .t2:checked ~ .tbar::before { transform: translateX(100%); }
+.ocard.hybrid .t3:checked ~ .tbar::before { transform: translateX(200%); }
+.ocard.hybrid .tbar label { position: relative; text-align: center; font-size: 12.5px; font-weight: 700; padding: 6px 0; cursor: pointer; color: var(--ink-60); }
+.ocard.hybrid .t1:checked ~ .tbar .l1, .ocard.hybrid .t2:checked ~ .tbar .l2, .ocard.hybrid .t3:checked ~ .tbar .l3 { color: var(--navy, #0a2a52); }
+.ocard.hybrid .ctabs input:focus-visible ~ .tbar { outline: 2px solid var(--blue); }
+.ocard.hybrid .pn { display: none; min-height: 66px; margin: 0; font-size: 12.5px; color: var(--ink-60); }
+.ocard.hybrid .t1:checked ~ .tpanes .pn1, .ocard.hybrid .t2:checked ~ .tpanes .pn2, .ocard.hybrid .t3:checked ~ .tpanes .pn3 { display: block; }
+.ocard.hybrid .pn2 ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 3px; }
+.ocard.hybrid .pn2 li { display: flex; justify-content: space-between; gap: 8px; }
+.ocard.hybrid .pn2 li span { color: var(--ink-50); }
+.ocard.hybrid .stockline { margin: 0 0 2px; font-size: 12.5px; font-weight: 700; display: flex; align-items: center; gap: 6px; }
+.ocard.hybrid .stockline::before { content: ""; width: 8px; height: 8px; border-radius: 50%; background: currentColor; }
+.ocard.hybrid .stockline.ok { color: var(--green-deep, #11803f); }
+.ocard.hybrid .stockline.poa { color: var(--ink-60); }
+.ocard.hybrid .stockline.gone { color: var(--amber-deep, #a8620a); }
+.ocard.hybrid .warr { margin: 0 0 10px; font-size: 12px; color: var(--ink-50); }
+.ocard.hybrid .price { margin: auto 0 4px; }
+
+/* Phones: the compact row. Photo on the left; name, headline figures, price and button on the right. Tabs and extra lines are hidden. */
+@media (max-width: 640px) {
+  .ocard.hybrid { display: grid; grid-template-columns: 96px 1fr; column-gap: 12px; align-items: start; padding: 10px; }
+  .ocard.hybrid .shot { grid-column: 1; grid-row: 1 / span 6; margin: 0; align-self: center; }
+  .ocard.hybrid .photo { max-height: 96px; }
+  .ocard.hybrid > :not(.shot) { grid-column: 2; }
+  .ocard.hybrid h3 { font-size: 14px; margin: 0 0 4px; }
+  .ocard.hybrid .tbar, .ocard.hybrid .pn2, .ocard.hybrid .pn3, .ocard.hybrid .stockline, .ocard.hybrid .warr { display: none; }
+  .ocard.hybrid .t1:checked ~ .tpanes .pn1, .ocard.hybrid .pn1 { display: block; min-height: 0; margin: 0 0 6px; }
+  .ocard.hybrid .price { margin: 0 0 6px; }
+  .ocard.hybrid .price .ex { font-size: 18px; }
+  .ocard.hybrid .btn { margin-top: 0; width: 100%; }
+}

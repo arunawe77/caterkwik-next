@@ -2,22 +2,16 @@ import Link from "next/link";
 import { EpickCarousel } from "@/components/epick-carousel";
 import { Price } from "@/components/price";
 import { money } from "@/lib/format";
-import { productHref, type Product } from "@/lib/catalogue";
-
-// Staff from https://www.caterkwik.co.uk/meettheteam.shtml, one per slide.
-const TEAM = [
-  { name: "Melody", role: "Solutions Manager", photo: "/assets/img/team/melody-hd.jpg" },
-  { name: "Mike", role: "Assistant Solutions Manager", photo: "/assets/img/team/mike-hd.jpg" },
-  { name: "Courtney", role: "Solutions Coordinator", photo: "/assets/img/team/courtney-hd.jpg" },
-  { name: "Kane", role: "Solutions Coordinator", photo: "/assets/img/team/kane-hd.jpg" },
-];
+import { getProduct, productHref, type Product } from "@/lib/catalogue";
+import { TEAM, teamMember } from "@/lib/team";
+import type { StoredPick } from "@/server/recommendations";
 
 const stamp = (d: Date) =>
   new Intl.DateTimeFormat("en-GB", { dateStyle: "long", timeStyle: "short", timeZone: "Europe/London" }).format(d);
 
 type Tone = "green" | "blue" | "amber";
 type Pick = { chip: string; heading: string; why: string; product: Product; tone: Tone };
-export type Slide = { kicker: string; blurb: string; picks: Pick[] };
+export type Slide = { kicker: string; blurb: string; picks: Pick[]; who?: string };
 
 const TONES: Tone[] = ["green", "blue", "amber"];
 const inStock = (list: Product[]) => list.filter((p) => p.stock === "in-stock" && p.priceEx !== null);
@@ -61,15 +55,30 @@ export function slidesOf(list: Product[], label: string): Slide[] {
   return slides;
 }
 
-export function ExpertPicks({ label, products }: { label: string; products: Product[] }) {
-  const slides = slidesOf(products, label);
+export type CustomSlide = { id: string; kicker: string; blurb: string; recommender: string; picks: StoredPick[] };
+
+/** Slides set by staff in the admin. A product no longer in the catalogue, or no longer on sale, drops off its card; a slide left empty is skipped. */
+export function customSlidesOf(rows: CustomSlide[]): Slide[] {
+  return rows.flatMap((r) => {
+    const picks = r.picks.flatMap((p, i) => {
+      const product = getProduct(p.productId);
+      return product && product.stock !== "discontinued" ? [{ chip: p.chip, heading: p.heading, why: p.why, product, tone: TONES[i % TONES.length] }] : [];
+    });
+    return picks.length ? [{ kicker: r.kicker, blurb: r.blurb, picks, who: r.recommender }] : [];
+  });
+}
+
+// A page's own slides when staff have set any; otherwise the automatic ones built from its products.
+export function ExpertPicks({ label, products, custom = [] }: { label: string; products: Product[]; custom?: CustomSlide[] }) {
+  const own = customSlidesOf(custom);
+  const slides = own.length ? own : slidesOf(products, label);
   if (!slides.length) return null;
   const now = new Date();
   return (
     <section className="epicks-wrap" aria-label={`Recommended ${label.toLowerCase()}`}>
       <EpickCarousel labels={slides.map((s) => s.kicker)}>
         {slides.map((s, n) => {
-          const who = TEAM[n % TEAM.length];
+          const who = s.who ? teamMember(s.who) : TEAM[n % TEAM.length];
           return (
           <div className="epicks" key={s.kicker}>
             <div className="epick-who">

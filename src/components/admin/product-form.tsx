@@ -2,6 +2,7 @@
 
 import { useActionState } from "react";
 import { saveProduct } from "@/server/catalogue-actions";
+import { CategoryPicker } from "./category-picker";
 import { ImageField } from "./image-field";
 
 export interface ProductFormValues {
@@ -42,10 +43,7 @@ export function ProductForm({ values, categories }: { values: ProductFormValues;
           <label className="field wide"><span>Name <i>*</i></span><input name="name" required defaultValue={v.name} maxLength={200} /></label>
           <label className="field"><span>Brand</span><input name="brand" defaultValue={v.brand} maxLength={80} /></label>
           <label className="field"><span>Category <i>*</i></span>
-            <select name="categorySlug" required defaultValue={v.categorySlug}>
-              <option value="" disabled>Choose...</option>
-              {categories.map((c) => <option key={c.slug} value={c.slug}>{c.label}</option>)}
-            </select>
+            <CategoryPicker name="categorySlug" required categories={categories} defaultValue={v.categorySlug} />
           </label>
           <label className="field"><span>Status</span>
             <select name="status" defaultValue={v.status}>

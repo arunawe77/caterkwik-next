@@ -32,7 +32,7 @@ afterAll(() => db.$disconnect());
 
 describe("competitor pages", () => {
   it("list the six sites with nothing recorded yet", async () => {
-    const out = html(await CompetitorsPage());
+    const out = html(await CompetitorsPage({ searchParams: Promise.resolve({}) }));
     for (const name of ["Catering Appliance", "Nisbets", "Catering Hygiene", "Alliance Online", "CS Catering Equipment", "Next Day Catering"]) expect(out).toContain(name);
     expect(out).toContain("None yet");
     expect(out).toContain("Add a competitor");
@@ -40,7 +40,7 @@ describe("competitor pages", () => {
 
   it("show prices, positions and out-of-date flags once recorded", async () => {
     await recordPrice(staff, { productId: oven, competitorId: "nisbets", price: 1100, basis: "ex", url: "https://www.nisbets.co.uk/falcon", theirName: "", inStock: false, note: "" });
-    const home = html(await CompetitorsPage());
+    const home = html(await CompetitorsPage({ searchParams: Promise.resolve({}) }));
     expect(home).toContain("▼ -9.1%");
     expect(home).toContain("We are cheaper on average");
 

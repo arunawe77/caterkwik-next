@@ -10,6 +10,8 @@ const entries: [string, number][] = [
   ["/", 1],
   ["/ovens", 0.9],
   ["/cooking", 0.9],
+  ["/landing", 0.8],
+  ["/case-studies", 0.6],
   ["/falcon/g3101-otc-p", 0.6],
   ...types.map((t): [string, number] => [typeHref(t.slug), 0.8]),
   ...cookingGroups().map((g): [string, number] => [`/cooking/${g.slug}`, 0.7]),

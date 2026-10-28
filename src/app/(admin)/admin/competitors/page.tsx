@@ -1,16 +1,18 @@
 import Link from "next/link";
 import { StatTile } from "@/components/admin/stat-tile";
 import { ActionForm, Field } from "@/components/forms";
-import { percentLabel } from "@/lib/competitors";
+import { autoSiteFor, percentLabel } from "@/lib/competitors";
 import { shortDate } from "@/lib/format";
 import { utilityMetadata } from "@/lib/seo";
-import { removeCompetitor, saveCompetitor, setCompetitorActive } from "@/server/competitor-actions";
+import { checkCompetitorsNow, removeCompetitor, saveCompetitor, setCompetitorActive } from "@/server/competitor-actions";
+import { checkInProgress } from "@/server/competitor-check";
 import { ensureCompetitors, overview } from "@/server/competitors";
 
 export const metadata = utilityMetadata("Competitors");
 export const dynamic = "force-dynamic";
 
-export default async function CompetitorsPage() {
+export default async function CompetitorsPage({ searchParams }: { searchParams: Promise<{ checking?: string }> }) {
+  const q = await searchParams;
   await ensureCompetitors();
   const o = await overview();
   const tracked = o.positions.cheapest + o.positions.level + o.positions.dearer + o.positions.unpriced;
@@ -38,11 +40,16 @@ export default async function CompetitorsPage() {
         <section className="panel">
           <h2>Sites we watch</h2>
           <p className="muted">
-            Every one of these sites blocks automated checks, so prices are typed in from the public product page. Open a product from the
-            <Link href="/admin/competitors/prices"> price comparison</Link> to record what each site charges.
+            Sites marked <b>Automatic</b> are read by the server: it finds each product by part number and re-checks the recorded pages, one request every 30 seconds.
+            The others block automated checks, so their prices are typed in from the public product page. Open a product from the
+            <Link href="/admin/competitors/prices"> price comparison</Link> to record what a site charges.
           </p>
+          {q.checking && <p className="okmsg" role="status">{q.checking === "started" ? "Checking in the background. Refresh in a few minutes to see new prices." : "A check is already running."}</p>}
+          <form action={checkCompetitorsNow} className="form">
+            <button className="btn btn-navy btn-sm" type="submit" disabled={checkInProgress()}>{checkInProgress() ? "Checking now..." : "Check automatic sites now"}</button>
+          </form>
           <table className="table">
-            <thead><tr><th>Competitor</th><th className="num">Products</th><th className="num">Avg gap</th><th>Last recorded</th><th /></tr></thead>
+            <thead><tr><th>Competitor</th><th>Tracking</th><th className="num">Products</th><th className="num">Avg gap</th><th>Last recorded</th><th /></tr></thead>
             <tbody>
               {o.competitors.map((c) => (
                 <tr key={c.id}>
@@ -51,6 +58,7 @@ export default async function CompetitorsPage() {
                     {!c.active && <> <span className="tag ARCHIVED">Paused</span></>}
                     <br /><span className="muted">{c.domain}{c.notes ? ` · ${c.notes}` : ""}</span>
                   </td>
+                  <td>{autoSiteFor(c.domain) ? <span className="tag IN_STOCK">Automatic</span> : <span className="muted">By hand</span>}</td>
                   <td className="num">{c.tracked}{c.stale > 0 && <><br /><span className="muted">{c.stale} out of date</span></>}</td>
                   <td className="num">{c.averageGap === null ? "-" : percentLabel(c.averageGap)}</td>
                   <td>{c.lastChecked ? shortDate(c.lastChecked) : <span className="muted">Never</span>}</td>

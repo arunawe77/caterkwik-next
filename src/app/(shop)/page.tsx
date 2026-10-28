@@ -1,13 +1,16 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { Faqs, TypeLinks, WhyCaterkwik } from "@/components/content-blocks";
+import { Icon, type IconName } from "@/components/icons";
 import { JsonLd } from "@/components/json-ld";
 import { CatalogueKit } from "@/components/kit-chat";
 import { ProductCard } from "@/components/product-card";
+import { caseStudies, caseStudyImage, splitStory, type CaseStudy } from "@/lib/case-studies";
 import { products, shopRoots, types, typeHref } from "@/lib/catalogue";
 import { homeFaqs } from "@/lib/copy";
 import { absolute, pageMetadata } from "@/lib/seo";
 import { COMPANY } from "@/lib/site";
+import "@/styles/home.css";
 
 export const metadata: Metadata = pageMetadata({
   title: "Caterkwik | Commercial catering equipment, supplied and serviced",
@@ -17,61 +20,157 @@ export const metadata: Metadata = pageMetadata({
 
 const FEATURED = ["6-burner-range", "convectionovens", "cook--hold--ovens", "wood-fired-ovens"];
 const STRIP = [...FEATURED, "rotisserie-ovens", "charcoal-oven"];
+const STORIES = ["La Brasseria", "Framptons", "Beatons Tearooms"];
+const SERVICES: { icon: IconName; title: string; text: string }[] = [
+  { icon: "ruler", title: "Kitchen survey and design", text: "Layouts and equipment lists planned around how your kitchen really works." },
+  { icon: "truck", title: "Delivery", text: "Our own logistics team, with live updates on your Caterkwik account." },
+  { icon: "wrench", title: "Installation and service", text: "Gas safe registered engineers for installation, servicing and repairs." },
+  { icon: "key", title: "Lease and finance", text: "Spread the cost with weekly lease prices on selected equipment." },
+];
 
 export default function Home() {
   const picks = products
     .filter((p) => p.stock === "in-stock" && p.leaseWeek !== null && p.spec)
     .sort((a, b) => a.priceEx! - b.priceEx!)
     .slice(0, 4);
+  const years = new Date().getFullYear() - COMPANY.established;
+  const stories = STORIES.map((t) => caseStudies.find((c) => c.title.startsWith(t))).filter((c): c is CaseStudy => !!c && !!caseStudyImage(c));
+  const tel = `tel:${COMPANY.phone.replace(/\s+/g, "")}`;
 
   return (
-    <main className="wrap ovenpage">
-      <header className="hero">
-        <div className="herotext">
-          <p className="eyebrow">Established {COMPANY.established}</p>
-          <h1>Commercial catering equipment, supplied and serviced</h1>
-          <p className="sub">
-            Internet prices with traditional service. Start with commercial ovens: {types.length} types and {products.length} models,
-            filterable by what actually decides the purchase.
-          </p>
-          <Link className="btn btn-primary" href="/ovens">Browse commercial ovens</Link>
-        </div>
-        <div className="herostrip" aria-hidden>
-          {STRIP.map((s) => (
-            // eslint-disable-next-line @next/next/no-img-element
-            <img key={s} src={`/assets/img/ovens-hub/${s}.webp`} alt="" width={370} height={370} />
-          ))}
+    <main className="home">
+      <header className="hm-hero">
+        <div className="wrap">
+          <div>
+            <p className="eyebrow">Established {COMPANY.established}</p>
+            <h1>Commercial catering equipment, <em>supplied and serviced</em></h1>
+            <p className="sub">
+              Internet prices with traditional service. From a single oven to a full kitchen refit, we advise, deliver, install and look
+              after it for years to come.
+            </p>
+            <div className="hm-actions">
+              <Link className="btn btn-primary" href="/ovens">Browse commercial ovens</Link>
+              <Link className="btn btn-ghostdark" href="/quote">Get a quote</Link>
+              <a className="btn btn-ghostdark" href={tel}><Icon name="phone" />{COMPANY.phone}</a>
+            </div>
+            <ul className="hm-nums">
+              <li><b>{years}+</b><span>years supplying caterers</span></li>
+              <li><b>{products.length}</b><span>oven models, filterable by what matters</span></li>
+              <li><b>{caseStudies.length}</b><span>customer stories</span></li>
+            </ul>
+          </div>
+          <div className="hm-collage" aria-hidden>
+            {STRIP.map((s) => (
+              // eslint-disable-next-line @next/next/no-img-element
+              <img key={s} src={`/assets/img/ovens-hub/${s}.webp`} alt="" width={370} height={370} />
+            ))}
+          </div>
         </div>
       </header>
 
-      <h2 className="tgridhead">Shop ovens by type</h2>
-      <div className="tgrid">
-        {FEATURED.map((slug) => {
-          const t = types.find((x) => x.slug === slug)!;
-          return (
-            <article key={slug} className="tcard">
-              <Link className="tshot" href={typeHref(slug)} tabIndex={-1} aria-hidden>
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img src={`/assets/img/ovens-hub/${slug}.webp`} alt="" loading="lazy" width={370} height={370} />
-              </Link>
-              <div className="tbody">
-                <h3><Link href={typeHref(slug)}>{t.label}</Link></h3>
-                <p className="aud">{t.audience}</p>
-                <p className="count">{t.live} available</p>
-              </div>
-            </article>
-          );
-        })}
+      <section className="hm-trust" aria-label="Why customers choose us">
+        <div className="wrap">
+          <ul>
+            <li><Icon name="check" /><div><b>Price match promise</b><span>Internet prices, honestly matched</span></div></li>
+            <li><Icon name="truck" /><div><b>Our own logistics</b><span>Delivery updates on your account</span></div></li>
+            <li><Icon name="wrench" /><div><b>Installation and service</b><span>Gas safe engineers, after-sales care</span></div></li>
+            <li><Icon name="phone" /><div><b>Real people on the phone</b><span>Here 8am to 6pm, Monday to Saturday</span></div></li>
+          </ul>
+        </div>
+      </section>
+
+      <section className="hm-recon" aria-label="Reconditioned and graded equipment">
+        <div className="wrap">
+          <div>
+            <p className="eyebrow">Reconditioned &amp; Graded</p>
+            <h2>Looking to save? Ask about reconditioned and graded equipment</h2>
+            <p>Availability changes, so tell us what you need and we will come back with what we have.</p>
+          </div>
+          <Link className="btn btn-primary" href="/reconditioned-and-graded">See reconditioned &amp; graded</Link>
+        </div>
+      </section>
+
+      <div className="wrap ovenpage">
+        <section className="hm-sec">
+          <div className="hm-head">
+            <div><h2>Shop ovens by type</h2><p>{types.length} types, each with its own buying guide and filters.</p></div>
+            <Link className="hm-link" href="/ovens">All commercial ovens &rarr;</Link>
+          </div>
+          <div className="hm-tiles">
+            {FEATURED.map((slug) => {
+              const t = types.find((x) => x.slug === slug)!;
+              return (
+                <Link key={slug} className="hm-tile" href={typeHref(slug)}>
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img src={`/assets/img/ovens-hub/${slug}.webp`} alt="" loading="lazy" width={370} height={370} />
+                  <div>
+                    <h3>{t.label}</h3>
+                    <p>{t.audience}</p>
+                    <p className="count">{t.live} available</p>
+                  </div>
+                </Link>
+              );
+            })}
+          </div>
+        </section>
       </div>
 
-      <h2 className="tgridhead">Lease from a few pounds a week</h2>
-      <div className="ogrid">{picks.map((p) => <ProductCard key={p.id} product={p} />)}</div>
+      <section className="hm-services">
+        <div className="wrap">
+          <div className="hm-head"><div><h2>More than a box on a pallet</h2><p>Help at every stage, from the first question to the engineer visit.</p></div></div>
+          <div className="hm-svc">
+            {SERVICES.map((s) => (
+              <article key={s.title}>
+                <span className="ic"><Icon name={s.icon} size={22} /></span>
+                <h3>{s.title}</h3>
+                <p>{s.text}</p>
+              </article>
+            ))}
+          </div>
+        </div>
+      </section>
 
-      {shopRoots().length > 0 && <TypeLinks heading="Shop all departments" types={shopRoots()} />}
-      <TypeLinks heading="All oven types" types={types} />
-      <WhyCaterkwik />
-      <Faqs heading="Questions about buying an oven" faqs={homeFaqs(products, types.length)} />
-      <CatalogueKit />
+      <div className="wrap ovenpage">
+        <section className="hm-sec">
+          <div className="hm-head"><div><h2>Lease from a few pounds a week</h2><p>In stock now, with weekly lease prices shown.</p></div></div>
+          <div className="ogrid">{picks.map((p) => <ProductCard key={p.id} product={p} />)}</div>
+        </section>
+
+        {stories.length > 0 && (
+          <section className="hm-sec">
+            <div className="hm-head">
+              <div><h2>Trusted by kitchens like yours</h2><p>Real customers, from pubs and cafés to schools and laundries.</p></div>
+              <Link className="hm-link" href="/case-studies">Read all {caseStudies.length} case studies &rarr;</Link>
+            </div>
+            <div className="hm-stories">
+              {stories.map((c) => (
+                <Link key={c.title} href="/case-studies" className="hm-story">
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img src={caseStudyImage(c)!} alt="" loading="lazy" />
+                  <div><h3>{c.title}</h3><p>{splitStory(c.body, 150).lead}</p></div>
+                </Link>
+              ))}
+            </div>
+          </section>
+        )}
+
+        <section className="hm-cta">
+          <div>
+            <h2>Not sure what you need?</h2>
+            <p>Talk to our team or book a live consultation. We will help you choose the right equipment for your kitchen and budget.</p>
+          </div>
+          <div className="hm-ctabtns">
+            <Link className="btn btn-primary" href="/live-consult">Book a live consultation</Link>
+            <Link className="btn btn-ghostdark" href="/contact">Contact the team</Link>
+          </div>
+        </section>
+
+        {shopRoots().length > 0 && <TypeLinks heading="Shop all departments" types={shopRoots()} />}
+        <TypeLinks heading="All oven types" types={types} />
+        <WhyCaterkwik />
+        <Faqs heading="Questions about buying an oven" faqs={homeFaqs(products, types.length)} />
+        <CatalogueKit />
+      </div>
 
       <JsonLd
         data={[

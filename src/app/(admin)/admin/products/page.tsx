@@ -2,6 +2,7 @@ import type { Prisma } from "@prisma/client";
 import Link from "next/link";
 import { SelectAll } from "@/components/admin/select-all";
 import { utilityMetadata } from "@/lib/seo";
+import { CategoryPicker } from "@/components/admin/category-picker";
 import { bulkProducts } from "@/server/catalogue-actions";
 import { db } from "@/server/db";
 
@@ -53,10 +54,7 @@ export default async function ProductsPage({ searchParams }: { searchParams: Pro
       <form className="adm-filters" role="search">
         <label>Search<input type="search" name="q" defaultValue={sp.q} placeholder="Name, brand or code" /></label>
         <label>Category
-          <select name="category" defaultValue={sp.category ?? ""}>
-            <option value="">All</option>
-            {categories.map((c) => <option key={c.slug} value={c.slug}>{c.label}</option>)}
-          </select>
+          <CategoryPicker name="category" categories={categories} defaultValue={sp.category ?? ""} emptyLabel="All" />
         </label>
         <label>Status
           <select name="status" defaultValue={sp.status ?? ""}>

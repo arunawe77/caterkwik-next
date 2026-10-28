@@ -6,7 +6,7 @@ import { usePathname } from "next/navigation";
 type Item = [href: string, label: string, exact?: boolean];
 const GROUPS: { title: string; items: Item[] }[] = [
   { title: "Overview", items: [["/admin", "Dashboard"], ["/admin/analytics", "Analytics"]] },
-  { title: "Catalogue", items: [["/admin/products", "Products"], ["/admin/products/new", "Add product", true], ["/admin/categories", "Categories"], ["/admin/import", "Import products"], ["/admin/inventory", "Inventory"]] },
+  { title: "Catalogue", items: [["/admin/products", "Products"], ["/admin/products/new", "Add product", true], ["/admin/categories", "Categories"], ["/admin/recommendations", "Recommendations"],["/admin/import", "Import products"], ["/admin/inventory", "Inventory"]] },
   { title: "Sales", items: [["/admin/orders", "Orders"], ["/admin/enquiries", "Quotes and enquiries"], ["/admin/customers", "Customers"]] },
   { title: "Market and supply", items: [["/admin/competitors", "Competitors", true], ["/admin/competitors/prices", "Price comparison"], ["/admin/suppliers", "Suppliers"]] },
   { title: "Site", items: [["/admin/redirects", "Redirects"], ["/admin/users", "Staff and roles"], ["/admin/activity", "Activity log"]] },

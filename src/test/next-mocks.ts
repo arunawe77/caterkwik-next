@@ -43,6 +43,6 @@ export async function resetTestState() {
   await db.$transaction([
     db.webhookEvent.deleteMany(), db.orderLine.deleteMany(), db.order.deleteMany(), db.enquiry.deleteMany(),
     db.passwordReset.deleteMany(), db.session.deleteMany(), db.customRedirect.deleteMany(), db.user.deleteMany(),
-    db.pendingAction.deleteMany(), db.auditLog.deleteMany(), db.importRun.deleteMany(), db.product.deleteMany(), db.category.deleteMany(), db.competitor.deleteMany(), db.supplier.deleteMany(),
+    db.pendingAction.deleteMany(), db.auditLog.deleteMany(), db.importRun.deleteMany(), db.product.deleteMany(), db.category.deleteMany(), db.competitor.deleteMany(), db.supplier.deleteMany(), db.recommendation.deleteMany(),
   ]);
 }

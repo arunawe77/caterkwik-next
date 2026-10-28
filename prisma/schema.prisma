@@ -455,3 +455,20 @@ model SupplierFeedRun {
 
   @@index([supplierId, createdAt])
 }
+
+// ---- Recommendations ------------------------------------------------------------------------------
+// A slide of the "Recommended by" banner on one category page, set by staff. A category with no active slides keeps the
+// automatic banner built from its live products. picks: [{ productId, chip, heading, why }], one to three of them.
+model Recommendation {
+  id           String   @id @default(cuid())
+  categorySlug String
+  sortOrder    Int      @default(0)
+  kicker       String
+  blurb        String
+  recommender  String // a name from the team list in src/lib/team.ts
+  picks        Json
+  active       Boolean  @default(true)
+  updatedAt    DateTime @updatedAt
+
+  @@index([categorySlug, sortOrder])
+}

@@ -3,6 +3,7 @@
 import { revalidatePath } from "next/cache";
 import { redirect } from "next/navigation";
 import { addCompetitor, clearPrice, CompetitorError, deleteCompetitor, recordPrice, updateCompetitor, type Actor } from "@/server/competitors";
+import { startBackgroundCheck } from "@/server/competitor-check";
 import type { FormState } from "@/server/request";
 import { currentUser, isAdmin } from "@/server/session";
 
@@ -74,4 +75,12 @@ export async function removePrice(form: FormData): Promise<void> {
   await clearPrice(actor, productId, text(form, "competitorId"));
   revalidatePath("/admin/competitors", "layout");
   redirect(`/admin/competitors/prices/${encodeURIComponent(productId)}`);
+}
+
+export async function checkCompetitorsNow(): Promise<void> {
+  const actor = await staff();
+  // Runs in the background: each request to a site is 30 seconds after the last, so a click cannot wait for it.
+  const started = startBackgroundCheck(actor, { max: 5, budgetMs: 10 * 60_000 });
+  revalidatePath("/admin/competitors");
+  redirect(`/admin/competitors?checking=${started ? "started" : "busy"}`);
 }
