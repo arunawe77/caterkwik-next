@@ -1,5 +1,4 @@
 import { NextResponse, type NextRequest } from "next/server";
-import { judge } from "@/lib/bot-guard";
 import { COOKIE, PASSWORD, TOKEN } from "@/lib/gate";
 import { resolveLegacy } from "@/lib/legacy";
 import { INDEXABLE } from "@/lib/seo";
@@ -10,23 +9,12 @@ import { customRedirect } from "@/server/redirects";
 // 2. Trailing slashes are removed.
 // 3. Staging gate: with SITE_PASSWORD set, everything else needs the access cookie.
 // 4. Staging is never indexed (ALLOW_INDEXING=true lifts that in production).
-// 5. In production, scraping tools are refused and each address has a request budget (see lib/bot-guard).
 
 // The gate page and its form, the health check, robots.txt, and Stripe's webhook (which has no cookie).
 const OPEN = new Set(["/gate", "/api/gate", "/api/health", "/robots.txt", "/api/stripe/webhook", "/api/cron/competitor-prices"]);
 
 export async function proxy(req: NextRequest) {
   const { pathname, searchParams } = req.nextUrl;
-
-  if (process.env.NODE_ENV === "production" && !OPEN.has(pathname)) {
-    const ip = req.headers.get("x-forwarded-for")?.split(",")[0].trim() || "unknown";
-    const verdict = judge(ip, req.headers.get("user-agent"));
-    if (!verdict.allow) {
-      return new NextResponse(verdict.status === 429 ? "Too many requests. Please slow down." : "Automated access is not permitted.", {
-        status: verdict.status, headers: { "Content-Type": "text/plain", ...(verdict.retryAfter ? { "Retry-After": String(verdict.retryAfter) } : {}) },
-      });
-    }
-  }
 
   const legacy = resolveLegacy(pathname, searchParams) ?? (await customRedirect(pathname));
   if (legacy) return NextResponse.redirect(new URL(legacy, req.url), 301);
