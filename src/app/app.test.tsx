@@ -13,7 +13,8 @@ import ProductPage, { generateMetadata as productMeta, generateStaticParams as p
 import SearchPage from "@/app/(shop)/search/page";
 import robots from "@/app/robots";
 import sitemap from "@/app/sitemap";
-import { cookingProducts, cookingTypes, getProduct, products, types } from "@/lib/catalogue";
+import { cookingGroups, cookingProducts, getProduct, products, shopProducts, shopTypes, types } from "@/lib/catalogue";
+import { renderAsync } from "@/test/render";
 
 const html = (el: React.ReactElement) => renderToStaticMarkup(el);
 const params = <T,>(v: T) => Promise.resolve(v);
@@ -47,7 +48,7 @@ describe("the three approved pages", () => {
 describe("home", () => {
   it("shows the hero, the featured types and lease picks", () => {
     const out = html(<Home />);
-    expect(out).toContain("Commercial catering equipment, supplied and serviced");
+    expect(out).toContain("Commercial catering equipment, <em>supplied and serviced</em>");
     expect(out).toContain("6 Burner Ovens");
     expect(out).toContain("Lease from");
     expect(out).toContain('"@type":"Organization"');
@@ -56,7 +57,7 @@ describe("home", () => {
 
 describe("type page", () => {
   const render = async (type: string, query: Record<string, string | string[]> = {}) =>
-    html(await TypePage({ params: params({ type }), searchParams: params(query) }));
+    renderAsync(await TypePage({ params: params({ type }), searchParams: params(query) }));
 
   it("lists available models, then discontinued ones below the grid with no price", async () => {
     const out = await render("4-burner");
@@ -204,7 +205,7 @@ describe("small pages", () => {
 describe("sitemap and robots", () => {
   it("lists the home page, the hub, every type and every product", () => {
     const urls = sitemap().map((e) => e.url);
-    expect(urls).toHaveLength(4 + types.length + products.length + cookingTypes.filter((t) => t.total > 0).length + cookingProducts.length);
+    expect(urls).toHaveLength(6 + types.length + cookingGroups().length + 1 + shopTypes.filter((t) => t.total > 0).length + products.length + cookingProducts.length + shopProducts.length);
     expect(urls).toContain("http://localhost:3000/falcon/g3101-otc-p");
     expect(urls).toContain("http://localhost:3000/ovens/4-burner/cr6d");
     expect(new Set(urls).size).toBe(urls.length);

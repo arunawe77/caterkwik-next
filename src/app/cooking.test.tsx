@@ -4,6 +4,7 @@ import CookingHub from "@/app/(shop)/cooking/page";
 import CookingType, { generateStaticParams as typeParams } from "@/app/(shop)/cooking/[type]/page";
 import CookingProduct, { generateStaticParams as productParams } from "@/app/(shop)/cooking/[type]/[id]/page";
 import { cookingGroups, cookingProducts, cookingTypes, getProduct, productHref, products, types, typeHref } from "@/lib/catalogue";
+import { renderAsync } from "@/test/render";
 import { richOf } from "@/lib/rich";
 import { searchProducts } from "@/lib/search";
 
@@ -43,12 +44,12 @@ describe("cooking pages", () => {
 
   it("renders a category with schema filters, and 404s an oven type", async () => {
     const fryers = cookingGroups().find((g) => /fryer/i.test(g.label))!;
-    const out = html(await CookingType({ params: params({ type: fryers.slug }), searchParams: params({}) }));
+    const out = await renderAsync(await CookingType({ params: params({ type: fryers.slug }), searchParams: params({}) }));
     expect(out).toContain(fryers.label);
     expect(out).toContain("Availability");
     expect(out).toContain("Type");
     const one = fryers.types[0];
-    const filtered = html(await CookingType({ params: params({ type: fryers.slug }), searchParams: params({ type: one.slug }) }));
+    const filtered = await renderAsync(await CookingType({ params: params({ type: fryers.slug }), searchParams: params({ type: one.slug }) }));
     expect(filtered).toContain(`of ${one.total} model`);
     await expect(CookingType({ params: params({ type: one.slug }), searchParams: params({}) })).rejects.toThrow(/NEXT_REDIRECT/);
     await expect(CookingType({ params: params({ type: "4-burner" }), searchParams: params({}) })).rejects.toThrow();
@@ -67,7 +68,7 @@ describe("cooking pages", () => {
   }, 60000);
 
   it("serves one static route per category and product", () => {
-    expect(typeParams()).toHaveLength(cookingTypes.length);
+    expect(typeParams()).toHaveLength(cookingGroups().length);
     expect(productParams()).toHaveLength(cookingProducts.length);
   });
 });

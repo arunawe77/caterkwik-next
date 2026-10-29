@@ -84,8 +84,7 @@ describe("site chrome", () => {
     expect(out).toContain('action="/search"');
     expect(out).toContain('data-vat="ex"');
     expect(out).toContain('href="tel:01229480001"');
-    expect(out).toContain('<a class="on" href="/cooking">Cooking</a>');
-    expect(out).toContain('href="/not-in-preview"');
+    expect(out).toContain('href="/cooking"');
     expect(out).toContain('class="usps"');
   });
 

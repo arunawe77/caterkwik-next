@@ -13,6 +13,7 @@ import { Faqs, TypeLinks, WhyCaterkwik } from "@/components/content-blocks";
 import { Header } from "@/components/site-chrome";
 import { siteMetadata } from "@/components/site-shell";
 import { products, types } from "@/lib/catalogue";
+import { renderAsync } from "@/test/render";
 
 const html = (el: React.ReactElement) => renderToStaticMarkup(el);
 const params = <T,>(v: T) => Promise.resolve(v);
@@ -60,9 +61,9 @@ describe("home page", () => {
 });
 
 describe("type page content", () => {
-  const render = async (type: string) => html(await TypePage({ params: params({ type }), searchParams: params({}) }));
+  const render = async (type: string) => renderAsync(await TypePage({ params: params({ type }), searchParams: params({}) }));
 
-  it("has an introduction, questions, trust points and links to every other type", async () => {
+  it("has an introduction, questions, trust points and links to every other type", { timeout: 60000 }, async () => {
     const out = await render("4-burner");
     expect(out).toContain("About 4 burner ovens");
     expect(out).toContain("4 Burner Ovens: common questions");

@@ -6,8 +6,10 @@ import { JsonLd } from "@/components/json-ld";
 import { CatalogueKit } from "@/components/kit-chat";
 import { ProductCard } from "@/components/product-card";
 import { caseStudies, caseStudyImage, splitStory, type CaseStudy } from "@/lib/case-studies";
-import { products, shopRoots, types, typeHref } from "@/lib/catalogue";
+import { productHref, products, shopRoots, types, typeHref } from "@/lib/catalogue";
+import { Carousel, CountUp, HeroShowcase, Reveal, type ShowcaseSlide } from "@/components/home-motion";
 import { homeFaqs } from "@/lib/copy";
+import { money } from "@/lib/format";
 import { absolute, pageMetadata } from "@/lib/seo";
 import { COMPANY } from "@/lib/site";
 import "@/styles/home.css";
@@ -32,13 +34,23 @@ export default function Home() {
   const picks = products
     .filter((p) => p.stock === "in-stock" && p.leaseWeek !== null && p.spec)
     .sort((a, b) => a.priceEx! - b.priceEx!)
-    .slice(0, 4);
+    .slice(0, 10);
+  const showcase = [...FEATURED, "rotisserie-ovens", "4-burner"]
+    .map((slug) => products.filter((p) => p.type === slug && p.stock === "in-stock" && p.priceEx !== null && p.image).sort((a, b) => a.priceEx! - b.priceEx!)[0])
+    .filter((p): p is (typeof products)[number] => !!p);
+  const slides: ShowcaseSlide[] = (showcase.length ? showcase : picks.slice(0, 5)).map((p) => ({
+    href: productHref(p), name: p.name, brand: p.brand, image: p.image, price: money(p.priceEx!), lease: p.leaseWeek !== null ? money(p.leaseWeek) : null,
+  }));
   const years = new Date().getFullYear() - COMPANY.established;
   const stories = STORIES.map((t) => caseStudies.find((c) => c.title.startsWith(t))).filter((c): c is CaseStudy => !!c && !!caseStudyImage(c));
+  const brands = Object.entries(
+    products.reduce<Record<string, number>>((m, p) => (p.brand ? { ...m, [p.brand]: (m[p.brand] ?? 0) + 1 } : m), {}),
+  ).sort((a, b) => b[1] - a[1]).slice(0, 10).map(([name]) => name);
   const tel = `tel:${COMPANY.phone.replace(/\s+/g, "")}`;
 
   return (
     <main className="home">
+      <noscript><style>{".reveal{opacity:1!important;transform:none!important}"}</style></noscript>
       <header className="hm-hero">
         <div className="wrap">
           <div>
@@ -53,18 +65,17 @@ export default function Home() {
               <Link className="btn btn-ghostdark" href="/quote">Get a quote</Link>
               <a className="btn btn-ghostdark" href={tel}><Icon name="phone" />{COMPANY.phone}</a>
             </div>
+            <p className="hm-popular">
+              <span>Popular</span>
+              {FEATURED.map((slug) => { const t = types.find((x) => x.slug === slug); return t ? <Link key={slug} href={typeHref(slug)}>{t.label}</Link> : null; })}
+            </p>
             <ul className="hm-nums">
-              <li><b>{years}+</b><span>years supplying caterers</span></li>
-              <li><b>{products.length}</b><span>oven models, filterable by what matters</span></li>
-              <li><b>{caseStudies.length}</b><span>customer stories</span></li>
+              <li><CountUp to={years} suffix="+" /><span>years supplying caterers</span></li>
+              <li><CountUp to={products.length} /><span>oven models, filterable by what matters</span></li>
+              <li><CountUp to={caseStudies.length} /><span>customer stories</span></li>
             </ul>
           </div>
-          <div className="hm-collage" aria-hidden>
-            {STRIP.map((s) => (
-              // eslint-disable-next-line @next/next/no-img-element
-              <img key={s} src={`/assets/img/ovens-hub/${s}.webp`} alt="" width={370} height={370} />
-            ))}
-          </div>
+          <HeroShowcase slides={slides} />
         </div>
       </header>
 
@@ -78,6 +89,12 @@ export default function Home() {
           </ul>
         </div>
       </section>
+
+      {brands.length > 0 && (
+        <section className="hm-brands" aria-label="Brands we supply">
+          <div className="wrap"><span>Brands we supply</span>{brands.map((b) => <b key={b}>{b}</b>)}</div>
+        </section>
+      )}
 
       <section className="hm-recon" aria-label="Reconditioned and graded equipment">
         <div className="wrap">
@@ -96,7 +113,7 @@ export default function Home() {
             <div><h2>Shop ovens by type</h2><p>{types.length} types, each with its own buying guide and filters.</p></div>
             <Link className="hm-link" href="/ovens">All commercial ovens &rarr;</Link>
           </div>
-          <div className="hm-tiles">
+          <Reveal><div className="hm-tiles">
             {FEATURED.map((slug) => {
               const t = types.find((x) => x.slug === slug)!;
               return (
@@ -111,14 +128,14 @@ export default function Home() {
                 </Link>
               );
             })}
-          </div>
+          </div></Reveal>
         </section>
       </div>
 
       <section className="hm-services">
         <div className="wrap">
           <div className="hm-head"><div><h2>More than a box on a pallet</h2><p>Help at every stage, from the first question to the engineer visit.</p></div></div>
-          <div className="hm-svc">
+          <Reveal><div className="hm-svc">
             {SERVICES.map((s) => (
               <article key={s.title}>
                 <span className="ic"><Icon name={s.icon} size={22} /></span>
@@ -126,14 +143,14 @@ export default function Home() {
                 <p>{s.text}</p>
               </article>
             ))}
-          </div>
+          </div></Reveal>
         </div>
       </section>
 
       <div className="wrap ovenpage">
         <section className="hm-sec">
           <div className="hm-head"><div><h2>Lease from a few pounds a week</h2><p>In stock now, with weekly lease prices shown.</p></div></div>
-          <div className="ogrid">{picks.map((p) => <ProductCard key={p.id} product={p} />)}</div>
+          <Carousel label="In stock with lease prices">{picks.map((p) => <div key={p.id} className="hm-car-card"><ProductCard product={p} /></div>)}</Carousel>
         </section>
 
         {stories.length > 0 && (
@@ -142,7 +159,7 @@ export default function Home() {
               <div><h2>Trusted by kitchens like yours</h2><p>Real customers, from pubs and cafés to schools and laundries.</p></div>
               <Link className="hm-link" href="/case-studies">Read all {caseStudies.length} case studies &rarr;</Link>
             </div>
-            <div className="hm-stories">
+            <Reveal><div className="hm-stories">
               {stories.map((c) => (
                 <Link key={c.title} href="/case-studies" className="hm-story">
                   {/* eslint-disable-next-line @next/next/no-img-element */}
@@ -150,7 +167,7 @@ export default function Home() {
                   <div><h3>{c.title}</h3><p>{splitStory(c.body, 150).lead}</p></div>
                 </Link>
               ))}
-            </div>
+            </div></Reveal>
           </section>
         )}
 

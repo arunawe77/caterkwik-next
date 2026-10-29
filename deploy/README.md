@@ -98,6 +98,16 @@ crontab -e     # 0 2 * * *  cd /opt/caterkwick/caterkwik-next && ./deploy/backup
 
 Restore: `gunzip -c backup.sql.gz | docker compose exec -T db psql -U caterkwik caterkwik`.
 
+## Competitor price checks
+
+Set `CRON_SECRET` in `.env` (`openssl rand -hex 32`), then schedule the nightly run:
+
+```bash
+crontab -e     # 0 3 * * *  cd /opt/caterkwick/caterkwik-next && ./deploy/competitor-check.sh
+```
+
+Staff can also press "Check now" on /admin/competitors. Only sites listed in `AUTO_SITES` are checked automatically.
+
 ## 10. Going to production
 
 Production goes in Caterkwik's own cloud account, not Awe's. Same steps, with `SITE_URL` set to the real domain and
