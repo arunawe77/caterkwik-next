@@ -1,7 +1,7 @@
 import type { Prisma } from "@prisma/client";
 import { z } from "zod";
 import {
-  codeKey, compareCosts, FEED_FIELDS, guessMapping, parseCsv, readFeed, seedSuppliers, slugOf, type CostComparison, type CostLine, type FeedMapping,
+  codeKey, compareCosts, FEED_FIELDS, guessMapping, parseCsv, readFeed, seedSuppliers, slugOf, type CostComparison, type CostLine, type FeedMapping, type FeedRow,
 } from "@/lib/suppliers";
 import { createProduct } from "@/server/catalogue-admin";
 import { db } from "@/server/db";
@@ -194,11 +194,16 @@ export async function importFeed(actor: Actor, supplierId: string, fileName: str
   const mapping = { ...guessMapping(table[0]), ...((supplier.feedMapping as FeedMapping | null) ?? {}) };
   const { rows, skipped, missing } = readFeed(table, mapping);
   if (missing.length) throw new SupplierError(`Could not find a column for: ${missing.join(", ")}. Set the columns on the supplier page. The file's columns are: ${table[0].join(", ")}.`);
+  return applyFeed(actor, supplier, fileName, rows, skipped);
+}
 
+/** Records feed rows against a supplier: matches them to our products, adds the new ones, and updates only what changed. */
+export async function applyFeed(actor: Actor, supplier: { id: string; name: string }, fileName: string, rows: FeedRow[], skipped = 0, onProgress?: (done: number, total: number) => void): Promise<FeedResult> {
+  const supplierId = supplier.id;
   // Our products by part number. A code shared by two products is ambiguous and left unmatched rather than guessed.
   const [details, existing, products] = await Promise.all([
     db.productDetail.findMany({ where: { mpn: { not: null } }, select: { productId: true, mpn: true } }),
-    db.supplierPrice.findMany({ where: { supplierId }, select: { id: true, sku: true, productId: true, costExPence: true, stockQty: true, source: true } }),
+    db.supplierPrice.findMany({ where: { supplierId } }),
     db.product.findMany({ select: { id: true } }),
   ]);
   const productIds = new Set(products.map((p) => p.id));
@@ -215,28 +220,37 @@ export async function importFeed(actor: Actor, supplierId: string, fileName: str
 
   const creates: Prisma.SupplierPriceCreateManyInput[] = [];
   const updates: Prisma.PrismaPromise<unknown>[] = [];
+  const unchanged: string[] = [];
   for (const r of rows) {
     const old = known.get(r.sku);
-    // A hand-made link is kept; otherwise match by the manufacturer number, then by the supplier's own code.
-    const k = codeKey(r.mpn) || codeKey(r.sku);
-    const fromCode = (k && byCode.get(k)) || (codeKey(r.sku) && byCode.get(codeKey(r.sku))) || null;
-    if (k && byCode.get(k) === null) ambiguous++;
+    // A hand-made link is kept; otherwise match by the supplier's own code, then by the manufacturer number.
+    const skuKey = codeKey(r.sku);
+    const mpnKey = codeKey(r.mpn);
+    if ((skuKey && byCode.get(skuKey) === null) || (mpnKey && byCode.get(mpnKey) === null)) ambiguous++;
+    const fromCode = (skuKey && byCode.get(skuKey)) || (mpnKey && byCode.get(mpnKey)) || null;
     const productId = old?.productId && productIds.has(old.productId) ? old.productId : fromCode;
     if (productId) matched++; else unmatched++;
     if (r.costExPence === null) noCost++;
+    const extra = {
+      rrpPence: r.rrpPence ?? null, webPence: r.webPence ?? null, dropped: r.dropped ?? false,
+      description: r.description ?? null, groupName: r.groupName ?? null,
+    };
     if (!old) {
       created++;
-      creates.push({ supplierId, productId, sku: r.sku, mpn: r.mpn, brand: r.brand, name: r.name, costExPence: r.costExPence, stockQty: r.stockQty, source: "FEED", seenAt: now, updatedBy: actor.name });
-    } else {
-      if (old.costExPence !== (r.costExPence ?? old.costExPence) || old.stockQty !== (r.stockQty ?? old.stockQty) || old.productId !== productId) changed++;
-      updates.push(db.supplierPrice.update({
-        where: { id: old.id },
-        data: { productId, mpn: r.mpn, brand: r.brand, name: r.name, costExPence: r.costExPence ?? old.costExPence, stockQty: r.stockQty ?? old.stockQty, seenAt: now, updatedBy: actor.name },
-      }));
+      creates.push({ supplierId, productId, sku: r.sku, mpn: r.mpn, brand: r.brand, name: r.name, costExPence: r.costExPence, stockQty: r.stockQty, ...extra, source: "FEED", seenAt: now, updatedBy: actor.name });
+      continue;
     }
+    const next = { productId, mpn: r.mpn, brand: r.brand, name: r.name, costExPence: r.costExPence ?? old.costExPence, stockQty: r.stockQty ?? old.stockQty, ...extra };
+    const same = (Object.keys(next) as (keyof typeof next)[]).every((k) => next[k] === (old as Record<string, unknown>)[k]);
+    if (same) { unchanged.push(old.id); continue; }
+    if (old.costExPence !== next.costExPence || old.stockQty !== next.stockQty || old.productId !== productId) changed++;
+    updates.push(db.supplierPrice.update({ where: { id: old.id }, data: { ...next, seenAt: now, updatedBy: actor.name } }));
   }
-  for (let i = 0; i < creates.length; i += 1000) await db.supplierPrice.createMany({ data: creates.slice(i, i + 1000), skipDuplicates: true });
-  for (let i = 0; i < updates.length; i += 200) await db.$transaction(updates.slice(i, i + 200));
+  const total = creates.length + updates.length + unchanged.length;
+  let done = 0;
+  for (let i = 0; i < creates.length; i += 1000) { await db.supplierPrice.createMany({ data: creates.slice(i, i + 1000), skipDuplicates: true }); onProgress?.((done += Math.min(1000, creates.length - i)), total); }
+  for (let i = 0; i < updates.length; i += 200) { await db.$transaction(updates.slice(i, i + 200)); onProgress?.((done += Math.min(200, updates.length - i)), total); }
+  for (let i = 0; i < unchanged.length; i += 5000) await db.supplierPrice.updateMany({ where: { id: { in: unchanged.slice(i, i + 5000) } }, data: { seenAt: now } });
 
   if (skipped) warnings.push(`${skipped} rows had no supplier code (or repeated one) and were skipped.`);
   if (noCost) warnings.push(`${noCost} rows had no usable cost price.`);

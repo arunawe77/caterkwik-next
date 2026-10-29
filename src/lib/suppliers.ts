@@ -37,9 +37,8 @@ export function seedSuppliers(): SeedSupplier[] {
 
 // ---- Reading a feed file ---------------------------------------------------------------
 
-/** A CSV reader that copes with quoted fields, doubled quotes, embedded newlines, a BOM and CRLF. */
-export function parseCsv(text: string): string[][] {
-  const rows: string[][] = [];
+/** Reads CSV one row at a time, so a very large file never has to be held as rows. Copes with quoted fields, doubled quotes, embedded newlines, a BOM and CRLF. */
+export function* csvRows(text: string): Generator<string[]> {
   let row: string[] = [];
   let field = "";
   let quoted = false;
@@ -55,14 +54,15 @@ export function parseCsv(text: string): string[][] {
     else if (c === "\n" || c === "\r") {
       if (c === "\r" && src[i + 1] === "\n") i++;
       row.push(field); field = "";
-      if (row.some((v) => v.trim() !== "")) rows.push(row);
+      if (row.some((v) => v.trim() !== "")) yield row;
       row = [];
     } else field += c;
   }
   row.push(field);
-  if (row.some((v) => v.trim() !== "")) rows.push(row);
-  return rows;
+  if (row.some((v) => v.trim() !== "")) yield row;
 }
+
+export const parseCsv = (text: string): string[][] => [...csvRows(text)];
 
 export type FeedField = "sku" | "mpn" | "name" | "brand" | "cost" | "stock";
 export const FEED_FIELDS: { key: FeedField; label: string; required: boolean }[] = [
@@ -113,7 +113,11 @@ export function stockOf(raw: string | undefined): number | null {
 /** Part numbers are matched ignoring case, spaces and punctuation, so "G3101-A" and "g3101 a" agree. */
 export const codeKey = (s: string | null | undefined) => (s ?? "").toLowerCase().replace(/[^a-z0-9]/g, "");
 
-export interface FeedRow { sku: string; mpn: string | null; brand: string | null; name: string | null; costExPence: number | null; stockQty: number | null }
+export interface FeedRow {
+  sku: string; mpn: string | null; brand: string | null; name: string | null; costExPence: number | null; stockQty: number | null;
+  // Only some feeds carry these (Uropa's does).
+  rrpPence?: number | null; webPence?: number | null; dropped?: boolean; description?: string | null; groupName?: string | null;
+}
 
 /** Turns parsed CSV into rows using the mapping. Rows with no code are skipped and counted. */
 export function readFeed(rows: string[][], mapping: FeedMapping): { rows: FeedRow[]; skipped: number; missing: string[] } {

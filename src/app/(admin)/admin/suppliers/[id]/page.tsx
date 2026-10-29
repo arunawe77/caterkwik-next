@@ -5,14 +5,15 @@ import { ActionForm, Field } from "@/components/forms";
 import { pence, shortDate } from "@/lib/format";
 import { utilityMetadata } from "@/lib/seo";
 import { FEED_FIELDS } from "@/lib/suppliers";
-import { editSupplier, fetchUropaFeed, importUnmatchedAsDrafts, saveSelectedBrands, linkSupplierItem, removeSupplier, saveBrands, saveFeedColumns } from "@/server/supplier-actions";
+import { applyWebPrice, editSupplier, syncUropa, importUnmatchedAsDrafts, saveSelectedBrands, linkSupplierItem, removeSupplier, saveBrands, saveFeedColumns } from "@/server/supplier-actions";
 import { db } from "@/server/db";
 import { supplierDetail } from "@/server/suppliers";
+import { MIN_MARGIN, priceReview, syncStatus } from "@/server/uropa-sync";
 
 export const metadata = utilityMetadata("Supplier");
 export const dynamic = "force-dynamic";
 
-export default async function SupplierPage({ params, searchParams }: { params: Promise<{ id: string }>; searchParams: Promise<{ brand?: string; page?: string; fetched?: string; all?: string }> }) {
+export default async function SupplierPage({ params, searchParams }: { params: Promise<{ id: string }>; searchParams: Promise<{ brand?: string; page?: string; fetched?: string; all?: string; syncing?: string; busy?: string }> }) {
   const { id } = await params;
   const q = await searchParams;
   const d = await supplierDetail(id, { brand: q.brand, page: Number(q.page) || 1, all: q.all === "1" });
@@ -21,6 +22,8 @@ export default async function SupplierPage({ params, searchParams }: { params: P
   const isFeed = s.kind === "FEED";
   const pages = Math.max(1, Math.ceil(d.unmatchedCount / 50));
   const link = (over: Record<string, string>) => `/admin/suppliers/${s.id}?${new URLSearchParams({ ...(q.brand ? { brand: q.brand } : {}), ...(q.all === "1" ? { all: "1" } : {}), ...over })}`;
+  const sync = s.id === "uropa" ? syncStatus() : null;
+  const review = s.id === "uropa" ? await priceReview() : null;
   const categories = isFeed ? await db.category.findMany({ orderBy: { label: "asc" }, select: { slug: true, label: true } }) : [];
 
   return (
@@ -30,20 +33,59 @@ export default async function SupplierPage({ params, searchParams }: { params: P
         <div className="adm-actions"><Link className="btn btn-ghost btn-sm" href="/admin/suppliers">Back to suppliers</Link></div>
       </header>
       {q.fetched && <p className="okmsg" role="status">{q.fetched}</p>}
+      {sync?.running && <meta httpEquiv="refresh" content="5" />}
 
       <div className="adm-two">
         <div>
           {isFeed && (
             <section className="panel">
               <h2>Load prices</h2>
-              {s.id === "uropa" && (
-                <form action={fetchUropaFeed} className="form">
-                  <p className="muted">Downloads Uropa&apos;s current product and stock file and loads it. Prices and stock change daily, so run it each morning.</p>
-                  <button className="btn btn-navy" type="submit">Fetch from Uropa now</button>
-                </form>
+              {s.id === "uropa" && sync && (
+                <>
+                  <form action={syncUropa} className="form">
+                    <p className="muted">One click downloads Uropa&apos;s latest price, stock and product files, matches them to our products by part number, updates costs and stock, and adds anything we don&apos;t sell as a draft product. Selling prices are never changed here. Run it each morning: Uropa&apos;s prices and offers change daily.</p>
+                    <button className="btn btn-navy" type="submit" disabled={sync.running}>{sync.running ? "Sync running…" : "Sync from Uropa now"}</button>
+                  </form>
+                  {q.busy && <p role="status">A sync is already running.</p>}
+                  {sync.running && <p role="status">{sync.phase}{sync.total ? `: ${sync.done.toLocaleString("en-GB")} of ${sync.total.toLocaleString("en-GB")}` : "…"} <span className="muted">(this page refreshes itself)</span></p>}
+                  {sync.summary && <p className="okmsg" role="status">{sync.summary}</p>}
+                  {sync.error && <p className="errmsg" role="alert">The sync failed: {sync.error}</p>}
+                </>
               )}
               <h3>Or upload a file</h3>
               <SupplierFeedUpload supplierId={s.id} />
+            </section>
+          )}
+
+          {review && (
+            <section className="panel">
+              <h2>Selling prices to review ({review.total.toLocaleString("en-GB")})</h2>
+              <p className="muted">Matched products with no selling price, or selling at under {MIN_MARGIN}% margin over what Uropa charges us. Nothing here is changed automatically. Uropa&apos;s web price is assumed to be ex VAT: check one before relying on it.</p>
+              {review.rows.length ? (
+                <table className="table">
+                  <thead><tr><th>Product</th><th className="num">Our price</th><th className="num">Uropa cost</th><th className="num">Margin</th><th className="num">Uropa web price</th><th /></tr></thead>
+                  <tbody>
+                    {review.rows.map((r) => (
+                      <tr key={r.priceId}>
+                        <td><Link href={`/admin/products/${encodeURIComponent(r.productId)}`}>{r.name}</Link><br /><span className="muted">{r.reason}{r.status === "DRAFT" ? " · draft" : ""}</span></td>
+                        <td className="num">{r.sellEx === null ? "-" : pence(r.sellEx)}</td>
+                        <td className="num">{pence(r.costEx)}</td>
+                        <td className="num">{r.margin === null ? "-" : `${r.margin.toFixed(1)}%`}</td>
+                        <td className="num">{r.webEx === null ? "-" : pence(r.webEx)}</td>
+                        <td>
+                          {r.webEx !== null && (
+                            <form action={applyWebPrice}>
+                              <input type="hidden" name="id" value={r.priceId} />
+                              <button className="btn btn-ghost btn-sm" type="submit">Use web price</button>
+                            </form>
+                          )}
+                        </td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              ) : <p className="muted">Nothing to review.</p>}
+              {review.total > review.rows.length && <p className="muted">Showing the first {review.rows.length}.</p>}
             </section>
           )}
 

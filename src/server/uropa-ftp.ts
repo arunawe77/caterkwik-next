@@ -15,7 +15,8 @@ export interface RemoteFile { name: string; modifiedAt: Date | undefined; size: 
 /** The newest CSV whose name matches, or null. Names are matched ignoring case. */
 export function newestCsv(files: RemoteFile[], pattern?: RegExp): RemoteFile | null {
   const csvs = files.filter((f) => /\.csv$/i.test(f.name) && (!pattern || pattern.test(f.name)));
-  csvs.sort((a, b) => (b.modifiedAt?.getTime() ?? 0) - (a.modifiedAt?.getTime() ?? 0));
+  // A plain FTP listing has no year, so the date can be missing: Uropa's names carry a timestamp (Price_20261029-050155.csv), which breaks the tie.
+  csvs.sort((a, b) => (b.modifiedAt?.getTime() ?? 0) - (a.modifiedAt?.getTime() ?? 0) || b.name.localeCompare(a.name));
   return csvs[0] ?? null;
 }
 
@@ -52,5 +53,31 @@ export async function fetchUropaFeed(env = process.env): Promise<{ fileName: str
   } catch (err) {
     if (!uropaConfigured(env)) throw err instanceof Error ? err : new Error("Could not download Uropa's feed.");
     return fetchUropaPriceFile(env);
+  }
+}
+
+export const UROPA_DEFAULT_HOST = "ftp3.nisbets.co.uk";
+
+/** The newest price file plus the stock and product files, as text. Names are matched by their start, as Uropa names them. */
+export async function fetchUropaFiles(env = process.env, log?: (phase: string) => void): Promise<{ price: string; stock: string; product: string; priceName: string }> {
+  if (!env.UROPA_FTP_USER || !env.UROPA_FTP_PASSWORD) throw new Error("The Uropa FTP login is not set on this server (UROPA_FTP_USER and UROPA_FTP_PASSWORD).");
+  const client = new Client(120_000);
+  const read = async (name: string) => {
+    log?.(`Downloading ${name}`);
+    const chunks: Buffer[] = [];
+    await client.downloadTo(new Writable({ write(chunk: Buffer, _enc, done) { chunks.push(chunk); done(); } }), name);
+    return Buffer.concat(chunks).toString("utf8");
+  };
+  try {
+    await client.access({ host: env.UROPA_FTP_HOST || UROPA_DEFAULT_HOST, user: env.UROPA_FTP_USER, password: env.UROPA_FTP_PASSWORD, secure: false });
+    const files = (await client.list("/")).filter((f) => f.isFile).map((f) => ({ name: f.name, modifiedAt: f.modifiedAt, size: f.size }));
+    const price = newestCsv(files, /^price/i);
+    const stock = newestCsv(files, /^stock/i);
+    const product = newestCsv(files, /^product/i);
+    const absent = [!price && "price", !stock && "stock", !product && "product"].filter(Boolean);
+    if (absent.length || !price || !stock || !product) throw new Error(`The Uropa server has no ${absent.join(" or ")} file. It holds: ${files.map((f) => f.name).join(", ") || "nothing"}.`);
+    return { priceName: price.name, price: await read(price.name), stock: await read(stock.name), product: await read(product.name) };
+  } finally {
+    client.close();
   }
 }

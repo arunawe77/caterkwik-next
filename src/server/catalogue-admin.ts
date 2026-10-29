@@ -110,7 +110,7 @@ function toData(patch: ProductPatch): Prisma.ProductUncheckedUpdateInput {
   return data;
 }
 
-const idOf = (name: string) =>
+export const idOf = (name: string) =>
   name.toLowerCase().replace(/&/g, " and ").replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "").slice(0, 70) || "product";
 
 async function requireCategory(slugValue: string) {

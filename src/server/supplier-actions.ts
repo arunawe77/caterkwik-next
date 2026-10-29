@@ -3,6 +3,7 @@
 import { revalidatePath } from "next/cache";
 import { redirect } from "next/navigation";
 import { FEED_FIELDS, type FeedMapping } from "@/lib/suppliers";
+import { AdminError } from "@/server/catalogue-admin";
 import type { FormState } from "@/server/request";
 import { currentUser, isAdmin } from "@/server/session";
 import { addSupplier, createDraftsFromFeed, setSelectedBrands, clearCost, deleteSupplier, linkItem, recordCost, saveMapping, setBrands, SupplierError, updateSupplier, type Actor } from "@/server/suppliers";
@@ -104,19 +105,25 @@ export async function linkSupplierItem(form: FormData): Promise<void> {
   revalidatePath("/admin/suppliers", "layout");
 }
 
-export async function fetchUropaFeed(): Promise<void> {
+export async function syncUropa(): Promise<void> {
   const actor = await staff();
-  const { fetchUropaFeed } = await import("@/server/uropa-ftp");
-  const { importFeed } = await import("@/server/suppliers");
+  const { startUropaSync } = await import("@/server/uropa-sync");
+  const started = startUropaSync(actor);
+  revalidatePath("/admin/suppliers", "layout");
+  redirect(`/admin/suppliers/uropa?${started ? "syncing=1" : "busy=1"}`);
+}
+
+export async function applyWebPrice(form: FormData): Promise<void> {
+  const actor = await staff();
+  const { setToWebPrice } = await import("@/server/uropa-sync");
   let note: string;
   try {
-    const { fileName, text } = await fetchUropaFeed();
-    const r = await importFeed(actor, "uropa", fileName, text);
-    note = `Loaded ${fileName}: ${r.rows} rows, ${r.matched} matched, ${r.unmatched} not on our site, ${r.changed} changed.`;
+    note = `Selling price of "${await setToWebPrice(actor, text(form, "id"))}" set to Uropa's web price.`;
   } catch (err) {
-    note = `Failed: ${err instanceof Error ? err.message : "unknown error"}`;
+    if (!(err instanceof SupplierError) && !(err instanceof AdminError)) throw err;
+    note = `Failed: ${err.message}`;
   }
-  revalidatePath("/admin/suppliers", "layout");
+  revalidatePath("/admin", "layout");
   redirect(`/admin/suppliers/uropa?fetched=${encodeURIComponent(note)}`);
 }
 

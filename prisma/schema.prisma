@@ -427,6 +427,11 @@ model SupplierPrice {
   stockQty    Int?
   source      CostSource @default(FEED)
   note        String?
+  rrpPence    Int? // the supplier's recommended retail price, as published
+  webPence    Int? // the supplier's own web price, as published
+  dropped     Boolean    @default(false) // the supplier has dropped this line
+  description String?
+  groupName   String? // the supplier's class / section / group, kept to place new products
   seenAt      DateTime   @default(now()) // last time a feed listed it
   updatedAt   DateTime   @updatedAt
   updatedBy   String?

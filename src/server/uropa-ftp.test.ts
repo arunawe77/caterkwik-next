@@ -12,6 +12,11 @@ describe("uropa ftp", () => {
     expect(newestCsv([f("licence.pdf", 1)])).toBeNull();
   });
 
+  it("falls back to the timestamp in the name when the listing has no dates", () => {
+    const files = [f("Price_20261020-050253.csv", undefined), f("Price_20261029-050155.csv", undefined), f("Price_20261024-050411.csv", undefined)];
+    expect(newestCsv(files, /^price/i)?.name).toBe("Price_20261029-050155.csv");
+  });
+
   it("needs host, user and password", () => {
     expect(uropaConfigured({ UROPA_FTP_HOST: "h", UROPA_FTP_USER: "u", UROPA_FTP_PASSWORD: "p" } as never)).toBe(true);
     expect(uropaConfigured({ UROPA_FTP_HOST: "h" } as never)).toBe(false);
