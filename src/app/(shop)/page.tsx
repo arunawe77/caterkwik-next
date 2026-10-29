@@ -7,12 +7,13 @@ import { CatalogueKit } from "@/components/kit-chat";
 import { ProductCard } from "@/components/product-card";
 import { caseStudies, caseStudyImage, splitStory, type CaseStudy } from "@/lib/case-studies";
 import { productHref, products, shopRoots, types, typeHref } from "@/lib/catalogue";
-import { Carousel, CountUp, HeroShowcase, Reveal, type ShowcaseSlide } from "@/components/home-motion";
+import { Carousel, CountUp, GlowArea, HeroShowcase, HeroSpot, Reveal, ScrollWords, type ShowcaseSlide } from "@/components/home-motion";
 import { homeFaqs } from "@/lib/copy";
 import { money } from "@/lib/format";
 import { absolute, pageMetadata } from "@/lib/seo";
 import { COMPANY } from "@/lib/site";
 import "@/styles/home.css";
+import "@/styles/home-premium.css";
 
 export const metadata: Metadata = pageMetadata({
   title: "Caterkwik | Commercial catering equipment, supplied and serviced",
@@ -52,10 +53,12 @@ export default function Home() {
     <main className="home">
       <noscript><style>{".reveal{opacity:1!important;transform:none!important}"}</style></noscript>
       <header className="hm-hero">
+        <HeroSpot />
+        <div className="hm-aurora" aria-hidden><i /><i /><i /></div>
         <div className="wrap">
           <div>
             <p className="eyebrow">Established {COMPANY.established}</p>
-            <h1>Commercial catering equipment, <em>supplied and serviced</em></h1>
+            <h1><span className="ln"><span>Commercial catering</span></span> <span className="ln"><span>equipment, <em>supplied</em></span></span> <span className="ln"><span><em>and serviced</em></span></span></h1>
             <p className="sub">
               Internet prices with traditional service. From a single oven to a full kitchen refit, we advise, deliver, install and look
               after it for years to come.
@@ -91,10 +94,21 @@ export default function Home() {
       </section>
 
       {brands.length > 0 && (
-        <section className="hm-brands" aria-label="Brands we supply">
-          <div className="wrap"><span>Brands we supply</span>{brands.map((b) => <b key={b}>{b}</b>)}</div>
+        <section className="hm-marquee" aria-label="Brands we supply">
+          <div className="hm-marquee-track">
+            {[0, 1].map((k) => (
+              <ul key={k} aria-hidden={k === 1}>{brands.map((b) => <li key={b}>{b}<i /></li>)}</ul>
+            ))}
+          </div>
         </section>
       )}
+
+      <section className="hm-statement">
+        <div className="wrap">
+          <p className="eyebrow">Why Caterkwik</p>
+          <ScrollWords text="Internet prices with traditional service. We advise, supply, deliver, install and look after commercial catering equipment, with real people on the phone from the first question to the engineer visit." />
+        </div>
+      </section>
 
       <section className="hm-recon" aria-label="Reconditioned and graded equipment">
         <div className="wrap">
@@ -113,11 +127,11 @@ export default function Home() {
             <div><h2>Shop ovens by type</h2><p>{types.length} types, each with its own buying guide and filters.</p></div>
             <Link className="hm-link" href="/ovens">All commercial ovens &rarr;</Link>
           </div>
-          <Reveal><div className="hm-tiles">
+          <Reveal><GlowArea className="hm-tiles">
             {FEATURED.map((slug) => {
               const t = types.find((x) => x.slug === slug)!;
               return (
-                <Link key={slug} className="hm-tile" href={typeHref(slug)}>
+                <Link key={slug} className="hm-tile glow" href={typeHref(slug)}>
                   {/* eslint-disable-next-line @next/next/no-img-element */}
                   <img src={`/assets/img/ovens-hub/${slug}.webp`} alt="" loading="lazy" width={370} height={370} />
                   <div>
@@ -128,22 +142,23 @@ export default function Home() {
                 </Link>
               );
             })}
-          </div></Reveal>
+          </GlowArea></Reveal>
         </section>
       </div>
 
       <section className="hm-services">
         <div className="wrap">
           <div className="hm-head"><div><h2>More than a box on a pallet</h2><p>Help at every stage, from the first question to the engineer visit.</p></div></div>
-          <Reveal><div className="hm-svc">
-            {SERVICES.map((s) => (
-              <article key={s.title}>
+          <Reveal><GlowArea className="hm-svc">
+            {SERVICES.map((s, n) => (
+              <article key={s.title} className="glow">
+                <small>0{n + 1}</small>
                 <span className="ic"><Icon name={s.icon} size={22} /></span>
                 <h3>{s.title}</h3>
                 <p>{s.text}</p>
               </article>
             ))}
-          </div></Reveal>
+          </GlowArea></Reveal>
         </div>
       </section>
 

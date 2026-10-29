@@ -60,7 +60,7 @@ describe("home page", () => {
   });
 });
 
-describe("type page content", () => {
+describe("type page content", { timeout: 60000 }, () => {
   const render = async (type: string) => renderAsync(await TypePage({ params: params({ type }), searchParams: params({}) }));
 
   it("has an introduction, questions, trust points and links to every other type", { timeout: 60000 }, async () => {

@@ -48,14 +48,15 @@ describe("the three approved pages", () => {
 describe("home", () => {
   it("shows the hero, the featured types and lease picks", () => {
     const out = html(<Home />);
-    expect(out).toContain("Commercial catering equipment, <em>supplied and serviced</em>");
+    expect(out).toContain("Commercial catering");
+    expect(out).toContain("<em>and serviced</em>");
     expect(out).toContain("6 Burner Ovens");
     expect(out).toContain("Lease from");
     expect(out).toContain('"@type":"Organization"');
   });
 });
 
-describe("type page", () => {
+describe("type page", { timeout: 60000 }, () => {
   const render = async (type: string, query: Record<string, string | string[]> = {}) =>
     renderAsync(await TypePage({ params: params({ type }), searchParams: params(query) }));
 

@@ -136,3 +136,62 @@ export function Carousel({ children, label, auto = true }: { children: ReactNode
     </div>
   );
 }
+
+// A soft light that follows the pointer across its parent (the hero), and tilts the showcase slightly. Hover devices only.
+export function HeroSpot() {
+  const ref = useRef<HTMLDivElement>(null);
+  useEffect(() => {
+    const host = ref.current?.parentElement;
+    if (!host || reducedMotion() || !window.matchMedia("(hover: hover)").matches) return;
+    let raf = 0;
+    const move = (e: PointerEvent) => {
+      cancelAnimationFrame(raf);
+      raf = requestAnimationFrame(() => {
+        const r = host.getBoundingClientRect();
+        const x = (e.clientX - r.left) / r.width;
+        const y = (e.clientY - r.top) / r.height;
+        host.style.setProperty("--px", `${x * 100}%`);
+        host.style.setProperty("--py", `${y * 100}%`);
+        host.style.setProperty("--tx", String((x - 0.5) * 2));
+        host.style.setProperty("--ty", String((y - 0.5) * 2));
+      });
+    };
+    host.addEventListener("pointermove", move);
+    return () => { host.removeEventListener("pointermove", move); cancelAnimationFrame(raf); };
+  }, []);
+  return <div ref={ref} className="hm-spot" aria-hidden />;
+}
+
+// Gives every card inside it a highlight that tracks the pointer (see .glow in home.css).
+export function GlowArea({ children, className = "" }: { children: ReactNode; className?: string }) {
+  const onMove = (e: React.PointerEvent<HTMLDivElement>) => {
+    const card = (e.target as HTMLElement).closest<HTMLElement>(".glow");
+    if (!card) return;
+    const r = card.getBoundingClientRect();
+    card.style.setProperty("--mx", `${e.clientX - r.left}px`);
+    card.style.setProperty("--my", `${e.clientY - r.top}px`);
+  };
+  return <div className={className} onPointerMove={onMove}>{children}</div>;
+}
+
+// A sentence whose words light up as the visitor scrolls through it.
+export function ScrollWords({ text }: { text: string }) {
+  const ref = useRef<HTMLParagraphElement>(null);
+  const words = text.split(" ");
+  const [lit, setLit] = useState(words.length);
+  useEffect(() => {
+    const el = ref.current;
+    if (!el || reducedMotion()) return;
+    const update = () => {
+      const r = el.getBoundingClientRect();
+      const h = window.innerHeight;
+      const t = Math.min(1, Math.max(0, (h * 0.85 - r.top) / (h * 0.55 + r.height)));
+      setLit(Math.round(t * words.length));
+    };
+    update();
+    window.addEventListener("scroll", update, { passive: true });
+    window.addEventListener("resize", update);
+    return () => { window.removeEventListener("scroll", update); window.removeEventListener("resize", update); };
+  }, [words.length]);
+  return <p ref={ref} className="hm-words">{words.map((w, k) => <span key={k} className={k < lit ? "lit" : ""}>{w} </span>)}</p>;
+}
