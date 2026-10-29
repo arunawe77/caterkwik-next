@@ -125,3 +125,21 @@
 @media (min-width: 1081px) { .hm-hero h1 .ln > span { white-space: nowrap; } }
 .hm-tile img { background: #fff; }
 .hm-tile:nth-child(1) > div, .hm-tile:nth-child(4) > div { background: #fff; }
+
+/* Shop ovens by type: six even cards, a calm tinted stage for the photo, one clear action */
+.hm-tiles { grid-template-columns: repeat(3, 1fr); grid-auto-rows: auto; gap: 22px; }
+.hm-tile, .hm-tile:nth-child(1), .hm-tile:nth-child(4) { grid-column: auto; grid-row: auto; flex-direction: column; align-items: stretch; border-radius: 24px; padding: 10px; background: #fff;
+  border: 1px solid var(--line-soft); box-shadow: 0 1px 2px rgba(8,37,70,.04), 0 14px 30px -24px rgba(8,37,70,.35); }
+.hm-tile .pic { display: grid; place-items: center; aspect-ratio: 16 / 11; overflow: hidden; border-radius: 16px; background: radial-gradient(120% 100% at 50% 0%, #f7f9fd, #e6edf7); }
+.hm-tile .pic img, .hm-tile:nth-child(1) img, .hm-tile:nth-child(4) img { width: 68%; height: 88%; max-width: none; aspect-ratio: auto; flex: none; padding: 0; background: transparent; object-fit: contain; mix-blend-mode: multiply;
+  transition: transform .6s cubic-bezier(.2,.7,.2,1); }
+.hm-tile > div, .hm-tile:nth-child(1) > div, .hm-tile:nth-child(4) > div { padding: 18px 14px 12px; background: transparent; position: relative; display: flex; flex-direction: column; align-items: flex-start; gap: 4px; }
+.hm-tile h3, .hm-tile:nth-child(1) h3 { font-size: 20px; letter-spacing: -.025em; margin: 4px 0 0; }
+.hm-tile p { font-size: 14px; line-height: 1.5; min-height: 3em; }
+.hm-tile .count { margin: 0; padding: 4px 11px; border-radius: 999px; background: var(--green-tint); color: var(--green-deep); font-weight: 700; font-size: 12px; }
+.hm-tile .go { margin-top: 8px; font-weight: 700; font-size: 14px; color: var(--blue); transition: transform .3s; }
+.hm-tile div::after { display: none; }
+@media (hover: hover) { .hm-tile:hover .pic img { transform: scale(1.07); } .hm-tile:hover .go { transform: translateX(4px); } .hm-tile:hover { transform: translateY(-5px); } }
+@supports (animation-timeline: view()) { .hm-tile img { animation: none; } }
+@media (max-width: 1080px) { .hm-tiles { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 640px) { .hm-tiles { grid-template-columns: 1fr; } .hm-tile p { min-height: 0; } }

@@ -128,16 +128,20 @@ export default function Home() {
             <Link className="hm-link" href="/ovens">All commercial ovens &rarr;</Link>
           </div>
           <Reveal><GlowArea className="hm-tiles">
-            {FEATURED.map((slug) => {
-              const t = types.find((x) => x.slug === slug)!;
+            {STRIP.map((slug) => {
+              const t = types.find((x) => x.slug === slug);
+              if (!t) return null;
               return (
                 <Link key={slug} className="hm-tile glow" href={typeHref(slug)}>
-                  {/* eslint-disable-next-line @next/next/no-img-element */}
-                  <img src={`/assets/img/ovens-hub/${slug}.webp`} alt="" loading="lazy" width={370} height={370} />
+                  <span className="pic">
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img src={`/assets/img/ovens-hub/${slug}.webp`} alt="" loading="lazy" width={370} height={370} />
+                  </span>
                   <div>
+                    <span className="count">{t.live} available</span>
                     <h3>{t.label}</h3>
                     <p>{t.audience}</p>
-                    <p className="count">{t.live} available</p>
+                    <span className="go" aria-hidden>Shop now &rarr;</span>
                   </div>
                 </Link>
               );
