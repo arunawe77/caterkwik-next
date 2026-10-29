@@ -46,6 +46,32 @@ async function get(url: string, deps: CheckDeps): Promise<{ ok: true; html: stri
   }
 }
 
+const SITEMAP_TTL_MS = 24 * 3_600_000;
+const sitemaps = new Map<string, { at: number; urls: { url: string; key: string }[] }>();
+
+export const clearSitemapCache = () => sitemaps.clear();
+
+/** Product page addresses from a site's sitemap (index then children), cached for a day. Null if any file could not be read. */
+async function sitemapPages(site: AutoSite, deps: CheckDeps): Promise<{ url: string; key: string }[] | null> {
+  const cached = sitemaps.get(site.sitemapUrl!);
+  if (cached && Date.now() - cached.at < SITEMAP_TTL_MS) return cached.urls;
+  const sleep = deps.sleep ?? realSleep;
+  const loc = (xml: string) => [...xml.matchAll(/<loc>\s*([^<\s]+)\s*<\/loc>/gi)].map((m) => m[1]);
+  const index = await get(site.sitemapUrl!, deps);
+  if (!index.ok) return null;
+  const files = loc(index.html).filter((u) => u.endsWith(".xml"));
+  const pages = files.length ? [] as string[] : loc(index.html);
+  for (const f of files) {
+    await sleep(site.delayMs);
+    const part = await get(f, deps);
+    if (!part.ok) return null;
+    pages.push(...loc(part.html));
+  }
+  const urls = pages.filter((u) => u.endsWith(".html")).map((url) => ({ url, key: codeKey(new URL(url).pathname) }));
+  sitemaps.set(site.sitemapUrl!, { at: Date.now(), urls });
+  return urls;
+}
+
 const pence = (n: number) => Math.round(n * 100);
 
 /** Re-reads the page of every recorded price on an automatic site, oldest attempt first. */
@@ -109,19 +135,24 @@ export async function discoverListings(actor: Actor, opts: { max?: number } & Ch
       select: { id: true, detail: { select: { mpn: true } } }, take: opts.max ?? 20, orderBy: { id: "asc" },
     });
     const pace = pacer(site, opts);
+    const listed = site.sitemapUrl ? await sitemapPages(site, opts) : null;
     search: for (const p of products) {
       const mpn = p.detail?.mpn?.trim();
       const key = codeKey(mpn);
       if (!mpn || key.length < 4) { out.skipped++; continue; }
       if (!(await pace.turn())) { out.stoppedEarly = true; break; }
-      const results = await get(site.searchUrl(mpn), opts);
-      if (!results.ok) {
-        out.failed++;
-        if (results.error.startsWith("Blocked")) { out.stoppedEarly = true; break; }
-        continue;
-      }
       // A candidate must carry the part number in its address, and the page itself must then confirm it as its SKU.
-      const candidates = productLinks(results.html, c.domain).filter((u) => codeKey(new URL(u).pathname).includes(key)).slice(0, 2);
+      let candidates: string[];
+      if (listed) candidates = listed.filter((l) => l.key.includes(key)).slice(0, 4).map((l) => l.url);
+      else {
+        const results = await get(site.searchUrl(mpn), opts);
+        if (!results.ok) {
+          out.failed++;
+          if (results.error.startsWith("Blocked")) { out.stoppedEarly = true; break; }
+          continue;
+        }
+        candidates = productLinks(results.html, c.domain).filter((u) => codeKey(new URL(u).pathname).includes(key)).slice(0, 2);
+      }
       let found = false;
       for (const url of candidates) {
         if (!(await pace.turn())) { out.stoppedEarly = true; break search; }

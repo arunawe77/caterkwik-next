@@ -5,7 +5,7 @@ vi.mock("next/headers", async () => (await import("@/test/next-mocks")).headersM
 vi.mock("next/cache", async () => (await import("@/test/next-mocks")).cacheMock);
 
 import { createCategory, createProduct, type Actor } from "@/server/catalogue-admin";
-import { checkPrices, discoverListings } from "@/server/competitor-check";
+import { checkPrices, clearSitemapCache, discoverListings } from "@/server/competitor-check";
 import { ensureCompetitors } from "@/server/competitors";
 import { db } from "@/server/db";
 
@@ -25,9 +25,13 @@ const web = (pages: Record<string, [number, string]>) => {
   return { fetchFn, calls };
 };
 const noWait = { sleep: async () => {} };
+const SITEMAP = `${HOST}/sitemap.xml`;
+const notSitemap = (calls: string[]) => calls.filter((u) => !u.includes("sitemap"));
+const urlset = (...urls: string[]) => `<urlset>${urls.map((u) => `<url><loc>${u}</loc></url>`).join("")}</urlset>`;
 
 let oven: string;
 beforeEach(async () => {
+  clearSitemapCache();
   await resetTestState();
   await createCategory(staff, { slug: "ovens", label: "Ovens" });
   oven = (await createProduct(staff, { name: "Buffalo CK164 Processor", categorySlug: "ovens", brand: "Buffalo", priceEx: 25000, status: "ACTIVE" })).id;
@@ -45,7 +49,7 @@ describe("discoverListings", () => {
     });
     const r = await discoverListings(staff, { fetchFn, ...noWait });
     expect(r).toMatchObject({ found: 1, notListed: 0 });
-    expect(calls).toHaveLength(2);
+    expect(notSitemap(calls)).toHaveLength(2);
     const row = await db.competitorPrice.findFirstOrThrow({ where: { productId: oven, competitorId: "catering-hygiene" } });
     expect(row).toMatchObject({ priceIncPence: 32280, priceExPence: 26900, url: product, lastError: null, inStock: true });
   });
@@ -58,7 +62,33 @@ describe("discoverListings", () => {
     expect(row).toMatchObject({ priceExPence: null, url: null, lastError: "Not listed on this site." });
     const again = await discoverListings(staff, { fetchFn, ...noWait });
     expect(again).toMatchObject({ found: 0, notListed: 0 });
-    expect(calls).toHaveLength(2);
+    expect(notSitemap(calls)).toHaveLength(2);
+  });
+
+  it("finds the page from the sitemap when search is no use, reading the sitemap once", async () => {
+    const product = `${HOST}/buffalo-ck164-food-processor.html`;
+    const { fetchFn, calls } = web({
+      [`${HOST}/catalogsearch/result/?q=CK164`]: [200, "<html>front page</html>"],
+      [SITEMAP]: [200, `<sitemapindex><sitemap><loc>${HOST}/sitemap-2-1.xml</loc></sitemap></sitemapindex>`],
+      [`${HOST}/sitemap-2-1.xml`]: [200, urlset(`${HOST}/other-thing.html`, product)],
+      [product]: [200, page("CK164", "322.8")],
+    });
+    const waits: number[] = [];
+    const r = await discoverListings(staff, { fetchFn, sleep: async (ms) => void waits.push(ms) });
+    expect(r).toMatchObject({ found: 1, notListed: 0 });
+    expect(calls.some((u) => u.includes("catalogsearch"))).toBe(false);
+    expect(waits[0]).toBe(30_000);
+    const again = web({ [SITEMAP]: [200, "<sitemapindex/>"] });
+    await db.competitorPrice.deleteMany();
+    await discoverListings(staff, { fetchFn: again.fetchFn, ...noWait });
+    expect(again.calls.includes(SITEMAP)).toBe(false);
+  });
+
+  it("marks a product not listed when the sitemap has no page carrying its part number", async () => {
+    const { fetchFn } = web({
+      [SITEMAP]: [200, urlset(`${HOST}/something-else.html`)],
+    });
+    expect(await discoverListings(staff, { fetchFn, ...noWait })).toMatchObject({ found: 0, notListed: 1 });
   });
 
   it("stops at once when the site refuses, and never touches the blocked sites", async () => {
