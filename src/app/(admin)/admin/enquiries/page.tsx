@@ -1,14 +1,18 @@
+import { Pager } from "@/components/admin/pager";
 import { shortDate } from "@/lib/format";
+import { pageOf } from "@/lib/paging";
 import { utilityMetadata } from "@/lib/seo";
 import { setEnquiryStatus } from "@/server/admin-actions";
 import { db } from "@/server/db";
 
 export const metadata = utilityMetadata("Quotes and enquiries");
 
+const PAGE = 25;
 const KIND = { QUOTE: "Quote", CALLBACK: "Call back", GENERAL: "Enquiry" } as const;
 
-export default async function EnquiriesPage() {
-  const enquiries = await db.enquiry.findMany({ orderBy: [{ status: "asc" }, { createdAt: "desc" }], take: 200 });
+export default async function EnquiriesPage({ searchParams }: { searchParams: Promise<{ page?: string }> }) {
+  const { page, skip, take } = pageOf((await searchParams).page, PAGE);
+  const [enquiries, total] = await Promise.all([db.enquiry.findMany({ orderBy: [{ status: "asc" }, { createdAt: "desc" }], skip, take }), db.enquiry.count()]);
 
   return (
     <>
@@ -31,6 +35,7 @@ export default async function EnquiriesPage() {
         </section>
       ))}
       {!enquiries.length && <p className="muted">Nothing yet.</p>}
+      <Pager path="/admin/enquiries" query={{}} page={page} size={PAGE} total={total} />
     </>
   );
 }

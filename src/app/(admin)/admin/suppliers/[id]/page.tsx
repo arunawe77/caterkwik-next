@@ -1,8 +1,10 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { Pager } from "@/components/admin/pager";
 import { SupplierFeedUpload } from "@/components/admin/supplier-feed-upload";
 import { ActionForm, Field } from "@/components/forms";
 import { pence, shortDate } from "@/lib/format";
+import { pageOf } from "@/lib/paging";
 import { utilityMetadata } from "@/lib/seo";
 import { FEED_FIELDS } from "@/lib/suppliers";
 import { applyWebPrice, editSupplier, syncUropa, importUnmatchedAsDrafts, saveSelectedBrands, linkSupplierItem, removeSupplier, saveBrands, saveFeedColumns } from "@/server/supplier-actions";
@@ -13,7 +15,9 @@ import { MIN_MARGIN, priceReview, syncStatus } from "@/server/uropa-sync";
 export const metadata = utilityMetadata("Supplier");
 export const dynamic = "force-dynamic";
 
-export default async function SupplierPage({ params, searchParams }: { params: Promise<{ id: string }>; searchParams: Promise<{ brand?: string; page?: string; fetched?: string; all?: string; syncing?: string; busy?: string }> }) {
+const REVIEW_PAGE = 50;
+
+export default async function SupplierPage({ params, searchParams }: { params: Promise<{ id: string }>; searchParams: Promise<{ brand?: string; page?: string; fetched?: string; all?: string; syncing?: string; busy?: string; rpage?: string }> }) {
   const { id } = await params;
   const q = await searchParams;
   const d = await supplierDetail(id, { brand: q.brand, page: Number(q.page) || 1, all: q.all === "1" });
@@ -23,7 +27,8 @@ export default async function SupplierPage({ params, searchParams }: { params: P
   const pages = Math.max(1, Math.ceil(d.unmatchedCount / 50));
   const link = (over: Record<string, string>) => `/admin/suppliers/${s.id}?${new URLSearchParams({ ...(q.brand ? { brand: q.brand } : {}), ...(q.all === "1" ? { all: "1" } : {}), ...over })}`;
   const sync = s.id === "uropa" ? syncStatus() : null;
-  const review = s.id === "uropa" ? await priceReview() : null;
+  const rp = pageOf(q.rpage, REVIEW_PAGE);
+  const review = s.id === "uropa" ? await priceReview(rp.take, rp.skip) : null;
   const categories = isFeed ? await db.category.findMany({ orderBy: { label: "asc" }, select: { slug: true, label: true } }) : [];
 
   return (
@@ -43,7 +48,7 @@ export default async function SupplierPage({ params, searchParams }: { params: P
               {s.id === "uropa" && sync && (
                 <>
                   <form action={syncUropa} className="form">
-                    <p className="muted">One click downloads Uropa&apos;s latest price, stock and product files, matches them to our products by part number, updates costs and stock, and adds anything we don&apos;t sell as a draft product. Selling prices are never changed here. Run it each morning: Uropa&apos;s prices and offers change daily.</p>
+                    <p className="muted">One click downloads Uropa&apos;s latest price, stock and product files, matches them to our products by part number, updates costs and stock, adds what we don&apos;t sell as draft products (only the brands marked as sold, and only where Uropa&apos;s category matches one of ours), and sets each selling price to Uropa&apos;s web price. A web price at or below Uropa&apos;s cost is never applied. The old prices are kept in the activity log. Run it each morning: Uropa&apos;s prices and offers change daily.</p>
                     <button className="btn btn-navy" type="submit" disabled={sync.running}>{sync.running ? "Sync running…" : "Sync from Uropa now"}</button>
                   </form>
                   {q.busy && <p role="status">A sync is already running.</p>}
@@ -60,7 +65,7 @@ export default async function SupplierPage({ params, searchParams }: { params: P
           {review && (
             <section className="panel">
               <h2>Selling prices to review ({review.total.toLocaleString("en-GB")})</h2>
-              <p className="muted">Matched products with no selling price, or selling at under {MIN_MARGIN}% margin over what Uropa charges us. Nothing here is changed automatically. Uropa&apos;s web price is assumed to be ex VAT: check one before relying on it.</p>
+              <p className="muted">Products with no selling price, or selling at under {MIN_MARGIN}% margin over what Uropa charges us, after the last sync. Those with no Uropa web price (or one at or below cost) need pricing by hand. Uropa&apos;s web price is assumed to be ex VAT: check one before relying on it.</p>
               {review.rows.length ? (
                 <table className="table">
                   <thead><tr><th>Product</th><th className="num">Our price</th><th className="num">Uropa cost</th><th className="num">Margin</th><th className="num">Uropa web price</th><th /></tr></thead>
@@ -85,7 +90,7 @@ export default async function SupplierPage({ params, searchParams }: { params: P
                   </tbody>
                 </table>
               ) : <p className="muted">Nothing to review.</p>}
-              {review.total > review.rows.length && <p className="muted">Showing the first {review.rows.length}.</p>}
+              <Pager path={`/admin/suppliers/${s.id}`} query={q} page={rp.page} size={REVIEW_PAGE} total={review.total} param="rpage" />
             </section>
           )}
 

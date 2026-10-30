@@ -46,12 +46,14 @@ describe("the three approved pages", () => {
 });
 
 describe("home", () => {
-  it("shows the hero, the featured types and lease picks", () => {
+  it("shows the hero, the departments, popular products and lease picks", () => {
     const out = html(<Home />);
     expect(out).toContain("Commercial catering");
     expect(out).toContain("<em>and serviced</em>");
     expect(out).toContain("6 Burner Ovens");
     expect(out).toContain("Lease from");
+    expect(out).toContain("Shop by department");
+    expect(out).toContain("href=\"/cooking/");
     expect(out).toContain('"@type":"Organization"');
   });
 });

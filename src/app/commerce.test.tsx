@@ -149,19 +149,18 @@ describe("basket and checkout pages", () => {
 describe("product page forms", () => {
   const render = async (type: string, id: string) => html(await ProductPage({ params: params({ type, id }) }));
 
-  it("offers to add an available product to the basket, and to request a quote", async () => {
+  it("offers to add an available product to the basket or the quote", async () => {
     const out = await render("4-burner", "cr6d");
     expect(out).toContain("Add to basket");
+    expect(out).toContain("Add to quote");
     expect(out).toContain('name="id" value="cr6d"');
-    expect(out).toContain("Request a quote");
-    expect(out).toContain('name="productId" value="cr6d"');
-    expect(out).toContain('name="website"');
+    expect(out).not.toContain("Request a quote");
   });
 
   it("offers only a quote for a discontinued product", async () => {
     const out = await render("4-burner", "gl174");
     expect(out).not.toContain("Add to basket");
-    expect(out).toContain("Ask about a replacement");
+    expect(out).toContain("Add to quote");
   });
 });
 
@@ -224,25 +223,25 @@ describe("admin", () => {
       { kind: "CALLBACK", name: "B", email: "b@b.co", message: "two", status: "IN_PROGRESS" },
       { kind: "GENERAL", name: "C", email: "c@b.co", message: "three", status: "DONE" },
     ] });
-    const out = html(await EnquiriesPage());
+    const out = html(await EnquiriesPage({ searchParams: Promise.resolve({}) }));
     expect(out).toContain("Quote: Oven");
     expect(out).toContain("Call back");
     expect(out).toContain("Mark done");
     expect(out).toContain("Reopen");
     expect(out).toContain("Done");
     await db.enquiry.deleteMany();
-    expect(html(await EnquiriesPage())).toContain("Nothing yet.");
+    expect(html(await EnquiriesPage({ searchParams: Promise.resolve({}) }))).toContain("Nothing yet.");
   });
 
   it("lists the redirects staff added, and users with a role switch for everyone but themselves", async () => {
-    expect(html(await RedirectsPage())).toContain("None added.");
+    expect(html(await RedirectsPage({ searchParams: Promise.resolve({}) }))).toContain("None added.");
     await db.customRedirect.create({ data: { fromPath: "/old", toPath: "/ovens" } });
-    expect(html(await RedirectsPage())).toContain("/old");
+    expect(html(await RedirectsPage({ searchParams: Promise.resolve({}) }))).toContain("/old");
 
     const me = await signIn("ADMIN");
     await db.user.create({ data: { email: "c@example.com", name: "C", passwordHash: "x" } });
     await db.user.create({ data: { email: "d@example.com", name: "D", passwordHash: "x", role: "ADMIN" } });
-    const out = html(await UsersPage());
+    const out = html(await UsersPage({ searchParams: Promise.resolve({}) }));
     expect(out).toContain("Make admin");
     expect(out).toContain("Make customer");
     expect(out.split("Make ").length - 1).toBe(2);

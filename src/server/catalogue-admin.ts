@@ -15,7 +15,7 @@ export interface Actor {
 
 export class AdminError extends Error {}
 
-const VAT = 1.2;
+export const VAT = 1.2;
 const pence = (pounds: number) => Math.round(pounds * 100);
 
 const money = z.number().min(0).max(1_000_000).nullable();

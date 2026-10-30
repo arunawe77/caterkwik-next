@@ -6,7 +6,8 @@ import { JsonLd } from "@/components/json-ld";
 import { CatalogueKit } from "@/components/kit-chat";
 import { ProductCard } from "@/components/product-card";
 import { caseStudies, caseStudyImage, splitStory, type CaseStudy } from "@/lib/case-studies";
-import { productHref, products, shopRoots, types, typeHref } from "@/lib/catalogue";
+import { everyProduct, productHref, products, shopRoots, types, typeHref } from "@/lib/catalogue";
+import { departments, spread, showable } from "@/lib/home-mix";
 import { Carousel, CountUp, GlowArea, HeroShowcase, HeroSpot, Reveal, ScrollWords, type ShowcaseSlide } from "@/components/home-motion";
 import { homeFaqs } from "@/lib/copy";
 import { money } from "@/lib/format";
@@ -17,12 +18,12 @@ import "@/styles/home-premium.css";
 
 export const metadata: Metadata = pageMetadata({
   title: "Caterkwik | Commercial catering equipment, supplied and serviced",
-  description: `Commercial ovens priced and filterable by what decides the purchase: ${types.length} types, ${products.length} models. Internet prices with traditional service since ${COMPANY.established}.`,
+  description: `Commercial catering equipment, from ovens and cooking equipment to refrigeration and bar: ${everyProduct().length} products with internet prices and traditional service since ${COMPANY.established}.`,
   path: "/",
 });
 
 const FEATURED = ["6-burner-range", "convectionovens", "cook--hold--ovens", "wood-fired-ovens"];
-const STRIP = [...FEATURED, "rotisserie-ovens", "charcoal-oven"];
+const STRIP = FEATURED;
 const STORIES = ["La Brasseria", "Framptons", "Beatons Tearooms"];
 const SERVICES: { icon: IconName; title: string; text: string }[] = [
   { icon: "ruler", title: "Kitchen survey and design", text: "Layouts and equipment lists planned around how your kitchen really works." },
@@ -32,21 +33,21 @@ const SERVICES: { icon: IconName; title: string; text: string }[] = [
 ];
 
 export default function Home() {
-  const picks = products
-    .filter((p) => p.stock === "in-stock" && p.leaseWeek !== null && p.spec)
-    .sort((a, b) => a.priceEx! - b.priceEx!)
-    .slice(0, 10);
-  const showcase = [...FEATURED, "rotisserie-ovens", "4-burner"]
-    .map((slug) => products.filter((p) => p.type === slug && p.stock === "in-stock" && p.priceEx !== null && p.image).sort((a, b) => a.priceEx! - b.priceEx!)[0])
-    .filter((p): p is (typeof products)[number] => !!p);
+  const all = everyProduct();
+  const depts = departments(12);
+  // One lane per category, so the row is not ovens from end to end.
+  const picks = spread(all.filter((p) => showable(p) && p.leaseWeek !== null), (p) => p.type, 10);
+  const range = spread(all.filter(showable), (p) => p.type, 12);
+  const showcase = depts.slice(0, 6).map((d) => d.product);
   const slides: ShowcaseSlide[] = (showcase.length ? showcase : picks.slice(0, 5)).map((p) => ({
     href: productHref(p), name: p.name, brand: p.brand, image: p.image, price: money(p.priceEx!), lease: p.leaseWeek !== null ? money(p.leaseWeek) : null,
   }));
   const years = new Date().getFullYear() - COMPANY.established;
   const stories = STORIES.map((t) => caseStudies.find((c) => c.title.startsWith(t))).filter((c): c is CaseStudy => !!c && !!caseStudyImage(c));
   const brands = Object.entries(
-    products.reduce<Record<string, number>>((m, p) => (p.brand ? { ...m, [p.brand]: (m[p.brand] ?? 0) + 1 } : m), {}),
+    all.reduce<Record<string, number>>((m, p) => (p.brand ? { ...m, [p.brand]: (m[p.brand] ?? 0) + 1 } : m), {}),
   ).sort((a, b) => b[1] - a[1]).slice(0, 10).map(([name]) => name);
+  const allHref = shopRoots().length ? "/shop/commercial-catering-equipment" : "/cooking";
   const tel = `tel:${COMPANY.phone.replace(/\s+/g, "")}`;
 
   return (
@@ -64,17 +65,17 @@ export default function Home() {
               after it for years to come.
             </p>
             <div className="hm-actions">
-              <Link className="btn btn-primary" href="/ovens">Browse commercial ovens</Link>
+              <Link className="btn btn-primary" href={allHref}>Shop all equipment</Link>
               <Link className="btn btn-ghostdark" href="/quote">Get a quote</Link>
               <a className="btn btn-ghostdark" href={tel}><Icon name="phone" />{COMPANY.phone}</a>
             </div>
             <p className="hm-popular">
               <span>Popular</span>
-              {FEATURED.map((slug) => { const t = types.find((x) => x.slug === slug); return t ? <Link key={slug} href={typeHref(slug)}>{t.label}</Link> : null; })}
+              {depts.slice(0, 5).map((d) => <Link key={d.key} href={d.href}>{d.label}</Link>)}
             </p>
             <ul className="hm-nums">
               <li><CountUp to={years} suffix="+" /><span>years supplying caterers</span></li>
-              <li><CountUp to={products.length} /><span>oven models, filterable by what matters</span></li>
+              <li><CountUp to={all.length} /><span>products across cooking, refrigeration, bar, display and more</span></li>
               <li><CountUp to={caseStudies.length} /><span>customer stories</span></li>
             </ul>
           </div>
@@ -121,10 +122,44 @@ export default function Home() {
         </div>
       </section>
 
+      {depts.length > 0 && (
+        <div className="wrap ovenpage">
+          <section className="hm-sec">
+            <div className="hm-head">
+              <div><h2>Shop by department</h2><p>Cooking, refrigeration, display, bar and more, priced and supported the same way.</p></div>
+              <Link className="hm-link" href={allHref}>All equipment &rarr;</Link>
+            </div>
+            <Reveal><GlowArea className="hm-depts">
+              {depts.map((d) => (
+                <Link key={d.key} className="hm-dept glow" href={d.href}>
+                  <span className="pic">
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img src={d.product.image} alt="" loading="lazy" width={240} height={240} />
+                  </span>
+                  <div>
+                    <h3>{d.label}</h3>
+                    <p>{d.live} available{d.fromPrice !== null ? `, from ${money(d.fromPrice)}` : ""}</p>
+                  </div>
+                </Link>
+              ))}
+            </GlowArea></Reveal>
+          </section>
+        </div>
+      )}
+
+      {range.length > 0 && (
+        <div className="wrap ovenpage">
+          <section className="hm-sec">
+            <div className="hm-head"><div><h2>Popular products</h2><p>A cross-section of what is in stock, from every part of the kitchen.</p></div><Link className="hm-link" href={allHref}>See everything &rarr;</Link></div>
+            <Carousel label="Popular products in stock">{range.map((p) => <div key={p.id} className="hm-car-card"><ProductCard product={p} /></div>)}</Carousel>
+          </section>
+        </div>
+      )}
+
       <div className="wrap ovenpage">
         <section className="hm-sec">
           <div className="hm-head">
-            <div><h2>Shop ovens by type</h2><p>{types.length} types, each with its own buying guide and filters.</p></div>
+            <div><h2>Popular ovens</h2><p>{types.length} oven types, each with its own buying guide and filters.</p></div>
             <Link className="hm-link" href="/ovens">All commercial ovens &rarr;</Link>
           </div>
           <Reveal><GlowArea className="hm-tiles">
@@ -168,8 +203,8 @@ export default function Home() {
 
       <div className="wrap ovenpage">
         <section className="hm-sec">
-          <div className="hm-head"><div><h2>Lease from a few pounds a week</h2><p>In stock now, with weekly lease prices shown.</p></div></div>
-          <Carousel label="In stock with lease prices">{picks.map((p) => <div key={p.id} className="hm-car-card"><ProductCard product={p} /></div>)}</Carousel>
+          <div className="hm-head"><div><h2>Lease from a few pounds a week</h2><p>In stock now across the range, with weekly lease prices shown.</p></div></div>
+          {picks.length > 0 && <Carousel label="In stock with lease prices">{picks.map((p) => <div key={p.id} className="hm-car-card"><ProductCard product={p} /></div>)}</Carousel>}
         </section>
 
         {stories.length > 0 && (

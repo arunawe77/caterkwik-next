@@ -1,12 +1,17 @@
+import { Pager } from "@/components/admin/pager";
 import { ActionForm, Field } from "@/components/forms";
+import { pageOf } from "@/lib/paging";
 import { utilityMetadata } from "@/lib/seo";
 import { addRedirect, deleteRedirect } from "@/server/admin-actions";
 import { db } from "@/server/db";
 
 export const metadata = utilityMetadata("Redirects");
 
-export default async function RedirectsPage() {
-  const redirects = await db.customRedirect.findMany({ orderBy: { createdAt: "desc" } });
+const PAGE = 50;
+
+export default async function RedirectsPage({ searchParams }: { searchParams: Promise<{ page?: string }> }) {
+  const { page, skip, take } = pageOf((await searchParams).page, PAGE);
+  const [redirects, total] = await Promise.all([db.customRedirect.findMany({ orderBy: { createdAt: "desc" }, skip, take }), db.customRedirect.count()]);
 
   return (
     <div className="twocol">
@@ -25,6 +30,7 @@ export default async function RedirectsPage() {
           </tbody>
         </table>
         {!redirects.length && <p className="muted">None added.</p>}
+        <Pager path="/admin/redirects" query={{}} page={page} size={PAGE} total={total} />
       </section>
       <aside className="panel">
         <h2>Add a redirect</h2>

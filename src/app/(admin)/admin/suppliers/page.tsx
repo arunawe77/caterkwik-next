@@ -1,7 +1,9 @@
 import Link from "next/link";
+import { Pager } from "@/components/admin/pager";
 import { StatTile } from "@/components/admin/stat-tile";
 import { ActionForm, Field } from "@/components/forms";
 import { pence, shortDate } from "@/lib/format";
+import { pageOf } from "@/lib/paging";
 import { utilityMetadata } from "@/lib/seo";
 import { saveSupplier, setSupplierActive } from "@/server/supplier-actions";
 import { ensureSuppliers, feedUndercuts, overview } from "@/server/suppliers";
@@ -9,7 +11,10 @@ import { ensureSuppliers, feedUndercuts, overview } from "@/server/suppliers";
 export const metadata = utilityMetadata("Suppliers");
 export const dynamic = "force-dynamic";
 
-export default async function SuppliersPage() {
+const PAGE = 25;
+
+export default async function SuppliersPage({ searchParams }: { searchParams: Promise<{ page?: string }> }) {
+  const { page, skip, take } = pageOf((await searchParams).page, PAGE);
   await ensureSuppliers();
   const [suppliers, undercuts] = await Promise.all([overview(), feedUndercuts()]);
   const saving = undercuts.reduce((n, u) => n + u.comparison.feedSaving!.pence, 0);
@@ -73,7 +78,7 @@ export default async function SuppliersPage() {
           <table className="table">
             <thead><tr><th>Product</th><th className="num">Direct</th><th className="num">Feed</th><th className="num">Saving</th></tr></thead>
             <tbody>
-              {undercuts.slice(0, 100).map((u) => {
+              {undercuts.slice(skip, skip + take).map((u) => {
                 const s = u.comparison.feedSaving!;
                 return (
                   <tr key={u.productId}>
@@ -87,6 +92,7 @@ export default async function SuppliersPage() {
             </tbody>
           </table>
         ) : <p className="muted">Nothing yet. This fills in once a feed is loaded and a direct cost is recorded on the same product.</p>}
+        <Pager path="/admin/suppliers" query={{}} page={page} size={PAGE} total={undercuts.length} />
       </section>
     </>
   );

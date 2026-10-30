@@ -8,7 +8,7 @@ import type { FeedRow } from "@/lib/suppliers";
 import { createCategory, createProduct, type Actor } from "@/server/catalogue-admin";
 import { db } from "@/server/db";
 import { applyFeed, ensureSuppliers } from "@/server/suppliers";
-import { createDraftsBulk, priceReview, setToWebPrice } from "@/server/uropa-sync";
+import { applyFeedPrices, createDraftsBulk, priceReview, setToWebPrice } from "@/server/uropa-sync";
 
 const staff: Actor = { id: null, name: "Sam", source: "STAFF" };
 const uropa = { id: "uropa", name: "Uropa" };
@@ -40,7 +40,7 @@ describe("uropa sync", () => {
     expect((await db.supplierPrice.findFirstOrThrow({ where: { sku: "A279" } })).costExPence).toBe(900);
   });
 
-  it("adds every unmatched line as a draft with no price, placed by category, and links it so the next sync matches", async () => {
+  it("adds the unmatched lines whose category we have as drafts, and links them so the next sync matches", async () => {
     await applyFeed(staff, uropa, "a.csv", [
       row({ sku: "A279" }),
       row({ sku: "NEW1", name: "Cotton Apron", groupName: "Clothing > Aprons" }),
@@ -49,11 +49,11 @@ describe("uropa sync", () => {
       row({ sku: "NOCOST", name: "No Cost Item", costExPence: null }),
     ]);
     const made = await createDraftsBulk(staff);
-    expect(made).toMatchObject({ created: 2, fallback: 1 });
+    expect(made).toMatchObject({ created: 1, unplaced: 1 });
     const apronDraft = await db.product.findFirstOrThrow({ where: { name: "Whites Cotton Apron" }, include: { detail: true } });
     expect(apronDraft).toMatchObject({ status: "DRAFT", categorySlug: "aprons", priceExPence: null, brand: "Whites", stockQty: 5, description: "An apron" });
     expect(apronDraft.detail?.mpn).toBe("NEW1");
-    expect((await db.product.findFirstOrThrow({ where: { name: "Mystery Item" } })).categorySlug).toBe("uropa-unsorted");
+    expect(await db.product.count({ where: { name: "Mystery Item" } })).toBe(0);
     expect(await db.product.count({ where: { name: { in: ["Dropped Item", "No Cost Item"] } } })).toBe(0);
     expect((await db.supplierPrice.findFirstOrThrow({ where: { sku: "NEW1" } })).productId).toBe(apronDraft.id);
     // The next load matches the drafts rather than adding them again.
@@ -62,7 +62,7 @@ describe("uropa sync", () => {
     expect((await createDraftsBulk(staff)).created).toBe(0);
   });
 
-  it("never touches a selling price, but lists thin or missing ones and applies Uropa's web price on request", async () => {
+  it("lists thin or missing selling prices, and applies Uropa's web price on request", async () => {
     await applyFeed(staff, uropa, "a.csv", [row({ sku: "A279", costExPence: 1040, webPence: 1300 }), row({ sku: "NEW1" })]);
     await createDraftsBulk(staff);
     expect((await db.product.findUniqueOrThrow({ where: { id: apron } })).priceExPence).toBe(1050);
@@ -71,5 +71,29 @@ describe("uropa sync", () => {
     await setToWebPrice(staff, review.rows[0].priceId);
     expect((await db.product.findUniqueOrThrow({ where: { id: apron } })).priceExPence).toBe(1300);
     expect((await priceReview()).rows.map((r) => r.reason)).toEqual(["no price"]);
+  });
+
+  it("only adds brands marked as sold, when any are marked", async () => {
+    await db.supplierBrand.create({ data: { supplierId: "uropa", brand: "Whites", selected: true } });
+    await applyFeed(staff, uropa, "a.csv", [row({ sku: "NEW1", name: "Cotton Apron" }), row({ sku: "NEW2", name: "Other Apron", brand: "Elsewhere" })]);
+    expect(await createDraftsBulk(staff)).toMatchObject({ created: 1, unplaced: 0 });
+    expect(await db.product.count({ where: { name: "Elsewhere Other Apron" } })).toBe(0);
+  });
+
+  it("sets selling prices to Uropa's web price, including on new drafts, but never at or below cost, and keeps the old ones", async () => {
+    await applyFeed(staff, uropa, "a.csv", [
+      row({ sku: "A279", costExPence: 1040, webPence: 1300 }),
+      row({ sku: "NEW1", name: "Cotton Apron", costExPence: 500, webPence: 900 }),
+      row({ sku: "NEW2", name: "Loss Apron", costExPence: 800, webPence: 800 }),
+    ]);
+    await createDraftsBulk(staff);
+    const r = await applyFeedPrices(staff);
+    expect(r).toEqual({ updated: 2, belowCost: 1 });
+    expect(await db.product.findUniqueOrThrow({ where: { id: apron } })).toMatchObject({ priceExPence: 1300, priceIncPence: 1560 });
+    expect(await db.product.findFirstOrThrow({ where: { name: "Whites Cotton Apron" } })).toMatchObject({ status: "DRAFT", priceExPence: 900 });
+    expect((await db.product.findFirstOrThrow({ where: { name: "Whites Loss Apron" } })).priceExPence).toBeNull();
+    const log = await db.auditLog.findFirstOrThrow({ where: { summary: { startsWith: "Set 2 selling prices" } } });
+    expect(log.before).toEqual([{ id: apron, priceExPence: 1050 }]);
+    expect(await applyFeedPrices(staff)).toEqual({ updated: 0, belowCost: 1 });
   });
 });

@@ -1,16 +1,22 @@
 import type { OrderStatus } from "@prisma/client";
 import Link from "next/link";
+import { Pager } from "@/components/admin/pager";
 import { pence, shortDate } from "@/lib/format";
+import { pageOf } from "@/lib/paging";
 import { STATUS_LABEL } from "@/lib/orderflow";
 import { utilityMetadata } from "@/lib/seo";
 import { db } from "@/server/db";
 
 export const metadata = utilityMetadata("Orders");
 
-export default async function OrdersPage({ searchParams }: { searchParams: Promise<{ status?: string }> }) {
-  const { status } = await searchParams;
+const PAGE = 50;
+
+export default async function OrdersPage({ searchParams }: { searchParams: Promise<{ status?: string; page?: string }> }) {
+  const { status, page: raw } = await searchParams;
   const filter = status && status in STATUS_LABEL ? (status as OrderStatus) : undefined;
-  const orders = await db.order.findMany({ where: filter ? { status: filter } : {}, orderBy: { createdAt: "desc" }, take: 200 });
+  const where = filter ? { status: filter } : {};
+  const { page, skip, take } = pageOf(raw, PAGE);
+  const [orders, total] = await Promise.all([db.order.findMany({ where, orderBy: { createdAt: "desc" }, skip, take }), db.order.count({ where })]);
 
   return (
     <>
@@ -33,6 +39,7 @@ export default async function OrdersPage({ searchParams }: { searchParams: Promi
         </tbody>
       </table>
       {!orders.length && <p className="muted">No orders.</p>}
+      <Pager path="/admin/orders" query={{ status: filter }} page={page} size={PAGE} total={total} />
     </>
   );
 }

@@ -1,4 +1,7 @@
+import type { Prisma } from "@prisma/client";
 import Link from "next/link";
+import { Pager } from "@/components/admin/pager";
+import { pageOf } from "@/lib/paging";
 import { utilityMetadata } from "@/lib/seo";
 import { undo } from "@/server/catalogue-actions";
 import { db } from "@/server/db";
@@ -6,11 +9,14 @@ import { db } from "@/server/db";
 export const metadata = utilityMetadata("Activity log");
 export const dynamic = "force-dynamic";
 
+const PAGE = 50;
 const when = (d: Date) => d.toLocaleString("en-GB", { day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" });
 
-export default async function ActivityPage({ searchParams }: { searchParams: Promise<{ source?: string }> }) {
-  const { source } = await searchParams;
-  const rows = await db.auditLog.findMany({ where: source === "AI" || source === "STAFF" ? { source } : {}, orderBy: { createdAt: "desc" }, take: 200 });
+export default async function ActivityPage({ searchParams }: { searchParams: Promise<{ source?: string; page?: string }> }) {
+  const { source, page: raw } = await searchParams;
+  const where: Prisma.AuditLogWhereInput = source === "AI" || source === "STAFF" ? { source } : {};
+  const { page, skip, take } = pageOf(raw, PAGE);
+  const [rows, total] = await Promise.all([db.auditLog.findMany({ where, orderBy: { createdAt: "desc" }, skip, take }), db.auditLog.count({ where })]);
 
   return (
     <>
@@ -39,6 +45,7 @@ export default async function ActivityPage({ searchParams }: { searchParams: Pro
         </tbody>
       </table>
       {!rows.length && <p className="muted">Nothing logged yet.</p>}
+      <Pager path="/admin/activity" query={{ source }} page={page} size={PAGE} total={total} />
     </>
   );
 }

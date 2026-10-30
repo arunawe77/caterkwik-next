@@ -4,7 +4,6 @@ import { Icon } from "@/components/icons";
 import { notFound } from "next/navigation";
 import { Faqs, TypeLinks } from "@/components/content-blocks";
 import { Crumbs } from "@/components/crumbs";
-import { EnquiryForm } from "@/components/enquiry-form";
 import { JsonLd } from "@/components/json-ld";
 import { CatalogueKit } from "@/components/kit-chat";
 import { ProductCard } from "@/components/product-card";
@@ -22,6 +21,7 @@ import { productJsonLd, specRows } from "@/lib/product-view";
 import { alsoListedUnder, relatedProducts, siblingTypes } from "@/lib/related";
 import { pageMetadata } from "@/lib/seo";
 import { addToCart } from "@/server/cart-actions";
+import { addToQuote } from "@/server/quote-actions";
 import { COMPANY } from "@/lib/site";
 
 type Props = { params: Promise<{ type: string; id: string }> };
@@ -106,9 +106,17 @@ export default async function ProductPage(props: Props) {
                 <input type="hidden" name="id" value={p.id} />
                 <label className="qtybox"><span>Qty</span><input type="number" name="qty" defaultValue={1} min={1} max={99} /></label>
                 <button className="btn btn-primary buygo" type="submit"><Icon name="addToCart" />Add to basket</button>
+                <button className="btn btn-navy buygo" type="submit" formAction={addToQuote}><Icon name="mail" />Add to quote</button>
               </form>
             ) : (
-              <a className="btn btn-navy buygo" href={`tel:${COMPANY.phone.replace(/\s/g, "")}`}><Icon name="phone" />Call {COMPANY.phone}</a>
+              <>
+                <a className="btn btn-navy buygo" href={`tel:${COMPANY.phone.replace(/\s/g, "")}`}><Icon name="phone" />Call {COMPANY.phone}</a>
+                <form action={addToQuote} className="buyrow">
+                  <input type="hidden" name="id" value={p.id} />
+                  <label className="qtybox"><span>Qty</span><input type="number" name="qty" defaultValue={1} min={1} max={99} /></label>
+                  <button className="btn btn-primary buygo" type="submit"><Icon name="mail" />Add to quote</button>
+                </form>
+              </>
             )}
             <ul className="buyassure">
               <li><Icon name="truck" size={16} />Next day delivery on selected lines, order by 4pm</li>
@@ -129,10 +137,6 @@ export default async function ProductPage(props: Props) {
               )}
             </section>
           )}
-          <details className="enquire">
-            <summary><Icon name="mail" size={16} /> {gone ? "Ask about a replacement" : "Request a quote"}</summary>
-            <EnquiryForm kind="QUOTE" productId={p.id} />
-          </details>
           {alsoIn.length > 0 && (
             <p className="alsolisted">
               Also listed under{" "}

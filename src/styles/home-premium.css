@@ -143,3 +143,15 @@
 @supports (animation-timeline: view()) { .hm-tile img { animation: none; } }
 @media (max-width: 1080px) { .hm-tiles { grid-template-columns: repeat(2, 1fr); } }
 @media (max-width: 640px) { .hm-tiles { grid-template-columns: 1fr; } .hm-tile p { min-height: 0; } }
+
+/* departments beyond ovens */
+.hm-depts { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+.hm-dept { display: flex; flex-direction: column; border-radius: 22px; background: #fff; border: 1px solid var(--line-soft); overflow: hidden; isolation: isolate; transition: transform .3s, box-shadow .3s; }
+.hm-dept .pic { display: block; aspect-ratio: 4 / 3; background: #fff; }
+.hm-dept img { width: 100%; height: 100%; object-fit: contain; padding: 18px; }
+.hm-dept div { padding: 4px 20px 20px; }
+.hm-dept h3 { margin: 0 0 4px; font-size: 18px; letter-spacing: -.02em; color: var(--navy-darkest); }
+.hm-dept p { margin: 0; font-size: 14px; color: var(--muted, #5a6b7f); }
+@media (hover: hover) { .hm-dept:hover { transform: translateY(-5px); box-shadow: 0 30px 60px -40px rgba(8,37,70,.5); } }
+@media (max-width: 900px) { .hm-depts { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 480px) { .hm-depts { gap: 12px; } .hm-dept h3 { font-size: 16px; } .hm-dept div { padding: 2px 14px 16px; } }

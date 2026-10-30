@@ -1,15 +1,18 @@
+import { Pager } from "@/components/admin/pager";
 import { pence, shortDate } from "@/lib/format";
+import { pageOf } from "@/lib/paging";
 import { utilityMetadata } from "@/lib/seo";
 import { db } from "@/server/db";
 
 export const metadata = utilityMetadata("Customers");
 export const dynamic = "force-dynamic";
 
+const PAGE = 25;
 const PAID = ["PAID", "PROCESSING", "SHIPPED", "COMPLETED"] as const;
 
 // Everyone who has an account or has ordered. A guest is identified by their email address.
-export default async function CustomersPage({ searchParams }: { searchParams: Promise<{ q?: string }> }) {
-  const { q } = await searchParams;
+export default async function CustomersPage({ searchParams }: { searchParams: Promise<{ q?: string; page?: string }> }) {
+  const { q, page: raw } = await searchParams;
   const term = (q ?? "").trim();
   const [orders, users] = await Promise.all([
     db.order.groupBy({
@@ -28,6 +31,9 @@ export default async function CustomersPage({ searchParams }: { searchParams: Pr
     .map((r) => ({ ...r, stats: byEmail.get(r.email) }))
     .sort((a, b) => (b.stats?._sum.totalIncPence ?? 0) - (a.stats?._sum.totalIncPence ?? 0));
 
+  const { page, skip, take } = pageOf(raw, PAGE);
+  const shown = list.slice(skip, skip + take);
+
   return (
     <>
       <header className="adm-head"><div><h1>Customers</h1><p>{list.length} customers. Spend counts paid orders, inc VAT.</p></div></header>
@@ -38,7 +44,7 @@ export default async function CustomersPage({ searchParams }: { searchParams: Pr
       <table className="table">
         <thead><tr><th>Customer</th><th>Account</th><th className="num">Orders</th><th className="num">Spend</th><th>Last order</th></tr></thead>
         <tbody>
-          {list.map((c) => (
+          {shown.map((c) => (
             <tr key={c.email}>
               <td>{c.name ?? "Guest"}<br /><span className="muted">{c.email}</span></td>
               <td>{c.account ? `Joined ${shortDate(c.joined!)}` : <span className="muted">Guest checkout</span>}</td>
@@ -50,6 +56,7 @@ export default async function CustomersPage({ searchParams }: { searchParams: Pr
         </tbody>
       </table>
       {!list.length && <p className="muted">No customers yet.</p>}
+      <Pager path="/admin/customers" query={{ q: term }} page={page} size={PAGE} total={list.length} />
     </>
   );
 }

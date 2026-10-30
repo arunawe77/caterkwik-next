@@ -266,7 +266,7 @@ export async function applyFeed(actor: Actor, supplier: { id: string; name: stri
 }
 
 /** A where-clause limiting feed items to the brands marked as sold; empty (no limit) when none are marked. */
-async function selectedFilter(supplierId: string): Promise<Prisma.SupplierPriceWhereInput> {
+export async function selectedFilter(supplierId: string): Promise<Prisma.SupplierPriceWhereInput> {
   const sel = await db.supplierBrand.findMany({ where: { supplierId, selected: true }, select: { brand: true } });
   return sel.length ? { OR: sel.map((b) => ({ brand: { equals: b.brand, mode: "insensitive" as const } })) } : {};
 }

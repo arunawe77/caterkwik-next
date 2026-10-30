@@ -1,4 +1,6 @@
+import { Pager } from "@/components/admin/pager";
 import { shortDate } from "@/lib/format";
+import { pageOf } from "@/lib/paging";
 import { utilityMetadata } from "@/lib/seo";
 import { setUserRole } from "@/server/admin-actions";
 import { db } from "@/server/db";
@@ -6,10 +8,14 @@ import { currentUser } from "@/server/session";
 
 export const metadata = utilityMetadata("Users");
 
-export default async function UsersPage() {
-  const [me, users] = await Promise.all([currentUser(), db.user.findMany({ orderBy: { createdAt: "desc" }, take: 500 })]);
+const PAGE = 50;
+
+export default async function UsersPage({ searchParams }: { searchParams: Promise<{ page?: string }> }) {
+  const { page, skip, take } = pageOf((await searchParams).page, PAGE);
+  const [me, users, total] = await Promise.all([currentUser(), db.user.findMany({ orderBy: { createdAt: "desc" }, skip, take }), db.user.count()]);
 
   return (
+    <>
     <table className="table">
       <thead><tr><th>Name</th><th>Email</th><th>Joined</th><th>Role</th><th /></tr></thead>
       <tbody>
@@ -30,5 +36,7 @@ export default async function UsersPage() {
         ))}
       </tbody>
     </table>
+    <Pager path="/admin/users" query={{}} page={page} size={PAGE} total={total} />
+    </>
   );
 }

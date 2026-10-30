@@ -1,5 +1,7 @@
 import Link from "next/link";
 import { CategoryForm } from "@/components/admin/category-form";
+import { Pager } from "@/components/admin/pager";
+import { pageOf } from "@/lib/paging";
 import { utilityMetadata } from "@/lib/seo";
 import { removeCategory } from "@/server/catalogue-actions";
 import { db } from "@/server/db";
@@ -7,18 +9,22 @@ import { db } from "@/server/db";
 export const metadata = utilityMetadata("Categories");
 export const dynamic = "force-dynamic";
 
-export default async function CategoriesPage({ searchParams }: { searchParams: Promise<{ edit?: string; error?: string }> }) {
-  const { edit, error } = await searchParams;
-  const [categories, counts] = await Promise.all([
-    db.category.findMany({ orderBy: { sortOrder: "asc" } }),
+const PAGE = 50;
+
+export default async function CategoriesPage({ searchParams }: { searchParams: Promise<{ edit?: string; error?: string; page?: string }> }) {
+  const { edit, error, page: raw } = await searchParams;
+  const { page, skip, take } = pageOf(raw, PAGE);
+  const [categories, total, counts, editing] = await Promise.all([
+    db.category.findMany({ orderBy: [{ sortOrder: "asc" }, { label: "asc" }], skip, take }),
+    db.category.count(),
     db.product.groupBy({ by: ["categorySlug"], _count: true }),
+    edit ? db.category.findUnique({ where: { slug: edit } }) : null,
   ]);
   const n = new Map(counts.map((c) => [c.categorySlug, c._count]));
-  const editing = categories.find((c) => c.slug === edit);
 
   return (
     <>
-      <header className="adm-head"><div><h1>Categories</h1><p>{categories.length} categories. The slug is the web address and cannot change. <Link href="/admin/import">Import more from a spreadsheet</Link>.</p></div></header>
+      <header className="adm-head"><div><h1>Categories</h1><p>{total.toLocaleString("en-GB")} categories. The slug is the web address and cannot change. <Link href="/admin/import">Import more from a spreadsheet</Link>.</p></div></header>
       {error && <p className="alert" role="alert">{error}</p>}
       <div className="adm-two">
         <section className="panel">
@@ -40,6 +46,7 @@ export default async function CategoriesPage({ searchParams }: { searchParams: P
               ))}
             </tbody>
           </table>
+          <Pager path="/admin/categories" query={{ edit }} page={page} size={PAGE} total={total} />
         </section>
         <aside className="panel">
           <h2>{editing ? `Edit ${editing.label}` : "Add a category"}</h2>
