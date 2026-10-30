@@ -455,3 +455,26 @@ body.showinc .epick .price .inc{font-size:22px;font-weight:900;color:var(--ink)}
 .buylinks a{display:inline-flex;align-items:center;gap:7px;font-size:14px;font-weight:700;color:var(--navy);text-decoration:none;transition:gap .2s,color .2s}
 .buylinks a:hover{color:var(--navy-deep);gap:10px}
 @media(prefers-reduced-motion:reduce){.buygo,.buylinks a{transition:none}.buygo:hover{transform:none}}
+
+/* Table configurator */
+.tcsteps { display: flex; flex-wrap: wrap; gap: 6px; list-style: none; margin: 0 0 20px; padding: 0; }
+.tcsteps button { display: flex; align-items: center; gap: 8px; padding: 8px 12px; border: 1px solid var(--line); border-radius: 999px; background: #fff; color: var(--ink-70); font: inherit; font-size: 13px; font-weight: 700; cursor: pointer; }
+.tcsteps button:disabled { opacity: .5; cursor: not-allowed; }
+.tcsteps button span { display: grid; place-items: center; width: 22px; height: 22px; border-radius: 50%; background: var(--blue-tint); color: var(--navy); font-size: 12px; }
+.tcsteps .on button { background: var(--navy); border-color: var(--navy); color: #fff; }
+.tcsteps .on button span { background: #fff; }
+.tcsteps .done button span { background: var(--green-tint); color: var(--green-deep); }
+.tcgrid { display: grid; grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr); gap: 32px; align-items: start; }
+.tcchoices { display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); gap: 10px; margin: 14px 0 6px; }
+.tcchoice { display: grid; gap: 2px; padding: 12px 14px; border: 2px solid var(--line); border-radius: var(--r-sm); background: #fff; cursor: pointer; }
+.tcchoice input { position: absolute; opacity: 0; pointer-events: none; }
+.tcchoice.on { border-color: var(--navy); background: var(--blue-tint); }
+.tcchoice:focus-within { outline: 2px solid var(--blue); outline-offset: 2px; }
+.tcchoice small { color: var(--ink-50); font-weight: 400; }
+.tcsizes { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; margin-top: 14px; }
+.tcnav { display: flex; gap: 10px; margin-top: 20px; }
+.tcsummary dl { margin: 0 0 12px; display: grid; gap: 6px; }
+.tcsummary dl div { display: flex; justify-content: space-between; gap: 12px; border-bottom: 1px solid var(--line); padding-bottom: 6px; font-size: 14px; }
+.tcsummary dt { color: var(--ink-70); }
+.tcsummary dd { margin: 0; font-weight: 700; text-align: right; }
+@media (max-width: 900px) { .tcgrid { grid-template-columns: 1fr; } .tcsizes { grid-template-columns: 1fr; } }

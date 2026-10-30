@@ -68,6 +68,19 @@ function cookingDepartment(): NavDepartment {
   return { label: "Cooking", href: "/cooking", columns: [ovens, ...groups] };
 }
 
+export const TABLE_CONFIGURATOR_HREF = "/table-configurator";
+
+// The table configurator is a page of its own, not a category with products, so the category tree has no entry for it.
+// It goes under Stainless Steel Tables, or at the end of the Fabrication menu if that group is not there.
+function addTableConfigurator(departments: NavDepartment[]): void {
+  const fabrication = departments.find((d) => d.label === "Fabrication & Extraction");
+  if (!fabrication) return;
+  const link: NavNode = { label: "Table Configurator", href: TABLE_CONFIGURATOR_HREF, count: 0, children: [] };
+  const tables = fabrication.columns.find((c) => c.label === "Stainless Steel Tables");
+  if (tables) tables.children = [...tables.children, link];
+  else fabrication.columns = [...fabrication.columns, link];
+}
+
 let cache: { version: number; value: NavDepartment[] } | null = null;
 
 export function navDepartments(): NavDepartment[] {
@@ -77,6 +90,7 @@ export function navDepartments(): NavDepartment[] {
     const d = sections.length ? shopDepartment(label, sections) : cookingDepartment();
     return d ? [{ ...d, short }] : [];
   });
+  addTableConfigurator(value);
   cache = { version, value };
   return value;
 }
