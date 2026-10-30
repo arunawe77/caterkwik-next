@@ -16,6 +16,7 @@ The site and its Postgres run in Docker Compose; nginx on the host terminates TL
 | A staging password | Lee |
 | An Anthropic API key (Kit), an SMTP login (email), Stripe keys (cards) | Lee. Each is optional: without it the feature degrades safely (Kit says "not configured", mail goes to the log, orders are taken for payment by the team). |
 | GitHub secrets `DEPLOY_HOST`, `DEPLOY_USER`, `DEPLOY_SSH_KEY` and variable `STAGING_URL` | You, in the repo's `staging` environment |
+| GitHub secrets `UROPA_FTP_USER`, `UROPA_FTP_PASSWORD` (and optionally `UROPA_FTP_HOST`) for the Uropa sync | You, from the Uropa login. Each deploy writes them to the server's `.env`; without them the sync button says the login is not set. |
 
 ## 2. One-off server setup
 
