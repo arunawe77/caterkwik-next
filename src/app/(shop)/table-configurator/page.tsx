@@ -1,5 +1,8 @@
-import { TableConfigurator } from "@/components/table-configurator";
+import Link from "next/link";
 import { Icon } from "@/components/icons";
+import { ProductCard } from "@/components/product-card";
+import { TableConfigurator } from "@/components/table-configurator";
+import { shopMembersOf, shopTypes, typeHref } from "@/lib/catalogue";
 import { currentUser } from "@/server/session";
 
 export const metadata = {
@@ -13,8 +16,20 @@ const POINTS = [
   { icon: "truck", text: "Delivery and lead time confirmed with your quote" },
 ] as const;
 
+// Ready-made tables from the catalogue (every category under Stainless Steel Tables), available ones first, cheapest first.
+function readyMadeTables() {
+  const category = shopTypes.find((t) => t.label === "Stainless Steel Tables");
+  if (!category) return { category, tables: [] };
+  const tables = shopMembersOf(category.slug)
+    .filter((p) => p.stock !== "discontinued")
+    .sort((a, b) => (a.priceEx ?? Infinity) - (b.priceEx ?? Infinity))
+    .slice(0, 8);
+  return { category, tables };
+}
+
 export default async function TableConfiguratorPage() {
   const user = await currentUser();
+  const { category, tables } = readyMadeTables();
   return (
     <main className="wrap ovenpage">
       <header className="ohead">
@@ -26,6 +41,13 @@ export default async function TableConfiguratorPage() {
         {POINTS.map((p) => <li key={p.text}><Icon name={p.icon} size={16} />{p.text}</li>)}
       </ul>
       <TableConfigurator defaults={{ name: user?.name ?? undefined, email: user?.email }} />
+      {tables.length > 0 && (
+        <section aria-labelledby="readymade">
+          <h2 id="readymade">Need one sooner? Ready-made stainless steel tables</h2>
+          <p className="muted">Standard sizes from the shop{category && <>. <Link href={typeHref(category.slug)}>See all stainless steel tables</Link></>}.</p>
+          <div className="ogrid">{tables.map((p) => <ProductCard key={p.id} product={p} />)}</div>
+        </section>
+      )}
     </main>
   );
 }
