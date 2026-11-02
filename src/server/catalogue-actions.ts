@@ -2,7 +2,7 @@
 
 import { revalidatePath } from "next/cache";
 import { redirect } from "next/navigation";
-import { AdminError, adjustPrices, bulkUpdateProducts, createCategory, createProduct, deleteCategory, deleteProduct, undoChange, updateCategory, updateProduct, type Actor } from "@/server/catalogue-admin";
+import { AdminError, adjustPrices, bulkUpdateProducts, createCategory, createProduct, deleteCategory, deleteProduct, publishDrafts, undoChange, updateCategory, updateProduct, type Actor } from "@/server/catalogue-admin";
 import { currentUser, isAdmin } from "@/server/session";
 import type { FormState } from "@/server/request";
 
@@ -81,6 +81,24 @@ export async function removeProduct(form: FormData): Promise<void> {
   redirect("/admin/products");
 }
 
+export async function enrichFromWeb(form: FormData): Promise<void> {
+  const actor = await staff();
+  const id = text(form, "id");
+  let note: string;
+  try {
+    const { enrichProduct } = await import("@/server/product-enrich");
+    const r = await enrichProduct(actor, id);
+    note = r.found
+      ? `Added ${r.added} specifications${r.description ? " and a description" : ""} from the web. Check them against the manufacturer.${r.notes ? ` Note: ${r.notes}` : ""}`
+      : `Nothing reliable found for this exact model.${r.notes ? ` ${r.notes}` : ""}`;
+  } catch (err) {
+    if (!(err instanceof AdminError)) throw err;
+    note = `Failed: ${err.message}`;
+  }
+  revalidatePath("/admin/products", "layout");
+  redirect(`/admin/products/${encodeURIComponent(id)}?enriched=${encodeURIComponent(note)}`);
+}
+
 // The product list's bulk bar. Applies to the ticked rows.
 export async function bulkProducts(form: FormData): Promise<void> {
   const actor = await staff();
@@ -88,15 +106,24 @@ export async function bulkProducts(form: FormData): Promise<void> {
   const op = text(form, "op");
   const [kind, value] = op.split(":");
   const back = text(form, "back") || "/admin/products";
+  let notice = "";
   const outcome = await guarded(async () => {
-    if (kind === "price") await adjustPrices(actor, ids, Number(value));
+    if (kind === "publish") {
+      const r = await publishDrafts(actor, ids);
+      notice = `Put ${r.published} drafts on sale.${r.needPrice ? ` ${r.needPrice} left as drafts: in stock but no price.` : ""}${r.notDraft ? ` ${r.notDraft} skipped: not drafts.` : ""}`;
+    } else if (kind === "enrich") {
+      if (!ids.length) throw new AdminError("No products selected.");
+      const { startEnrichQueue } = await import("@/server/product-enrich");
+      notice = startEnrichQueue(actor, ids) ? `Enriching ${Math.min(ids.length, 200)} products from the web in the background.` : "An enrich queue is already running. Wait for it to finish.";
+    } else if (kind === "price") await adjustPrices(actor, ids, Number(value));
     else if (kind === "status") await bulkUpdateProducts(actor, ids, { status: value });
     else if (kind === "availability") await bulkUpdateProducts(actor, ids, { availability: value });
     else throw new AdminError("Choose an action first.");
     return { ok: true };
   });
   revalidatePath("/admin/products");
-  redirect(outcome.error ? `${back}${back.includes("?") ? "&" : "?"}error=${encodeURIComponent(outcome.error)}` : back);
+  const sep = back.includes("?") ? "&" : "?";
+  redirect(outcome.error ? `${back}${sep}error=${encodeURIComponent(outcome.error)}` : notice ? `${back}${sep}notice=${encodeURIComponent(notice)}` : back);
 }
 
 export async function undo(form: FormData): Promise<void> {

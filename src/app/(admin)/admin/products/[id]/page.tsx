@@ -4,7 +4,7 @@ import { ProductForm, type ProductFormValues } from "@/components/admin/product-
 import { productHref } from "@/lib/catalogue";
 import { shortDate } from "@/lib/format";
 import { utilityMetadata } from "@/lib/seo";
-import { removeProduct } from "@/server/catalogue-actions";
+import { enrichFromWeb, removeProduct } from "@/server/catalogue-actions";
 import { db } from "@/server/db";
 import { ImportedDetails } from "@/components/admin/imported-details";
 import { ProductSuppliers } from "@/components/admin/product-suppliers";
@@ -20,9 +20,9 @@ const SPEC_LABELS: [string, string][] = [
   ["ovenType", "Oven type"], ["burners", "Burners"], ["kwTotal", "Total kW"], ["phase", "Phase"], ["castors", "Castors"], ["duty", "Duty"], ["warrantyYears", "Warranty (years)"],
 ];
 
-export default async function EditProductPage({ params, searchParams }: { params: Promise<{ id: string }>; searchParams: Promise<{ created?: string }> }) {
+export default async function EditProductPage({ params, searchParams }: { params: Promise<{ id: string }>; searchParams: Promise<{ created?: string; enriched?: string }> }) {
   const { id } = await params;
-  const { created } = await searchParams;
+  const { created, enriched } = await searchParams;
   const [p, categories, history, costs] = await Promise.all([
     db.product.findUnique({ where: { id }, include: { detail: true } }),
     db.category.findMany({ orderBy: { sortOrder: "asc" }, select: { slug: true, label: true } }),
@@ -45,10 +45,15 @@ export default async function EditProductPage({ params, searchParams }: { params
         <div><h1>{p.name}</h1><p>{p.id}{p.token && p.token.toLowerCase() !== p.id ? ` · legacy ${p.token}` : ""}</p></div>
         <div className="adm-actions">
           {p.status === "ACTIVE" && <Link className="btn btn-ghost btn-sm" href={productHref({ type: p.categorySlug, id: p.id })} target="_blank">View on shop</Link>}
+          <form action={enrichFromWeb}>
+            <input type="hidden" name="id" value={p.id} />
+            <button className="btn btn-sm" type="submit" title="Searches the web for this model's specifications. Takes up to a minute.">Enrich from web</button>
+          </form>
           <Link className="btn btn-ghost btn-sm" href="/admin/products">Back to products</Link>
         </div>
       </header>
       {created && <p className="okmsg" role="status">Product created as a draft.</p>}
+      {enriched && <p className={enriched.startsWith("Failed") ? "alert" : "okmsg"} role="status">{enriched}</p>}
 
       <div className="adm-two">
         <div><ProductForm values={values} categories={categories} /></div>

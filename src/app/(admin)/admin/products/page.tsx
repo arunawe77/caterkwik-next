@@ -5,6 +5,7 @@ import { utilityMetadata } from "@/lib/seo";
 import { CategoryPicker } from "@/components/admin/category-picker";
 import { bulkProducts } from "@/server/catalogue-actions";
 import { db } from "@/server/db";
+import { enrichQueueStatus } from "@/server/product-enrich";
 
 export const metadata = utilityMetadata("Products");
 export const dynamic = "force-dynamic";
@@ -12,7 +13,7 @@ export const dynamic = "force-dynamic";
 const PAGE = 25;
 const gbp = (p: number | null) => (p === null ? "Not published" : `£${(p / 100).toLocaleString("en-GB", { minimumFractionDigits: 2 })}`);
 
-type Search = { q?: string; category?: string; status?: string; availability?: string; missing?: string; page?: string; error?: string };
+type Search = { q?: string; category?: string; status?: string; availability?: string; missing?: string; page?: string; error?: string; notice?: string };
 
 export default async function ProductsPage({ searchParams }: { searchParams: Promise<Search> }) {
   const sp = await searchParams;
@@ -34,11 +35,12 @@ export default async function ProductsPage({ searchParams }: { searchParams: Pro
     db.product.count({ where }),
     db.category.findMany({ orderBy: { sortOrder: "asc" }, select: { slug: true, label: true } }),
   ]);
+  const q = enrichQueueStatus();
   const pages = Math.max(1, Math.ceil(total / PAGE));
 
   const link = (p: number) => {
     const q = new URLSearchParams();
-    for (const [k, v] of Object.entries(sp)) if (v && k !== "page" && k !== "error") q.set(k, v);
+    for (const [k, v] of Object.entries(sp)) if (v && k !== "page" && k !== "error" && k !== "notice") q.set(k, v);
     if (p > 1) q.set("page", String(p));
     return `/admin/products${q.size ? `?${q}` : ""}`;
   };
@@ -71,6 +73,13 @@ export default async function ProductsPage({ searchParams }: { searchParams: Pro
       </form>
 
       {sp.error && <p className="alert" role="alert">{sp.error}</p>}
+      {sp.notice && <p className="okmsg" role="status">{sp.notice}</p>}
+      {(q.running || q.finishedAt) && (
+        <p className="okmsg" role="status">
+          {q.running ? `Enriching from the web: ${q.done} of ${q.total} done${q.current ? ` (now ${q.current})` : ""}.` : `Enrich queue finished: ${q.total} products, ${q.added} specifications added, ${q.nothing} with nothing found, ${q.failed} failed.`}
+          {q.running && <> <Link href={back}>Refresh</Link></>}
+        </p>
+      )}
 
       <form action={bulkProducts}>
         <input type="hidden" name="back" value={back} />
@@ -79,7 +88,10 @@ export default async function ProductsPage({ searchParams }: { searchParams: Pro
           <select name="op" aria-label="Bulk action" defaultValue="">
             <option value="" disabled>Choose...</option>
             <optgroup label="Visibility">
-              <option value="status:ACTIVE">Put on sale</option><option value="status:DRAFT">Make draft</option><option value="status:ARCHIVED">Archive</option>
+              <option value="publish:drafts">Put drafts on sale (skips unpriced)</option><option value="status:ACTIVE">Put on sale</option><option value="status:DRAFT">Make draft</option><option value="status:ARCHIVED">Archive</option>
+            </optgroup>
+            <optgroup label="Product details">
+              <option value="enrich:web">Enrich from web (queue)</option>
             </optgroup>
             <optgroup label="Availability">
               <option value="availability:IN_STOCK">Mark in stock</option><option value="availability:POA">Price on application</option><option value="availability:DISCONTINUED">Mark discontinued</option>

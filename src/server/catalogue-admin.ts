@@ -221,6 +221,24 @@ export async function bulkUpdateProducts(actor: Actor, ids: string[], input: unk
   return { changed: unique.length };
 }
 
+// Puts the ticked drafts on sale. Unlike a plain bulk status change, a draft that cannot go live (in stock but no price) is
+// left as it is and counted, rather than failing the whole batch; products that are not drafts are ignored.
+export async function publishDrafts(actor: Actor, ids: string[]): Promise<{ published: number; needPrice: number; notDraft: number }> {
+  const unique = [...new Set(ids)];
+  if (!unique.length) throw new AdminError("No products selected.");
+  if (unique.length > 500) throw new AdminError("At most 500 products at a time.");
+  const rows = await db.product.findMany({ where: { id: { in: unique } } });
+  const drafts = rows.filter((r) => r.status === "DRAFT");
+  const ready = drafts.filter((r) => !(r.availability === "IN_STOCK" && r.priceExPence === null));
+  if (ready.length) {
+    const readyIds = ready.map((r) => r.id);
+    await db.product.updateMany({ where: { id: { in: readyIds } }, data: { status: "ACTIVE" } });
+    await audit(actor, { action: "bulk-update", entity: "product", entityId: readyIds.join(","), summary: `Put ${ready.length} draft products on sale`, before: ready, after: { status: "ACTIVE" } });
+    await publish();
+  }
+  return { published: ready.length, needPrice: drafts.length - ready.length, notDraft: rows.length - drafts.length };
+}
+
 // Moves the ex VAT price of the chosen products by a percentage. Only priced products change:
 // a product with no published price stays without one.
 export async function adjustPrices(actor: Actor, ids: string[], percent: number): Promise<{ changed: number }> {
