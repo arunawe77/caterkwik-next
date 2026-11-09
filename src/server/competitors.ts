@@ -215,8 +215,12 @@ export async function comparison(opts: { q?: string; filter?: ComparisonFilter; 
     ...(filter !== "all" && { competitorPrices: { some: { competitor: { active: true } } } }),
     AND: words.map((w) => ({ OR: [{ name: { contains: w, mode: "insensitive" as const } }, { id: { contains: w, mode: "insensitive" as const } }, { brand: { contains: w, mode: "insensitive" as const } }] })),
   };
+  // "All" is every product in the catalogue, far too many to load at once (Prisma caps a query at 32767 bind variables), so page in the database.
+  // The other filters only concern products with a competitor price, which is a small set.
+  const paged = filter === "all";
   const rows = await db.product.findMany({
     where, orderBy: { name: "asc" },
+    ...(paged && { skip: (page - 1) * pageSize, take: pageSize }),
     select: {
       id: true, name: true, brand: true, image: true, priceExPence: true,
       competitorPrices: { where: { competitor: { active: true } }, select: { competitorId: true, priceExPence: true, inStock: true, checkedAt: true } },
@@ -235,6 +239,7 @@ export async function comparison(opts: { q?: string; filter?: ComparisonFilter; 
   const shown = built.filter((r) => (filter === "all" ? true : filter === "tracked" ? r.position !== "untracked" : r.position === filter));
   // Biggest undercuts first when looking at them; otherwise by name.
   if (filter === "dearer") shown.sort((a, b) => (b.gap ?? 0) - (a.gap ?? 0));
+  if (paged) return { total: await db.product.count({ where }), rows: shown };
   return { total: shown.length, rows: shown.slice((page - 1) * pageSize, page * pageSize) };
 }
 
